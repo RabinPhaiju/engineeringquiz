@@ -1,0 +1,146 @@
+[
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int y=128;\r\n    const int x=y;\r\n    printf(\"%d\\n\", x);\r\n    return 0;\r\n}",
+        "a": "128",
+        "b": "Garbage value",
+        "c": "Error",
+        "d": "0",
+        "answer": "128"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nunion employee\r\n{\r\n    char name[15];\r\n    int age;\r\n    float salary;\r\n};\r\nconst union employee e1;\r\n\r\nint main()\r\n{\r\n    strcpy(e1.name, \"K\");\r\n    printf(\"%s %d %f\", e1.name, e1.age, e1.salary);\r\n    return 0;\r\n}",
+        "a": "Error: RValue required",
+        "b": "Error: cannot convert from 'const int *' to 'int *const'",
+        "c": "Error: LValue required in strcpy",
+        "d": "No error",
+        "answer": "No error"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint fun(int **ptr);\r\nint main()\r\n{\r\n    int i=10;\r\n    const int *ptr = &i;\r\n    fun(&ptr);\r\n    return 0;\r\n}\r\nint fun(int **ptr)\r\n{\r\n    int j = 223;\r\n    int *temp = &j;\r\n    printf(\"Before changing ptr = %5x\\n\", *ptr);\r\n    const *ptr = temp;\r\n    printf(\"After changing ptr = %5x\\n\", *ptr);\r\n    return 0;\r\n}",
+        "a": "Address of i Address of j",
+        "b": "10 223",
+        "c": "Error: cannot convert parameter 1 from 'const int **' to 'int **'",
+        "d": "Garbage value",
+        "answer": "Error: cannot convert parameter 1 from 'const int **' to 'int **'"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    const int x=5;\r\n    const int *ptrx;\r\n    ptrx = &x;\r\n    *ptrx = 10;\r\n    printf(\"%d\\n\", x);\r\n    return 0;\r\n}",
+        "a": "5",
+        "b": "10",
+        "c": "Error",
+        "d": "Garbage value",
+        "answer": "Error"
+    },
+    {
+        "question": "What will be the output of the program in TurboC?\r\n#include<stdio.h>\r\nint fun(int **ptr);\r\nint main()\r\n{\r\n    int i=10, j=20;\r\n    const int *ptr = &i;\r\n    printf(\" i = %5X\", ptr);\r\n    printf(\" ptr = %d\", *ptr);\r\n    ptr = &j;\r\n    printf(\" j = %5X\", ptr);\r\n    printf(\" ptr = %d\", *ptr);\r\n    return 0;\r\n}",
+        "a": "i= FFE2 ptr=12 j=FFE4 ptr=24",
+        "b": "i= FFE4 ptr=10 j=FFE2 ptr=20",
+        "c": "i= FFE0 ptr=20 j=FFE1 ptr=30",
+        "d": "Garbage value",
+        "answer": "i= FFE4 ptr=10 j=FFE2 ptr=20"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    const char *s = \"\";\r\n    char str[] = \"Hello\";\r\n    s = str;\r\n    while(*s)\r\n        printf(\"%c\", *s++);\r\n\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "H",
+        "c": "Hello",
+        "d": "Hel",
+        "answer": "Hello"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint get();\r\nint main()\r\n{\r\n    const int x = get();\r\n    printf(\"%d\", x);\r\n    return 0;\r\n}\r\nint get()\r\n{\r\n    return 20;\r\n}",
+        "a": "Garbage value",
+        "b": "Error",
+        "c": "20",
+        "d": "0",
+        "answer": "20"
+    },
+    {
+        "question": "What will be the output of the program (in Turbo C)?\r\n#include<stdio.h>\r\nint fun(int *f)\r\n{\r\n    *f = 10;\r\n    return 0;\r\n}\r\nint main()\r\n{\r\n    const int arr[5] = {1, 2, 3, 4, 5};\r\n    printf(\"Before modification arr[3] = %d\", arr[3]);\r\n    fun(&arr[3]);\r\n    printf(\"\\nAfter modification arr[3] = %d\", arr[3]);\r\n    return 0;\r\n}",
+        "a": "Before modification arr[3] = 4 After modification arr[3] = 10",
+        "b": "Error: cannot convert parameter 1 from const int * to int *",
+        "c": "Error: Invalid parameter",
+        "d": "Before modification arr[3] = 4 After modification arr[3] = 4",
+        "answer": "Before modification arr[3] = 4 After modification arr[3] = 10"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    const int i=0;\r\n    printf(\"%d\\n\", i++);\r\n    return 0;\r\n}",
+        "a": "10",
+        "b": "11",
+        "c": "No output",
+        "d": "Error: ++needs a value",
+        "answer": "Error: ++needs a value"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    const c = -11;\r\n    const int d = 34;\r\n    printf(\"%d, %d\\n\", c, d);\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "-11, 34",
+        "c": "11, 34",
+        "d": "None of these",
+        "answer": "-11, 34"
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\n#define MAX 128\r\nint main()\r\n{\r\n    char mybuf[] = \"Nepal\";\r\n    char yourbuf[] = \"BIX\";\r\n    char *const ptr = mybuf;\r\n    *ptr = 'a';\r\n    ptr = yourbuf;\r\n    return 0;\r\n}",
+        "a": "Error: unknown pointer conversion",
+        "b": "Error: cannot convert ptr const value",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: cannot convert ptr const value"
+    },
+    {
+        "question": "Point out the error in the program (in Turbo-C).\r\n#include<stdio.h>\r\n#define MAX 128\r\nint main()\r\n{\r\n    const int max=128;\r\n    char array[max];\r\n    char string[MAX];\r\n    array[0] = string[0] = 'A';\r\n    printf(\"%c %c\\n\", array[0], string[0]);\r\n    return 0;\r\n}",
+        "a": "Error: unknown max in declaration\/Constant expression required",
+        "b": "Error: invalid array string",
+        "c": "None of above",
+        "d": "No error. It prints A A",
+        "answer": "Error: unknown max in declaration\/Constant expression required"
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nunion employee\r\n{\r\n    char name[15];\r\n    int age;\r\n    float salary;\r\n};\r\nconst union employee e1;\r\n\r\nint main()\r\n{\r\n    strcpy(e1.name, \"K\");\r\n    printf(\"%s\", e1.name);    \r\n    e1.age=85;\r\n    printf(\"%d\", e1.age);\r\n    printf(\"%f\", e1.salary);\r\n    return 0;\r\n}",
+        "a": "Error: RValue required",
+        "b": "Error: cannot modify const object",
+        "c": "Error: LValue required in strcpy",
+        "d": "No error",
+        "answer": "Error: cannot modify const object"
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\nconst char *fun();\r\nint main()\r\n{\r\n    char *ptr = fun();\r\n    return 0;\r\n}\r\nconst char *fun()\r\n{\r\n    return \"Hello\";\r\n}",
+        "a": "Error: Lvalue required",
+        "b": "Error: cannot convert 'const char *' to 'char *'.",
+        "c": "No error and No output",
+        "d": "None of above",
+        "answer": "No error and No output"
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    const int x;\r\n    x=128;\r\n    printf(\"%d\\n\", x);\r\n    return 0;\r\n}",
+        "a": "Error: unknown data type const int",
+        "b": "Error: const variable have been initialised when declared.",
+        "c": "Error: stack overflow in x",
+        "d": "No error",
+        "answer": "Error: const variable have been initialised when declared."
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    const int k=7;\r\n    int *const q=&k;\r\n    printf(\"%d\", *q);\r\n    return 0;\r\n}",
+        "a": "Error: RValue required",
+        "b": "Error: Lvalue required",
+        "c": "Error: cannot convert from 'const int *' to 'int *const'",
+        "d": "No error",
+        "answer": "No error"
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\n#define MAX 128\r\nint main()\r\n{\r\n    char mybuf[] = \"Nepal\";\r\n    char yourbuf[] = \"BIX\";\r\n    char const *ptr = mybuf;\r\n    *ptr = 'a';\r\n    ptr = yourbuf;\r\n    return 0;\r\n}",
+        "a": "Error: cannot convert ptr const value",
+        "b": "Error: unknown pointer conversion",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: cannot convert ptr const value"
+    },
+    {
+        "question": "Point out the error in the program.\r\n#include<stdio.h>\r\nconst char *fun();\r\nint main()\r\n{\r\n    *fun() = 'A';\r\n    return 0;\r\n}\r\nconst char *fun()\r\n{\r\n    return \"Hello\";\r\n}",
+        "a": "Error: RValue required",
+        "b": "Error: Lvalue required",
+        "c": "Error: fun() returns a pointer const character which cannot be modified",
+        "d": "error",
+        "answer": "Error: fun() returns a pointer const character which cannot be modified"
+    }
+]

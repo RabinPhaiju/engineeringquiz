@@ -1,0 +1,674 @@
+[
+    {
+        "question": "What is the applied voltage for a series RLC circuit when IT = 3 mA, VL = 30 V, VC = 18 V, and R = 1000 ohms?\r\n\r\n",
+        "a": "3.00 V",
+        "b": "12.37 V",
+        "c": "34.98 V",
+        "d": "48.00 ",
+        "answer": "12.37 V"
+    },
+    {
+        "question": "mcq9_1013_1.gifWhat is the bandwidth of the circuit?\r\n",
+        "a": "31.8 Hz",
+        "b": "32.3 Hz",
+        "c": "142 Hz",
+        "d": "7.2 kHz",
+        "answer": "31.8 Hz"
+    },
+    {
+        "question": "In a parallel RLC circuit, which value may always be used as a vector reference?\r\n\r\n",
+        "a": "current",
+        "b": "reactance",
+        "c": "resistance",
+        "d": "voltage",
+        "answer": "voltage"
+    },
+    {
+        "question": "How much current will flow in a 100 Hz series RLC circuit if VS = 20 V, RT = 66 ohms, and XT = 47 ohms?\r\n\r\n",
+        "a": "1.05 A",
+        "b": "303 mA",
+        "c": "247 mA",
+        "d": "107 mA",
+        "answer": "247 mA"
+    },
+    {
+        "question": "What is the Q (Quality factor) of a series circuit that resonates at 6 kHz, has equal reactance of 4 kilo-ohms each, and a resistor value of 50 ohms?\r\n\r\n",
+        "a": "0.001",
+        "b": "50",
+        "c": "80",
+        "d": "4.0",
+        "answer": "80"
+    },
+    {
+        "question": "What is the range between f1 and f2 of an RLC circuit that resonates at 150 kHz and has a Q of 30?\r\n\r\n",
+        "a": "100.0 kHz to 155.0 kHz",
+        "b": "147.5 kHz to 152.5 kHz",
+        "c": "4500 kHz to 295.5 kHz",
+        "d": "149,970 Hz to 150,030 Hz",
+        "answer": "147.5 kHz to 152.5 kHz"
+    },
+    {
+        "question": "mcq9_1012_1.gifWhat is the quality factor?\r\n",
+        "a": "999",
+        "b": "223",
+        "c": "2.2",
+        "d": "0.99",
+        "answer": "2.2"
+    },
+    {
+        "question": "What effect will a parallel tank have upon final filter current?\r\n\r\n",
+        "a": "very little",
+        "b": "The bandpass frequencies will change.",
+        "c": "The frequency cutoff will change.",
+        "d": "The impedance will block output.",
+        "answer": "very little"
+    },
+    {
+        "question": "mcq9_1008_1.gifWhat is the total current?\r\n",
+        "a": "56.6 mA",
+        "b": "141 mA",
+        "c": "191 mA",
+        "d": "244 mA",
+        "answer": "141 mA"
+    },
+    {
+        "question": "When a parallel circuit resonates it is said to:\r\n\r\n",
+        "a": "flywheel",
+        "b": "oscillate",
+        "c": "both of the above",
+        "d": "none of the above",
+        "answer": "both of the above"
+    },
+    {
+        "question": "mcq13_1008.gifWhat is the resonant frequency in the given circuit?\r\n\r\n",
+        "a": "11.6 Hz",
+        "b": "275.8 Hz",
+        "c": "1.5 kHz",
+        "d": "3.2 kHz",
+        "answer": "3.2 kHz"
+    },
+    {
+        "question": "Series RLC voltage or impedance totals must be calculated by:\r\n\r\n",
+        "a": "subtracting the values",
+        "b": "graphing the angles",
+        "c": "adding vectors",
+        "d": "multiplying the values",
+        "answer": "adding vectors"
+    },
+    {
+        "question": "mcq9_1006_1.gifWhat is the total current?\r\n",
+        "a": "15.6 mA",
+        "b": "17.8 mA",
+        "c": "21.9 mA",
+        "d": "26.0 mA",
+        "answer": "15.6 mA"
+    },
+    {
+        "question": "When XC = XL the circuit:\r\n\r\n",
+        "a": "draws maximum current",
+        "b": "applied voltage is zero",
+        "c": "is at resonance",
+        "d": "draws minimum current",
+        "answer": "is at resonance"
+    },
+    {
+        "question": "How much current will flow in a series RLC circuit when VT = 100 V, XL = 160 ohm, XC = 80 ohm, and R = 60 ohm?\r\n\r\n",
+        "a": "1 A",
+        "b": "1 mA",
+        "c": "6.28 A",
+        "d": "10 A",
+        "answer": "1 A"
+    },
+    {
+        "question": "When a full band of frequencies is allowed to pass through a filter circuit to the output, the resonant circuit is called a:\r\n\r\n",
+        "a": "low-pass filter",
+        "b": "high-pass filter",
+        "c": "band-stop filter",
+        "d": "bandpass filter",
+        "answer": "bandpass filter"
+    },
+    {
+        "question": "At resonance, the term bandwidth includes all frequencies that allow what percentage of maximum current to flow?\r\n\r\n",
+        "a": "50",
+        "b": "62.3",
+        "c": "70.7",
+        "d": "95.3",
+        "answer": "70.7"
+    },
+    {
+        "question": "mcq13_1002.gifWhat is the voltage across the capacitor in the given circuit?\r\n\r\n",
+        "a": "6.8 V",
+        "b": "11.9 V",
+        "c": "16.1 V",
+        "d": "22.9 V",
+        "answer": "22.9 V"
+    },
+    {
+        "question": "mcq13_1006.gifWhat is the impedance of the circuit in the given circuit?\r\n\r\n",
+        "a": "1.05 k ohm",
+        "b": "1.33 k ohm",
+        "c": "2.19 k ohm",
+        "d": "3.39 k ohm",
+        "answer": "1.05 k ohm"
+    },
+    {
+        "question": "In a series RLC circuit the current can be found using:\r\n\r\n",
+        "a": "IT = VR\/R",
+        "b": "IT = VS\/Z",
+        "c": "both of the above",
+        "d": "none of the above",
+        "answer": "both of the above"
+    },
+    {
+        "question": "What is the true power consumed in a 30 V series RLC circuit if Z = 20 ohms and R = 10 ohms?\r\n\r\n",
+        "a": "15.0 watts",
+        "b": "22.5 watts",
+        "c": "30.0 watts",
+        "d": "45.0 watts",
+        "answer": "22.5 watts"
+    },
+    {
+        "question": "What is the current phase angle for a parallel RLC circuit when IL = 15.3 A, IC = 0.43 A, and IR = 3.5 A?\r\n\r\n",
+        "a": "76.7 degrees",
+        "b": "\u20134.25 degrees",
+        "c": "88.8 degrees",
+        "d": "\u201376.7 degrees",
+        "answer": "\u201376.7 degrees"
+    },
+    {
+        "question": "At any resonant frequency, what voltage is measured across the two series reactive components?\r\n\r\n",
+        "a": "applied",
+        "b": "reactive",
+        "c": "zero",
+        "d": "inductive and capacitive",
+        "answer": "zero"
+    },
+    {
+        "question": "mcq9_1011_1.gifWhat is the resonance frequency?\r\n",
+        "a": "31.8 Hz",
+        "b": "71 Hz",
+        "c": "7.1 kHz",
+        "d": "31.8 kHz",
+        "answer": "71 Hz"
+    },
+    {
+        "question": "What is the range between f1 and f2 of an RLC circuit that resonates at 150 kHz and has a Q of 30?\r\n\r\n",
+        "a": "100.0 kHz to 155.0 kHz",
+        "b": "147.5 kHz to 152.5 kHz",
+        "c": "4500 kHz to 295.5 kHz",
+        "d": "149,970 Hz to 150,030 Hz",
+        "answer": "147.5 kHz to 152.5 kHz"
+    },
+    {
+        "question": "mcq13_1004.gifWhat is the bandwidth in the given circuit. If the winding resistance of the coil is 12 omega.gif?\r\n\r\n",
+        "a": "6.4 kHz",
+        "b": "47.2 kHz",
+        "c": "53.7 kHz",
+        "d": "60.2 kHz",
+        "answer": "6.4 kHz"
+    },
+    {
+        "question": "At any resonant frequency, what net voltage is measured across the two series reactive components?\r\n\r\n",
+        "a": "Applied voltage",
+        "b": "Reactive voltage",
+        "c": "Zero voltage",
+        "d": "VL + VC voltage",
+        "answer": "Zero voltage"
+    },
+    {
+        "question": "If the bandwidth of a filter increases:\r\n\r\n",
+        "a": "Q decreases",
+        "b": "the roll-off rate increases",
+        "c": "the half-power frequency decreases",
+        "d": "the center frequency decreases",
+        "answer": "Q decreases"
+    },
+    {
+        "question": "Series RLC impedance or voltage totals must always be calculated by\r\n\r\n",
+        "a": "adding values vectorially",
+        "b": "graphing the angles",
+        "c": "multiplying the values",
+        "d": "subtracting the values",
+        "answer": "adding values vectorially"
+    },
+    {
+        "question": "mcq13_1006.gifWhat is the current through the capacitor in the given circuit?\r\n\r\n",
+        "a": "3.5 mA",
+        "b": "5.5 mA",
+        "c": "9 mA",
+        "d": "11.4 mA",
+        "answer": "3.5 mA"
+    },
+    {
+        "question": "What is the total impedance of a 60 Hz series RLC circuit when XL = 7.5 ohms, XC = 265.3 ohms, and R = 33 ohms?\r\n\r\n",
+        "a": "257.8 ohms",
+        "b": "259.9 ohms",
+        "c": "290.8 ohms",
+        "d": "1989.75 ohms",
+        "answer": "259.9 ohms"
+    },
+    {
+        "question": "mcq13_1008.gifWhat is the total current for the nonideal circuit in the given circuit. If it is at resonance?\r\n\r\n",
+        "a": "0 A",
+        "b": "284 u A",
+        "c": "3.3 mA",
+        "d": "38.5 mA",
+        "answer": "284 u A"
+    },
+    {
+        "question": "What is the high cutoff frequency for an RLC circuit that resonates at 2000 Hz and has a bandwidth of 250 Hz?\r\n\r\n",
+        "a": "2125 Hz",
+        "b": "2250 Hz",
+        "c": "1750 Hz",
+        "d": "8.0 Hz",
+        "answer": "2125 Hz"
+    },
+    {
+        "question": "Current in a series RLC circuit may always be used as:\r\n\r\n",
+        "a": "a leading vector",
+        "b": "a reference",
+        "c": "an angle",
+        "d": "a lagging vector",
+        "answer": "a reference"
+    },
+    {
+        "question": "mcq9_1005_1.gifWhat is the impedance of the circuit?\r\n",
+        "a": "12.2 k ohm",
+        "b": "14.5 k ohm",
+        "c": "17.8 k ohm",
+        "d": "20.3 k ohm",
+        "answer": "20.3 k ohm"
+    },
+    {
+        "question": "mcq13_1004.gifWhat is the resonant frequency in the given circuit?\r\n\r\n",
+        "a": "6.5 kHz",
+        "b": "53.7 kHz",
+        "c": "107.4 kHz",
+        "d": "18.1 MHz",
+        "answer": "53.7 kHz"
+    },
+    {
+        "question": "mcq13_1002.gifWhat is the impedance of the circuit in the given circuit?\r\n\r\n",
+        "a": "125.7 ohm",
+        "b": "297.6 ohm",
+        "c": "370.1 ohm",
+        "d": "423.3 ohm",
+        "answer": "370.1 ohm"
+    },
+    {
+        "question": "What is the approximate phase angle in a series RLC circuit when VC = 117 V, VR = 14.5 V, and VL = 3.3 V?\r\n\r\n",
+        "a": "\u201345.0 degrees",
+        "b": "\u201382.7 degrees",
+        "c": "\u201390.0 degrees",
+        "d": "\u2013172.7 degrees",
+        "answer": "\u201382.7 degrees"
+    },
+    {
+        "question": "Which statement best describes reactance in a series RLC circuit?\r\n\r\n",
+        "a": "Capacitive reactance is always dominant.",
+        "b": "Inductive reactance is always dominant.",
+        "c": "Resistance is always dominant.",
+        "d": "The larger of the two reactances is dominant.",
+        "answer": "The larger of the two reactances is dominant."
+    },
+    {
+        "question": "What is the band pass (F1 \u2013 F2) of an RLC filter that resonates at 150 kHz and has a coil Q of 30?\r\n\r\n",
+        "a": "100.0 kHz to 155.0 kHz",
+        "b": "147.5 kHz to 152.5 kHz",
+        "c": "295.5 kHz to 4500 kHz",
+        "d": "149,970 Hz to 150,030 Hz",
+        "answer": "147.5 kHz to 152.5 kHz"
+    },
+    {
+        "question": "mcq9_1010_1.gifWhat is the power factor?\r\n",
+        "a": "0.279",
+        "b": "0.479",
+        "c": "0.679",
+        "d": "0.879",
+        "answer": "0.879"
+    },
+    {
+        "question": "mcq9_1009_1.gif",
+        "a": "61.4\u00ba",
+        "b": "28.5\u00ba",
+        "c": "-28.5\u00ba",
+        "d": "-61.4\u00ba",
+        "answer": "-28.5\u00ba"
+    },
+    {
+        "question": "What would be the power factor for an RLC circuit that acts inductively?\r\n\r\n",
+        "a": "+90 degrees leading",
+        "b": "one",
+        "c": "zero",
+        "d": "\u201390 degrees lagging",
+        "answer": "zero"
+    },
+    {
+        "question": "Voltage lags current in an RLC circuit when it acts:\r\n\r\n",
+        "a": "capacitively",
+        "b": "resistively",
+        "c": "inductively",
+        "d": "resonantly",
+        "answer": "capacitively"
+    },
+    {
+        "question": "mcq13_1008.gifWhat is the bandwidth of the circuit in the given circuit?\r\n\r\n",
+        "a": "11.6 Hz",
+        "b": "275.9 Hz",
+        "c": "1.5 kHz",
+        "d": "3.2 kHz",
+        "answer": "275.9 Hz"
+    },
+    {
+        "question": "mcq9_1007_1.gifWhat is the voltage across R1, C1, and L1?\r\n",
+        "a": "VR = 156 V, VC = 165 V, VL = 441 V",
+        "b": "VR = 178 V, VC = 187 V, VL = 503 V",
+        "c": "VR = 219 V, VC = 232 V, VL = 619 V",
+        "d": "VR = 260 V, VC = 276 V, VL = 735 V",
+        "answer": "VR = 156 V, VC = 165 V, VL = 441 V"
+    },
+    {
+        "question": "tfq13_1007.gifWith the frequency given, the circuit in the given circuit is operating above resonance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq9_1007_1.gifThe current through the inductor is 5 amps.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq9_1010_1.gifResonance will occur when XC = XL in the circuit below.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq9_1008_1.gifThe resonant frequency fo is 19 kHz.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq9_1003_1u.gifThe impedance is 1177 ohm.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq13_1002.gifThe current lags the voltage in the given circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq9_1006_1.gifThe impedance is 160 ohm.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The greater the selectivity, the wider the bandwidth.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A parallel tuned circuit can be used to couple energy from one circuit to another.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq9_1004_1.gifThe impedance is 9684 ohm.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a series RLC circuit, at above resonance the circuit is more capacitive than it is inductive.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq9_1005_1.gifThe voltage across the inductor is 77.8 volts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq13_1002.gifIf the given circuit were at resonance, the total current would be at its maximum.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Series LC combinations are used more often in tuned amplifier circuits than are parallel LC combinations.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The quality factor of a parallel circuit at resonance is VC\/VS or VL\/VS.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When inductive and capacitive reactance are present in the same series circuit, the magnitude of the total reactance is equal to the sum of the magnitudes of the individual reactances.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The quality factor at resonance of a series circuit is VR\/VL.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The less selective a filter is, the steeper the slope of its curves at the cutoff frequencies.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq13_1007.gifIf the given circuit in were operating at resonance, the total current would be maximum.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq13_1007.gifIf the output voltage were taken across the resistor in the given circuit, the circuit would be a band-stop filter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq9_1012_1.gifThis circuit is a high-pass filter.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "By increasing the resistance of a coil you can increase the Q of the coil at resonance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The bandwidth of a filter is the range of frequencies between the half-power frequencies.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq13_1002.gifIf the output voltage were taken from across the resistor in the given circuit, the circuit would be a band-pass filter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When a parallel tank is used in series with an output load resistor the filter is a(n) ______ filter.\r\n\r\n",
+        "a": "band-stop",
+        "b": "low-pass",
+        "c": "bandpass",
+        "d": "high-pass",
+        "answer": "band-stop"
+    },
+    {
+        "question": "fbq13_1007.gifThe phase angle is ______ in the given circuit.\r\n\r\n",
+        "a": "34.5\u00b0",
+        "b": "43.3\u00b0",
+        "c": "46.7\u00b0",
+        "d": "55.5\u00b0",
+        "answer": "46.7\u00b0"
+    },
+    {
+        "question": "The ___ of a circuit describes the ability of that circuit to respond to certain frequencies while rejecting all others.\r\n\r\n",
+        "a": "bandwidth",
+        "b": "selectivity",
+        "c": "sensitivity",
+        "d": "quality factor",
+        "answer": "selectivity"
+    },
+    {
+        "question": "fbq13_1005.gifThe output voltage is _____ at the resonant frequency in the given circuit.\r\n\r\n",
+        "a": "0 mV",
+        "b": "31.4 mV",
+        "c": "66.5 mV",
+        "d": "380 mV",
+        "answer": "66.5 mV"
+    },
+    {
+        "question": "fbq13_1009.gifThe output voltage at the resonant frequency is ______ in the given circuit. If a 10 komega.gif load is connected.\r\n\r\n",
+        "a": "553 mV",
+        "b": "5.65 V",
+        "c": "6.01 V",
+        "d": "6.5 V",
+        "answer": "5.65 V"
+    },
+    {
+        "question": "fbq13_1001.gifThe phase angle is ______ in the given circuit.\r\n\r\n",
+        "a": "27.6\u00b0",
+        "b": "62.4\u00b0",
+        "c": "74.1\u00b0",
+        "d": "76.1\u00b0",
+        "answer": "27.6\u00b0"
+    },
+    {
+        "question": "fbq13_1009.gifThe output voltage at the resonant frequency is _____ in the given circuit.\r\n\r\n",
+        "a": "0 V",
+        "b": "557 mV",
+        "c": "6.08 V",
+        "d": "6.5 V",
+        "answer": "6.08 V"
+    },
+    {
+        "question": "The ______ of a circuit describes the ability of that circuit to respond to certain frequencies while rejecting all others.\r\n\r\n",
+        "a": "bandwidth",
+        "b": "selectivity",
+        "c": "sensitivity",
+        "d": "quality factor",
+        "answer": "selectivity"
+    },
+    {
+        "question": "fbq13_1007.gifThe total circuit current is _____ in the given circuit.\r\n\r\n",
+        "a": "1.52 mA",
+        "b": "1.61 mA",
+        "c": "2.21 mA",
+        "d": "2.71 mA",
+        "answer": "2.21 mA"
+    },
+    {
+        "question": "At frequencies well above and below the resonant frequency, the series RLC circuit looks ______ and the parallel RLC circuit looks ______.\r\n\r\n",
+        "a": "like a short, like an open",
+        "b": "like an open, like a short",
+        "c": "inductive, capacitive",
+        "d": "capacitive, inductive",
+        "answer": "capacitive, inductive"
+    },
+    {
+        "question": "fbq13_1005.gifThe bandwidth is ______ in the given circuit.\r\n\r\n",
+        "a": "179.28 Hz",
+        "b": "3.54 kHz",
+        "c": "4.44 kHz",
+        "d": "15.85 kHz",
+        "answer": "3.54 kHz"
+    },
+    {
+        "question": "fbq13_1001.gifThe voltage across the inductor is ______ in the given circuit.\r\n\r\n",
+        "a": "6.5 V",
+        "b": "12.4 V",
+        "c": "14 V",
+        "d": "50 V",
+        "answer": "50 V"
+    },
+    {
+        "question": "When a parallel tank circuit is used in series with an output load resistor the filter is ______.\r\n\r\n",
+        "a": "low-pass",
+        "b": "band-stop",
+        "c": "band-pass",
+        "d": "high-pass",
+        "answer": "band-stop"
+    },
+    {
+        "question": "Series resonance happens when _____.\r\n\r\n",
+        "a": "XC = XC",
+        "b": "XL = XC",
+        "c": "XL = XB",
+        "d": "XT = R",
+        "answer": "XL = XC"
+    }
+]

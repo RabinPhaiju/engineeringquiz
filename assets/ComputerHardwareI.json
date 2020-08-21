@@ -1,0 +1,1378 @@
+[
+    {
+        "question": "From what location are the 1st computer instructions available on boot up?\r\n\r\n",
+        "a": "ROM BIOS",
+        "b": "CPU",
+        "c": "boot.ini",
+        "d": "CONFIG.SYS",
+        "answer": "ROM BIOS"
+    },
+    {
+        "question": "What could cause a fixed disk error.\r\n\r\n",
+        "a": "No-CD installed",
+        "b": "bad ram",
+        "c": "slow processor",
+        "d": "Incorrect CMOS settings",
+        "answer": "Incorrect CMOS settings"
+    },
+    {
+        "question": "Missing slot covers on a computer can cause?\r\n\r\n",
+        "a": "over heat",
+        "b": "power surges",
+        "c": "EMI",
+        "d": "incomplete path for ESD",
+        "answer": "over heat"
+    },
+    {
+        "question": "When installing PCI NICS you can check the IRQ availability by looking at\r\n\r\n",
+        "a": "dip switches",
+        "b": "CONFIG.SYS",
+        "c": "jumper settings",
+        "d": "motherboard BIOS",
+        "answer": "motherboard BIOS"
+    },
+    {
+        "question": "With respect to a network interface card, the term 10\/100 refers to\r\n\r\n",
+        "a": "protocol speed",
+        "b": "a fiber speed",
+        "c": "megabits per seconds",
+        "d": "minimum and maximum server speed",
+        "answer": "megabits per seconds"
+    },
+    {
+        "question": "Which Motherboard form factor uses one 20 pin connector\r\n\r\n",
+        "a": "ATX",
+        "b": "AT",
+        "c": "BABY AT",
+        "d": "All of the above",
+        "answer": "ATX"
+    },
+    {
+        "question": "A hard disk is divided into tracks which are further subdivided into:\r\n\r\n",
+        "a": "clusters",
+        "b": "sectors",
+        "c": "vectors",
+        "d": "heads",
+        "answer": "sectors"
+    },
+    {
+        "question": "A wrist grounding strap contains which of the following:\r\n\r\n",
+        "a": "Surge protector",
+        "b": "Capacitor",
+        "c": "Voltmeter",
+        "d": "Resistor",
+        "answer": "Resistor"
+    },
+    {
+        "question": "Which standard govern parallel communications?\r\n\r\n",
+        "a": "RS232",
+        "b": "RS-232a",
+        "c": "CAT 5",
+        "d": "IEEE 1284",
+        "answer": "IEEE 1284"
+    },
+    {
+        "question": "In laser printer technology, what happens during the conditioning stage?\r\n\r\n",
+        "a": "The corona wire places a uniform positive charge on the paper",
+        "b": "A uniform negative charge is placed on the photosensitive drum",
+        "c": "A uniform negative charge is placed on the toner",
+        "d": "All of the above",
+        "answer": "A uniform negative charge is placed on the photosensitive drum"
+    },
+    {
+        "question": "What product is used to clean smudged keys on a keyboard?\r\n\r\n",
+        "a": "TMC solvent",
+        "b": "Silicone spray",
+        "c": "Denatured alcohol",
+        "d": "All-purpose cleaner",
+        "answer": "All-purpose cleaner"
+    },
+    {
+        "question": "ESD would cause the most damage to which component?\r\n\r\n",
+        "a": "Power supply",
+        "b": "Expansion board",
+        "c": "Monitor",
+        "d": "Keyboard",
+        "answer": "Expansion board"
+    },
+    {
+        "question": "To view any currently running Terminate Stay Resident (TSR's) programs you could type:\r\n\r\n",
+        "a": "Memory",
+        "b": "MEM",
+        "c": "SYS \/M",
+        "d": "Memmaker",
+        "answer": "MEM"
+    },
+    {
+        "question": "Which type of system board is the MOST likely candidate for processor upgrading if you want maximum performance and future compatibility?\r\n\r\n",
+        "a": "ML",
+        "b": "PCI",
+        "c": "ISA",
+        "d": "EISA",
+        "answer": "PCI"
+    },
+    {
+        "question": "Most PCs give a single beep on bootup to indicate they are ok hardware wise. You boot your PC and don't get a beep. What should you check first?\r\n\r\n",
+        "a": "RAM",
+        "b": "system board",
+        "c": "microprocessor",
+        "d": "speaker",
+        "answer": "speaker"
+    },
+    {
+        "question": "Which peripheral port provides the FASTEST throughput to laser printers?\r\n\r\n",
+        "a": "RS-232",
+        "b": "SCSI",
+        "c": "Parallel",
+        "d": "Serial",
+        "answer": "Parallel"
+    },
+    {
+        "question": "The mouse pointer moves erratically, what is the possible cause? The mouse\r\n\r\n",
+        "a": "ball is dirty",
+        "b": "is not connected",
+        "c": "driver is not installed properly",
+        "d": "has an incorrect IRQ setting",
+        "answer": "ball is dirty"
+    },
+    {
+        "question": "Voltage is measured:\r\n\r\n",
+        "a": "in parallel",
+        "b": "in series",
+        "c": "after breaking the circuit",
+        "d": "after checking resistance",
+        "answer": "in parallel"
+    },
+    {
+        "question": "Your customer tells you the print quality of their dot matrix printer is light then dark. Which of the following could cause the problem.\r\n\r\n",
+        "a": "Paper slippage",
+        "b": "Improper ribbon advancement",
+        "c": "Paper thickness",
+        "d": "Head position",
+        "answer": "Improper ribbon advancement"
+    },
+    {
+        "question": "The 34-pin connection on an I\/O card is for?\r\n\r\n",
+        "a": "Floppy drive",
+        "b": "SCSI drive",
+        "c": "IDE drive",
+        "d": "Zip drive",
+        "answer": "Floppy drive"
+    },
+    {
+        "question": "The terms \"red book\", \"yellow book\", and \"orange book\" refer to:\r\n\r\n",
+        "a": "SCSI",
+        "b": "ide",
+        "c": "floppy drive technology",
+        "d": "CD-ROM standards",
+        "answer": "CD-ROM standards"
+    },
+    {
+        "question": "On the 16-bit ISA bus, IRQ2 is elevated to which higher level Interrupt?\r\n\r\n",
+        "a": "9",
+        "b": "11",
+        "c": "13",
+        "d": "15",
+        "answer": "9"
+    },
+    {
+        "question": "What beep codes could indicate a system board or power supply failure?\r\n\r\n",
+        "a": "steady short beep",
+        "b": "no beep",
+        "c": "one long continuous beep tone",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "To view any currently running Terminate Stay Resident (TSR's) programs you could type:\r\n\r\n",
+        "a": "Memory",
+        "b": "MEM",
+        "c": "SYS \/M",
+        "d": "Memmaker",
+        "answer": "MEM"
+    },
+    {
+        "question": "Which part of the laser printer should NOT be exposed to sunlight?\r\n\r\n",
+        "a": "Transfer corona assembly",
+        "b": "PC drum",
+        "c": "Primary corona wire",
+        "d": "Toner cartridge",
+        "answer": "PC drum"
+    },
+    {
+        "question": "After doing a low-level format, what would be the next step in configuring the hard drive in a system?\r\n\r\n",
+        "a": "Format DOS partition",
+        "b": "Install operating system",
+        "c": "Configure DMA channel and back-up interrupt",
+        "d": "Partition had disk",
+        "answer": "Format DOS partition"
+    },
+    {
+        "question": "Resistance is measured in ?\r\n\r\n",
+        "a": "Volts",
+        "b": "Amps",
+        "c": "Watts",
+        "d": "Ohms",
+        "answer": "Ohms"
+    },
+    {
+        "question": "What command is used to reset a MODEM when using the \"AT Command Set\"?\r\n\r\n",
+        "a": "ATR",
+        "b": "ATZ",
+        "c": "DTR",
+        "d": "DCE",
+        "answer": "ATZ"
+    },
+    {
+        "question": "When installing a SCSI CD-ROM drive, you must set the CD-ROM SCSI adapter to:\r\n\r\n",
+        "a": "B0007",
+        "b": "An unused SCSI address",
+        "c": "The same address as the SCSI device before the CD-ROM",
+        "d": "SCSI ID=1",
+        "answer": "An unused SCSI address"
+    },
+    {
+        "question": "Pick the correct choice for the 80386SXCPU.\r\n\r\n",
+        "a": "16 bit word size, 16 bit data path",
+        "b": "32 bit word size, 16 bit data path",
+        "c": "8 bit word size, 32 bit data path",
+        "d": "32 bit word size, 8 bit data path",
+        "answer": "32 bit word size, 16 bit data path"
+    },
+    {
+        "question": "In Inkjet technology the droplets of ink are deflected by?\r\n\r\n",
+        "a": "multi directional nozzles",
+        "b": "electronically charged plates",
+        "c": "high pressure plates",
+        "d": "electro static absorbtion",
+        "answer": "multi directional nozzles"
+    },
+    {
+        "question": "When your hard drive crashes from any of the correct selections in the question above, or from dropping it, it is known as head-to-disk interference, or HDL\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "What tool is used to test serial and parallel ports?\r\n\r\n",
+        "a": "high volt probe",
+        "b": "cable scanner",
+        "c": "loop backs (wrap plugs)",
+        "d": "sniffer",
+        "answer": "loop backs (wrap plugs)"
+    },
+    {
+        "question": "ESD would cause the most damage to which component?\r\n\r\n",
+        "a": "Power supply",
+        "b": "Expansion board",
+        "c": "Monitor",
+        "d": "Keyboard",
+        "answer": "Expansion board"
+    },
+    {
+        "question": "Keyboard",
+        "a": "4",
+        "b": "6",
+        "c": "2",
+        "d": "1",
+        "answer": "1"
+    },
+    {
+        "question": "What voltage does a Pentium system use?\r\n\r\n",
+        "a": "+12 volts",
+        "b": "+ 5 volts",
+        "c": "+ 8 volts",
+        "d": "+3.3 volts",
+        "answer": "+3.3 volts"
+    },
+    {
+        "question": "A numeric error code check: A 17xx indicates a problem with:\r\n\r\n",
+        "a": "CMOS",
+        "b": "ROM BIOS",
+        "c": "DMA controller",
+        "d": "hard drive or controller",
+        "answer": "hard drive or controller"
+    },
+    {
+        "question": "Which provides the fastest access to large video files?\r\n\r\n",
+        "a": "Optical drives",
+        "b": "IDE hard drives",
+        "c": "SCSI hard drives",
+        "d": "EIDE hard drives",
+        "answer": "SCSI hard drives"
+    },
+    {
+        "question": "A 25-pin female connector on the back of your computer will typically be:\r\n\r\n",
+        "a": "Serial port 1",
+        "b": "A parallel port",
+        "c": "Docking",
+        "d": "COM2 port",
+        "answer": "A parallel port"
+    },
+    {
+        "question": "On the PC side, the printer port is a:\r\n\r\n",
+        "a": "25 pin female serial connector",
+        "b": "15 pin female parallel connector",
+        "c": "25 pin male serial connector",
+        "d": "25 pin female parallel connector",
+        "answer": "25 pin female parallel connector"
+    },
+    {
+        "question": "You were installing an application in Windows 95, and the computer crashes, what do you do?\r\n\r\n",
+        "a": "press alt + Ctrl + delete, twice",
+        "b": "press alt + Ctrl + delete, and end task",
+        "c": "press the reset button on the computer",
+        "d": "turn off computer and boot from a floppy disk",
+        "answer": "turn off computer and boot from a floppy disk"
+    },
+    {
+        "question": "RS-232 is a standard that applies to:\r\n\r\n",
+        "a": "serial ports",
+        "b": "parallel ports",
+        "c": "game ports",
+        "d": "networks",
+        "answer": "serial ports"
+    },
+    {
+        "question": "You just installed a new IDE hard drive, but your system BIOS will not recognize the new drive, what should you check first.\r\n\r\n",
+        "a": "cable sequence",
+        "b": "jumpers on the hard drive",
+        "c": "drivers that need to be loaded",
+        "d": "hard drive manufacturer web site information",
+        "answer": "jumpers on the hard drive"
+    },
+    {
+        "question": "During boot-up, the memory test:\r\n\r\n",
+        "a": "Is a superfluous step that should be ignored",
+        "b": "Checks and verifies that contiguous memory is installed",
+        "c": "Is an operational error",
+        "d": "Displays what memory is installed, but nothing else",
+        "answer": "Checks and verifies that contiguous memory is installed"
+    },
+    {
+        "question": "What is the best ground for a conductive work bench?\r\n\r\n",
+        "a": "AC outlet",
+        "b": "Ground to bend",
+        "c": "To another device",
+        "d": "Chassis ground",
+        "answer": "AC outlet"
+    },
+    {
+        "question": "Topically, how many type III PC cards can you insert in a laptop\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "1"
+    },
+    {
+        "question": "What is the first thing you could do to check for damage to a printer after receiving it?\r\n\r\n",
+        "a": "Run MSD diagnostics",
+        "b": "Attach it to a PC and print something",
+        "c": "Check the cables",
+        "d": "Unbox it and examine it for physical damage",
+        "answer": "Unbox it and examine it for physical damage"
+    },
+    {
+        "question": "You have a system that periodically locks up. You have ruled out software, and now suspect that it is hardware. What should you do first that could help you narrow it down to the component at fault?\r\n\r\n",
+        "a": "rotate the RAM",
+        "b": "replace the RAM",
+        "c": "replace the level 2 cache SIMM",
+        "d": "disable the CPU cache in CMOS",
+        "answer": "disable the CPU cache in CMOS"
+    },
+    {
+        "question": "What's the best way to protect your hard drive data?\r\n\r\n",
+        "a": "regular backups",
+        "b": "periodically defrag it",
+        "c": "run chkdsk at least once a week",
+        "d": "run scandisk at least once a week",
+        "answer": "regular backups"
+    },
+    {
+        "question": "On a dot matrix printer, you should never lubricate which part?\r\n\r\n",
+        "a": "carriage rails",
+        "b": "printhead pins",
+        "c": "paper advance bearings",
+        "d": "carriage bearings",
+        "answer": "printhead pins"
+    },
+    {
+        "question": "How many devices can be used on a single SCSI bus? Keep in mind that the SCSI host adapter counts as a device.\r\n\r\n",
+        "a": "1",
+        "b": "8",
+        "c": "20",
+        "d": "10",
+        "answer": "8"
+    },
+    {
+        "question": "Match the device driver HIMEM.SYS to its operation.\r\n\r\n",
+        "a": "Supports (ANSI) terminal emulation",
+        "b": "Manages the use of extended memory",
+        "c": "Uses expanded memory on a 80386 processor",
+        "d": "Supports code page switching",
+        "answer": "Manages the use of extended memory"
+    },
+    {
+        "question": "_____ help prevent power surges.\r\n\r\n",
+        "a": "Surge suppressor",
+        "b": "Spike protector",
+        "c": "UPS system",
+        "d": "High-grade multi-meter",
+        "answer": "Surge suppressor"
+    },
+    {
+        "question": "The digital multimeter is set for DC, Ohm and 20k. You will read _____ while measuring a good 2 amp fuse.\r\n\r\n",
+        "a": "0.00",
+        "b": "0.02",
+        "c": "0.20",
+        "d": "2.00",
+        "answer": "0.00"
+    },
+    {
+        "question": "An anti static strap uses a small _____ to make sure you do not become the least path of resistance to the ground?\r\n\r\n",
+        "a": "capacitor",
+        "b": "diode",
+        "c": "transistor",
+        "d": "resistor",
+        "answer": "resistor"
+    },
+    {
+        "question": "If the memory slots have 30 pins then the chip is a?\r\n\r\n",
+        "a": "DIMM",
+        "b": "SIMM",
+        "c": "SDRAM",
+        "d": "All of the above",
+        "answer": "SIMM"
+    },
+    {
+        "question": "Laser Jet printer speeds are measured in pages per minute (ppm) what do we use to measure dot-matrix printers?\r\n\r\n",
+        "a": "lines per inch",
+        "b": "lines per sheet",
+        "c": "characters per inch",
+        "d": "characters per second",
+        "answer": "characters per second"
+    },
+    {
+        "question": "Which values are held in CMOS for the hard drive\r\n\r\n",
+        "a": "size (heads, cylinders, sectors)",
+        "b": "IRQ",
+        "c": "Free space",
+        "d": "Virus alert",
+        "answer": "size (heads, cylinders, sectors)"
+    },
+    {
+        "question": "Which of the following would be a logical first step in troubleshooting a PC?\r\n\r\n",
+        "a": "Check the computer CMOS",
+        "b": "Define the circumstances of the problem",
+        "c": "Call the vendor",
+        "d": "Define what applications are being used",
+        "answer": "Define the circumstances of the problem"
+    },
+    {
+        "question": "Which DOS driver is used to emulate expanded memory?\r\n\r\n",
+        "a": "Himem.sys",
+        "b": "EMM386.exe",
+        "c": "Mem386.sys",
+        "d": "Ramdrive.sys",
+        "answer": "EMM386.exe"
+    },
+    {
+        "question": "For a Macintosh to print successfully, the System Folder must contain:\r\n\r\n",
+        "a": "File sharing software",
+        "b": "A printer enabler",
+        "c": "The apple Garamond font set",
+        "d": "A printer driver",
+        "answer": "A printer driver"
+    },
+    {
+        "question": "Which component must be vacuumed or replaced during preventative maintenance on a laser printer?\r\n\r\n",
+        "a": "Scanning mirror",
+        "b": "Toner cartridge",
+        "c": "Ozone filter",
+        "d": "All of the above",
+        "answer": "Ozone filter"
+    },
+    {
+        "question": "Which device uses a DMA channel?\r\n\r\n",
+        "a": "Modem",
+        "b": "Network Card",
+        "c": "Sound Card",
+        "d": "All of the above",
+        "answer": "Sound Card"
+    },
+    {
+        "question": "When is the risk for electrostatic discharge the greatest?\r\n\r\n",
+        "a": "Day time",
+        "b": "High humidity",
+        "c": "Low humidity",
+        "d": "Night time",
+        "answer": "Low humidity"
+    },
+    {
+        "question": "A modem could be attached to which port?\r\n\r\n",
+        "a": "Parallel port",
+        "b": "ASYNC port",
+        "c": "Keyboard connector",
+        "d": "Video port",
+        "answer": "Parallel port"
+    },
+    {
+        "question": "What device prevents power interruptions, resulting in corrupted data?\r\n\r\n",
+        "a": "Battery back-up unit",
+        "b": "Surge protector",
+        "c": "Multiple SIMMs strips",
+        "d": "Data guard system",
+        "answer": "Battery back-up unit"
+    },
+    {
+        "question": "SCSI must be terminated with?\r\n\r\n",
+        "a": "Dip switch",
+        "b": "Resistor",
+        "c": "BNC",
+        "d": "All of the above",
+        "answer": "Resistor"
+    },
+    {
+        "question": "In a computer with an eide adapter, where should you connect an ATA CD-ROM drive?\r\n\r\n",
+        "a": "on the floppy bus",
+        "b": "on the primary IDE",
+        "c": "on the secondary IDE",
+        "d": "on the SCSI bus",
+        "answer": "on the secondary IDE"
+    },
+    {
+        "question": "What's the best way to prevent damaging your PC with static electricity?\r\n\r\n",
+        "a": "place your PC on a rubber mat",
+        "b": "wear leather soled shoes",
+        "c": "static electricity doesn't really hurt a PC",
+        "d": "wear an ESD wrist strap",
+        "answer": "wear an ESD wrist strap"
+    },
+    {
+        "question": "What is the highest binary number that can be referred to on a three position jumper block?\r\n\r\n",
+        "a": "4",
+        "b": "6",
+        "c": "8",
+        "d": "1",
+        "answer": "1"
+    },
+    {
+        "question": "During boot-up, the memory test:\r\n\r\n",
+        "a": "Is a superfluous step that should be ignored",
+        "b": "Checks and verifies that contiguous memory is installed",
+        "c": "Is an operational error",
+        "d": "Displays what memory is installed, but nothing else",
+        "answer": "Checks and verifies that contiguous memory is installed"
+    },
+    {
+        "question": "IRQ6 is typically reserved for:\r\n\r\n",
+        "a": "The floppy",
+        "b": "The keyboard controller",
+        "c": "LPT2",
+        "d": "The modem",
+        "answer": "The floppy"
+    },
+    {
+        "question": "Which would you do first when troubleshooting a faulty monitor?\r\n\r\n",
+        "a": "Check its connections to the computer and power source",
+        "b": "Use a meter to check the CRT and internal circuitry for continuity",
+        "c": "Power down the monitor, then turn it on again to see if that corrects the problem",
+        "d": "Power down the computer, then turn it on again to see if that corrects the problem",
+        "answer": "Check its connections to the computer and power source"
+    },
+    {
+        "question": "To install a second IDE drive into a computer, you must:\r\n\r\n",
+        "a": "Set the master-slave jumper to slave on the second drive",
+        "b": "Use the IDE configuration software to set the new drive as slave",
+        "c": "Use the IDE configuration software to set the new drive as slave",
+        "d": "Verify that you attach the drive to the connector at the end of the ribbon cable",
+        "answer": "Set the master-slave jumper to slave on the second drive"
+    },
+    {
+        "question": "Why does a successfully mapped network drive disappear every time you boot the computer?\r\n\r\n",
+        "a": "The computer you are connected to has moved",
+        "b": "You didn't click reconnect on log on",
+        "c": "The map statement is not in the autoexec.bat file",
+        "d": "The last drive was not set correctly",
+        "answer": "The map statement is not in the autoexec.bat file"
+    },
+    {
+        "question": "What do you need to check serial and parallel port?\r\n\r\n",
+        "a": "Port adapter",
+        "b": "Logic probe",
+        "c": "Loopback plug",
+        "d": "All of the above",
+        "answer": "Loopback plug"
+    },
+    {
+        "question": "You have a PC with no video* Which of the following is LEAST likely to be causing the problem?\r\n\r\n",
+        "a": "defective RAM (bank zero)",
+        "b": "defective microprocessor",
+        "c": "crashed hard drive",
+        "d": "loose video card",
+        "answer": "crashed hard drive"
+    },
+    {
+        "question": "To test for AC ripple on a PC power supply, you would set the volt\/ohm meter for:\r\n\r\n",
+        "a": "DC voltage scale",
+        "b": "AC voltage",
+        "c": "OHM scale",
+        "d": "Farad scale",
+        "answer": "AC voltage"
+    },
+    {
+        "question": "You get a CMOS checksum error during bootup. What is most likely the cause?\r\n\r\n",
+        "a": "power supply is bad",
+        "b": "BIOS needs updating",
+        "c": "CMOS battery is nearing end of life",
+        "d": "hard drive types are incorrectly defined",
+        "answer": "CMOS battery is nearing end of life"
+    },
+    {
+        "question": "On the 16-bit ISA bus, IRQ2 is elevated to which higher level interrupt?\r\n\r\n",
+        "a": "9",
+        "b": "11",
+        "c": "13",
+        "d": "15",
+        "answer": "9"
+    },
+    {
+        "question": "When measuring AC (Alternating Current) with a multimeter, it is important to maintain the proper polarity.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "After trying to unload a TSR, you get an error message saying that other TSRs were loaded after the one you tried to remove. Which of the following commands could you use to see the current load order?\r\n\r\n",
+        "a": "MEM \/P",
+        "b": "MEMMAKER",
+        "c": "MEM \/C",
+        "d": "SYS:",
+        "answer": "SYS:"
+    },
+    {
+        "question": "What is a common language that computers use to talk with one another on a network\r\n\r\n",
+        "a": "client",
+        "b": "adapter",
+        "c": "protocol",
+        "d": "operating systems",
+        "answer": "protocol"
+    },
+    {
+        "question": "When measuring AC (Alternating Current) with a multimeter, it is important to maintain the proper polarity.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Which DOS driver is used to emulate expanded memory?\r\n\r\n",
+        "a": "Himem.sys",
+        "b": "EMM386.exe",
+        "c": "Mem386.sys",
+        "d": "Ramdrive.sys",
+        "answer": "EMM386.exe"
+    },
+    {
+        "question": "Which should you use for cleaning Mylar-protected LCD screens?\r\n\r\n",
+        "a": "Ammonia window cleaner",
+        "b": "Non-abrasive cleanser",
+        "c": "Anti-static wipes",
+        "d": "Alcohol-impregnated wipes",
+        "answer": "Non-abrasive cleanser"
+    },
+    {
+        "question": "What could cause a fixed disk error?\r\n\r\n",
+        "a": "No-CD installed",
+        "b": "Bad RAM",
+        "c": "Slow processor",
+        "d": "Incorrect CMOS settings",
+        "answer": "Incorrect CMOS settings"
+    },
+    {
+        "question": "ESD potential decreases with the use of:\r\n\r\n",
+        "a": "De-ionizing fans",
+        "b": "A wrist strap",
+        "c": "Rubber gloves with matching cap",
+        "d": "A static meter",
+        "answer": "A wrist strap"
+    },
+    {
+        "question": "Which of the following FRUs would be considered both an input\/output device?\r\n\r\n",
+        "a": "Video board",
+        "b": "SCSI host adapter",
+        "c": "System board CPU",
+        "d": "All of the above",
+        "answer": "SCSI host adapter"
+    },
+    {
+        "question": "A COM port is a _____ port.\r\n\r\n",
+        "a": "parallel",
+        "b": "serial",
+        "c": "static",
+        "d": "multi",
+        "answer": "serial"
+    },
+    {
+        "question": "Which device is on IRQ 6?\r\n\r\n",
+        "a": "Keyboard",
+        "b": "IDE",
+        "c": "Floppy drive",
+        "d": "Video card",
+        "answer": "Floppy drive"
+    },
+    {
+        "question": "A system has two IDE hard drives that are each divided into primary and extended partitions, which drive letter is assigned to the primary partition of the second drive?\r\n\r\n",
+        "a": "C",
+        "b": "D",
+        "c": "E",
+        "d": "F",
+        "answer": "D"
+    },
+    {
+        "question": "What is the most significant difference between the USB and IEEE1394 standards?\r\n\r\n",
+        "a": "IEEE 1394 is faster",
+        "b": "USB does not support USB",
+        "c": "USB is plug and play",
+        "d": "IEEE 1394 is hot swappable",
+        "answer": "IEEE 1394 is faster"
+    },
+    {
+        "question": "When connecting two internal SCSI hard disks to a computer, where do you connect the second hard drive?\r\n\r\n",
+        "a": "Any open SCSI port on the computer",
+        "b": "A Serial port on the first host adapter",
+        "c": "An open parallel port on the computer",
+        "d": "An open SCSI port on the first hard drive",
+        "answer": "Any open SCSI port on the computer"
+    },
+    {
+        "question": "When connecting a ribbon cable to a connector, how do you know which direction to plug it in?\r\n\r\n",
+        "a": "The red line in the cable goes to the highest pin number",
+        "b": "The colored line in the cable goes to pin #1",
+        "c": "It does not matter",
+        "d": "The blue or red line in the cable goes away from the power connector",
+        "answer": "The colored line in the cable goes to pin #1"
+    },
+    {
+        "question": "What is the first step in diagnosing a completely dead computer at the client site that was working the day before.\r\n\r\n",
+        "a": "Test the power supply",
+        "b": "replace the CMOS battery",
+        "c": "check the AC outlet",
+        "d": "reseat the hard drive controller cable",
+        "answer": "check the AC outlet"
+    },
+    {
+        "question": "What specification covers PC hard cards?\r\n\r\n",
+        "a": "SCSI",
+        "b": "ISA",
+        "c": "PCMCIA",
+        "d": "MFM",
+        "answer": "PCMCIA"
+    },
+    {
+        "question": "Which common bus specification provides the fastest data transfer rate?\r\n\r\n",
+        "a": "VL bus",
+        "b": "ISA",
+        "c": "PCI",
+        "d": "All of the above",
+        "answer": "PCI"
+    },
+    {
+        "question": "Modems use transmission.\r\n\r\n",
+        "a": "synchronous",
+        "b": "asynchronous",
+        "c": "timed interval",
+        "d": "ata",
+        "answer": "asynchronous"
+    },
+    {
+        "question": "A 6xx indicates a problem with the:\r\n\r\n",
+        "a": "floppy drive",
+        "b": "hard drive",
+        "c": "keyboard",
+        "d": "CD ROM",
+        "answer": "floppy drive"
+    },
+    {
+        "question": "A sound card typically uses which IRQ?\r\n\r\n",
+        "a": "6",
+        "b": "5",
+        "c": "15",
+        "d": "1",
+        "answer": "5"
+    },
+    {
+        "question": "During preventative maintenance on a dot matrix printer, do NOT lubricate:\r\n\r\n",
+        "a": "Platen assembly",
+        "b": "Print head pulley",
+        "c": "Print head pins",
+        "d": "Paper advance gear bushings",
+        "answer": "Print head pins"
+    },
+    {
+        "question": "You see the message \"invalid media device\" after installing a new hard drive. What do you do next?\r\n\r\n",
+        "a": "Format",
+        "b": "Fdisk",
+        "c": "Partition",
+        "d": "Add the OS",
+        "answer": "Format"
+    },
+    {
+        "question": "What is the modem hang up command?\r\n\r\n",
+        "a": "ATHU",
+        "b": "ATH",
+        "c": "ATZ",
+        "d": "ATX",
+        "answer": "ATH"
+    },
+    {
+        "question": "What expansion types do most pll\/plll motherboards support?\r\n\r\n",
+        "a": "MCA, PCI",
+        "b": "ISA, EISA",
+        "c": "ISA, PCI, AGP",
+        "d": "ISA, VESA, PCI",
+        "answer": "ISA, PCI, AGP"
+    },
+    {
+        "question": "When installing an internal modem, all of the following IRQ's can be used except?\r\n\r\n",
+        "a": "5",
+        "b": "10",
+        "c": "14",
+        "d": "All of the above",
+        "answer": "14"
+    },
+    {
+        "question": "An IRQ allow interface cards to:\r\n\r\n",
+        "a": "Interrupt the CPU to request service",
+        "b": "Pass data to the CPU to be processed",
+        "c": "Pass data from one card to another",
+        "d": "Pass data to the computers memory",
+        "answer": "Interrupt the CPU to request service"
+    },
+    {
+        "question": "A workstation has just been installed on an Ethernet LAN, but cannot communicate with the network. What should you check first?\r\n\r\n",
+        "a": "reinstall the network protocols",
+        "b": "reinstall the network interface card driver",
+        "c": "verify the ip configuration on the workstation",
+        "d": "verify the link status on the computer's network card",
+        "answer": "verify the link status on the computer's network card"
+    },
+    {
+        "question": "One of the major components of a PC is the Central Processing Unit (CPU) which can be best described as:\r\n\r\n",
+        "a": "The device that sends the monitor signals telling it what to display",
+        "b": "The area that regulates all of the system power usage",
+        "c": "The area where ail the of the Basic input\/output routines are stored",
+        "d": "The area where all of the processing takes place",
+        "answer": "The area where all of the processing takes place"
+    },
+    {
+        "question": "What is the i\/o address for com2?\r\n\r\n",
+        "a": "2vb",
+        "b": "2f8",
+        "c": "8f8",
+        "d": "330",
+        "answer": "2f8"
+    },
+    {
+        "question": "The ESD wrist strap is designed to protect PC Components or Service Technicians ?\r\n\r\n",
+        "a": "PC Components",
+        "b": "Service Technicians",
+        "c": "Both",
+        "d": "",
+        "answer": "Both"
+    },
+    {
+        "question": "You can have EISA and MCA devices in the same PC.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The floppy drive uses which DMA (direct memory access) channel?\r\n\r\n",
+        "a": "5",
+        "b": "4",
+        "c": "1",
+        "d": "2",
+        "answer": "2"
+    },
+    {
+        "question": "The DC voltage on most circuit boards is:\r\n\r\n",
+        "a": "-12 volts",
+        "b": "0 volts",
+        "c": "+5 volts",
+        "d": "+12 volts",
+        "answer": "+5 volts"
+    },
+    {
+        "question": "A customer attached an external drive to his notebook computer but the computer is not recognizing it. What should be considered?\r\n\r\n",
+        "a": "The cables are attached firmly",
+        "b": "The external drive has been pre\u00acloaded with the appropriate software",
+        "c": "The external drive was attached before the computer was on",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "\"Parity\" errors usually indicate bad memory.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "What device protects against line deficiencies?\r\n\r\n",
+        "a": "Surge protector",
+        "b": "UPS",
+        "c": "Logic probe",
+        "d": "Capacitor",
+        "answer": "UPS"
+    },
+    {
+        "question": "Which monitor would provide the highest level of performance?\r\n\r\n",
+        "a": "VGA",
+        "b": "XGA",
+        "c": "CGA",
+        "d": "SVGA",
+        "answer": "SVGA"
+    },
+    {
+        "question": "Which of the following items would require you to comply with EPA disposal guidelines?\r\n\r\n",
+        "a": "Keyboard",
+        "b": "System board",
+        "c": "Power supply",
+        "d": "Battery",
+        "answer": "Battery"
+    },
+    {
+        "question": "A hard disk is divided into tracks which are further subdivided into:\r\n\r\n",
+        "a": "clusters",
+        "b": "sectors",
+        "c": "vectors",
+        "d": "heads",
+        "answer": "sectors"
+    },
+    {
+        "question": "What is the paper feeding technology most commonly associated with dot-matrix printers?\r\n\r\n",
+        "a": "sheet feed",
+        "b": "tractor feed",
+        "c": "friction feed",
+        "d": "manual feed",
+        "answer": "tractor feed"
+    },
+    {
+        "question": "COM1 is typically represented by which of the following?\r\n\r\n",
+        "a": "15 pin port",
+        "b": "9 pin male port",
+        "c": "9 pin female port",
+        "d": "25 pin male port",
+        "answer": "9 pin male port"
+    },
+    {
+        "question": "Which step should you perform first before discharging a CRT?\r\n\r\n",
+        "a": "Remove the CRT from its housing",
+        "b": "Disconnect the CRT from the computer",
+        "c": "Remove the video assembly",
+        "d": "Turn power off before removing power source",
+        "answer": "Turn power off before removing power source"
+    },
+    {
+        "question": "A capacitor is measured in which of the following units?\r\n\r\n",
+        "a": "Volts",
+        "b": "Ohms",
+        "c": "Farads",
+        "d": "Resistance",
+        "answer": "Farads"
+    },
+    {
+        "question": "UART is a type of serial chip. Its letters stand for:\r\n\r\n",
+        "a": "unidirectional access regarding transmission",
+        "b": "universal asynchronous receiver\/ transmitter",
+        "c": "upper advanced real transfer",
+        "d": "unable all restore t-bits",
+        "answer": "universal asynchronous receiver\/ transmitter"
+    },
+    {
+        "question": "A system has two IDE hard drives that are each divided into primary and extended partitions, which drive letter is assigned to the primary partition of the second drive?\r\n\r\n",
+        "a": "C",
+        "b": "D",
+        "c": "E",
+        "d": "F",
+        "answer": "D"
+    },
+    {
+        "question": "What would you ask to determine if the display is working?\r\n\r\n",
+        "a": "Is there a video cursor or action on the screen?",
+        "b": "Did the computer beep or chime?",
+        "c": "Is there high voltage static on the screen",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Your CD-ROM audio cable connects to the:\r\n\r\n",
+        "a": "speaker",
+        "b": "sound card (or motherboard if sound is integrated with it)",
+        "c": "power supply",
+        "d": "hard drive",
+        "answer": "sound card (or motherboard if sound is integrated with it)"
+    },
+    {
+        "question": "In the Binary numbering system, a (1) represents a jumper being shorted and a (0) represents a jumper being open. On a three-bit jumper block on a SCSI drive, how would an ID of logical 3 be set?\r\n\r\n",
+        "a": "100",
+        "b": "010",
+        "c": "011",
+        "d": ". 101",
+        "answer": "011"
+    },
+    {
+        "question": "After installing a sound card, the system locks up when a parallel port tape backup unit is also used. What is most likely the problem?\r\n\r\n",
+        "a": "IRQ",
+        "b": "DMA",
+        "c": "defective LPT port",
+        "d": "defective tape driver",
+        "answer": "IRQ"
+    },
+    {
+        "question": "You are testing the resistance in Ohms of a fuse on a 15K amp system. If the fuse is good, the meter should read?\r\n\r\n",
+        "a": "0.0",
+        "b": "0.2",
+        "c": "5.0",
+        "d": "2.0",
+        "answer": "0.0"
+    },
+    {
+        "question": "Type one PC cards:\r\n\r\n",
+        "a": "are used only in desktops",
+        "b": "are no longer being produced",
+        "c": "are the thinnest of the PC cards",
+        "d": "don't exist",
+        "answer": "are the thinnest of the PC cards"
+    },
+    {
+        "question": "14.4 modem should transmit _____ bits per second\r\n\r\n",
+        "a": "14,400-15,000",
+        "b": "140-150",
+        "c": "1400-1500",
+        "d": "140,000-150,000",
+        "answer": "14,400-15,000"
+    },
+    {
+        "question": "In laser technology, what happens during the transfer stage?\r\n\r\n",
+        "a": "Residual toner is transferred to the waste receptacle",
+        "b": "The laser transfers the image from the drum to the paper",
+        "c": "The image is transferred from the drum to the paper",
+        "d": "A negative charge is transferred to the surface of the drum",
+        "answer": "The image is transferred from the drum to the paper"
+    },
+    {
+        "question": "_____ is the term used to refer to the process of two modems establishing communications with each other.\r\n\r\n",
+        "a": "interacting",
+        "b": "handshaking",
+        "c": "connecting",
+        "d": "linking",
+        "answer": "handshaking"
+    },
+    {
+        "question": "Resistance is measured in ohm.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Suppose that the power lamp in on, but the printer will not print. What can you do to correct the problem?\r\n\r\n",
+        "a": "Make sure the printer is on line",
+        "b": "Replace the AC line fuse",
+        "c": "Turn the printer on and off",
+        "d": "Replace the ribbon",
+        "answer": "Make sure the printer is on line"
+    },
+    {
+        "question": "The ATAPI compliance is stands for?\r\n\r\n",
+        "a": "CDROM",
+        "b": "Bus mastering",
+        "c": "Mass storage device",
+        "d": "All of the above",
+        "answer": "Mass storage device"
+    },
+    {
+        "question": "A dialog box with a bomb appears on a Macintosh screen. What type of problem has occurred?\r\n\r\n",
+        "a": "A RAM problem",
+        "b": "A software problem",
+        "c": "A ROM problem",
+        "d": "An ADB problem",
+        "answer": "A software problem"
+    },
+    {
+        "question": "Capacitance is measured in units of:\r\n\r\n",
+        "a": "volts",
+        "b": "amps",
+        "c": "farads",
+        "d": "neutrinos",
+        "answer": "farads"
+    },
+    {
+        "question": "When not in use, it is very important to keep 5 1\/4 diskettes in _____.\r\n\r\n",
+        "a": "Their protective sleeves",
+        "b": "In a plastic bag",
+        "c": "On a shelf in an upright position",
+        "d": "In the floppy drive",
+        "answer": "Their protective sleeves"
+    },
+    {
+        "question": "What can you use to ensure power is not interrupted, resulting in corrupted data?\r\n\r\n",
+        "a": "UPS",
+        "b": "Propergrounding",
+        "c": "Surge protector",
+        "d": "Sag protector",
+        "answer": "UPS"
+    },
+    {
+        "question": "A 25-pin female connector on the back of your computer will typically be:\r\n\r\n",
+        "a": "Serial port 1",
+        "b": "A parallel port",
+        "c": "Docking",
+        "d": "COM2 port",
+        "answer": "A parallel port"
+    },
+    {
+        "question": "In the Binary numbering system, a (1) represents a jumper being shorted and a (0) represents a jumper being open. On a three-bit jumper block on a SCSI drive, how would an ID of logical 3 be set?\r\n\r\n",
+        "a": "100",
+        "b": "010",
+        "c": "011",
+        "d": "101",
+        "answer": "011"
+    },
+    {
+        "question": "_____ help prevent power surges.\r\n\r\n",
+        "a": "Surge suppressor",
+        "b": "Spike protector",
+        "c": "UPS system",
+        "d": "High-grade multi-meter",
+        "answer": "Surge suppressor"
+    },
+    {
+        "question": "What can you use to ensure power is not interrupted, resulting in corrupted data?\r\n\r\n",
+        "a": "UPS",
+        "b": "Proper grounding",
+        "c": "Surge protector",
+        "d": "Nuclear powered thermal protective underwear",
+        "answer": "UPS"
+    },
+    {
+        "question": "The POST routine, which counts system board RAM first, is stored in:\r\n\r\n",
+        "a": "RAM",
+        "b": "microprocessor",
+        "c": "ROM BIOS",
+        "d": "CMOS",
+        "answer": "ROM BIOS"
+    },
+    {
+        "question": "The digital multimeter is set for DC, Ohm and 20k. You will read _____ while measuring a good 2 amp fuse.\r\n\r\n",
+        "a": "0.00",
+        "b": "0.02",
+        "c": "0.20",
+        "d": "2.00",
+        "answer": "0.00"
+    },
+    {
+        "question": "IDE cables have how many pins?\r\n\r\n",
+        "a": "25",
+        "b": "50",
+        "c": "100",
+        "d": "40",
+        "answer": "40"
+    },
+    {
+        "question": "Which of the following statements is true?\r\n\r\n",
+        "a": "Two SCSI devices connected to a computer can have the same ID if they are both hard drives.",
+        "b": "Each SCSI device must have its own ID",
+        "c": "All SCSI devices must have the same ID",
+        "d": "SCSI ID's are irrelevant",
+        "answer": "Each SCSI device must have its own ID"
+    },
+    {
+        "question": "What is the recommended way to fix the registry description for the printer driver\r\n\r\n",
+        "a": "Delete the spool file",
+        "b": "Run regedit.exe and remove any reference to the printers",
+        "c": "Run sysedit.exe and remove any reference to the printers",
+        "d": "Remove the printer driver and re\u00acinstall it",
+        "answer": "Remove the printer driver and re\u00acinstall it"
+    },
+    {
+        "question": "An important first step in troubleshooting which component in a laser printer is causing a jam is to:\r\n\r\n",
+        "a": "note where in the paper path the paper stops",
+        "b": "check all voltages",
+        "c": "look up error codes",
+        "d": "turn the printer off, then on again",
+        "answer": "note where in the paper path the paper stops"
+    },
+    {
+        "question": "Which of the following items would require you t.o comply with EPA disposal guidelines?\r\n\r\n",
+        "a": "Keyboard",
+        "b": "System board",
+        "c": "Power supply",
+        "d": "Battery",
+        "answer": "Battery"
+    },
+    {
+        "question": "What should you replace if the brightness or contrast adjustments were malfunctioning on a laptop?\r\n\r\n",
+        "a": "fuse",
+        "b": "led display",
+        "c": "adjustment switch",
+        "d": "led display cable",
+        "answer": "led display"
+    },
+    {
+        "question": "One of the major components of a PC is the Central Processing Unit (CPU) which can be best described as:\r\n\r\n",
+        "a": "The device that sends the monitor signals telling it what to display",
+        "b": "The area that regulates all of the system power usage",
+        "c": "The area where all the of the Basic input\/output routines are stored",
+        "d": "The area where all of the processing takes place",
+        "answer": "The area where all of the processing takes place"
+    },
+    {
+        "question": "On a leased line installation a known good external modem shows no carrier detect light. Where is the problem most likely to be?\r\n\r\n",
+        "a": "In the modem",
+        "b": "In the phone line",
+        "c": "In the computer",
+        "d": "In the DTC equipment",
+        "answer": "In the phone line"
+    },
+    {
+        "question": "What IRQ is used for COM 2?\r\n\r\n",
+        "a": "4",
+        "b": "3",
+        "c": "2",
+        "d": "1",
+        "answer": "3"
+    },
+    {
+        "question": "What is the size of the reserved memory area?\r\n\r\n",
+        "a": "64 kb",
+        "b": "384 kb",
+        "c": "640 kb",
+        "d": "1024 kb",
+        "answer": "384 kb"
+    },
+    {
+        "question": "Which would you have to upgrade to install an EIDE drive?\r\n\r\n",
+        "a": "RAM BIOS",
+        "b": "A 286 CPU",
+        "c": "Controller board",
+        "d": "ISA motherboard",
+        "answer": "Controller board"
+    },
+    {
+        "question": "Dust in a computer actually increases the size of the magnetic fields inside it. This is not good, so you must occasionaiy dust, I trust. What's the best way to do this?\r\n\r\n",
+        "a": "reverse vacuum",
+        "b": "any small vacuum device",
+        "c": "blow real hard on the system board",
+        "d": "non-static compressed air",
+        "answer": "non-static compressed air"
+    },
+    {
+        "question": "A parity error usually indicates a problem with:\r\n\r\n",
+        "a": "memory",
+        "b": "hard drive",
+        "c": "hard drive controller",
+        "d": "I\/O controller",
+        "answer": "memory"
+    },
+    {
+        "question": "What is the i\/o address for com1?\r\n\r\n",
+        "a": "3e8",
+        "b": "3bc",
+        "c": "5f8",
+        "d": "3f8",
+        "answer": "3f8"
+    },
+    {
+        "question": "The monitor power LED is 'on' but the monitor screen is completely dark. The least likely cause of the problem is:\r\n\r\n",
+        "a": "Defect in the computers video circuitry",
+        "b": "Disconnected video cable",
+        "c": "Defective monitor",
+        "d": "System RAM problem",
+        "answer": "System RAM problem"
+    },
+    {
+        "question": "You are about to install a second IDE hard drive in a PC that has only one IDE adapter. Your first hard drive will still be the boot drive. How should the second drive be configured?\r\n\r\n",
+        "a": "as a master",
+        "b": "as a secondary",
+        "c": "as a slave",
+        "d": "as a primary",
+        "answer": "as a slave"
+    },
+    {
+        "question": "What is your first action when windows reports that your hard drive is developing bad sectors?\r\n\r\n",
+        "a": "replace the hard drive",
+        "b": "run secclean from dos",
+        "c": "run defrag on the hard drive",
+        "d": "run scandisk with the \"thorough\" option",
+        "answer": "run scandisk with the \"thorough\" option"
+    },
+    {
+        "question": "In laser technology, what happens during the transfer stage?\r\n\r\n",
+        "a": "Residual toner is transferred to the waste receptacle",
+        "b": "The laser transfers the image from the drum to the paper.",
+        "c": "The image is transferred from the drum to the paper",
+        "d": "A negative charge is transferred to the surface of the drum",
+        "answer": "The image is transferred from the drum to the paper"
+    },
+    {
+        "question": "How many IRQs does a chain of USB devices require?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "1"
+    },
+    {
+        "question": "Resistance is measured in units of:\r\n\r\n",
+        "a": "ohms",
+        "b": "farads",
+        "c": "helids",
+        "d": "amperes",
+        "answer": "ohms"
+    },
+    {
+        "question": "Which provides the fastest data access time?\r\n\r\n",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "CD-ROM",
+        "d": "Hard disk",
+        "answer": "RAM"
+    },
+    {
+        "question": "How is ink transferred to paper in common ink jet printers?\r\n\r\n",
+        "a": "Boiling ink",
+        "b": "Crystal",
+        "c": "Motorized pump",
+        "d": "Screens deflect ink on the paper into the proper positions",
+        "answer": "Crystal"
+    },
+    {
+        "question": "Which component must be vacuumed or replaced during preventative maintenance on a laser printer?\r\n\r\n",
+        "a": "Scanning mirror",
+        "b": "Toner cartridge",
+        "c": "Ozone filter",
+        "d": "All of the above",
+        "answer": "Ozone filter"
+    },
+    {
+        "question": "Which controller would support an external CD-ROM drive?\r\n\r\n",
+        "a": "ESDI",
+        "b": "ARLL",
+        "c": "MFM",
+        "d": "SCSI",
+        "answer": "SCSI"
+    }
+]

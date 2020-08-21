@@ -1,0 +1,314 @@
+[
+    {
+        "question": "In a 20 Vac series RC circuit, if 20 V is read across the resistor and 40 V is measured across the capacitor, the applied voltage is\r\n\r\n",
+        "a": "45 Vac",
+        "b": "50 Vac",
+        "c": "60 Vac",
+        "d": "65 Vac",
+        "answer": "45 Vac"
+    },
+    {
+        "question": "Which of the following is the reference vector for parallel RC circuits?\r\n\r\n",
+        "a": "R",
+        "b": "V",
+        "c": "I",
+        "d": "Xc",
+        "answer": "V"
+    },
+    {
+        "question": "mcq10_1007_1.gifWhat is the voltage drop across R1 in the given circuit?\r\n\r\n",
+        "a": "10 V",
+        "b": "4.80 V",
+        "c": "4.00 V",
+        "d": "5.80 V",
+        "answer": "5.80 V"
+    },
+    {
+        "question": "Power that is measured in volt-amperes is called\r\n\r\n",
+        "a": "impedance power",
+        "b": "reactive power",
+        "c": "true power",
+        "d": "apparent power",
+        "answer": "apparent power"
+    },
+    {
+        "question": "frequency ",
+        "a": "both series and parallel RC impedance decrease",
+        "b": "series RC impedance decreases and parallel RC impedance increases",
+        "c": "series RC impedance increases and parallel RC impedance decreases",
+        "d": "both series and parallel RC impedance increase",
+        "answer": "both series and parallel RC impedance decrease"
+    },
+    {
+        "question": "mcq10_1003_1.gifCalculate the magnitude of the impedance in the given circuit.\r\n\r\n",
+        "a": "24.1 M ohm",
+        "b": "10 M ohm",
+        "c": "26.1 M ohm",
+        "d": "0 ohm",
+        "answer": "26.1 M ohm"
+    },
+    {
+        "question": "mcq10_1003_1.gifCalculate the phase angle in the given circuit.\r\n\r\n",
+        "a": "0\u00b0",
+        "b": "90\u00b0",
+        "c": "22.52\u00b0",
+        "d": "67.48\u00b0",
+        "answer": "67.48\u00b0"
+    },
+    {
+        "question": "What is the phase angle for a parallel circuit consisting of a 500 kHz, 5 Vac source with a 47 pF capacitor, and a 4.7 k ohm resistor in parallel?\r\n\r\n",
+        "a": "55.3\u00b0",
+        "b": "\u201355.3\u00b0",
+        "c": "34.8\u00b0",
+        "d": "\u201334.8\u00b0",
+        "answer": "34.8\u00b0"
+    },
+    {
+        "question": "mcq10_1010_1.gifWhich circuit is represented by the frequency response curve in the given figure?\r\n\r\n",
+        "a": "High-pass filter",
+        "b": "Low-pass filter",
+        "c": "Band-pass filter",
+        "d": "Band-stop filter",
+        "answer": "Low-pass filter"
+    },
+    {
+        "question": "mcq10_1007_1.gifWhat is the phase angle in the given circuit?\r\n\r\n",
+        "a": "14.95\u00b0",
+        "b": "36.88\u00b0",
+        "c": "0\u00b0",
+        "d": "90\u00b0",
+        "answer": "14.95\u00b0"
+    },
+    {
+        "question": "mcq10_1007_1.gifWhat is the current through XC1 in the given circuit?\r\n\r\n",
+        "a": "32.2 mA",
+        "b": "16 mA",
+        "c": "12 mA",
+        "d": "48 mA",
+        "answer": "32.2 mA"
+    },
+    {
+        "question": "mcq10_1005_1.gifWhat is the total current in the given circuit?\r\n\r\n",
+        "a": "0.28 A",
+        "b": "0.399 A",
+        "c": "909 A",
+        "d": "0.2 A",
+        "answer": "0.28 A"
+    },
+    {
+        "question": "Which statement about a series RC circuit is true?\r\n\r\n",
+        "a": "The capacitor's voltage drop is in phase with the resistor's voltage drop.",
+        "b": "The current leads the source voltage.",
+        "c": "The current lags the source voltage.",
+        "d": "The resistor voltage lags the current.",
+        "answer": "The current leads the source voltage."
+    },
+    {
+        "question": "mcq10_1005_1.gifIf the frequency increases in the given circuit, how would the total current change?\r\n\r\n",
+        "a": "The total current would increase.",
+        "b": "The total current would decrease.",
+        "c": "The total current would remain the same.",
+        "d": "More information is needed in order to predict how the total current would change.",
+        "answer": "The total current would increase."
+    },
+    {
+        "question": "What is the effect of increasing the resistance in a series RC circuit?\r\n\r\n",
+        "a": "There will be no effect at all.",
+        "b": "The current will increase.",
+        "c": "The phase shift will decrease.",
+        "d": "The input voltage will increase.",
+        "answer": "The phase shift will decrease."
+    },
+    {
+        "question": "A 10 k ohm capacitive reactance equals a 100 \u00b5S capacitive susceptance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a purely capacitive ac circuit, the amount of energy converted to heat is proportional to the circuit's current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Resistance is the same as impedance in an RC circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq10_1006_1.gifThe magnitude of the impedance in the given circuit is approximately 500 omega.gif.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In parallel RC circuits, the larger the value of C, the larger the phase angle.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When a series RC circuit is used as a low-pass filter, the output is taken from across the capacitor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If the resistor drops 6 V and the capacitor drops 8 V in a series RC circuit, the source voltage equals 10 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The current lags the source voltage in a series RC circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the frequency increases in a parallel RC circuit, the phase angle decreases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The output voltage from an RC high-pass filter increases as the frequency decreases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If a 100 ohm resistance is connected to a 100 ohm capacitive reactance in a series RC circuit, the impedance equals 200 ohm.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the bandwidth of an RC low-pass filter is 20 kHz, the cutoff frequency is also 20 kHz.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "fbq10_1006_1.gifThe phase angle in the given circuit equals___.\r\n\r\n",
+        "a": "90\u00b0",
+        "b": "36.87\u00b0",
+        "c": "0\u00b0",
+        "d": "53.13\u00b0",
+        "answer": "36.87\u00b0"
+    },
+    {
+        "question": "fbq10_1008_1.gifConnecting the oscilloscope as shown in the given figure will _____.\r\n\r\n",
+        "a": "measure the voltage across the source",
+        "b": "measure the voltage across C1, R2, and C2",
+        "c": "short R1",
+        "d": "short C1, R2, and C2",
+        "answer": "short C1, R2, and C2"
+    },
+    {
+        "question": "fbq10_1009_1.gifIf the given circuit is used as a filter, the cutoff frequency is _____.\r\n\r\n",
+        "a": "5 kHz",
+        "b": "14.47 kHz",
+        "c": "less than 5 kHz",
+        "d": "more than 20 kHz",
+        "answer": "14.47 kHz"
+    },
+    {
+        "question": "In a series RC circuit, the phase difference between the capacitor and the resistor voltages ___.\r\n\r\n",
+        "a": "depends on the values of R and C",
+        "b": "equals 0\u00b0",
+        "c": "equals 90\u00b0",
+        "d": "depends on the value of the input voltage",
+        "answer": "equals 90\u00b0"
+    },
+    {
+        "question": "If the impedance equals 2 k ohm in a parallel RC circuit, the admittance equals ___.\r\n\r\n",
+        "a": "More information is needed in order to find the admittance.",
+        "b": "2 kS",
+        "c": "4 kS",
+        "d": "500 \u00b5S",
+        "answer": "500 \u00b5S"
+    },
+    {
+        "question": "fbq10_1009_1.gifThe true power in the given circuit equals ___.\r\n\r\n",
+        "a": "48.48 mW",
+        "b": "296.93 mW",
+        "c": "280.64 mW",
+        "d": "96.98 mW",
+        "answer": "96.98 mW"
+    },
+    {
+        "question": "In a series RC circuit, the phase difference between the current and the source voltage _____.\r\n\r\n",
+        "a": "depends on the values of R and C",
+        "b": "equals 0\u00b0",
+        "c": "equals 90\u00b0",
+        "d": "depends on the amplitude of the input voltage",
+        "answer": "depends on the values of R and C"
+    },
+    {
+        "question": "The hypotenuse of the right triangle of a vector diagram for R and XC is _______________.\r\n\r\n",
+        "a": "impedance",
+        "b": "current",
+        "c": "voltage",
+        "d": "power",
+        "answer": "impedance"
+    },
+    {
+        "question": "fbq10_1006_1.gifThe magnitude of the impedance in the given circuit equals _____.\r\n\r\n",
+        "a": "17.14 ohm",
+        "b": "24 ohm",
+        "c": "70 ohm",
+        "d": "More information is needed in order to find the impedance.",
+        "answer": "24 ohm"
+    },
+    {
+        "question": "When the resistance is greater than the capacitive reactance in a series RC circuit, the phase angle is ___.\r\n\r\n",
+        "a": "0\u00b0",
+        "b": "between 0\u00b0 and 45\u00b0",
+        "c": "between 45\u00b0 and 90\u00b0",
+        "d": "45\u00b0",
+        "answer": "between 0\u00b0 and 45\u00b0"
+    },
+    {
+        "question": "______________ is shuttled back and forth between the source and load.\r\n\r\n",
+        "a": "True power",
+        "b": "Reactive power",
+        "c": "Apparent power",
+        "d": "Impedance power",
+        "answer": "Reactive power"
+    },
+    {
+        "question": "If a series RC circuit contains a 120 k ohm resistance and a 160 k ohm capacitive reactance, the impedance equals _____.\r\n\r\n",
+        "a": "280 k ohm",
+        "b": "120 k ohm",
+        "c": "160 k ohm",
+        "d": "200 k ohm",
+        "answer": "200 k ohm"
+    }
+]

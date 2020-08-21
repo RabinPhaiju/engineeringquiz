@@ -1,0 +1,354 @@
+[
+    {
+        "question": "\"Half-splitting\" is\r\n\r\n",
+        "a": "a means for nuclear fuel cells to produce electricity",
+        "b": "a means of isolating a problem in a circuit",
+        "c": "a means for reducing a high ac voltage to a low dc voltage",
+        "d": "a means of limiting current in a circuit",
+        "answer": "a means of isolating a problem in a circuit"
+    },
+    {
+        "question": "If doubling the voltage across a resistor doubles the current through the resistor then\r\n\r\n",
+        "a": "the resistor value decreased",
+        "b": "the resistor value did not change",
+        "c": "the resistor value increased",
+        "d": "it is impossible to determine the change in the resistor value",
+        "answer": "the resistor value did not change"
+    },
+    {
+        "question": "If the voltage across a fixed value of resistance is increased five times, what does the current do?\r\n\r\n",
+        "a": "It increases by a factor of five.",
+        "b": "It decreases by a factor of five.",
+        "c": "It stays the same.",
+        "d": "Not enough information",
+        "answer": "It increases by a factor of five."
+    },
+    {
+        "question": "If the resistance in a circuit with constant voltage increases, the current will\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "stay the same",
+        "d": "Not enough information",
+        "answer": "decrease"
+    },
+    {
+        "question": "mcq3_1007_1a.gifWhat is the power in the given circuit?\r\n\r\n",
+        "a": "3.6 W",
+        "b": "35 W",
+        "c": "175 W",
+        "d": "245 W",
+        "answer": "35 W"
+    },
+    {
+        "question": "What is the kilowatt-hour consumption of a 40 W lamp if it remains on for 1750 h?\r\n\r\n",
+        "a": "43.75",
+        "b": "70",
+        "c": "43,750",
+        "d": "70,000",
+        "answer": "70"
+    },
+    {
+        "question": "A damaged resistor\r\n\r\n",
+        "a": "may appear burned",
+        "b": "may have an increased resistance value",
+        "c": "may be checked with an ohmmeter",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Power supplies differ from batteries in that\r\n\r\n",
+        "a": "power supply output voltages are ac and not dc",
+        "b": "power supply voltages are not stable",
+        "c": "power supplies are low-current devices",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "mcq3_1005_1.gifWhat is the resistor value in the given circuit?\r\n\r\n",
+        "a": "200 ohm",
+        "b": "1 k ohm",
+        "c": "2 k ohm",
+        "d": "4 k ohm",
+        "answer": "2 k ohm"
+    },
+    {
+        "question": "If voltage across a resistance doubles\r\n\r\n",
+        "a": "the current is halved",
+        "b": "the resistance doubles",
+        "c": "the current is unchanged",
+        "d": "none of the above",
+        "answer": "none of the above"
+    },
+    {
+        "question": "mcq3_1007_1b.gifWhat is the power in the given circuit?\r\n\r\n",
+        "a": "32 W",
+        "b": "80 W",
+        "c": "500 W",
+        "d": "16 kW",
+        "answer": "32 W"
+    },
+    {
+        "question": "Ohm's law describes the mathematical relationship between\r\n\r\n",
+        "a": "ohms, kilohms, and megohms",
+        "b": "resistor size and resistor value",
+        "c": "resistance, voltage, and current",
+        "d": "none of the above",
+        "answer": "resistance, voltage, and current"
+    },
+    {
+        "question": "Energy is defined as the ability to\r\n\r\n",
+        "a": "produce heat",
+        "b": "produce light",
+        "c": "produce sound",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What electromotive force would cause 20 A of current to flow through a 500 ohm resistor?\r\n\r\n",
+        "a": "0.04 V",
+        "b": "2.5 V",
+        "c": "25.0 V",
+        "d": "10,000 V",
+        "answer": "10,000 V"
+    },
+    {
+        "question": "The rate at which work is performed is called\r\n\r\n",
+        "a": "current",
+        "b": "energy",
+        "c": "power",
+        "d": "voltage",
+        "answer": "power"
+    },
+    {
+        "question": "A battery's capacity to deliver power is measured in\r\n\r\n",
+        "a": "kWh",
+        "b": "Ah",
+        "c": "Wh",
+        "d": "Vh",
+        "answer": "Ah"
+    },
+    {
+        "question": "Power supplies are regulated to prevent the output voltage from changing due to changes in the\r\n\r\n",
+        "a": "line voltage",
+        "b": "supply load",
+        "c": "frequency",
+        "d": "both line voltage and supply load",
+        "answer": "both line voltage and supply load"
+    },
+    {
+        "question": "mcq3_1007_1c.gifWhat is the power in the given circuit?\r\n\r\n",
+        "a": "3.92 kW",
+        "b": "280 W",
+        "c": "28.6 W",
+        "d": "9.8 W",
+        "answer": "9.8 W"
+    },
+    {
+        "question": "If current through a resistance is halved\r\n\r\n",
+        "a": "the resistance is halved",
+        "b": "the voltage is halved",
+        "c": "the voltage doubles",
+        "d": "none of the above",
+        "answer": "the voltage is halved"
+    },
+    {
+        "question": "Ohm's law is a relationship between\r\n\r\n",
+        "a": "voltage, current, and time",
+        "b": "power, current, and resistance",
+        "c": "resistance, time, and current",
+        "d": "voltage, current, and resistance",
+        "answer": "voltage, current, and resistance"
+    },
+    {
+        "question": "mcq3_1004_1.gifIf the voltage in the given circuit was cut in half, what would the current equal?\r\n\r\n",
+        "a": "10 mA",
+        "b": "30 mA",
+        "c": "60 mA",
+        "d": "90 mA",
+        "answer": "30 mA"
+    },
+    {
+        "question": "Using 4 kWh of power is equivalent to using 2000 W of power for 2 h.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The current through a resistor can be found by dividing the resistor's voltage by its ohmic value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The voltage drop across a resistor is simply a difference of potential across that resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Doubling the voltage across a resistor will cut the current by half.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Current and voltage have a nonlinear relationship.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The efficiency rating of a power supply is determined by internal power loss.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The value of a resistor is in direct proportion to its power handling capabilities.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Heat produced by a resistor is generally a desirable effect.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Power is a measure of how fast current is flowing.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq3_1005_1.gifIf the current in the given circuit is increased to 24 mA, the source voltage must have tripled.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Generally, increasing the resistance in a circuit will decrease the current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If the voltage across a resistor ___, the current flowing through it will increase.\r\n\r\n",
+        "a": "increases",
+        "b": "decreases",
+        "c": "stays the same",
+        "d": "Not enough information",
+        "answer": "increases"
+    },
+    {
+        "question": "The voltage across a ___ resistor is 12 V and the current through it is 500 uA.\r\n\r\n",
+        "a": "600 ohm",
+        "b": "2.4 k ohm",
+        "c": "6 k ohm",
+        "d": "24 k ohm",
+        "answer": "24 k ohm"
+    },
+    {
+        "question": "fbq3_1005_1.gifThe voltage supplying the current in the given circuit is _____.\r\n\r\n",
+        "a": "2.5 V",
+        "b": "25 V",
+        "c": "250 V",
+        "d": "2.5 kV",
+        "answer": "25 V"
+    },
+    {
+        "question": "The voltage across a ohm resistor is ___ if 3 mA of current is flowing through it.\r\n\r\n",
+        "a": "6.6 V",
+        "b": "7.33 V",
+        "c": "1.4 V",
+        "d": "0.8 V",
+        "answer": "6.6 V"
+    },
+    {
+        "question": "fbq3_1009_1a.gifThe power rating for the resistor in the given circuit should be at least ___.\r\n\r\n",
+        "a": "1\/4 W",
+        "b": "1\/2 W",
+        "c": "1 W",
+        "d": "2 W",
+        "answer": "1\/2 W"
+    },
+    {
+        "question": "The ___ rating of a resistor will increase with an increase in the surface area of the resistor.\r\n\r\n",
+        "a": "resistance",
+        "b": "current",
+        "c": "power",
+        "d": "voltage",
+        "answer": "power"
+    },
+    {
+        "question": "The number of joules used in 1 second is always equal to the number of _______.\r\n\r\n",
+        "a": "siemens",
+        "b": "coulombs",
+        "c": "amperes",
+        "d": "watts",
+        "answer": "watts"
+    },
+    {
+        "question": "The power is ___ if 200 J of energy are used in 10 s.\r\n\r\n",
+        "a": "2 W",
+        "b": "5 W",
+        "c": "20 W",
+        "d": "50 W",
+        "answer": "20 W"
+    },
+    {
+        "question": "fbq3_1009_1b.gifThe power rating for the resistor in the given circuit should be at least ______.\r\n\r\n",
+        "a": "1\/4 W",
+        "b": "1\/2 W",
+        "c": "1 W",
+        "d": "2 W",
+        "answer": "2 W"
+    },
+    {
+        "question": "Resistance and current are _________.\r\n\r\n",
+        "a": "directly proportional",
+        "b": "inversely proportional",
+        "c": "not related",
+        "d": "similar to voltage",
+        "answer": "inversely proportional"
+    },
+    {
+        "question": "___ is a better way of expressing 7,500,000 W.\r\n\r\n",
+        "a": "7.5 kW",
+        "b": "7,500 MW",
+        "c": "7,500 GW",
+        "d": "7.5 MW",
+        "answer": "7.5 MW"
+    },
+    {
+        "question": "The current is ___ if the voltage across a 5 k ohm resistor is 25 V.\r\n\r\n",
+        "a": "200 mA",
+        "b": "125 mA",
+        "c": "75 mA",
+        "d": "5 mA",
+        "answer": "5 mA"
+    }
+]

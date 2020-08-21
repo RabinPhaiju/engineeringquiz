@@ -1,0 +1,234 @@
+[
+    {
+        "question": "Which of the following is the correct order of evaluation for the below expression?\r\nz = x + y * z \/ 4 % 2 - 1",
+        "a": "* \/ % + - =",
+        "b": "= * \/ % + -",
+        "c": "\/ * % - + =",
+        "d": "* % \/ - + =",
+        "answer": "* \/ % + - ="
+    },
+    {
+        "question": "Which of the following correctly shows the hierarchy of arithmetic operations in C?\r\n\r\n",
+        "a": "\/ + * -",
+        "b": "* - \/ +",
+        "c": "+ - \/ *",
+        "d": "\/ * + -",
+        "answer": "\/ * + -"
+    },
+    {
+        "question": "Which of the following is the correct usage of conditional operators used in C?\r\n\r\n",
+        "a": "a>b ? c=30 : c=40;",
+        "b": "a>b ? c=30;",
+        "c": "max = a>b ? a>c?a:c:b>c?b:c",
+        "d": "return (a>b)?(a:b)",
+        "answer": "max = a>b ? a>c?a:c:b>c?b:c"
+    },
+    {
+        "question": "Which of the following is the correct order if calling functions in the below code?\r\na = f1(23, 14) * f2(12\/4) + f3();",
+        "a": "f1, f2, f3",
+        "b": "f3, f2, f1",
+        "c": "Order may vary from compiler to compiler",
+        "d": "None of above",
+        "answer": "Order may vary from compiler to compiler"
+    },
+    {
+        "question": "Which of the following are unary operators in C?\r\n1.\t!\r\n2.\tsizeof\r\n3.\t~\r\n4.\t&&",
+        "a": "1, 2",
+        "b": "1, 3",
+        "c": "2, 4",
+        "d": "1, 2, 3",
+        "answer": "1, 2, 3"
+    },
+    {
+        "question": "In which order do the following gets evaluated\r\n1.\tRelational\r\n2.\tArithmetic\r\n3.\tLogical\r\n4.\tAssignment\r\n",
+        "a": "2134",
+        "b": "1234",
+        "c": "4321",
+        "d": "3214",
+        "answer": "2134"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=-3, j=2, k=0, m;\r\n    m = ++i && ++j && ++k;\r\n    printf(\"%d, %d, %d, %d\\n\", i, j, k, m);\r\n    return 0;\r\n}",
+        "a": "-2, 3, 1, 1",
+        "b": "2, 3, 1, 2",
+        "c": "1, 2, 3, 1",
+        "d": "3, 3, 1, 2",
+        "answer": "-2, 3, 1, 1"
+    },
+    {
+        "question": "Assuming, integer is 2 byte, What will be the output of the program?\r\n#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    printf(\"%x\\n\", -2<<2);\r\n    return 0;\r\n}",
+        "a": "ffff",
+        "b": "0",
+        "c": "fff8",
+        "d": "Error",
+        "answer": "fff8"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=-3, j=2, k=0, m;\r\n    m = ++i || ++j && ++k;\r\n    printf(\"%d, %d, %d, %d\\n\", i, j, k, m);\r\n    return 0;\r\n}",
+        "a": "2, 2, 0, 1",
+        "b": "1, 2, 1, 0",
+        "c": "-2, 2, 0, 0",
+        "d": "-2, 2, 0, 1",
+        "answer": "-2, 2, 0, 1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int x=12, y=7, z;\r\n    z = x!=4 || y == 2;\r\n    printf(\"z=%d\\n\", z);\r\n    return 0;\r\n}",
+        "a": "z=0",
+        "b": "z=1",
+        "c": "z=4",
+        "d": "z=2",
+        "answer": "z=1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    static int a[20];\r\n    int i = 0;\r\n    a[i] = i  ;\r\n    printf(\"%d, %d, %d\\n\", a[0], a[1], i);\r\n    return 0;\r\n}",
+        "a": "1, 0, 1",
+        "b": "1, 1, 1",
+        "c": "0, 0, 0",
+        "d": "0, 1, 0",
+        "answer": "0, 0, 0"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=4, j=-1, k=0, w, x, y, z;\r\n    w = i || j || k;\r\n    x = i && j && k;\r\n    y = i || j &&k;\r\n    z = i && j || k;\r\n    printf(\"%d, %d, %d, %d\\n\", w, x, y, z);\r\n    return 0;\r\n}",
+        "a": "1, 1, 1, 1",
+        "b": "1, 1, 0, 1",
+        "c": "1, 0, 0, 1",
+        "d": "1, 0, 1, 1",
+        "answer": "1, 0, 1, 1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=-3, j=2, k=0, m;\r\n    m = ++i && ++j || ++k;\r\n    printf(\"%d, %d, %d, %d\\n\", i, j, k, m);\r\n    return 0;\r\n}",
+        "a": "1, 2, 0, 1",
+        "b": "-3, 2, 0, 1",
+        "c": "-2, 3, 0, 1",
+        "d": "2, 3, 1, 1",
+        "answer": "-2, 3, 0, 1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int x=4, y, z;\r\n    y = --x;\r\n    z = x--;\r\n    printf(\"%d, %d, %d\\n\", x, y, z);\r\n    return 0;\r\n}",
+        "a": "4, 3, 3",
+        "b": "4, 3, 2",
+        "c": "3, 3, 2",
+        "d": "2, 3, 3",
+        "answer": "2, 3, 3"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=3;\r\n    i = i++;\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}",
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6",
+        "answer": "4"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a=100, b=200, c;\r\n    c = (a == 100 || b > 200);\r\n    printf(\"c=%d\\n\", c);\r\n    return 0;\r\n}",
+        "a": "c=100",
+        "b": "c=200",
+        "c": "c=1",
+        "d": "c=300",
+        "answer": "c=1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int x=55;\r\n    printf(\"%d, %d, %d\\n\", x<=55, x=40, x>=10);\r\n    return 0;\r\n}",
+        "a": "1, 40, 1",
+        "b": "1, 55, 1",
+        "c": "1, 55, 0",
+        "d": "1, 1, 1",
+        "answer": "1, 40, 1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=2;\r\n    printf(\"%d, %d\\n\", ++i, ++i);\r\n    return 0;\r\n}",
+        "a": "3, 4",
+        "b": "4, 3",
+        "c": "4, 4",
+        "d": "Output may vary from compiler to compiler",
+        "answer": "Output may vary from compiler to compiler"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int k, num=30;\r\n    k = (num>5 ? (num <=10 ? 100 : 200): 500);\r\n    printf(\"%d\\n\", num);\r\n    return 0;\r\n}",
+        "a": "200",
+        "b": "30",
+        "c": "100",
+        "d": "500",
+        "answer": "30"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char ch;\r\n    ch = 'A';\r\n    printf(\"The letter is\");\r\n    printf(\"%c\", ch >= 'A' && ch <= 'Z' ? ch + 'a' - 'A':ch);\r\n    printf(\"Now the letter is\");\r\n    printf(\"%c\\n\", ch >= 'A' && ch <= 'Z' ? ch : ch + 'a' - 'A');\r\n    return 0;\r\n}",
+        "a": "The letter is a Now the letter is A",
+        "b": "The letter is A Now the letter is a",
+        "c": "Error",
+        "d": "None of above",
+        "answer": "The letter is a Now the letter is A"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=2;\r\n    int j = i + (1, 2, 3, 4, 5);\r\n    printf(\"%d\\n\", j);\r\n    return 0;\r\n}",
+        "a": "4",
+        "b": "7",
+        "c": "6",
+        "d": "5",
+        "answer": "7"
+    },
+    {
+        "question": "Associativity has no role to play unless the precedence of operator is same.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The expression of the right hand side of || operators doesn't get evaluated if the left hand side determines the outcome.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In the expression a=b=5 the order of Assignment is NOT decided by Associativity of operators\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Associativity of an operator is either Left to Right or Right to Left.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Are the following two statement same?\r\n1.\ta <= 20 ? (b = 30): (c = 30);\r\n2.\t(a <=20) ? b : (c = 30);",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Two different operators would always have different Associativity.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the expression *p = p be disallowed by the compiler?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Every operator has an Associativity\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    }
+]

@@ -1,0 +1,666 @@
+[
+    {
+        "question": "What is the color code for a 220 omega.gif 5% resistor?\r\n\r\n",
+        "a": "Red, Red, Brown, Gold",
+        "b": "Orange, Orange, Black, Gold",
+        "c": "Red, Red, Black, Gold",
+        "d": "Red, Red, Brown, Silver",
+        "answer": "Red, Red, Brown, Gold"
+    },
+    {
+        "question": "If 60 J of energy are available for every 15 C of charge, what is the voltage?\r\n\r\n",
+        "a": "4 V",
+        "b": "60 V",
+        "c": "15 V",
+        "d": "0.25 V",
+        "answer": "4 V"
+    },
+    {
+        "question": "An atom's atomic number is determined by the number of:\r\n\r\n",
+        "a": "neutrons minus protons",
+        "b": "protons",
+        "c": "electrons",
+        "d": "neutrons",
+        "answer": "protons"
+    },
+    {
+        "question": "A voltage will influence current only if the circuit is:\r\n\r\n",
+        "a": "open",
+        "b": "insulated",
+        "c": "high resistance",
+        "d": "closed",
+        "answer": "closed"
+    },
+    {
+        "question": "Which resistive component is designed to be temperature sensitive?\r\n\r\n",
+        "a": "Thermistor",
+        "b": "Rheostat",
+        "c": "Potentiometer",
+        "d": "Photoconductive cell",
+        "answer": "Thermistor"
+    },
+    {
+        "question": "Primary batteries, unlike secondary batteries, may be:\r\n\r\n",
+        "a": "charged once",
+        "b": "used once",
+        "c": "recharged over and over",
+        "d": "stored indefinitely",
+        "answer": "used once"
+    },
+    {
+        "question": "In practical applications, battery voltage:\r\n\r\n",
+        "a": "is restored as soon as disconnect occurs",
+        "b": "is lowered as the load increases",
+        "c": "may be stored indefinitely",
+        "d": "will be reduced to zero as power is drawn",
+        "answer": "is lowered as the load increases"
+    },
+    {
+        "question": "The negative and positive charge symbols are assigned (in that order) to the:\r\n\r\n",
+        "a": "proton and electron",
+        "b": "electron and proton",
+        "c": "atom and nucleus",
+        "d": "electron and element",
+        "answer": "electron and proton"
+    },
+    {
+        "question": "A voltmeter is used:\r\n\r\n",
+        "a": "to measure current",
+        "b": "in series with the circuit",
+        "c": "in parallel with the circuit",
+        "d": "to measure coulombs",
+        "answer": "in parallel with the circuit"
+    },
+    {
+        "question": "If the current in a circuit equals 0 A, it is likely that the\r\n\r\n",
+        "a": "voltage is too high",
+        "b": "resistance is too low",
+        "c": "circuit has a short",
+        "d": "circuit is open",
+        "answer": "circuit is open"
+    },
+    {
+        "question": "What are the unit and symbol for current?\r\n\r\n",
+        "a": "Ampere, A",
+        "b": "Coulomb, I",
+        "c": "Ampere, Q",
+        "d": "Ampere, I",
+        "answer": "Ampere, I"
+    },
+    {
+        "question": "Which part of an atom has no electrical charge?\r\n\r\n",
+        "a": "Electron",
+        "b": "Neutron",
+        "c": "Proton",
+        "d": "All of the above",
+        "answer": "Neutron"
+    },
+    {
+        "question": "Which voltage source converts chemical energy to electrical energy?\r\n\r\n",
+        "a": "Electrical generator",
+        "b": "Battery",
+        "c": "Solar cell",
+        "d": "Electronic power supply",
+        "answer": "Battery"
+    },
+    {
+        "question": "An example of potential energy is:\r\n\r\n",
+        "a": "tea-kettle steam",
+        "b": "a moving vehicle",
+        "c": "the sun",
+        "d": "a battery",
+        "answer": "a battery"
+    },
+    {
+        "question": "If 40 C of charge flow past a point in 20 s, what is the current?\r\n\r\n",
+        "a": "2 A",
+        "b": "0.5 A",
+        "c": "20 A",
+        "d": "40 A",
+        "answer": "2 A"
+    },
+    {
+        "question": "Batteries differ from fuel cells in that\r\n\r\n",
+        "a": "a battery is a closed system",
+        "b": "a battery uses hydrogen and oxygen to create electricity",
+        "c": "a battery uses a polymer electrolyte membrane",
+        "d": "none of the above",
+        "answer": "a battery is a closed system"
+    },
+    {
+        "question": "The removal of a non-neutral subatomic particle converts the atom into a:\r\n\r\n",
+        "a": "charged ion",
+        "b": "nucleus",
+        "c": "heavier element",
+        "d": "compound",
+        "answer": "charged ion"
+    },
+    {
+        "question": "One coulomb passing a point in one second is one:\r\n\r\n",
+        "a": "ampere",
+        "b": "volt",
+        "c": "ohm",
+        "d": "charge",
+        "answer": "ampere"
+    },
+    {
+        "question": "In which states may matter may be found?\r\n\r\n",
+        "a": "solid, liquid, or mineral",
+        "b": "solid, gas, or liquid",
+        "c": "mineral, gas, or liquid",
+        "d": "plastic, solid, or gas",
+        "answer": "solid, gas, or liquid"
+    },
+    {
+        "question": "Material that consists of a mixture of elements is considered to be:\r\n\r\n",
+        "a": "an element",
+        "b": "an ion",
+        "c": "a compound",
+        "d": "a molecule",
+        "answer": "a compound"
+    },
+    {
+        "question": "How many valence shell electrons are there in semiconductor atoms?\r\n\r\n",
+        "a": "16",
+        "b": "8",
+        "c": "4",
+        "d": "2",
+        "answer": "4"
+    },
+    {
+        "question": "When considering conventional current versus electron current flow:\r\n\r\n",
+        "a": "electron current flow came first",
+        "b": "protons move in conventional current flow",
+        "c": "conventional current flow came first",
+        "d": "the direction of current is the same in both methods",
+        "answer": "conventional current flow came first"
+    },
+    {
+        "question": "Which unit of charge contains 6.25 \u00d7 10^18 electrons?\r\n\r\n",
+        "a": "An ampere",
+        "b": "A coulomb",
+        "c": "A volt",
+        "d": "A joule",
+        "answer": "A coulomb"
+    },
+    {
+        "question": "A switch is a device that:\r\n\r\n",
+        "a": "short circuits complex circuits",
+        "b": "holds a fuse",
+        "c": "has double poles",
+        "d": "opens or completes a current path",
+        "answer": "opens or completes a current path"
+    },
+    {
+        "question": "The term used to designate electrical pressure is:\r\n\r\n",
+        "a": "voltage",
+        "b": "current",
+        "c": "resistance",
+        "d": "conductance",
+        "answer": "voltage"
+    },
+    {
+        "question": "Which electronics material opposes the movement of free electrons?\r\n\r\n",
+        "a": "Conductor",
+        "b": "Insulator",
+        "c": "Semiconductor",
+        "d": "Element",
+        "answer": "Insulator"
+    },
+    {
+        "question": "Current is considered as the movement of:\r\n\r\n",
+        "a": "electrons",
+        "b": "protons",
+        "c": "charge",
+        "d": "nuclei",
+        "answer": "electrons"
+    },
+    {
+        "question": "A lead-acid battery is an example of a\r\n\r\n",
+        "a": "solar cell",
+        "b": "fuel cell",
+        "c": "primary battery",
+        "d": "secondary battery",
+        "answer": "secondary battery"
+    },
+    {
+        "question": "The charge of one coulomb is equal to:\r\n\r\n",
+        "a": "6.24 x 10^\u221218 electrons",
+        "b": "ampere",
+        "c": "one second",
+        "d": "6.24 x 10^18 electrons",
+        "answer": "6.24 x 10^18 electrons"
+    },
+    {
+        "question": "A basic electric circuit is made up of what components?\r\n\r\n",
+        "a": "A load, a resistor, and a conductive path for current",
+        "b": "A voltage source, a load, and a conductive path for current",
+        "c": "A voltage source, a conductive path for current, and a battery",
+        "d": "A conductive path for current, a battery, and a copper wire",
+        "answer": "A voltage source, a load, and a conductive path for current"
+    },
+    {
+        "question": "An ammeter is used to measure\r\n\r\n",
+        "a": "voltage",
+        "b": "current",
+        "c": "resistance",
+        "d": "All of the above",
+        "answer": "current"
+    },
+    {
+        "question": "What is the name of the pressure that moves electrons in a closed circuit?\r\n\r\n",
+        "a": "amperes",
+        "b": "ohms",
+        "c": "voltage",
+        "d": "coulombs",
+        "answer": "voltage"
+    },
+    {
+        "question": "What is a characteristic of a secondary cell?\r\n\r\n",
+        "a": "rechargeability",
+        "b": "not rechargeable",
+        "c": "a dry cell",
+        "d": "non-liquid",
+        "answer": "rechargeability"
+    },
+    {
+        "question": "What are the basic building blocks that all matter is composed of?\r\n\r\n",
+        "a": "electrons, neutrons, and protons",
+        "b": "two protons for each neutron",
+        "c": "two protons for each electron",
+        "d": "electrons, neutrons, and charged ions",
+        "answer": "electrons, neutrons, and protons"
+    },
+    {
+        "question": "If a fluid system is compared to an electrical system, the fluid pump will correspond to a:\r\n\r\n",
+        "a": "conductor",
+        "b": "lamp",
+        "c": "battery",
+        "d": "insulator",
+        "answer": "battery"
+    },
+    {
+        "question": "An element is a substance that is:\r\n\r\n",
+        "a": "varied throughout the entire piece",
+        "b": "used only in electronics",
+        "c": "electrically charged",
+        "d": "found only in its pure form",
+        "answer": "found only in its pure form"
+    },
+    {
+        "question": "Current is:\r\n\r\n",
+        "a": "the presence of a positive charge",
+        "b": "the abundance of electrons",
+        "c": "the movement of electrons",
+        "d": "the movement of electrons",
+        "answer": "the repulsion of electrons"
+    },
+    {
+        "question": "What do you call a diagram that shows the electrical connections of a circuit's components?\r\n\r\n",
+        "a": "A schematic diagram",
+        "b": "A pictorial diagram",
+        "c": "A block diagram",
+        "d": "An electrical diagram",
+        "answer": "A schematic diagram"
+    },
+    {
+        "question": "A short circuit will have:\r\n\r\n",
+        "a": "a small current flow",
+        "b": "a large current flow",
+        "c": "no current flow",
+        "d": "some current flow",
+        "answer": "a large current flow"
+    },
+    {
+        "question": "The basic difference between a fuse and a circuit breaker is\r\n\r\n",
+        "a": "a fuse is slower",
+        "b": "a fuse is reusable",
+        "c": "a circuit breaker is reusable",
+        "d": "a circuit breaker is more reliable",
+        "answer": "a circuit breaker is reusable"
+    },
+    {
+        "question": "Which is the smallest?\r\n\r\n",
+        "a": "atom",
+        "b": "proton",
+        "c": "neutron",
+        "d": "electron",
+        "answer": "electron"
+    },
+    {
+        "question": "A secondary cell generates dc via chemical activity; a primary cell generates dc:\r\n\r\n",
+        "a": "electrically",
+        "b": "thermally",
+        "c": "optically",
+        "d": "chemically",
+        "answer": "chemically"
+    },
+    {
+        "question": "Which of the following statements is true?\r\n\r\n",
+        "a": "Unlike charges repel and like charges attract.",
+        "b": "Like charges repel and unlike charges attract.",
+        "c": "Unlike charges attract and like charges attract.",
+        "d": "Like charges repel and unlike charges repel.",
+        "answer": "Like charges repel and unlike charges attract."
+    },
+    {
+        "question": "If an electrical system is compared to a fluid system, the electrical current corresponds to the:\r\n\r\n",
+        "a": "pressure",
+        "b": "pump",
+        "c": "water wheel",
+        "d": "water flow",
+        "answer": "water flow"
+    },
+    {
+        "question": "The shell that is closest to the nucleus of an atom can contain a maximum of two electrons.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "One coulomb of charge passing a point in one second is one ampere of current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The unit of measurement for conductance is the coulomb.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An electron is the smallest subatomic particle of negative charge that orbits the nucleus of the atom.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A multimeter measures only voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "In the eighteenth and nineteenth centuries conventional current flow was routinely used.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Voltage is the driving force that establishes the flow of current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A resistor color coded with brown, black, and orange bands has a value of 10 ohm.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A conductor will not carry current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The abundance of electrons would imply a negative charge.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The atomic number is the number of neutrons in the nucleus of an atom.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Charges of the same polarity tend to attract one another.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The atomic number of an atom equals the number of electrons orbiting the nucleus.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A normally open push-button switch can carry current when not pushed.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Switches are either on or off, but can have multiple poles.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The movement of electrons between two points is called voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Electrons flow from negative to positive when a voltage is applied across a conductor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The symbol that represents electrical charge is Q.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "All conductors have some resistance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Resistance is the pressure that causes current to flow.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The potential difference between two points is called voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An open circuit allows current to flow.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Switches are used to open and close paths for current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Carbon is a semiconductor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The unit for voltage is the ___ and the symbol for voltage is ___.\r\n\r\n",
+        "a": "joule, V",
+        "b": "coulomb, J",
+        "c": "volt, Q",
+        "d": "volt, V",
+        "answer": "volt, V"
+    },
+    {
+        "question": "A connection to the frame of a piece of electronic equipment is sometimes referred to as ___ ground.\r\n\r\n",
+        "a": "a chassis",
+        "b": "an earth",
+        "c": "a circuit",
+        "d": "either chassis or circuit",
+        "answer": "either chassis or circuit"
+    },
+    {
+        "question": "Fuses and circuit breakers are designed to ___ when excessive current flows.\r\n\r\n",
+        "a": "buzz",
+        "b": "illuminate",
+        "c": "close",
+        "d": "open",
+        "answer": "open"
+    },
+    {
+        "question": "The capacity of a battery cell is measured by the amount of __________ that can be supplied over time.\r\n\r\n",
+        "a": "current",
+        "b": "voltage",
+        "c": "coulombs",
+        "d": "joules",
+        "answer": "current"
+    },
+    {
+        "question": "A rheostat is ___.\r\n\r\n",
+        "a": "a three-terminal device that controls current",
+        "b": "a two-terminal device that controls current",
+        "c": "a two-terminal device that divides voltage",
+        "d": "a three-terminal device that divides voltage",
+        "answer": "a two-terminal device that controls current"
+    },
+    {
+        "question": "If an electronic component fails by developing an open circuit, the current will __________.\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "cease",
+        "d": "not change",
+        "answer": "cease"
+    },
+    {
+        "question": "___ make electric current possible.\r\n\r\n",
+        "a": "Protons",
+        "b": "Neutrons",
+        "c": "Shells",
+        "d": "Free electrons",
+        "answer": "Free electrons"
+    },
+    {
+        "question": "The ___ is placed in series with the flow of current.\r\n\r\n",
+        "a": "voltmeter",
+        "b": "ammeter",
+        "c": "ohmmeter",
+        "d": "wattmeter",
+        "answer": "ammeter"
+    },
+    {
+        "question": "The ___ represents a negative charge in an atom.\r\n\r\n",
+        "a": "electron",
+        "b": "proton",
+        "c": "neutron",
+        "d": "None of the above",
+        "answer": "electron"
+    },
+    {
+        "question": "An atom of a semiconductor has _______________ electrons in the valence shell.\r\n\r\n",
+        "a": "4",
+        "b": "8",
+        "c": "2",
+        "d": "0",
+        "answer": "4"
+    },
+    {
+        "question": "An atom with more electrons than protons is ___.\r\n\r\n",
+        "a": "a positive ion",
+        "b": "a balanced atom",
+        "c": "a negative ion",
+        "d": "not possible",
+        "answer": "a negative ion"
+    },
+    {
+        "question": "All resistors can be placed into one of two main categories: ___ or ___.\r\n\r\n",
+        "a": "carbon film, metal film",
+        "b": "fixed, variable",
+        "c": "wire wound, carbon-composition",
+        "d": "insulator, semiconductor",
+        "answer": "fixed, variable"
+    },
+    {
+        "question": "Voltage is _________.\r\n\r\n",
+        "a": "the opposition to the flow of current",
+        "b": "the movement of free electrons",
+        "c": "the force that exists between charged particles",
+        "d": "the force that causes water to flow",
+        "answer": "the force that exists between charged particles"
+    },
+    {
+        "question": "A ___ resistor has color bands of yellow, violet, yellow, gold.\r\n\r\n",
+        "a": "470 ohm 5%",
+        "b": "5.7 M ohm 5%",
+        "c": "37 k omega.gif 5%",
+        "d": "470 k ohm 5%",
+        "answer": "470 k ohm 5%"
+    },
+    {
+        "question": "The unit for resistance is the ___ and the symbol for resistance is ___.\r\n\r\n",
+        "a": "ampere, R",
+        "b": "ohm, R",
+        "c": "volt, Q",
+        "d": "ohm, J",
+        "answer": "ohm, R"
+    }
+]

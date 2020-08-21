@@ -1,0 +1,266 @@
+[
+    {
+        "question": "When referring to instruction words, a mnemonic is:\r\n\r\n",
+        "a": "a short abbreviation for the operand address",
+        "b": "a short abbreviation for the operation to be performed",
+        "c": "a short abbreviation for the data word stored at the operand address",
+        "d": "shorthand for machine language",
+        "answer": "a short abbreviation for the operation to be performed"
+    },
+    {
+        "question": "What is the difference between mnemonic codes and machine codes?\r\n\r\n",
+        "a": "There is no difference.",
+        "b": "Machine codes are in binary, mnemonic codes are in shorthand English.",
+        "c": "Machine codes are in shorthand English, mnemonic codes are in binary.",
+        "d": "Machine codes are in shorthand English, mnemonic codes are a high-level language.",
+        "answer": "Machine codes are in binary, mnemonic codes are in shorthand English."
+    },
+    {
+        "question": "Which bus is bidirectional?\r\n\r\n",
+        "a": "data bus",
+        "b": "control bus",
+        "c": "address bus",
+        "d": "multiplexed bus",
+        "answer": "data bus"
+    },
+    {
+        "question": "The software used to drive microprocessor-based systems is called:\r\n\r\n",
+        "a": "assembly language programs",
+        "b": "firmware",
+        "c": "BASIC interpreter instructions",
+        "d": "flowchart instructions",
+        "answer": "assembly language programs"
+    },
+    {
+        "question": "A microprocessor unit, a memory unit, and an input\/output unit form a:\r\n\r\n",
+        "a": "CPU",
+        "b": "compiler",
+        "c": "microcomputer",
+        "d": "ALU",
+        "answer": "microcomputer"
+    },
+    {
+        "question": "How many buses are connected as part of the 8085 microprocessor?\r\n\r\n",
+        "a": "2",
+        "b": "3",
+        "c": "5",
+        "d": "8",
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following is not a computer bus?\r\n\r\n",
+        "a": "data bus",
+        "b": "timer bus",
+        "c": "control bus",
+        "d": "address bus",
+        "answer": "timer bus"
+    },
+    {
+        "question": "The technique of assigning a memory address to each I\/O device in the SAM system is called:\r\n\r\n",
+        "a": "wired I\/O",
+        "b": "I\/O mapping",
+        "c": "dedicated I\/O",
+        "d": "memory-mapped I\/O",
+        "answer": "memory-mapped I\/O"
+    },
+    {
+        "question": "How many bits are used in the data bus?\r\n\r\n",
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "16",
+        "answer": "8"
+    },
+    {
+        "question": "A port can be:\r\n\r\n",
+        "a": "strictly for input",
+        "b": "strictly for output",
+        "c": "bidirectional",
+        "d": "all the above",
+        "answer": "bidirectional"
+    },
+    {
+        "question": "Which of the following is not a basic element within the microprocessor?\r\n\r\n",
+        "a": "microcontroller",
+        "b": "arithmetic-logic unit (ALU)",
+        "c": "temporary register",
+        "d": "accumulator",
+        "answer": "microcontroller"
+    },
+    {
+        "question": "How many bits are used in the address bus?\r\n\r\n",
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "16",
+        "answer": "16"
+    },
+    {
+        "question": "Exceptions to the 8085 microprocessor normal operation are called:\r\n\r\n",
+        "a": "jump instructions",
+        "b": "decoding",
+        "c": "interrupts",
+        "d": "jump instructions or interrupts",
+        "answer": "jump instructions or interrupts"
+    },
+    {
+        "question": "It takes two memory locations (16 bits each) to store an address in the 8085 system.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A compiler is a translation program that converts high-level instructions into a set of binary instructions (machine code) for execution.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The control bus and memories share a bidirectional bus in a typical microprocessor system.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The language understood by the microprocessor is called assembly language.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A machine cycle is the time it takes a microprocessor to fetch and execute a complete instruction.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An address bus is also called a unidirectional bus.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A coprocessor is a microprocessor designed with a limited instruction set optimized to perform arithmetic operations very quickly.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "To keep the number of IC pins to a minimum, the 8085 uses a multiplexed bus.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Machine language is independent of the type of microprocessor in a computer system.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A mnemonic is an English-like instruction that is converted by an assembler into a machine code for use by a processor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A register in the microprocessor that keeps track of the answer or results of any arithmetic or logic operation is the _________.\r\n\r\n",
+        "a": "stack pointer",
+        "b": "program counter",
+        "c": "instruction pointer",
+        "d": "accumulator",
+        "answer": "accumulator"
+    },
+    {
+        "question": "The __________ program is used to convert mnemonic code to machine code.\r\n\r\n",
+        "a": "debug",
+        "b": "C++",
+        "c": "fortran",
+        "d": "assembler",
+        "answer": "assembler"
+    },
+    {
+        "question": "A(n) ________________ is the time it takes a microprocessor to fetch and execute a complete instruction.\r\n\r\n",
+        "a": "instruction cycle",
+        "b": "machine cycle",
+        "c": "timing cycle",
+        "d": "write cycle",
+        "answer": "instruction cycle"
+    },
+    {
+        "question": "The ________ is the \"brains\" of every microcomputer.\r\n\r\n",
+        "a": "ROM",
+        "b": "ALU",
+        "c": "CPU",
+        "d": "MPU",
+        "answer": "CPU"
+    },
+    {
+        "question": "The circuits in the 8085 that provide the arithmetic and logic functions are called the __________.\r\n\r\n",
+        "a": "CPU",
+        "b": "ALU",
+        "c": "I\/O",
+        "d": "bus decoder",
+        "answer": "ALU"
+    },
+    {
+        "question": "Since microprocessor CPUs do not understand mnemonics as they are, they have to be converted into __________.\r\n\r\n",
+        "a": "hexadecimal machine code",
+        "b": "high-level language",
+        "c": "assembly language",
+        "d": "hexadecimal machine code and assembly language",
+        "answer": "hexadecimal machine code"
+    },
+    {
+        "question": "A program that contains nothing but strings of zeros and ones is called a(n) ________.\r\n\r\n",
+        "a": "machine language program",
+        "b": "assembly language program",
+        "c": "interpreted program",
+        "d": "binary language program",
+        "answer": "machine language program"
+    },
+    {
+        "question": "The register in the 8085 microprocessor that is used to keep track of the memory address of the next opcode to be run in the program is the ________.\r\n\r\n",
+        "a": "stack pointer",
+        "b": "program counter",
+        "c": "instruction pointer",
+        "d": "accumulator",
+        "answer": "program counter"
+    },
+    {
+        "question": "All computer programs for a machine are called ________.\r\n\r\n",
+        "a": "software",
+        "b": "firmware",
+        "c": "hardware",
+        "d": "none of the above",
+        "answer": "software"
+    },
+    {
+        "question": "The first part of a machine language instruction that specifies the operation to be performed is called a(n) __________.\r\n\r\n",
+        "a": "mnemonic",
+        "b": "opcode",
+        "c": "interrupt",
+        "d": "instruction cycle",
+        "answer": "opcode"
+    }
+]

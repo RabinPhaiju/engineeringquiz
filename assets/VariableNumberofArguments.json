@@ -1,0 +1,186 @@
+[
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nvoid fun(char *msg, ...);\r\nint main()\r\n{\r\n    fun(\"NepalBIX\", 1, 4, 7, 11, 0);\r\n    return 0;\r\n}\r\nvoid fun(char *msg, ...)\r\n{\r\n    va_list ptr;\r\n    int num;\r\n    va_start(ptr, msg);\r\n    num = va_arg(ptr, int);\r\n    num = va_arg(ptr, int);\r\n    printf(\"%d\", num);\r\n}",
+        "a": "NepalBIX 1 7 11 0",
+        "b": "1",
+        "c": "4",
+        "d": "7",
+        "answer": "4"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nvoid fun1(int num, ...);\r\nvoid fun2(int num, ...);\r\nint main()\r\n{\r\n    fun1(1, \"Apple\", \"Boys\", \"Cats\", \"Dogs\");\r\n    fun2(2, 12, 13, 14);\r\n    return 0;\r\n}\r\nvoid fun1(int num, ...)\r\n{\r\n    char *str;\r\n    va_list ptr;\r\n    va_start(ptr, num);\r\n    str = va_arg(ptr, char *);\r\n    printf(\"%s \", str);\r\n}\r\nvoid fun2(int num, ...)\r\n{\r\n    va_list ptr;\r\n    va_start(ptr, num);\r\n    num = va_arg(ptr, int);\r\n    printf(\"%d\", num);\r\n}",
+        "a": "Dogs 12",
+        "b": "Cats 14",
+        "c": "Boys 13",
+        "d": "Apple 12",
+        "answer": "Apple 12"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nfun(...);\r\nint main()\r\n{\r\n    fun(3, 7, -11.2, 0.66);\r\n    return 0;\r\n}\r\nfun(...)\r\n{\r\n    va_list ptr;\r\n    int num;\r\n    va_start(ptr, n);\r\n    num = va_arg(ptr, int);\r\n    printf(\"%d\", num);\r\n}",
+        "a": "Error: fun() needs return type",
+        "b": "Error: ptr Lvalue required",
+        "c": "Error: Invalid declaration of fun(...)",
+        "d": "No error",
+        "answer": "Error: Invalid declaration of fun(...)"
+    },
+    {
+        "question": "Point out the error if any in the following program (Turbo C).\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nvoid display(int num, ...);\r\nint main()\r\n{\r\n    display(4, 'A', 'a', 'b', 'c');\r\n    return 0;\r\n}\r\nvoid display(int num, ...)\r\n{\r\n    char c; int j;\r\n    va_list ptr;\r\n    va_start(ptr, num);\r\n    for(j=1; j<=num; j++)\r\n    {\r\n        c = va_arg(ptr, char);\r\n        printf(\"%c\", c);\r\n    }\r\n}",
+        "a": "Error: unknown variable ptr",
+        "b": "Error: Lvalue required for parameter",
+        "c": "No error and print A a b c",
+        "d": "No error and print 4 A a b c",
+        "answer": "No error and print A a b c"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nvoid varfun(int n, ...);\r\nint main()\r\n{\r\n    varfun(3, 7, -11, 0);\r\n    return 0;\r\n}\r\nvoid varfun(int n, ...)\r\n{\r\n    va_list ptr;\r\n    int num;\r\n    num = va_arg(ptr, int);\r\n    printf(\"%d\", num);\r\n}",
+        "a": "Error: ptr has to be set at begining",
+        "b": "Error: ptr must be type of va_list",
+        "c": "Error: invalid access to list member",
+        "d": "No error",
+        "answer": "Error: ptr has to be set at begining"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nint main()\r\n{\r\n    void display(char *s, int num1, int num2, ...);\r\n    display(\"Hello\", 4, 2, 12.5, 13.5, 14.5, 44.0);\r\n    return 0;\r\n}\r\nvoid display(char *s, int num1, int num2, ...)\r\n{\r\n    double c;\r\n    char s;\r\n    va_list ptr;\r\n    va_start(ptr, s);\r\n    c = va_arg(ptr, double);\r\n    printf(\"%f\", c);\r\n}",
+        "a": "Error: invalid arguments in function display()",
+        "b": "Error: too many parameters",
+        "c": "Error: in va_start(ptr, s);",
+        "d": "No error",
+        "answer": "Error: in va_start(ptr, s);"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nint main()\r\n{\r\n    void display(int num, ...);\r\n    display(4, 12.5, 13.5, 14.5, 44.3);\r\n    return 0;\r\n}\r\nvoid display(int num, ...)\r\n{\r\n    float c; int j;\r\n    va_list ptr;\r\n    va_start(ptr, num);\r\n    for(j=1; j<=num; j++)\r\n    {\r\n        c = va_arg(ptr, float);\r\n        printf(\"%f\", c);\r\n    }\r\n}",
+        "a": "Error: invalid va_list declaration",
+        "b": "Error: var c data type mismatch",
+        "c": "No error",
+        "d": "No error and Nothing will print",
+        "answer": "Error: var c data type mismatch"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nvoid display(char *s, ...);\r\nvoid show(char *t, ...);\r\nint main()\r\n{\r\n    display(\"Hello\", 4, 12, 13, 14, 44);\r\n    return 0;\r\n}\r\nvoid display(char *s, ...)\r\n{\r\n    show(s, ...);\r\n}\r\nvoid show(char *t, ...)\r\n{\r\n    int a;\r\n    va_list ptr;\r\n    va_start(ptr, s);\r\n    a = va_arg(ptr, int);\r\n    printf(\"%f\", a);\r\n}",
+        "a": "Error: invalid function display() call",
+        "b": "Error: invalid function show() call",
+        "c": "No error",
+        "d": "Error: Rvalue required for t",
+        "answer": "Error: invalid function show() call"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdarg.h>\r\nvoid varfun(int n, ...);\r\nint main()\r\n{\r\n    varfun(3, 7, -11.2, 0.66);\r\n    return 0;\r\n}\r\nvoid varfun(int n, ...)\r\n{\r\n    float *ptr;\r\n    int num;\r\n    va_start(ptr, n);\r\n    num = va_arg(ptr, int);\r\n    printf(\"%d\", num);\r\n}",
+        "a": "Error: too many parameters",
+        "b": "Error: invalid access to list member",
+        "c": "Error: ptr must be type of va_list",
+        "d": "No error",
+        "answer": "Error: ptr must be type of va_list"
+    },
+    {
+        "question": "The macro va_arg is used to extract an argument from the variable argument list and advance the pointer to the next argument.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a function that receives variable number of arguments the fixed arguments passed to the function can be at the end of argument list.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A function that receives variable number of arguments should use va_arg() to extract arguments from the variable argument list.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "For a function receives variable number of arguments it is necessary that the function should receive at least one fixed argument.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A function that receives variable number of arguments should use va_arg() to extract the last argument from the variable argument list.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "va_list is an array that holds information needed by va_arg and va_end\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The macro va_start is used to initialise a pointer to the beginning of the list of fixed arguments.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Can we pass a variable argument list to a function at run-time?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "While defining a variable argument list function we drop the ellipsis(...)?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Is it necessary that in a function which accepts variable argument list there should be at least be one fixed argument?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Can we write a function that takes a variable argument list and passes the list to another function?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Can the fixed arguments passed to the function that accepts variable argument list, occur at the end?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "It is necessary to call the macro va_end if va_start is called in the function.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "The macro va_arg is used to extract an argument from the fixed micro argument list and advance the pointer to the next argument.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

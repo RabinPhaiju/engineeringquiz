@@ -1,0 +1,362 @@
+[
+    {
+        "question": "Which of the following function sets first n characters of a string to a given character?",
+        "a": "strinit()",
+        "b": "strnset()",
+        "c": "strset()",
+        "d": "strcset()",
+        "answer": "strnset()"
+    },
+    {
+        "question": "If the two strings are identical, then strcmp() function returns\r\n\r\n",
+        "a": "-1",
+        "b": "1",
+        "c": "0",
+        "d": "Yes",
+        "answer": "1"
+    },
+    {
+        "question": "How will you print \\n on the screen?\r\n\r\n",
+        "a": "printf(\"\\n\");",
+        "b": "echo \"\\\\n\";",
+        "c": "printf('\\n');",
+        "d": "printf(\"\\\\n\");",
+        "answer": "printf(\"\\\\n\");"
+    },
+    {
+        "question": "The library function used to find the last occurrence of a character in a string is\r\n\r\n",
+        "a": "strnstr()",
+        "b": "laststr()",
+        "c": "strrchr()",
+        "d": "strstr()",
+        "answer": "strrchr()"
+    },
+    {
+        "question": "Which of the following function is used to find the first occurrence of a given string in another string?\r\n\r\n",
+        "a": "strchr()",
+        "b": "strrchr()",
+        "c": "strstr()",
+        "d": "strnset()",
+        "answer": "strstr()"
+    },
+    {
+        "question": "Which of the following function is more appropriate for reading in a multi-word string?\r\n\r\n",
+        "a": "printf();",
+        "b": "scanf();",
+        "c": "gets();",
+        "d": "puts();",
+        "answer": "gets();"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str1[20] = \"Hello\", str2[20] = \" World\";\r\n    printf(\"%s\\n\", strcpy(str2, strcat(str1, str2)));\r\n    return 0;\r\n}",
+        "a": "Hello",
+        "b": "World",
+        "c": "Hello World",
+        "d": "WorldHello",
+        "answer": "Hello World"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char p[] = \"%d\\n\";\r\n    p[1] = 'c';\r\n    printf(p, 65);\r\n    return 0;\r\n}",
+        "a": "A",
+        "b": "a",
+        "c": "c",
+        "d": "65",
+        "answer": "A"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    printf(\"%d\\n\", strlen(\"123456\"));\r\n    return 0;\r\n}",
+        "a": "6",
+        "b": "12",
+        "c": "7",
+        "d": "2",
+        "answer": "6"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(5+\"Good Morning\\n\");\r\n    return 0;\r\n}",
+        "a": "Good Morning",
+        "b": "Good",
+        "c": "M",
+        "d": "Morning",
+        "answer": "Morning"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str[] = \"Nepal\\0\\BIX\\0\";\r\n    printf(\"%s\\n\", str);\r\n    return 0;\r\n}",
+        "a": "BIX",
+        "b": "Nepal",
+        "c": "Nepal BIX",
+        "d": "Nepal\\0BIX",
+        "answer": "Nepal"
+    },
+    {
+        "question": "What will be the output of the program If characters 'a', 'b' and 'c' enter are supplied as input?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    void fun();\r\n    fun();\r\n    printf(\"\\n\");\r\n    return 0;\r\n}\r\nvoid fun()\r\n{\r\n    char c;\r\n    if((c = getchar())!= '\\n')\r\n        fun();\r\n    printf(\"%c\", c);\r\n}",
+        "a": "abc abc",
+        "b": "bca",
+        "c": "Infinite loop",
+        "d": "cba",
+        "answer": "cba"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"Nepal\", \"BIX\\n\");\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "Nepal BIX",
+        "c": "Nepal",
+        "d": "BIX",
+        "answer": "Nepal"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[7] = \"NepalBIX\";\r\n    printf(\"%s\\n\", str);\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "NepalBIX",
+        "c": "Cannot predict",
+        "d": "None of above",
+        "answer": "Cannot predict"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char *names[] = { \"Suresh\", \"Siva\", \"Sona\", \"Baiju\", \"Ritu\"};\r\n    int i;\r\n    char *t;\r\n    t = names[3];\r\n    names[3] = names[4];\r\n    names[4] = t;\r\n    for(i=0; i<=4; i++)\r\n        printf(\"%s,\", names[i]);\r\n    return 0;\r\n}",
+        "a": "Suresh, Siva, Sona, Baiju, Ritu",
+        "b": "Suresh, Siva, Sona, Ritu, Baiju",
+        "c": "Suresh, Siva, Baiju, Sona, Ritu",
+        "d": "Suresh, Siva, Ritu, Sona, Baiju",
+        "answer": "Suresh, Siva, Sona, Ritu, Baiju"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str[] = \"Nepal\\0\\BIX\\0\";\r\n    printf(\"%d\\n\", strlen(str));\r\n    return 0;\r\n}",
+        "a": "10",
+        "b": "6",
+        "c": "5",
+        "d": "11",
+        "answer": "5"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    static char str1[] = \"dills\";\r\n    static char str2[20];\r\n    static char str3[] = \"Daffo\";\r\n    int i;\r\n    i = strcmp(strcat(str3, strcpy(str2, str1)), \"Daffodills\");\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "4",
+        "answer": "0"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    static char s[] = \"Hello!\";\r\n    printf(\"%d\\n\", *(s+strlen(s)));\r\n    return 0;\r\n}",
+        "a": "8",
+        "b": "0",
+        "c": "16",
+        "d": "Error",
+        "answer": "0"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    static char s[25] = \"The cocaine man\";\r\n    int i=0;\r\n    char ch;\r\n    ch = s[++i];\r\n    printf(\"%c\", ch);\r\n    ch = s[i++];\r\n    printf(\"%c\", ch);\r\n    ch = i++[s];\r\n    printf(\"%c\", ch);\r\n    ch = ++i[s];\r\n    printf(\"%c\", ch);\r\n    return 0;\r\n}",
+        "a": "hhe!",
+        "b": "he c",
+        "c": "The c",
+        "d": "Hhec",
+        "answer": "hhe!"
+    },
+    {
+        "question": "What will be the output of the program in 16-bit platform (Turbo C under DOS) ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"%d, %d, %d\", sizeof(3.0f), sizeof('3'), sizeof(3.0));\r\n    return 0;\r\n}",
+        "a": "8, 1, 4",
+        "b": "4, 2, 8",
+        "c": "4, 2, 4",
+        "d": "10, 3, 4",
+        "answer": "4, 2, 8"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    char a[] = \"\\0\";\r\n    if(printf(\"%s\", a))\r\n        printf(\"The string is empty\\n\");\r\n    else\r\n        printf(\"The string is not empty\\n\");\r\n    return 0;\r\n}",
+        "a": "The string is empty",
+        "b": "The string is not empty",
+        "c": "No output",
+        "d": "0",
+        "answer": "The string is not empty"
+    },
+    {
+        "question": "If char=1, int=4, and float=4 bytes size, What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char ch = 'A';\r\n    printf(\"%d, %d, %d\", sizeof(ch), sizeof('A'), sizeof(3.14f));\r\n    return 0;\r\n}",
+        "a": "1, 2, 4",
+        "b": "1, 4, 4",
+        "c": "2, 2, 4",
+        "d": "2, 4, 8",
+        "answer": "1, 4, 4"
+    },
+    {
+        "question": "If the size of pointer is 32 bits What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char a[] = \"Visual C++\";\r\n    char *b = \"Visual C++\";\r\n    printf(\"%d, %d\\n\", sizeof(a), sizeof(b));\r\n    printf(\"%d, %d\", sizeof(*a), sizeof(*b));\r\n    return 0;\r\n}",
+        "a": "10, 2 2, 2",
+        "b": "10, 4 1, 2",
+        "c": "11, 4 1, 1",
+        "d": "12, 2 2, 2",
+        "answer": "11, 4 1, 1"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    static char mess[6][30] = {\"Don't walk in front of me...\", \r\n                               \"I may not follow;\", \r\n                               \"Don't walk behind me...\", \r\n                               \"Just walk beside me...\", \r\n                               \"And be my friend.\" };\r\n\r\n    printf(\"%c, %c\\n\", *(mess[2]+9), *(*(mess+2)+9));\r\n    return 0;\r\n}",
+        "a": "t, t",
+        "b": "k, k",
+        "c": "n, k",
+        "d": "m, f",
+        "answer": "k, k"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str1[] = \"Hello\";\r\n    char str2[10];\r\n    char *t, *s;\r\n    s = str1;\r\n    t = str2;\r\n    while(*t=*s)\r\n        *t++ = *s++;\r\n    printf(\"%s\\n\", str2);\r\n    return 0;\r\n}",
+        "a": "Hello",
+        "b": "HelloHello",
+        "c": "No output",
+        "d": "ello",
+        "answer": "Hello"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[] = \"Nepal\\0BIX\\0\";\r\n    printf(\"%d\\n\", sizeof(str));\r\n    return 0;\r\n}",
+        "a": "10",
+        "b": "6",
+        "c": "5",
+        "d": "11",
+        "answer": "11"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[25] = \"Nepal\";\r\n    printf(\"%s\\n\", &str+2);\r\n    return 0;\r\n}",
+        "a": "Garbage value",
+        "b": "Error",
+        "c": "No output",
+        "d": "palBIX",
+        "answer": "Garbage value"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str = \"NepalBIX\";\r\n    printf(\"%s\\n\", str);\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "NepalBIX",
+        "c": "Base address of str",
+        "d": "No output",
+        "answer": "Error"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[] = \"Nagpur\";\r\n    str[0]='K';\r\n    printf(\"%s, \", str);\r\n    str = \"Kanpur\";\r\n    printf(\"%s\", str+1);\r\n    return 0;\r\n}",
+        "a": "Kagpur, Kanpur",
+        "b": "Nagpur, Kanpur",
+        "c": "Kagpur, anpur",
+        "d": "Error",
+        "answer": "Error"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(5+\"NepalBIX\\n\");\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "NepalBIX",
+        "c": "BIX",
+        "d": "None of above",
+        "answer": "BIX"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char sentence[80];\r\n    int i;\r\n    printf(\"Enter a line of text\\n\");\r\n    gets(sentence);\r\n    for(i=strlen(sentence)-1; i >=0; i--)\r\n        putchar(sentence[i]);\r\n    return 0;\r\n}",
+        "a": "The sentence will get printed in same order as it entered",
+        "b": "The sentence will get printed in reverse order",
+        "c": "Half of the sentence will get printed",
+        "d": "None of above",
+        "answer": "The sentence will get printed in reverse order"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nvoid swap(char *, char *);\r\nint main()\r\n{\r\n    char *pstr[2] = {\"Hello\", \"NepalBIX\"};\r\n    swap(pstr[0], pstr[1]);\r\n    printf(\"%s\\n%s\", pstr[0], pstr[1]);\r\n    return 0;\r\n}\r\nvoid swap(char *t1, char *t2)\r\n{\r\n    char *t;\r\n    t=t1;\r\n    t1=t2;\r\n    t2=t;\r\n}",
+        "a": "NepalBIX Hello",
+        "b": "Address of \"Hello\" and \"NepalBIX\"",
+        "c": "Hello NepalBIX",
+        "d": "Iello HepalBIX",
+        "answer": "Hello NepalBIX"
+    },
+    {
+        "question": "What will be the output of the program (Turbo C in 16 bit platform DOS) ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char *str1 = \"Nepal\";\r\n    char *str2 = \"BIX\";\r\n    char *str3;\r\n    str3 = strcat(str1, str2);\r\n    printf(\"%s %s\\n\", str3, str1);\r\n    return 0;\r\n}",
+        "a": "NepalBIX Nepal",
+        "b": "NepalBIX NepalBIX",
+        "c": "Nepal Nepal",
+        "d": "Error",
+        "answer": "NepalBIX NepalBIX"
+    },
+    {
+        "question": "If the size of pointer is 4 bytes then What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char *str[] = {\"Frogs\", \"Do\", \"Not\", \"Die\", \"They\", \"Croak!\"};\r\n    printf(\"%d, %d\", sizeof(str), strlen(str[0]));\r\n    return 0;\r\n}",
+        "a": "22, 4",
+        "b": "25, 5",
+        "c": "24, 5",
+        "d": "20, 2",
+        "answer": "24, 5"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    char a[] = \"\\0\";\r\n    if(printf(\"%s\", a))\r\n        printf(\"The string is not empty\\n\");\r\n    else\r\n        printf(\"The string is empty\\n\");\r\n    return 0;\r\n}",
+        "a": "The string is not empty",
+        "b": "The string is empty",
+        "c": "No output",
+        "d": "0",
+        "answer": "The string is empty"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str1[5], str2[5];\r\n    int i;\r\n    gets(str1);\r\n    gets(str2);\r\n    i = strcmp(str1, str2);\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}",
+        "a": "Unpredictable integer value",
+        "b": "0",
+        "c": "-1",
+        "d": "Error",
+        "answer": "Unpredictable integer value"
+    },
+    {
+        "question": "What will be the output of the program in Turbo C?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[10] = \"Nepal\";\r\n    str[6] = \"BIX\";\r\n    printf(\"%s\\n\", str);\r\n    return 0;\r\n}",
+        "a": "Nepal BIX",
+        "b": "BIX",
+        "c": "Nepal",
+        "d": "Error",
+        "answer": "Error"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str1[] = \"Hello\";\r\n    char str2[] = \"Hello\";\r\n    if(str1 == str2)\r\n        printf(\"Equal\\n\");\r\n    else\r\n        printf(\"Unequal\\n\");\r\n    return 0;\r\n}",
+        "a": "Equal",
+        "b": "Unequal",
+        "c": "Error",
+        "d": "None of above",
+        "answer": "Unequal"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char t;\r\n    char *p1 = \"Nepal\", *p2;\r\n    p2=p1;\r\n    p1 = \"BIX\";\r\n    printf(\"%s %s\\n\", p1, p2);\r\n    return 0;\r\n}",
+        "a": "Nepal BIX",
+        "b": "BIX Nepal",
+        "c": "Nepal Nepal",
+        "d": "BIX BIX",
+        "answer": "BIX Nepal"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    printf(\"%c\\n\", \"abcdefgh\"[4]);\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "d",
+        "c": "e",
+        "d": "abcdefgh",
+        "answer": "e"
+    },
+    {
+        "question": "What will be the output of the following program in 16 bit platform assuming that 1022 is memory address of the string \"Hello1\" (in Turbo C under DOS) ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"%u %s\\n\", &\"Hello1\", &\"Hello2\");\r\n    return 0;\r\n}",
+        "a": "1022 Hello2",
+        "b": "Hello1 1022",
+        "c": "Hello1 Hello2",
+        "d": "1022 1022",
+        "answer": "1022 Hello2"
+    },
+    {
+        "question": "Which of the following statements are correct about the program below?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[20], *s;\r\n    printf(\"Enter a string\\n\");\r\n    scanf(\"%s\", str);\r\n    s=str;\r\n    while(*s != '\\0')\r\n    {\r\n        if(*s >= 97 && *s <= 122)\r\n            *s = *s-32;\r\n        s++;\r\n    }\r\n    printf(\"%s\",str);\r\n    return 0;\r\n}",
+        "a": "The code converts a string in to an integer",
+        "b": "The code converts lower case character to upper case",
+        "c": "The code converts upper case character to lower case",
+        "d": "Error in code",
+        "answer": "The code converts lower case character to upper case"
+    },
+    {
+        "question": "Will the program compile successfully?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char a[] = \"Nepal\";\r\n    char *p = \"BIX\";\r\n    a = \"BIX\";\r\n    p = \"Nepal\";\r\n    printf(\"%s %s\\n\", a, p);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "For the following statements will arr[3] and ptr[3] fetch the same character?\r\nchar arr[] = \"Nepal\";\r\nchar *ptr = \"Nepal\";",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Is there any difference between the two statements?\r\nchar *ch = \"Nepal\";\r\nchar ch[] = \"Nepal\";",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    }
+]

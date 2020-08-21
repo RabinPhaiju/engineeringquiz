@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Which statement below best describes a Karnaugh map?\r\n\r\n",
+        "a": "It is simply a rearranged truth table.",
+        "b": "The Karnaugh map eliminates the need for using NAND and NOR gates.",
+        "c": "Variable complements can be eliminated by using Karnaugh maps.",
+        "d": "A Karnaugh map can be used to replace Boolean rules.",
+        "answer": "It is simply a rearranged truth table."
+    },
+    {
+        "question": "Which of the examples below expresses the commutative law of multiplication?\r\n\r\n",
+        "a": "A + B = B + A",
+        "b": "A \u2022 B = B + A",
+        "c": "A \u2022 (B \u2022 C) = (A \u2022 B) \u2022 C",
+        "d": "A \u2022 B = B \u2022 A",
+        "answer": "A \u2022 B = B \u2022 A"
+    },
+    {
+        "question": "The observation that a bubbled input OR gate is interchangeable with a bubbled output AND gate is referred to as:\r\n\r\n",
+        "a": "a Karnaugh map",
+        "b": "DeMorgan's second theorem",
+        "c": "the commutative law of addition",
+        "d": "the associative law of multiplication",
+        "answer": "DeMorgan's second theorem"
+    },
+    {
+        "question": "The systematic reduction of logic circuits is accomplished by:\r\n\r\n",
+        "a": "symbolic reduction",
+        "b": "TTL logic",
+        "c": "using Boolean algebra",
+        "d": "using a truth table",
+        "answer": "using Boolean algebra"
+    },
+    {
+        "question": "Logically, the output of a NOR gate would have the same Boolean expression as a(n):\r\n\r\n",
+        "a": "NAND gate immediately followed by an INVERTER",
+        "b": "OR gate immediately followed by an INVERTER",
+        "c": "AND gate immediately followed by an INVERTER",
+        "d": "NOR gate immediately followed by an INVERTER",
+        "answer": "OR gate immediately followed by an INVERTER"
+    },
+    {
+        "question": "Which of the examples below expresses the distributive law of Boolean algebra?\r\n\r\n",
+        "a": "A \u2022 (B \u2022 C) = (A \u2022 B) + C",
+        "b": "A + (B + C) = (A \u2022 B) + (A \u2022 C)",
+        "c": "A \u2022 (B + C) = (A \u2022 B) + (A \u2022 C)",
+        "d": "(A + B) + C = A + (B + C)",
+        "answer": "A \u2022 (B + C) = (A \u2022 B) + (A \u2022 C)"
+    },
+    {
+        "question": "The commutative law of addition and multiplication indicates that:\r\n\r\n",
+        "a": "the way we OR or AND two variables is unimportant because the result is the same",
+        "b": "we can group variables in an AND or in an OR any way we want",
+        "c": "an expression can be expanded by multiplying term by term just the same as in ordinary algebra",
+        "d": "the factoring of Boolean expressions requires the multiplication of product terms that contain like variables",
+        "answer": "the way we OR or AND two variables is unimportant because the result is the same"
+    },
+    {
+        "question": "Subtraction is commutative.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The Boolean expression for a three-input AND gate is Y = A \u2022 B + C.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "According to the commutative law, in ORing and ANDing of two variables, the order in which the variables are ORed or ANDed makes no difference.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Boolean multiplication is symbolized by A + B.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The associative law of addition states that A + (B + C) = (A + B) + C.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The application of DeMorgan's theorems to a Boolean expression with double and single inversions produces a resultant expression that contains only single inverter signs over single variables.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The sum-of-products form is a Boolean expression that describes the ANDing of two or more OR functions.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The double-inversion rule states that if a variable is inverted twice, then the variable will be back to its original state.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Each \"1\" entry in a K-map square represents ______________.\r\n\r\n",
+        "a": "a HIGH output on the truth table for all input combinations",
+        "b": "a LOW output for all possible HIGH input conditions",
+        "c": "a DON'T CARE condition for all possible input truth table combinations",
+        "d": "a HIGH for each input truth table condition that produces a HIGH output",
+        "answer": "a HIGH for each input truth table condition that produces a HIGH output"
+    },
+    {
+        "question": "One reason for using the sum-of-products form is that it can be implemented using all ______ gates without much alteration.\r\n\r\n",
+        "a": "AND",
+        "b": "NAND",
+        "c": "OR",
+        "d": "NOR",
+        "answer": "NAND"
+    },
+    {
+        "question": "When grouping cells within a K-map, the cells must be combined in groups of ________.\r\n\r\n",
+        "a": "2s",
+        "b": "1, 2, 4, 8, etc.",
+        "c": "4s",
+        "d": "3s",
+        "answer": "1, 2, 4, 8, etc."
+    },
+    {
+        "question": "The application of Boolean algebra to the solution of digital logic circuits was first explored by ________ of ________.\r\n\r\n",
+        "a": "Claude Shannon, MIT",
+        "b": "George Boole, MIT",
+        "c": "George Boole, Stanford",
+        "d": "Claude Shannon, IBM",
+        "answer": "Claude Shannon, MIT"
+    },
+    {
+        "question": "A Karnaugh map will ____________________.\r\n\r\n",
+        "a": "eliminate the need for tedious Boolean expressions",
+        "b": "allow any circuit to be implemented with just AND and OR gates",
+        "c": "produce the simplest sum-of-products expression",
+        "d": "give an overall picture of how the signals flow through the logic circuit",
+        "answer": "produce the simplest sum-of-products expression"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A digital logic device used as a buffer should have what input\/output characteristics?\r\n\r\n",
+        "a": "high input impedance and high output impedance",
+        "b": "low input impedance and high output impedance",
+        "c": "low input impedance and low output impedance",
+        "d": "high input impedance and low output impedance",
+        "answer": "high input impedance and low output impedance"
+    },
+    {
+        "question": "What is the standard TTL noise margin?\r\n\r\n",
+        "a": "5.0 V",
+        "b": "0.2 V",
+        "c": "0.8 V",
+        "d": "0.4 V",
+        "answer": "0.4 V"
+    },
+    {
+        "question": "The range of a valid LOW input is:\r\n\r\n",
+        "a": "0.0 V to 0.4 V",
+        "b": "0.4 V to 0.8 V",
+        "c": "0.4 V to 1.8 V",
+        "d": "0.4 V to 2.4 V",
+        "answer": "0.4 V to 0.8 V"
+    },
+    {
+        "question": "When an IC has two rows of parallel connecting pins, the device is referred to as:\r\n\r\n",
+        "a": "a QFP",
+        "b": "a DIP",
+        "c": "a phase splitter",
+        "d": "CMOS",
+        "answer": "a DIP"
+    },
+    {
+        "question": "Which digital IC package type makes the most efficient use of printed circuit board space?\r\n\r\n",
+        "a": "SMT",
+        "b": "TO can",
+        "c": "flat pack",
+        "d": "DIP",
+        "answer": "SMT"
+    },
+    {
+        "question": "The problem of interfacing IC logic families that have different supply voltages (VCCs) can be solved by using a:\r\n\r\n",
+        "a": "level-shifter",
+        "b": "tri-state shifter",
+        "c": "translator",
+        "d": "level-shifter or translator",
+        "answer": "level-shifter or translator"
+    },
+    {
+        "question": "Ten TTL loads per TTL driver is known as:\r\n\r\n",
+        "a": "noise immunity",
+        "b": "power dissipation",
+        "c": "fanout",
+        "d": "propagation delay",
+        "answer": "fanout"
+    },
+    {
+        "question": "Which of the following summarizes the important features of emitter-coupled logic (ECL)?\r\n\r\n",
+        "a": "negative voltage operation, high speed, and high power consumption",
+        "b": "good noise immunity, negative logic, high frequency capability, low power dissipation, and short propagation time",
+        "c": "slow propagation time, high frequency response, low power consumption, and high output voltage swings",
+        "d": "poor noise immunity, positive supply voltage operation, good low-frequency operation, and low power",
+        "answer": "negative voltage operation, high speed, and high power consumption"
+    },
+    {
+        "question": "What quantities must be compatible when interfacing two different logic families?\r\n\r\n",
+        "a": "only the currents",
+        "b": "both the voltages and the currents",
+        "c": "only the voltages",
+        "d": "both the power dissipation and the impedance",
+        "answer": "both the voltages and the currents"
+    },
+    {
+        "question": "CMOS logic is probably the best all-around circuitry because of its:\r\n\r\n",
+        "a": "packing density",
+        "b": "low power consumption",
+        "c": "very high noise immunity",
+        "d": "very high noise immunity D.\tlow power consumption and very high noise immunity",
+        "answer": "very high noise immunity D.\tlow power consumption and very high noise immunity"
+    },
+    {
+        "question": "Low power consumption achieved by CMOS circuits is due to which construction characteristic?\r\n\r\n",
+        "a": "complementary pairs",
+        "b": "connecting pads",
+        "c": "DIP packages",
+        "d": "small-scale integration",
+        "answer": "complementary pairs"
+    },
+    {
+        "question": "A TTL totem pole circuit is designed so that the output transistors are:\r\n\r\n",
+        "a": "always on together",
+        "b": "providing phase splitting",
+        "c": "providing voltage regulation",
+        "d": "never on together",
+        "answer": "never on together"
+    },
+    {
+        "question": "The time needed for an output to change as the result of an input change is known as:\r\n\r\n",
+        "a": "noise immunity",
+        "b": "fanout",
+        "c": "propagation delay",
+        "d": "rise time",
+        "answer": "propagation delay"
+    },
+    {
+        "question": "ECL gates are noted for their high frequency capability and small output voltage swing.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Delay times and current\/voltage values remain constant regardless of temperature or other operating conditions for robust circuits like TTL.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "5400 TTL series logic chips are made to military specifications.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Totem pole output circuits can change states faster than open-collector output circuits.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The term buffer\/driver signifies the ability to provide low output currents to drive light loads.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "NMOS devices use MOSFETs to implement the full range of logic gates using the universal NAND gate.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Schottky TTL logic gates overcome the problem of saturation delay time.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A three-state output TTL can have three possible outputs: LOW, HIGH, or FLOATING.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The TTL HIGH level source current is higher than the LOW level sinking current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Integrated-injection logic offers high component density and is easier to fabricate than TTL.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "CMOS circuits consume less power than TTL circuits.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Due to the extremely low power requirements of CMOS logic circuits, any number of CMOS and TTL gates can be interconnected.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "PMOS and NMOS ____________________________.\r\n\r\n",
+        "a": "represent MOSFET devices utilizing either P-channel or N-channel devices exclusively within a given gate",
+        "b": "are enhancement type CMOS devices used to produce a series of high-speed logic known as 74HC",
+        "c": "represent positive and negative MOS type devices that can be operated from differential power supplies and are compatible with operational amplifiers",
+        "d": "none of the above",
+        "answer": "represent MOSFET devices utilizing either P-channel or N-channel devices exclusively within a given gate"
+    },
+    {
+        "question": "The number of inputs that a gate output can drive without possible logic errors is the _______.\r\n\r\n",
+        "a": "propagation delay",
+        "b": "noise margin",
+        "c": "speed-power product",
+        "d": "fanout",
+        "answer": "fanout"
+    },
+    {
+        "question": "In order to get a HIGH or a LOW output from an open-collector gate, an external _________ must be connected between +VCC and the collector.\r\n\r\n",
+        "a": "pull-down resistor",
+        "b": "pull-up resistor",
+        "c": "diode",
+        "d": "buffer",
+        "answer": "pull-up resistor"
+    },
+    {
+        "question": "An undefined state, neither high nor low, is called _________.\r\n\r\n",
+        "a": "don't care",
+        "b": "floating",
+        "c": "minimum state",
+        "d": "noise",
+        "answer": "floating"
+    },
+    {
+        "question": "When the output of a standard TTL gate is HIGH, it can ___________________.\r\n\r\n",
+        "a": "sink 16 mA of current from the attached input gates",
+        "b": "source 400 \u00b5A of current to no more than 10 attached gates",
+        "c": "source 16 mA of current to no more than 10 attached gates",
+        "d": "sink a maximum of 400 \u00b5A from no more than 10 load gates",
+        "answer": "source 400 \u00b5A of current to no more than 10 attached gates"
+    },
+    {
+        "question": "Large-scale integration (LSI) ICs contain between ______ and _______ interconnected components.\r\n\r\n",
+        "a": "15,000, 150,000",
+        "b": "1,500, 15,000",
+        "c": "180, 1,000",
+        "d": "180, 1,500",
+        "answer": "1,500, 15,000"
+    },
+    {
+        "question": "One example of the use of a Schmitt trigger is as a(n) _____\r\n\r\n",
+        "a": "astable oscillator",
+        "b": "transition pulse generator",
+        "c": "pulse shaper",
+        "d": "buffer",
+        "answer": "pulse shaper"
+    },
+    {
+        "question": "Totem pole outputs _________ be connected __________ because ____________.\r\n\r\n",
+        "a": "can, in parallel, sometimes higher current is required",
+        "b": "cannot, together, if the outputs are in opposite states excessively high currents can damage one or both devices",
+        "c": "should, in series, certain applications may require higher output voltage",
+        "d": "can, together, together they can handle larger load currents and higher output voltages",
+        "answer": "cannot, together, if the outputs are in opposite states excessively high currents can damage one or both devices"
+    },
+    {
+        "question": "An open collector output can ________ current, but it cannot ___________________.\r\n\r\n",
+        "a": "sink, source current",
+        "b": "source, sink current",
+        "c": "sink, source voltage",
+        "d": "source, sink voltage",
+        "answer": "sink, source current"
+    },
+    {
+        "question": "The output current capability of a single 7400 NAND gate when HIGH is called _____________.\r\n\r\n",
+        "a": "source current",
+        "b": "sink current",
+        "c": "IOH",
+        "d": "source current or IOH",
+        "answer": "source current"
+    }
+]

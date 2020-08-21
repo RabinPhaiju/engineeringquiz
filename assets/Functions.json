@@ -1,0 +1,354 @@
+[
+    {
+        "question": "The keyword used to transfer control from a function back to the calling function is\r\n\r\n",
+        "a": "switch",
+        "b": "goto",
+        "c": "back",
+        "d": "return",
+        "answer": "return"
+    },
+    {
+        "question": "How many times the program will print \"Nepal\" ?\r\n#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    printf(\"Nepal\");\r\n    main();\r\n    return 0;\r\n}",
+        "a": "Infinite times",
+        "b": "32767 times",
+        "c": "65535 times",
+        "d": "Till stack overflows",
+        "answer": "Till stack overflows"
+    },
+    {
+        "question": "What will be the output of the program in 16 bit platform (Turbo C under DOS)?\r\n#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int fun();\r\n    int i;\r\n    i = fun();\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}\r\nint fun()\r\n{\r\n    _AX = 1990;\r\n}",
+        "a": "Garbage value",
+        "b": "0 (Zero)",
+        "c": "1990",
+        "d": "No output",
+        "answer": "1990"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nvoid fun(int*, int*);\r\nint main()\r\n{\r\n    int i=5, j=2;\r\n    fun(&i, &j);\r\n    printf(\"%d, %d\", i, j);\r\n    return 0;\r\n}\r\nvoid fun(int *i, int *j)\r\n{\r\n    *i = *i**i;\r\n    *j = *j**j;\r\n}",
+        "a": "5, 2",
+        "b": "10, 4",
+        "c": "2, 5",
+        "d": "25, 4",
+        "answer": "25, 4"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint i;\r\nint fun();\r\n\r\nint main()\r\n{\r\n    while(i)\r\n    {\r\n        fun();\r\n        main();\r\n    }\r\n    printf(\"Hello\\n\");\r\n    return 0;\r\n}\r\nint fun()\r\n{\r\n    printf(\"Hi\");\r\n}",
+        "a": "Hello",
+        "b": "Hi Hello",
+        "c": "No output",
+        "d": "Infinite loop",
+        "answer": "Hello"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint reverse(int);\r\n\r\nint main()\r\n{\r\n    int no=5;\r\n    reverse(no);\r\n    return 0;\r\n}\r\nint reverse(int no)\r\n{\r\n    if(no == 0)\r\n        return 0;\r\n    else\r\n        printf(\"%d,\", no);\r\n    reverse (no--);\r\n}",
+        "a": "Print 5, 4, 3, 2, 1",
+        "b": "Print 1, 2, 3, 4, 5",
+        "c": "Print 5, 4, 3, 2, 1, 0",
+        "d": "Infinite loop",
+        "answer": "Infinite loop"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nvoid fun(int);\r\ntypedef int (*pf) (int, int);\r\nint proc(pf, int, int);\r\n\r\nint main()\r\n{\r\n    int a=3;\r\n    fun(a);\r\n    return 0;\r\n}\r\nvoid fun(int n)\r\n{\r\n    if(n > 0)\r\n    {\r\n        fun(--n);\r\n        printf(\"%d,\", n);\r\n        fun(--n);\r\n    }\r\n}",
+        "a": "0, 2, 1, 0,",
+        "b": "1, 1, 2, 0,",
+        "c": "0, 1, 0, 2,",
+        "d": "0, 1, 2, 0,",
+        "answer": "0, 1, 2, 0,"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint sumdig(int);\r\nint main()\r\n{\r\n    int a, b;\r\n    a = sumdig(123);\r\n    b = sumdig(123);\r\n    printf(\"%d, %d\\n\", a, b);\r\n    return 0;\r\n}\r\nint sumdig(int n)\r\n{\r\n    int s, d;\r\n    if(n!=0)\r\n    {\r\n        d = n%10;\r\n        n = n\/10;\r\n        s = d+sumdig(n);\r\n    }\r\n    else\r\n        return 0;\r\n    return s;\r\n}",
+        "a": "4, 4",
+        "b": "3, 3",
+        "c": "6, 6",
+        "d": "12, 12",
+        "answer": "6, 6"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    void fun(char*);\r\n    char a[100];\r\n    a[0] = 'A'; a[1] = 'B';\r\n    a[2] = 'C'; a[3] = 'D';\r\n    fun(&a[0]);\r\n    return 0;\r\n}\r\nvoid fun(char *a)\r\n{\r\n    a++;\r\n    printf(\"%c\", *a);\r\n    a++;\r\n    printf(\"%c\", *a);\r\n}",
+        "a": "AB",
+        "b": "BC",
+        "c": "CD",
+        "d": "No output",
+        "answer": "BC"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int fun(int);\r\n    int i = fun(10);\r\n    printf(\"%d\\n\", --i);\r\n    return 0;\r\n}\r\nint fun(int i)\r\n{\r\n   return (i++);\r\n}",
+        "a": "9",
+        "b": "10",
+        "c": "11",
+        "d": "8",
+        "answer": "9"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint check (int, int);\r\n\r\nint main()\r\n{\r\n    int c;\r\n    c = check(10, 20);\r\n    printf(\"c=%d\\n\", c);\r\n    return 0;\r\n}\r\nint check(int i, int j)\r\n{\r\n    int *p, *q;\r\n    p=&i;\r\n    q=&j;\r\n    i>=45 ? return(*p): return(*q);\r\n}",
+        "a": "Print 10",
+        "b": "Print 20",
+        "c": "Print 1",
+        "d": "Compile error",
+        "answer": "Compile error"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint fun(int, int);\r\ntypedef int (*pf) (int, int);\r\nint proc(pf, int, int);\r\n\r\nint main()\r\n{\r\n    printf(\"%d\\n\", proc(fun, 6, 6));\r\n    return 0;\r\n}\r\nint fun(int a, int b)\r\n{\r\n   return (a==b);\r\n}\r\nint proc(pf p, int a, int b)\r\n{\r\n   return ((*p)(a, b));\r\n}",
+        "a": "6",
+        "b": "1",
+        "c": "0",
+        "d": "-1",
+        "answer": "1"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=1;\r\n    if(!i)\r\n        printf(\"Nepal,\");\r\n    else\r\n    {\r\n        i=0;\r\n        printf(\"C-Program\");\r\n        main();\r\n    }\r\n    return 0;\r\n}",
+        "a": "prints \"Nepal, C-Program\" infinitely",
+        "b": "prints \"C-Program\" infinetly",
+        "c": "prints \"C-Program, Nepal\" infinitely",
+        "d": "Error: main() should not inside else statement",
+        "answer": "prints \"C-Program\" infinetly"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint addmult(int ii, int jj)\r\n{\r\n    int kk, ll;\r\n    kk = ii + jj;\r\n    ll = ii * jj;\r\n    return (kk, ll);\r\n}\r\nint main()\r\n{\r\n    int i=3, j=4, k, l;\r\n    k = addmult(i, j);\r\n    l = addmult(i, j);\r\n    printf(\"%d %d\\n\", k, l);\r\n    return 0;\r\n}",
+        "a": "12 12",
+        "b": "No error, No output",
+        "c": "Error: Compile error",
+        "d": "None of above",
+        "answer": "12 12"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint i;\r\nint fun1(int);\r\nint fun2(int);\r\nint main()\r\n{\r\n    extern int j;\r\n    int i=3;\r\n    fun1(i);\r\n    printf(\"%d,\", i);\r\n    fun2(i);\r\n    printf(\"%d\", i);\r\n    return 0;\r\n}\r\nint fun1(int j)\r\n{\r\n    printf(\"%d,\", ++j);\r\n    return 0;\r\n}\r\nint fun2(int i)\r\n{\r\n    printf(\"%d,\", ++i);\r\n    return 0;\r\n}\r\nint j=1;",
+        "a": "3, 4, 4, 3",
+        "b": "4, 3, 4, 3",
+        "c": "3, 3, 4, 4",
+        "d": "3, 4, 3, 4",
+        "answer": "4, 3, 4, 3"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint func1(int);\r\nint main()\r\n{\r\n    int k=35;\r\n    k = func1(k=func1(k=func1(k)));\r\n    printf(\"k=%d\\n\", k);\r\n    return 0;\r\n}\r\nint func1(int k)\r\n{\r\n    k++;\r\n    return k;\r\n}",
+        "a": "k=35",
+        "b": "k=36",
+        "c": "k=37",
+        "d": "k=38",
+        "answer": "k=38"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint addmult(int ii, int jj)\r\n{\r\n    int kk, ll;\r\n    kk = ii + jj;\r\n    ll = ii * jj;\r\n    return (kk, ll);\r\n}\r\nint main()\r\n{\r\n    int i=3, j=4, k, l;\r\n    k = addmult(i, j);\r\n    l = addmult(i, j);\r\n    printf(\"%d, %d\\n\", k, l);\r\n    return 0;\r\n}",
+        "a": "12, 12",
+        "b": "7, 7",
+        "c": "7, 12",
+        "d": "12, 7",
+        "answer": "12, 12"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint check(int);\r\nint main()\r\n{\r\n    int i=45, c;\r\n    c = check(i);\r\n    printf(\"%d\\n\", c);\r\n    return 0;\r\n}\r\nint check(int ch)\r\n{\r\n    if(ch >= 45)\r\n        return 100;\r\n    else\r\n        return 10;\r\n}",
+        "a": "100",
+        "b": "10",
+        "c": "1",
+        "d": "0",
+        "answer": "100"
+    },
+    {
+        "question": "If int is 2 bytes wide.What will be the output of the program?\r\n#include <stdio.h>\r\nvoid fun(char**);\r\nint main()\r\n{\r\n    char *argv[] = {\"ab\", \"cd\", \"ef\", \"gh\"};\r\n    fun(argv);\r\n    return 0;\r\n}\r\nvoid fun(char **p)\r\n{\r\n    char *t;\r\n    t = (p+= sizeof(int))[-1];\r\n    printf(\"%s\\n\", t);\r\n}",
+        "a": "ab",
+        "b": "cd",
+        "c": "ef",
+        "d": "gh",
+        "answer": "cd"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint fun(int(*)());\r\nint main()\r\n{\r\n    fun(main);\r\n    printf(\"Hi\\n\");\r\n    return 0;\r\n}\r\nint fun(int (*p)())\r\n{\r\n    printf(\"Hello \");\r\n    return 0;\r\n}",
+        "a": "Infinite loop",
+        "b": "Hi",
+        "c": "Hello Hi",
+        "d": "Error",
+        "answer": "Hello Hi"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint fun(int i)\r\n{\r\n    i++;\r\n    return i;\r\n}\r\nint main()\r\n{\r\n    int fun(int);\r\n    int i=3;\r\n    fun(i=fun(fun(i)));\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}",
+        "a": "5",
+        "b": "4",
+        "c": "Error",
+        "d": "Garbage value",
+        "answer": "5"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint fun(int);\r\nint main()\r\n{\r\n    float k=3;\r\n    fun(k=fun(fun(k)));\r\n    printf(\"%f\\n\", k);\r\n    return 0;\r\n}\r\nint fun(int i)\r\n{\r\n    i++;\r\n    return i;\r\n}",
+        "a": "5.000000",
+        "b": "3.000000",
+        "c": "Garbage value",
+        "d": "4.000000",
+        "answer": "5.000000"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    int i=0;\r\n    i++;\r\n    if(i<=5)\r\n    {\r\n        printf(\"Nepal\");\r\n        exit(1);\r\n        main();\r\n    }\r\n    return 0;\r\n}",
+        "a": "Prints \"Nepal\" 5 times",
+        "b": "Function main() doesn't calls itself",
+        "c": "Infinite loop",
+        "d": "Prints \"Nepal\"",
+        "answer": "Prints \"Nepal\""
+    },
+    {
+        "question": "Point out the error in the program\r\nf(int a, int b)\r\n{\r\n    int a;\r\n    a = 20;\r\n    return a;\r\n}",
+        "a": "Missing parenthesis in return statement",
+        "b": "The function should be defined as int f(int a, int b)",
+        "c": "Redeclaration of a",
+        "d": "None of above",
+        "answer": "Redeclaration of a"
+    },
+    {
+        "question": "Point out the error in the program\r\n#include<stdio.h>\r\nint f(int a)\r\n{\r\n  a > 20? return(10): return(20);\r\n}\r\nint main()\r\n{\r\n    int f(int);\r\n    int b;\r\n    b = f(20);\r\n    printf(\"%d\\n\", b);\r\n    return 0;\r\n}",
+        "a": "Error: Prototype declaration",
+        "b": "No error",
+        "c": "Error: return statement cannot be used with conditional operators",
+        "d": "None of above",
+        "answer": "Error: return statement cannot be used with conditional operators"
+    },
+    {
+        "question": "Point out the error in the program\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a=10;\r\n    void f();\r\n    a = f();\r\n    printf(\"%d\\n\", a);\r\n    return 0;\r\n}\r\nvoid f()\r\n{\r\n    printf(\"Hi\");\r\n}",
+        "a": "Error: Not allowed assignment",
+        "b": "Error: Doesn't print anything",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: Not allowed assignment"
+    },
+    {
+        "question": "Which of the following statements are correct about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"%p\\n\", main());\r\n    return 0;\r\n}",
+        "a": "It prints garbage values infinitely",
+        "b": "Runs infinitely without printing anything",
+        "c": "Error: main() cannot be called inside printf()",
+        "d": "No Error and print nothing",
+        "answer": "Runs infinitely without printing anything"
+    },
+    {
+        "question": "There is a error in the below program. Which statement will you add to remove it?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a;\r\n    a = f(10, 3.14);\r\n    printf(\"%d\\n\", a);\r\n    return 0;\r\n}\r\nfloat f(int aa, float bb)\r\n{\r\n    return ((float)aa + bb);\r\n}",
+        "a": "Add prototype: float f(aa, bb)",
+        "b": "Add prototype: float f(int, float)",
+        "c": "Add prototype: float f(float, int)",
+        "d": "Add prototype: float f(bb, aa)",
+        "answer": "Add prototype: float f(int, float)"
+    },
+    {
+        "question": "Which of the following statements are correct about the function?\r\nlong fun(int num)\r\n{\r\n    int i;\r\n    long f=1;\r\n    for(i=1; i<=num; i++)\r\n        f = f * i;\r\n    return f;\r\n}",
+        "a": "The function calculates the value of 1 raised to power num.",
+        "b": "The function calculates the square root of an integer",
+        "c": "The function calculates the factorial value of an integer",
+        "d": "None of above",
+        "answer": "The function calculates the factorial value of an integer"
+    },
+    {
+        "question": "A function cannot be defined inside another function\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Functions cannot return more than one value at a time\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If return type for a function is not specified, it defaults to int\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In C all functions except main() can be called recursively.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Functions can be called either by value or reference\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A function may have any number of return statements each returning different values.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Names of functions in two different files linked together must be unique\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Functions cannot return a floating point number\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Every function must return a value\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "If a function contains two return statements successively, the compiler will generate warnings.?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Maximum number of arguments that a function can take is 12\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the following functions work?\r\nint f1(int a, int b)\r\n{\r\n    return ( f2(20) );\r\n}\r\nint f2(int a)\r\n{\r\n    return (a*a);\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Usually recursion works slower than loops.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Is it true that too many recursive calls may result into stack overflow?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "In a function two return statements should never occur.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

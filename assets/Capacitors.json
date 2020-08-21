@@ -1,0 +1,930 @@
+[
+    {
+        "question": "In a 20 Vac series RC circuit, if 20 V is measured across the resistor and 40 V is measured across the capacitor, the applied voltage is:\r\n\r\n",
+        "a": "45 V",
+        "b": "50 V",
+        "c": "55 V",
+        "d": "60 V",
+        "answer": "45 V"
+    },
+    {
+        "question": "Select the equation below that represents the relationship between charge, capacitance, and voltage for a capacitor.\r\n\r\n",
+        "a": "Q = CV",
+        "b": "C = QV",
+        "c": "V",
+        "d": "V = IR",
+        "answer": "Q = CV"
+    },
+    {
+        "question": "When is a capacitor fully charged?\r\n\r\n",
+        "a": "when the voltage across its plates  1\/2 is  of the voltage from ground to one of its plates",
+        "b": "when the current through the capacitor is the same as when the capacitor is discharged",
+        "c": "when the voltage across the plates is 0.707 of the input voltage",
+        "d": "when the current through the capacitor is directly proportional to the area of the plates",
+        "answer": "when the current through the capacitor is the same as when the capacitor is discharged"
+    },
+    {
+        "question": "mcq9_1009_1.gifWhat is the reactive power in the given circuit?\r\n\r\n",
+        "a": "0 VAR",
+        "b": "10 VAR",
+        "c": "44.23 mVAR",
+        "d": "1.45 kVAR",
+        "answer": "44.23 mVAR"
+    },
+    {
+        "question": "What is the angle theta value for a 5.6 uF capacitor and a 50-ohm resistor in series with a 1.1 kHz, 5 Vac source?\r\n\r\n",
+        "a": "27.3 degrees",
+        "b": "62.7 degrees",
+        "c": "\u201327.3 degrees",
+        "d": "\u201362.7 degrees",
+        "answer": "\u201327.3 degrees"
+    },
+    {
+        "question": "When a 4.7 uF capacitor is connected to a 1 kHz source, what is its capacitive reactance?\r\n\r\n",
+        "a": "4.7 ohms",
+        "b": "29.5 ohms",
+        "c": "34 ohms",
+        "d": "213 ohms",
+        "answer": "34 ohms"
+    },
+    {
+        "question": "mcq7_1008_1.gifWhat is the total capacitance?\r\n",
+        "a": "1 F",
+        "b": "12 F",
+        "c": "0.615 F",
+        "d": "8 F",
+        "answer": "12 F"
+    },
+    {
+        "question": "mcq7_1040_1.gifWhat is this circuit?\r\n",
+        "a": "bandpass filter",
+        "b": "high-pass filter",
+        "c": "low-pass filter",
+        "d": "differentiator",
+        "answer": "high-pass filter"
+    },
+    {
+        "question": "After which time constant can a capacitor be considered to be fully charged?\r\n\r\n",
+        "a": "first",
+        "b": "third",
+        "c": "fifth",
+        "d": "seventh",
+        "answer": "fifth"
+    },
+    {
+        "question": "You could increase the time constant of an RC circuit by\r\n\r\n",
+        "a": "adding a resistor in parallel with the circuit resistance",
+        "b": "adding a capacitor in parallel with the circuit capacitance",
+        "c": "increasing the amplitude of the input voltage",
+        "d": "exchanging the position of the resistor and capacitor in the circuit",
+        "answer": "adding a capacitor in parallel with the circuit capacitance"
+    },
+    {
+        "question": "A capacitor's rate of charge is considered:\r\n\r\n",
+        "a": "magnetic",
+        "b": "a current block",
+        "c": "linear",
+        "d": "exponential",
+        "answer": "exponential"
+    },
+    {
+        "question": "A resistor and an output capacitor form a series circuit with a square wave applied. The circuit is:\r\n\r\n",
+        "a": "an integrator",
+        "b": "a differentiator",
+        "c": "a multiplier",
+        "d": "a divider",
+        "answer": "an integrator"
+    },
+    {
+        "question": "If an open capacitor is checked with an ohmmeter, the needle will:\r\n\r\n",
+        "a": "stay on zero",
+        "b": "stay on infinity",
+        "c": "move from zero to infinity",
+        "d": "move from infinity to zero",
+        "answer": "stay on infinity"
+    },
+    {
+        "question": "mcq7_1038_1.gifWhat is the circuit's total current?\r\n",
+        "a": "4.57 mA",
+        "b": "9.327 mA",
+        "c": "11.570 mA",
+        "d": "13.830 mA",
+        "answer": "4.57 mA"
+    },
+    {
+        "question": "As a capacitor is being charged, current flowing into the capacitor will:\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "cannot tell",
+        "answer": "decrease"
+    },
+    {
+        "question": "mcq7_1035_1.gifWhat is the phase shift between the voltage across the resistor and the voltage from the source?\r\n",
+        "a": "VR leads VS by 17\u00b0",
+        "b": "VR leads VS by 73\u00b0",
+        "c": "VR lags VS by 73\u00b0",
+        "d": "VR lags VS by 17\u00b0",
+        "answer": "VR leads VS by 73\u00b0"
+    },
+    {
+        "question": "A capacitor stores energy within a dielectric between the conducting plates in the form of:\r\n\r\n",
+        "a": "a magnetic field",
+        "b": "positive voltage",
+        "c": "negative voltage",
+        "d": "an electric field",
+        "answer": "an electric field"
+    },
+    {
+        "question": "As a capacitor is being charged, the voltage across its terminals will:\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "oppose the source",
+        "answer": "increase"
+    },
+    {
+        "question": "With a 500 kHz signal source, what would be the value of a capacitor yielding a capacitive reactance of 1 k ohm?\r\n\r\n",
+        "a": "318 pF",
+        "b": "2 nF",
+        "c": "3.18 F",
+        "d": "2 F",
+        "answer": "318 pF"
+    },
+    {
+        "question": "After a capacitor has charged for 1 tc, what percentage of current remains in the resistor?\r\n\r\n",
+        "a": "63.2",
+        "b": "36.8",
+        "c": "13.5",
+        "d": "5.0",
+        "answer": "36.8"
+    },
+    {
+        "question": "If a current of 40 mA flows through a series circuit consisting of a 0.4 uF capacitor and a resistor in series with a 4 kHz, 40 Vac source, what is the total circuit impedance?\r\n\r\n",
+        "a": "10 ohm",
+        "b": "100 ohm",
+        "c": "1 k ohm",
+        "d": "1 M ohm",
+        "answer": "1 k ohm"
+    },
+    {
+        "question": "mcq9_1003_1.gifWhat is the capacitance of the circuit shown in the given circuit?\r\n\r\n",
+        "a": "0.066 uF",
+        "b": "0.9 uF",
+        "c": "65.97 pF",
+        "d": "900 pF",
+        "answer": "0.066 uF"
+    },
+    {
+        "question": "In an ac circuit, an output capacitor and a resistor are connected in series with an ac signal. What filter action will be the result?\r\n\r\n",
+        "a": "bandpass",
+        "b": "low-pass",
+        "c": "high-pass",
+        "d": "band-stop",
+        "answer": "low-pass"
+    },
+    {
+        "question": "What is the total opposition to current in a series RC circuit called?\r\n\r\n",
+        "a": "impedance",
+        "b": "inductance",
+        "c": "reactance",
+        "d": "resistance",
+        "answer": "impedance"
+    },
+    {
+        "question": "Which of the following statements is true?\r\n\r\n",
+        "a": "The voltage to which a capacitor is charged can change instantaneously.",
+        "b": "The current in a capacitive circuit takes time to change.",
+        "c": "A fully charged capacitor appears as a short to dc current.",
+        "d": "An uncharged capacitor appears as a short to an instantaneous change in current.",
+        "answer": "An uncharged capacitor appears as a short to an instantaneous change in current."
+    },
+    {
+        "question": "In a capacitive circuit, current flow is limited to\r\n\r\n",
+        "a": "charging periods",
+        "b": "discharging periods",
+        "c": "neither charging periods nor discharging periods",
+        "d": "both charging periods and discharging periods",
+        "answer": "both charging periods and discharging periods"
+    },
+    {
+        "question": "mcq7_1041_1.gifWhat circuit has the following frequency response?\r\n",
+        "a": "bandpass filter",
+        "b": "high-pass filter",
+        "c": "low-pass filter",
+        "d": "integrator",
+        "answer": "low-pass filter"
+    },
+    {
+        "question": "A capacitor is constructed of two parallel:\r\n\r\n",
+        "a": "conductors",
+        "b": "semiconductors",
+        "c": "inductors",
+        "d": "dielectrics",
+        "answer": "conductors"
+    },
+    {
+        "question": "Which of the following determines the capacitance of a capacitor?\r\n\r\n",
+        "a": "Plate area, dielectric strength, and plate separation",
+        "b": "Voltage rating, dielectric constant, and temperature coefficient",
+        "c": "Temperature coefficient, plate area, and plate separation",
+        "d": "Plate area, dielectric constant, and plate separation",
+        "answer": "Plate area, dielectric constant, and plate separation"
+    },
+    {
+        "question": "Most older types of paper capacitors have been replaced by which type of construction?\r\n\r\n",
+        "a": "electrolytic",
+        "b": "plastic film",
+        "c": "oxide casing",
+        "d": "waxed paper",
+        "answer": "plastic film"
+    },
+    {
+        "question": "If C1, a 4.7 uF capacitor, and C2, a 3.3 uF capacitor are in series with 18 Vdc applied, what is the voltage across C1?\r\n\r\n",
+        "a": "3.3 V",
+        "b": "7.4 V",
+        "c": "6.6 V",
+        "d": "9.4 V",
+        "answer": "7.4 V"
+    },
+    {
+        "question": "What is the impedance of a series RC circuit that consists of a 0.22 uF capacitor and a 200-ohm resistor connected to a 3 kHz source?\r\n\r\n",
+        "a": "214 ohms",
+        "b": "313 ohms",
+        "c": "414 ohms",
+        "d": "880 ohms",
+        "answer": "313 ohms"
+    },
+    {
+        "question": "What is the reactance value for a capacitor installed in a dc circuit?\r\n\r\n",
+        "a": "zero",
+        "b": "moderate",
+        "c": "infinite",
+        "d": "cannot tell",
+        "answer": "infinite"
+    },
+    {
+        "question": "In a purely capacitive circuit,\r\n\r\n",
+        "a": "current leads voltage by 90\u00b0",
+        "b": "voltage leads current by 90\u00b0",
+        "c": "current lags voltage by 90\u00b0",
+        "d": "current and voltage have a phase relationship of 0\u00b0",
+        "answer": "current leads voltage by 90\u00b0"
+    },
+    {
+        "question": "mcq9_1005_1.gifHow long would it take the capacitor in the given circuit to completely discharge if the switch was in position 2?\r\n\r\n",
+        "a": "22 ms",
+        "b": "69 ms",
+        "c": "345 ms",
+        "d": "420 ms",
+        "answer": "420 ms"
+    },
+    {
+        "question": "What is the capacitive reactance if I = 1 amp, V = 2 volts, C = 5 F, and frequency = 10 Hz?\r\n\r\n",
+        "a": "0.2 ohm",
+        "b": "0.5 ohm",
+        "c": "0.02 ohm",
+        "d": "0.003 ohm",
+        "answer": "0.003 ohm"
+    },
+    {
+        "question": "What is wrong with a leaky capacitor?\r\n\r\n",
+        "a": "It is open.",
+        "b": "It is shorted.",
+        "c": "The dielectric resistance has increased.",
+        "d": "The dielectric resistance has decreased.",
+        "answer": "The dielectric resistance has decreased."
+    },
+    {
+        "question": "What is the value of a capacitor labeled 102?\r\n\r\n",
+        "a": "10,000 pF",
+        "b": "1000 pF",
+        "c": "1000 uF",
+        "d": "10,000 uF",
+        "answer": "1000 pF"
+    },
+    {
+        "question": "If the dielectric constant of a capacitor is decreased, then its capacitance will:\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "be destroyed",
+        "answer": "decrease"
+    },
+    {
+        "question": "What is the dielectric constant for ceramic?\r\n\r\n",
+        "a": "between 6 and 8000",
+        "b": "5.0",
+        "c": "between 5 and 1000",
+        "d": "3000",
+        "answer": "between 6 and 8000"
+    },
+    {
+        "question": "What is the voltage across a capacitor after being charged from a 100 V source for a period of one time constant?\r\n\r\n",
+        "a": "37.8 V",
+        "b": "38 V",
+        "c": "63 V",
+        "d": "101 V",
+        "answer": "63 V"
+    },
+    {
+        "question": "mcq7_1010_1.gifWhat is the dc charging\/discharging time constant for the circuit?\r\n",
+        "a": "294 ps",
+        "b": "13.5 ms",
+        "c": "21.25 ms",
+        "d": "2.16 Gs",
+        "answer": "21.25 ms"
+    },
+    {
+        "question": "Power stored from the source and then returned to the source is called:\r\n\r\n",
+        "a": "apparent power",
+        "b": "impedance power",
+        "c": "reactive power",
+        "d": "true power",
+        "answer": "reactive power"
+    },
+    {
+        "question": "Capacitor value markings are usually:\r\n\r\n",
+        "a": "alphanumeric",
+        "b": "color dabs",
+        "c": "standard",
+        "d": "white print",
+        "answer": "alphanumeric"
+    },
+    {
+        "question": "A source voltage across a capacitor will:\r\n\r\n",
+        "a": "lead the current by 90 degrees",
+        "b": "lead the current by 180 degrees",
+        "c": "lag the current by 90 degrees",
+        "d": "lag the current by 180 degrees",
+        "answer": "lag the current by 90 degrees"
+    },
+    {
+        "question": "mcq9_1005_1.gifHow long would it take the capacitor in the given circuit to completely charge if the switch was in position 1?\r\n\r\n",
+        "a": "22 ms",
+        "b": "69 ms",
+        "c": "345 ms",
+        "d": "440 ms",
+        "answer": "345 ms"
+    },
+    {
+        "question": "An 8 V power source is charging a capacitor. How many volts will be across the capacitor at the second time constant?\r\n\r\n",
+        "a": "1 volt",
+        "b": "3 volts",
+        "c": "5 volts",
+        "d": "7 volts",
+        "answer": "7 volts"
+    },
+    {
+        "question": "The material used between the plates of a capacitor is called its:\r\n\r\n",
+        "a": "insulation material",
+        "b": "dielectric material",
+        "c": "separation material",
+        "d": "plate-divider material",
+        "answer": "dielectric material"
+    },
+    {
+        "question": "When a circuit consists of a capacitor and a resistor in series with a voltage source, and the voltage across the resistor is zero, then the capacitor is:\r\n\r\n",
+        "a": "charging",
+        "b": "discharging",
+        "c": "fully charged",
+        "d": "fully discharged",
+        "answer": "fully charged"
+    },
+    {
+        "question": "Which material has the highest dielectric strength?\r\n\r\n",
+        "a": "Air",
+        "b": "Paper",
+        "c": "Mica",
+        "d": "Oil",
+        "answer": "Mica"
+    },
+    {
+        "question": "mcq7_1039_1.gifWhat is the circuit's impedance?\r\n",
+        "a": "1192 ohm",
+        "b": "843 ohm",
+        "c": "723 ohm",
+        "d": "511 ohm",
+        "answer": "1192 ohm"
+    },
+    {
+        "question": "In an ac circuit, a capacitor and an output resistor are connected in series with an ac signal. What filter action will be the result?\r\n\r\n",
+        "a": "bandpass",
+        "b": "low-pass",
+        "c": "high-pass",
+        "d": "band-stop",
+        "answer": "high-pass"
+    },
+    {
+        "question": "mcq7_1034_1u.gifWhat is the impedance of this circuit?\r\n",
+        "a": "5928 ohm",
+        "b": "2000 ohm",
+        "c": "1902 ohm",
+        "d": "1798 ohm",
+        "answer": "5928 ohm"
+    },
+    {
+        "question": "mcq7_1036_1.gifWhat is the reactive power?\r\n",
+        "a": "6.8 mW",
+        "b": "9.8 mW",
+        "c": "12.8 mW",
+        "d": "15.8 mW",
+        "answer": "9.8 mW"
+    },
+    {
+        "question": "A practical capacitor\r\n\r\n",
+        "a": "is a short to dc",
+        "b": "looks like a capacitor in parallel with a resistor",
+        "c": "is an open to ac",
+        "d": "stores energy in a magnetic field",
+        "answer": "looks like a capacitor in parallel with a resistor"
+    },
+    {
+        "question": "Which of the following is the reference vector for parallel RC circuits?\r\n\r\n",
+        "a": "R",
+        "b": "I",
+        "c": "C",
+        "d": "V",
+        "answer": "V"
+    },
+    {
+        "question": "What do variable capacitors use for dielectric?\r\n\r\n",
+        "a": "ceramic, electrolytic, mica, or paper",
+        "b": "air, ceramic, mica, or plastic",
+        "c": "ceramic, paper, plastic, or mica",
+        "d": "mica, ceramic, plastic, or electrolytic",
+        "answer": "air, ceramic, mica, or plastic"
+    },
+    {
+        "question": "If a charged capacitor is disconnected from a circuit, it will:\r\n\r\n",
+        "a": "immediately discharge",
+        "b": "recharge",
+        "c": "remain charged",
+        "d": "leak the charge",
+        "answer": "recharge"
+    },
+    {
+        "question": "What is the total current for a 5 MHz, 1 Vac circuit that consists of a 27 pF capacitor and a 1 k ohm resistor connected in parallel?\r\n\r\n",
+        "a": "459 A",
+        "b": "647 A",
+        "c": "1.31 mA",
+        "d": "1.85 mA",
+        "answer": "1.31 mA"
+    },
+    {
+        "question": "What is the value of a capacitor that can store two coulombs of charge when 500 volts is applied across its plates?\r\n\r\n",
+        "a": "4 F",
+        "b": "250 F",
+        "c": "4,000 uF",
+        "d": "250 F",
+        "answer": "4,000 uF"
+    },
+    {
+        "question": "The strength of an electric field at a given point is proportional to the potential difference on the plates and inversely proportional to the:\r\n\r\n",
+        "a": "plate separation",
+        "b": "negative plate only",
+        "c": "field strength",
+        "d": "charge difference",
+        "answer": "plate separation"
+    },
+    {
+        "question": "How is ac current related to ac voltage in a purely capacitive circuit?\r\n\r\n",
+        "a": "AC current is 0.707 of the ac voltage.",
+        "b": "AC current lags ac voltage.",
+        "c": "AC current is 0.637 of the ac voltage.",
+        "d": "AC current leads ac voltage.",
+        "answer": "AC current leads ac voltage."
+    },
+    {
+        "question": "mcq7_1033_1.gifWhat is the voltage across the capacitor?\r\n",
+        "a": "7.07 V",
+        "b": "1.11 V",
+        "c": "111 mV",
+        "d": "7.07 mV",
+        "answer": "111 mV"
+    },
+    {
+        "question": "For a given charge difference, electrostatic field strength varies according to:\r\n\r\n",
+        "a": "plate differential",
+        "b": "plate area",
+        "c": "plate distance",
+        "d": "dielectric quantity",
+        "answer": "plate area"
+    },
+    {
+        "question": "A capacitor has 25 V across its plates and a stored charge of 1500 uC. What is the capacitance value?\r\n\r\n",
+        "a": "60 pF",
+        "b": "60 uF",
+        "c": "16.67 mF",
+        "d": "37.5 mF",
+        "answer": "60 uF"
+    },
+    {
+        "question": "A capacitor and an output resistor form a series circuit with a square wave applied. The circuit is:\r\n\r\n",
+        "a": "an integrator",
+        "b": "a differentiator",
+        "c": "a multiplier",
+        "d": "a divider",
+        "answer": "a differentiator"
+    },
+    {
+        "question": "Capacitive reactance values connected in series offer\r\n\r\n",
+        "a": "an increase in total XC",
+        "b": "a decrease in total XC",
+        "c": "no change in total XC",
+        "d": "total opposition to voltage in the circuit",
+        "answer": "an increase in total XC"
+    },
+    {
+        "question": "The quantity that represents an ideal capacitor dissipating 0 W of power is\r\n\r\n",
+        "a": "instantaneous power",
+        "b": "true power",
+        "c": "reactive power",
+        "d": "resistive power",
+        "answer": "true power"
+    },
+    {
+        "question": "If a capacitor is placed across a 20 V source, what will be the amount of charge after 5 tc?\r\n\r\n",
+        "a": "5.0 V",
+        "b": "12.8 V",
+        "c": "13.5 V",
+        "d": "20 V",
+        "answer": "20 V"
+    },
+    {
+        "question": "What is the impedance of an ac RC parallel circuit if the resistance is 12 ohms and the capacitive reactance equals 5 ohms?\r\n\r\n",
+        "a": "0.2 ohms",
+        "b": "3.5 ohms",
+        "c": "4.6 ohms",
+        "d": "13 ohms",
+        "answer": "4.6 ohms"
+    },
+    {
+        "question": "What will a 1 uF capacitor store?\r\n\r\n",
+        "a": "one coulomb of charge",
+        "b": "6.24 x 10^12 electrons",
+        "c": "one volt",
+        "d": "one A of current",
+        "answer": "6.24 x 10^12 electrons"
+    },
+    {
+        "question": "What is the power factor if the apparent power of a circuit is 5 W, while the true power is 4 W?\r\n\r\n",
+        "a": "0.0 W",
+        "b": "0.8 W",
+        "c": "1.0 W",
+        "d": "1.25 W",
+        "answer": "0.8 W"
+    },
+    {
+        "question": "If the reactive power of a circuit is 50 mW while the apparent power is 64 mW, then what is the true power of the circuit?\r\n\r\n",
+        "a": "14 mW",
+        "b": "36 mW",
+        "c": "40 mW",
+        "d": "114 mW",
+        "answer": "40 mW"
+    },
+    {
+        "question": "Capacitive reactance is inversely proportional with frequency.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "To find the total capacitance of capacitors in parallel, sum the values of the individual capacitors.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq9_1004_1.gifThe total capacitance in the given circuit is larger than the value of C4.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A capacitor is charged when one of its plates has more electrons than the other plate.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A 10 uF capacitor will have more capacitive reactance than a 20 uF capacitor in a 60 Hz circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Ceramic capacitors have higher voltage ratings than electrolytic capacitors.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Between any two time constants, the charge on a capacitor changes about 63%.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The term \u201cintegrator\u201d is derived from a mathematical function in trigonometry.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "In an RC series circuit VS = VC + VR.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When a capacitor is charging, current will flow through its dielectric.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq9_1007_1.gifIn the given circuit, the voltage across the capacitor 1 ms after the switch is closed is 11.61 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The frequency response curve illustrates that as the frequency of the input increases, the voltage of the output will decrease.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a series capacitive circuit the smallest capacitor will have the largest voltage drop across it.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Capacitance is directly proportional to the dielectric constant and the distance between its plates and inversely proportional to the area of the plates.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The unit of capacitance is a farad; one farad stores one coulomb of charge or 6.24 x 10^18 electrons.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The opposition to ac from a capacitor is called reluctance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The greater the distance between the plates of a capacitor, the smaller the capacitance value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An ohmmeter can be used to test a capacitor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq7_1018_1.gifThis circuit is an RC integrator.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A capacitor stores electric energy in the form of an electric field.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The frequency response curve for a low-pass filter illustrates that as the frequency of the input increases, the voltage of the output will decrease.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The phase angle  of an RC series circuit is  = invtan (XC\/R) = invtan (VC\/VR).\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The true power in an RC series circuit is PR = I^2 x R.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq7_1018_1.gifThis circuit is a low-pass filter.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A capacitor can be fully charged in 4 time constants.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Capacitors are often used as filters.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Capacitors in parallel have a higher total value than any individual capacitor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A high-pass filter heavily attenuates the higher frequencies.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The impedance of an RC series circuit is (R^2 +C^2)^(1\/2).\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If a 5 V, 60 Hz voltage is applied to a 4.7 uF capacitor, the circuit current will be ______ .\r\n\r\n",
+        "a": "0.886 mA",
+        "b": "8.86 mA",
+        "c": "8.86 uA",
+        "d": "88.6 uA",
+        "answer": "8.86 mA"
+    },
+    {
+        "question": "___ capacitors have the highest values of capacitance.\r\n\r\n",
+        "a": "Electrolytic",
+        "b": "Ceramic",
+        "c": "Plastic-film",
+        "d": "Mica",
+        "answer": "Electrolytic"
+    },
+    {
+        "question": "The basic capacitor is made up of ___ that separates two conductive plates.\r\n\r\n",
+        "a": "a conductor",
+        "b": "a spacer",
+        "c": "a dielectric",
+        "d": "an electrode",
+        "answer": "a dielectric"
+    },
+    {
+        "question": "fbq9_1007_1.gifThe total circuit reactance is ______ in the given circuit.\r\n\r\n",
+        "a": "50 ohm",
+        "b": "140 ohm",
+        "c": "265 ohm",
+        "d": "676 ohm",
+        "answer": "265 ohm"
+    },
+    {
+        "question": "A circuit whose output voltage is proportional to the rate of change of the input voltage is called a(n) ______ .\r\n\r\n",
+        "a": "differentiator",
+        "b": "integrator",
+        "c": "curve averager",
+        "d": "mixer",
+        "answer": "differentiator"
+    },
+    {
+        "question": "The term ______ is derived from a mathematical function in calculus.\r\n\r\n",
+        "a": "differentiator",
+        "b": "integrator",
+        "c": "filter",
+        "d": "voltage-divider",
+        "answer": "integrator"
+    },
+    {
+        "question": "A capacitor takes ___ time constants to charge to 95% of its capacity.\r\n\r\n",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "answer": "3"
+    },
+    {
+        "question": "The ___ of a capacitor affects the time it takes to charge and discharge.\r\n\r\n",
+        "a": "package style",
+        "b": "lead arrangement",
+        "c": "plate area",
+        "d": "voltage rating",
+        "answer": "plate area"
+    },
+    {
+        "question": "The ______ the area of the plates, the greater the number of electrons and ______ that can be stored.\r\n\r\n",
+        "a": "larger, charge",
+        "b": "smaller, charge",
+        "c": "larger, polarity",
+        "d": "smaller, polarity",
+        "answer": "larger, charge"
+    },
+    {
+        "question": "A discharged capacitor has ______ charges on its plates.\r\n\r\n",
+        "a": "no",
+        "b": "unequal",
+        "c": "equal",
+        "d": "negative",
+        "answer": "equal"
+    },
+    {
+        "question": "A ___ capacitor allows ac signals to pass while blocking dc signals.\r\n\r\n",
+        "a": "filter",
+        "b": "bypass",
+        "c": "decoupling",
+        "d": "coupling",
+        "answer": "coupling"
+    },
+    {
+        "question": "The rate of charge or discharge of a capacitor is based on ___ function.\r\n\r\n",
+        "a": "an exponential",
+        "b": "a linear",
+        "c": "a parabolic",
+        "d": "a trigonometric",
+        "answer": "an exponential"
+    },
+    {
+        "question": "fbq9_1003_1.gifThe given image is a _____ capacitor.\r\n\r\n",
+        "a": "0.33 ",
+        "b": "0.00033 uF",
+        "c": "33,000 pF",
+        "d": "0.33 uF",
+        "answer": "0.33 uF"
+    },
+    {
+        "question": "fbq9_1007_1.gifThe reactance of C2 is _____ in the given circuit.\r\n\r\n",
+        "a": "66 ohm",
+        "b": "80 ohm",
+        "c": "199 ohm",
+        "d": "398 ohm",
+        "answer": "398 ohm"
+    }
+]

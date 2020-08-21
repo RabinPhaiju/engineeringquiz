@@ -1,0 +1,610 @@
+[
+    {
+        "question": "mcq3_1005_11.gifWhat is the current flow through R1, R2, and R3?\r\n",
+        "a": "1A, 1A, 1A",
+        "b": "1A, 2A, 3A",
+        "c": "3A, 3A, 3A",
+        "d": "3A, 2A, 1A",
+        "answer": "1A, 1A, 1A"
+    },
+    {
+        "question": "One of the most common applications of a potentiometer is as an adjustable voltage divider, also known as\r\n\r\n",
+        "a": "voltage control",
+        "b": "current control",
+        "c": "volume control",
+        "d": "divider control",
+        "answer": "volume control"
+    },
+    {
+        "question": "If the resistance total in a series circuit doubles, current will:\r\n\r\n",
+        "a": "be the same",
+        "b": "be doubled",
+        "c": "reduce source voltage",
+        "d": "be halved",
+        "answer": "be halved"
+    },
+    {
+        "question": "Power is defined as:\r\n\r\n",
+        "a": "the rate at which work is done",
+        "b": "work",
+        "c": "the conversion of energy",
+        "d": "joules",
+        "answer": "the rate at which work is done"
+    },
+    {
+        "question": "mcq3_1007_1.gifWhat is the dc source voltage?\r\n",
+        "a": "78 V",
+        "b": "39 V",
+        "c": "13 V",
+        "d": "0 V",
+        "answer": "78 V"
+    },
+    {
+        "question": "With a total resistance of 3300 ohms and a 45 V source, if R3 is 1200 ohms, what will be its voltage drop?\r\n\r\n",
+        "a": "16.36 V",
+        "b": "32.72 V",
+        "c": "10.90 V",
+        "d": "15.00 V",
+        "answer": "16.36 V"
+    },
+    {
+        "question": "mcq4_1005_11.gifCalculate the voltage at point B in the given circuit.\r\n\r\n",
+        "a": "+10.48 V",
+        "b": "+0.94 V",
+        "c": "+2.6 V",
+        "d": "+3 V",
+        "answer": "+10.48 V"
+    },
+    {
+        "question": "mcq4_1001_1.gifIn the given circuit, what type of failure will cause the voltage at point B to equal the voltage at point C?\r\n\r\n",
+        "a": "R1 shorts",
+        "b": "R2 shorts",
+        "c": "R3 shorts",
+        "d": "R2 opens",
+        "answer": "R2 shorts"
+    },
+    {
+        "question": "mcq4_1001_1.gifWhat is the voltage at points B to D in the given circuit?\r\n\r\n",
+        "a": "+19.2 V",
+        "b": "+8.8 V",
+        "c": "+28 V",
+        "d": "\u201319.2 V",
+        "answer": "+19.2 V"
+    },
+    {
+        "question": "mcq4_1005_11.gifCalculate the voltage at point C in the given circuit.\r\n\r\n",
+        "a": "+1.48 V",
+        "b": "+0.94 V",
+        "c": "+11.6 V",
+        "d": "+3 V",
+        "answer": "+11.6 V"
+    },
+    {
+        "question": "An 8-ohm resistor is in series with a lamp. The circuit current is 1 A. With 20 V applied, what voltage is being allowed for the lamp?\r\n\r\n",
+        "a": "4 V",
+        "b": "8 V",
+        "c": "12 V",
+        "d": "20 V",
+        "answer": "12 V"
+    },
+    {
+        "question": "mcq3_1011_1.gifWhat is wrong, if anything, with this circuit?\r\n",
+        "a": "R1 is open.",
+        "b": "R1 is shorted.",
+        "c": "R2 is open.",
+        "d": "R2 is shorted.",
+        "answer": "R1 is shorted."
+    },
+    {
+        "question": "Kirchhoff\u2019s voltage law states that:\r\n\r\n",
+        "a": "the sum of the voltage drops in a series circuit is equal to the total applied voltage",
+        "b": "the algebraic sum of the resistances is equal to the sum of the voltages",
+        "c": "the algebraic sum of the individual currents around a closed loop is zero",
+        "d": "the voltages developed across each element in a series circuit are identical",
+        "answer": "the sum of the voltage drops in a series circuit is equal to the total applied voltage"
+    },
+    {
+        "question": "If series current doubles, then:\r\n\r\n",
+        "a": "resistance is halved",
+        "b": "voltage is doubled",
+        "c": "voltage is reduced",
+        "d": "resistance is doubled",
+        "answer": "resistance is halved"
+    },
+    {
+        "question": "mcq3_1009_1.gifWhat are the minimum and maximum output voltages?\r\n",
+        "a": "0 V, 4 V",
+        "b": "0 V, 8 V",
+        "c": "0 V, 12 V",
+        "d": "0 V, 16 V",
+        "answer": "0 V, 16 V"
+    },
+    {
+        "question": "A short circuit has:\r\n\r\n",
+        "a": "too much resistance",
+        "b": "no conductance",
+        "c": "no resistance",
+        "d": "low current",
+        "answer": "no resistance"
+    },
+    {
+        "question": "If three resistors of 1.5 kilohms, 470 ohms, and 3300 ohms are in series with a 25-volt source, what is the total circuit current?\r\n\r\n",
+        "a": "210 mA",
+        "b": "5.2 mA",
+        "c": "4.7 mA",
+        "d": ".007 A",
+        "answer": "4.7 mA"
+    },
+    {
+        "question": "mcq3_1010_1.gifWhat is the total power in the circuit?\r\n",
+        "a": "170 mW",
+        "b": "1.7 W",
+        "c": "17 W",
+        "d": "170 W",
+        "answer": "170 mW"
+    },
+    {
+        "question": "A string of resistors in a series circuit will:\r\n\r\n",
+        "a": "divide the source voltage in proportion to their values",
+        "b": "reduce the power to zero",
+        "c": "cause the current to divide",
+        "d": "increase the source voltage in proportion to the values",
+        "answer": "divide the source voltage in proportion to their values"
+    },
+    {
+        "question": "mcq4_1004_1.gifWhile putting three 1.5 V batteries into a flashlight, you put one in backwards. The flashlight will be ______________.\r\n\r\n",
+        "a": "brighter than normal",
+        "b": "dimmer than normal",
+        "c": "off",
+        "d": "the same",
+        "answer": "dimmer than normal"
+    },
+    {
+        "question": "mcq4_1009_11.gifIf a voltage is connected between contacts 2 and 3 in the given circuit, which resistors will carry current?\r\n\r\n",
+        "a": "All twelve resistors will carry current.",
+        "b": "Only R6 and R11 will carry current.",
+        "c": "Only R2, R4, R6, and R11 will carry current.",
+        "d": "Only R3, R6, R9, and R12 will carry current.",
+        "answer": "Only R2, R4, R6, and R11 will carry current."
+    },
+    {
+        "question": "Given a series circuit containing resistors of different values, which statement is not true?\r\n\r\n",
+        "a": "The current through each resistor is the same.",
+        "b": "The sum of the voltage drops across each resistive element will be equal.",
+        "c": "The total resistance is the sum of the value of the resistors.",
+        "d": "The voltage drop across each resistor is the same.",
+        "answer": "The voltage drop across each resistor is the same."
+    },
+    {
+        "question": "With 20 V applied, an 8-ohm resistor is in series with a lamp. When the lamp is removed, what voltage will be read across the lamp socket?\r\n\r\n",
+        "a": "0 V",
+        "b": "8 V",
+        "c": "12 V",
+        "d": "20 V",
+        "answer": "20 V"
+    },
+    {
+        "question": "When 50 V is applied to four series resistors, 100 \u00b5A flows. If R1 = 12 k\u03a9 , R2 = 47 k\u03a9, and R3 = 57 k\u03a9, what is the value of R4?\r\n\r\n",
+        "a": "38.4 k\u03a9",
+        "b": "3.84 k\u03a9",
+        "c": "384 k\u03a9",
+        "d": "3.84 M\u03a9",
+        "answer": "384 k\u03a9"
+    },
+    {
+        "question": "In a series circuit, the voltage measured across a short will be:\r\n\r\n",
+        "a": "source voltage",
+        "b": "infinite voltage",
+        "c": "zero volts",
+        "d": "the normal voltage drop",
+        "answer": "zero volts"
+    },
+    {
+        "question": "mcq4_1005_11.gifWhich is a true statement about the circuit in the given circuit?\r\n\r\n",
+        "a": "The batteries are series-aiding and the total source voltage equals 21 V.",
+        "b": "The batteries are series-opposing and the total source voltage equals 3 V.",
+        "c": "The batteries are series-aiding and the total source voltage equals 3 V.",
+        "d": "The batteries are series-opposing and the total source voltage equals 21 V.",
+        "answer": "The batteries are series-opposing and the total source voltage equals 3 V."
+    },
+    {
+        "question": "A series circuit current:\r\n\r\n",
+        "a": "remains the same through each component",
+        "b": "is the same as the individual resistances",
+        "c": "is subtracted by each component",
+        "d": "varies through each component",
+        "answer": "remains the same through each component"
+    },
+    {
+        "question": "mcq4_1001_1.gifIf R2 opens in the given circuit, what is the voltage at point B?\r\n\r\n",
+        "a": "+19.2 V",
+        "b": "+8.8 V",
+        "c": "+28 V",
+        "d": "\u201319.2 V",
+        "answer": "+28 V"
+    },
+    {
+        "question": "If 5 V and 16 V power supplies are connected in series-opposing, what is the total voltage?\r\n\r\n",
+        "a": "11 V",
+        "b": "16 V",
+        "c": "21 V",
+        "d": "80 V",
+        "answer": "11 V"
+    },
+    {
+        "question": "mcq3_1006_1.gifWhat is the total resistance?\r\n",
+        "a": "0 k\u03a9; there is no current",
+        "b": "2 k\u03a9; the average",
+        "c": "3 k\u03a9; the largest",
+        "d": "6 k\u03a9; the sum",
+        "answer": "6 k\u03a9; the sum"
+    },
+    {
+        "question": "Which equation determines individual resistor voltage drop?\r\n\r\n",
+        "a": "V x R",
+        "b": "I^2 x R",
+        "c": "V x I",
+        "d": "I x R",
+        "answer": "I x R"
+    },
+    {
+        "question": "How will an open resistor affect a series circuit?\r\n\r\n",
+        "a": "Current will flow around the open resistor.",
+        "b": "The open resistor will drop 0 V.",
+        "c": "Total resistance will decrease.",
+        "d": "No current will flow in the circuit.",
+        "answer": "No current will flow in the circuit."
+    },
+    {
+        "question": "The voltage drop across a series resistor is proportional to what other value?\r\n\r\n",
+        "a": "total resistance",
+        "b": "its own resistance",
+        "c": "wattage rating",
+        "d": "the amount of time the circuit is on",
+        "answer": "its own resistance"
+    },
+    {
+        "question": "Resistance in a series circuit will:\r\n\r\n",
+        "a": "control the voltage",
+        "b": "double the current",
+        "c": "halve the power",
+        "d": "oppose current",
+        "answer": "oppose current"
+    },
+    {
+        "question": "When a battery is connected to a series circuit, it delivers current based only upon:\r\n\r\n",
+        "a": "primary\/secondary difference",
+        "b": "total resistance",
+        "c": "the polarity connections",
+        "d": "average resistance",
+        "answer": "total resistance"
+    },
+    {
+        "question": "What determines the total resistance in a series circuit?\r\n\r\n",
+        "a": "the largest resistor",
+        "b": "the sum of the resistors",
+        "c": "the largest resistor minus the smaller",
+        "d": "the smallest resistor",
+        "answer": "the sum of the resistors"
+    },
+    {
+        "question": "If two resistors have the same voltage drop in a series circuit, it means:\r\n\r\n",
+        "a": "they are connected in parallel",
+        "b": "they are of unequal value",
+        "c": "the voltage has doubled",
+        "d": "they are of equal value",
+        "answer": "they are of equal value"
+    },
+    {
+        "question": "If series resistors dissipate 16 mW, 107 mW, 146 mW, and 243 mW, what is the total power consumed by the circuit?\r\n\r\n",
+        "a": "128 mW",
+        "b": "269 mW",
+        "c": "512 mW",
+        "d": "1024 mW",
+        "answer": "512 mW"
+    },
+    {
+        "question": "A series circuit schematic is recognized because all the components are connected:\r\n\r\n",
+        "a": "diagonally across the page",
+        "b": "in a uniform vertical manner",
+        "c": "end to end in a \"string\"",
+        "d": "horizontally across the page",
+        "answer": "end to end in a \"string\""
+    },
+    {
+        "question": "With a 900 V source, voltage is divided across 3 series resistors of 300 V, 280 V, and:\r\n\r\n",
+        "a": "30 V",
+        "b": "270 V",
+        "c": "320 V",
+        "d": "900 V",
+        "answer": "320 V"
+    },
+    {
+        "question": "mcq4_1005_11.gifHow much current flows in the circuit in the given circuit?\r\n\r\n",
+        "a": "20 uA",
+        "b": "60 uA",
+        "c": "80 uA",
+        "d": "140 uA",
+        "answer": "20 uA"
+    },
+    {
+        "question": "The total resistance of a series circuit is equal to the average of all the resistance values.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The total resistance of a series circuit always depends on the highest value resistor in that circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq4_1004_1.gifIf four 9 V batteries are connected series-aiding, the total voltage is 36 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq3_1006_1.gifThe total resistance is 35 \u03a9.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq3_1003_1.gifThese components are in series.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a series circuit, larger resistances drop larger voltages.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "To find the total resistance in series, add the individual resistances.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An open in a series circuit will cause maximum voltage across the power supply terminals.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A short in a series circuit causes the total circuit current to decrease.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Voltage sources are added when they are series-opposing.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The total power dissipated in a series resistive circuit exceeds the sum of the resistor powers.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A series circuit provides only one path for current between two points.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq3_1009_1.gifUsing a voltage divider the voltage across R1 is 10 V, R2 is 15 V, and R3 is 30 V.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If 7.3 k\u03a9, 1.8 k\u03a9, and 4.9 k\u03a9 resistors are wired in series, the total resistance is 14 k\u03a9.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The sum of the voltage drops across series resistors must equal the total voltage applied.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The sum of all the voltage drops in a series circuit equals the source voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "To find the total current in series, add the individual currents.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Ground is the reference point from which voltages are measured in an electronic circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq3_1008_1.gifThe voltage across R1 is 10 volts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "In a series circuit, the current flowing out of a resistor won't always equal the current flowing into that resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "As additional resistors are added to a series circuit, the total circuit resistance increases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The ______ determines whether connected resistors are in series, parallel, or series-parallel?\r\n\r\n",
+        "a": "current flow",
+        "b": "power source",
+        "c": "voltage flow",
+        "d": "wattage source",
+        "answer": "current flow"
+    },
+    {
+        "question": "If a 3.9 k\u03a9, a 7.5 k\u03a9, and a 5.6 k\u03a9 resistor are connected in series with a 34 V source, the voltage dropped across the 7.5 k\u03a9 resistor equals _____.\r\n\r\n",
+        "a": "34 V",
+        "b": "15 V",
+        "c": "7.8 V",
+        "d": "11.2 V",
+        "answer": "15 V"
+    },
+    {
+        "question": "fbq4_1008_1.gifIn the given circuit, R1 equals _____.\r\n\r\n",
+        "a": "100 k\u03a9",
+        "b": "200 k\u03a9",
+        "c": "300 k\u03a9",
+        "d": "More information is needed to find R1.",
+        "answer": ""
+    },
+    {
+        "question": "fbq4_1007_1.gifThe total circuit power in the given circuit equals _____.\r\n\r\n",
+        "a": "64 \u00b5W",
+        "b": "4 \u00b5W",
+        "c": "0 W",
+        "d": "16 \u00d7 10^\u201312 W",
+        "answer": "64 \u00b5W"
+    },
+    {
+        "question": "fbq4_1008_1.gifIn the given circuit, the voltage dropped across R3 equals ___.\r\n\r\n",
+        "a": "1.5 V",
+        "b": "3 V",
+        "c": "6 V",
+        "d": "More information is needed to find the voltage dropped across R3.",
+        "answer": "1.5 V"
+    },
+    {
+        "question": "If a 220 \u03a9, a 100 \u03a9, and a 180 \u03a9 resistor are connected in series across a 12 V source, the circuit current equals ___.\r\n\r\n",
+        "a": "41.67 A",
+        "b": "120 mA",
+        "c": "500 A",
+        "d": "24 mA",
+        "answer": "24 mA"
+    },
+    {
+        "question": "If a 47 \u03a9 and a 68 \u03a9 resistor are connected in series, the total resistance is ___.\r\n\r\n",
+        "a": "3,196 \u03a9",
+        "b": "less than 47 \u03a9",
+        "c": "less than 68 \u03a9",
+        "d": "115 \u03a9",
+        "answer": "115 \u03a9"
+    },
+    {
+        "question": "fbq4_1008_1.gifIn the given circuit, R2 equals _____.\r\n\r\n",
+        "a": "100 k\u03a9",
+        "b": "200 k\u03a9",
+        "c": "300 k\u03a9",
+        "d": "More information is needed to find R2.",
+        "answer": "200 k\u03a9"
+    },
+    {
+        "question": "The polarity on the side of the resistor where current enters is ______. The polarity on the side of the resistor where current exits is ___________.\r\n\r\n",
+        "a": "positive, positive",
+        "b": "negative, negative",
+        "c": "negative, positive",
+        "d": "positive, negative",
+        "answer": "negative, positive"
+    },
+    {
+        "question": "A voltage divider is always a _____\r\n\r\n",
+        "a": "series-parallel circuit",
+        "b": "series circuit",
+        "c": "parallel circuit",
+        "d": "bridge circuit",
+        "answer": "series circuit"
+    },
+    {
+        "question": "If five equal resistors are connected in series with a 20 V source, and a current of 400 \u00b5A is measured, each resistor equals ___.\r\n\r\n",
+        "a": "10 k\u03a9",
+        "b": "50 k\u03a9",
+        "c": "125 \u03a9",
+        "d": "20 \u03a9",
+        "answer": "10 k\u03a9"
+    },
+    {
+        "question": "If four 90 \u03a9 resistors are connected in series across an 18 V source, the current equals ___.\r\n\r\n",
+        "a": "50 mA",
+        "b": "0.2 A",
+        "c": "5 A",
+        "d": "20 A",
+        "answer": "50 mA"
+    },
+    {
+        "question": "\u20131.2 V, +15 V, and \u20136 V batteries are connected in series. The magnitude of total voltage is _________.\r\n\r\n",
+        "a": "7.8 V",
+        "b": "10.2 V",
+        "c": "22.2 V",
+        "d": "1.3 V",
+        "answer": "7.8 V"
+    },
+    {
+        "question": "fbq4_1003_1.gifIn the given circuit, _____ are in series.\r\n\r\n",
+        "a": "R1 and R3",
+        "b": "R3 and R5",
+        "c": "R5 and R7",
+        "d": "None of the above",
+        "answer": "R3 and R5"
+    }
+]

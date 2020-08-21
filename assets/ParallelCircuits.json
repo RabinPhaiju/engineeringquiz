@@ -1,0 +1,578 @@
+[
+    {
+        "question": "When parallel resistors are of three different values, which has the greatest power loss?\r\n\r\n",
+        "a": "The smallest resistance",
+        "b": "The largest resistance",
+        "c": "They have the same power loss.",
+        "d": "Voltage and resistance values are needed.",
+        "answer": "The smallest resistance"
+    },
+    {
+        "question": "What is the product-over-sum result of 150 and 6800?\r\n\r\n",
+        "a": "150",
+        "b": "146.7",
+        "c": "0.006",
+        "d": "6800",
+        "answer": "146.7"
+    },
+    {
+        "question": "The voltage across any branch of a parallel circuit:\r\n\r\n",
+        "a": "varies as the total current varies",
+        "b": "is inversely proportional to total circuit resistance",
+        "c": "is equally applied to all branch conductances",
+        "d": "is dropped in proportion to each branch resistance",
+        "answer": "is equally applied to all branch conductances"
+    },
+    {
+        "question": "What is the total power loss if 2 k and 1 k parallel-connected resistors have an IT of 3 mA?\r\n\r\n",
+        "a": "6 uW",
+        "b": "36 uW",
+        "c": "6 mW",
+        "d": "36 mW",
+        "answer": "6 mW"
+    },
+    {
+        "question": "What happens to total resistance in a circuit with parallel resistors if one of them opens?\r\n\r\n",
+        "a": "It increases.",
+        "b": "It halves.",
+        "c": "It remains the same.",
+        "d": "It decreases.",
+        "answer": "It increases."
+    },
+    {
+        "question": "Components that connect in parallel form:\r\n\r\n",
+        "a": "branches",
+        "b": "open circuits",
+        "c": "short circuits",
+        "d": "a voltage divider",
+        "answer": "branches"
+    },
+    {
+        "question": "A parallel circuit differs from a series circuit in that a parallel circuit has\r\n\r\n",
+        "a": "no path for current flow",
+        "b": "fewer paths for current flow",
+        "c": "one path for current flow",
+        "d": "more than one path for current flow",
+        "answer": "more than one path for current flow"
+    },
+    {
+        "question": "If two parallel-connected resistors dissipate 6 watts and 10 watts of power, then what is the total power loss?\r\n\r\n",
+        "a": "3.75 watts",
+        "b": "4 watts",
+        "c": "16 watts",
+        "d": "60 watts",
+        "answer": "16 watts"
+    },
+    {
+        "question": "If a 1 k ohm and a 2 k ohm resistor are parallel-connected across a 12 V supply, how much current is received by the 2 k ohm resistor?\r\n\r\n",
+        "a": "4 mA",
+        "b": "6 mA",
+        "c": "8 mA",
+        "d": "12 mA",
+        "answer": "6 mA"
+    },
+    {
+        "question": "What are the individual values of two parallel resistors whose RT is 8 ohms, when one has double the resistance of the other?\r\n\r\n",
+        "a": "2.7 ohms and 5.3 ohms",
+        "b": "8 ohms and 16 ohms",
+        "c": "10 ohms and 20 ohms",
+        "d": "12 ohms and 24 ohms",
+        "answer": "12 ohms and 24 ohms"
+    },
+    {
+        "question": "When a parallel 5 k ohm resistor and a 25 k ohm resistor have a 10 V supply, what is the total power loss?\r\n\r\n",
+        "a": "2.4 mW",
+        "b": "3.3 mW",
+        "c": "24 mW",
+        "d": "33 mW",
+        "answer": "24 mW"
+    },
+    {
+        "question": "In a parallel resistive circuit:\r\n\r\n",
+        "a": "there is more than one current path between two points",
+        "b": "the voltage applied divides between the branches",
+        "c": "the total branch power exceeds the source power",
+        "d": "the total circuit conductance is less than the smallest branch conductance",
+        "answer": "there is more than one current path between two points"
+    },
+    {
+        "question": "Kirchhoff's current law for parallel circuits states that the:\r\n\r\n",
+        "a": "sum of all branch voltages equals zero",
+        "b": "total circuit resistance is less than the smallest branch resistor",
+        "c": "sum of currents into a junction is equal to the difference of all the branch currents",
+        "d": "sum of the total currents flowing out of a junction equals the sum of the total currents flowing into that junction",
+        "answer": "sum of the total currents flowing out of a junction equals the sum of the total currents flowing into that junction"
+    },
+    {
+        "question": "If 550 mA of current leaves a node that had 250 mA entering from one branch, how much current would enter from the other?\r\n\r\n",
+        "a": "250 mA",
+        "b": "300 mA",
+        "c": "550 mA",
+        "d": "800 mA",
+        "answer": "300 mA"
+    },
+    {
+        "question": "What procedure should be followed when troubleshooting with an ammeter or voltmeter?\r\n\r\n",
+        "a": "Short the leads and adjust.",
+        "b": "Check the meter\u2019s external power supply.",
+        "c": "Start with the highest scale and adjust down to a lower scale.",
+        "d": "Start with the lowest scale and adjust up to a higher scale.",
+        "answer": "Start with the highest scale and adjust down to a lower scale."
+    },
+    {
+        "question": "A parallel circuit is also used as a divider for:\r\n\r\n",
+        "a": "conductance",
+        "b": "voltage",
+        "c": "power",
+        "d": "current",
+        "answer": "current"
+    },
+    {
+        "question": "What is RT for a 12 k ohm, a 4 k, and a 3 k ohm resistor in parallel?\r\n\r\n",
+        "a": "1.5 k ohm",
+        "b": "2 k ohm",
+        "c": "6.3 k ohm",
+        "d": "19 k ohm",
+        "answer": "1.5 k ohm"
+    },
+    {
+        "question": "What is the total resistance of four 1 k ohm parallel-connected resistors?\r\n\r\n",
+        "a": "200 ohms",
+        "b": "250 ohms",
+        "c": "400 ohms",
+        "d": "4 kilohms",
+        "answer": "250 ohms"
+    },
+    {
+        "question": "Which are the better test devices used to isolate a suspected open component within a parallel circuit?\r\n\r\n",
+        "a": "a voltmeter or an ohmmeter",
+        "b": "neither an ammeter nor a voltmeter",
+        "c": "a wattmeter or a voltmeter",
+        "d": "an ammeter or an ohmmeter",
+        "answer": "an ammeter or an ohmmeter"
+    },
+    {
+        "question": "What is RT for fifteen 2 M ohm resistors all connected in parallel?\r\n\r\n",
+        "a": "133 k ohm",
+        "b": "300 k ohm",
+        "c": "750 k ohm",
+        "d": "30 M ohm",
+        "answer": "133 k ohm"
+    },
+    {
+        "question": "Which is considered to be the common reference for a parallel circuit?\r\n\r\n",
+        "a": "Voltage",
+        "b": "Current",
+        "c": "Power",
+        "d": "Resistance",
+        "answer": "Voltage"
+    },
+    {
+        "question": "The total resistance in a parallel circuit is always less than the least resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If a branch opens in a parallel circuit, the current in the remaining parallel paths will change.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If a branch opens in a parallel circuit, the total circuit resistance decreases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The largest branch resistance in a parallel circuit carries the largest branch current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If two equal resistors are connected in parallel, they will carry identical currents.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Kirchhoff's current law states that the current flowing into a point of a circuit is equal to the sum of the voltages in the output branches.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The voltages across all components in parallel are equal.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The total resistance in a parallel circuit is always greater than the lowest-value branch resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A parallel circuit is sometimes called a current divider.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The total resistance of a parallel circuit is always greater than the largest resistor value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The voltage in a parallel circuit is the same across each branch of the circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If one branch shorts out in a parallel circuit, the other branches are not affected.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If one of the resistors opens in a parallel circuit branch, the total resistance of the circuit will decrease.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The total current entering a junction may be different from the total current leaving the junction.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The total power in a parallel circuit equals the sum of the individual branch powers.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Current divider predicts that the most current will flow in the parallel path of the most resistance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The total resistance of like value resistors in parallel is equal to the value of the resistors multiplied by the number of resistors used.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Parallel circuits have only one path for current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "As additional resistors are connected to a parallel circuit, the total resistance will ___.\r\n\r\n",
+        "a": "increase",
+        "b": "increase by the value of the resistor being connected",
+        "c": "decrease",
+        "d": "remain unchanged",
+        "answer": "decrease"
+    },
+    {
+        "question": "An ammeter is connected in ______ with the branch resistor to measure branch current, and in ______ with the voltage supply to measure total parallel circuit current.\r\n\r\n",
+        "a": "parallel, series",
+        "b": "series, parallel",
+        "c": "series, series",
+        "d": "parallel, parallel",
+        "answer": "series, series"
+    },
+    {
+        "question": "Circuit analysis should reveal that the largest resistance in a parallel circuit has the ______.\r\n\r\n",
+        "a": "least current",
+        "b": "most current",
+        "c": "least voltage",
+        "d": "most voltage",
+        "answer": "least current"
+    },
+    {
+        "question": "An open resistor in parallel will cause the total ___ to increase.\r\n\r\n",
+        "a": "voltage",
+        "b": "current",
+        "c": "resistance",
+        "d": "power",
+        "answer": "resistance"
+    },
+    {
+        "question": "A parallel resistor's value that changes with age will cause a corresponding change in ______ .\r\n\r\n",
+        "a": "branch current",
+        "b": "branch voltage",
+        "c": "both branch current and branch voltage",
+        "d": "power supply voltage",
+        "answer": "branch current"
+    },
+    {
+        "question": "A circuit is parallel between two points if ___ between those two points.\r\n\r\n",
+        "a": "the voltage divides",
+        "b": "more than one current path exists",
+        "c": "all resistors are equal",
+        "d": "there is only one current path",
+        "answer": "more than one current path exists"
+    },
+    {
+        "question": "mcq5_1006_1.gifIn the given circuit, Channel 1 of the stereo amplifier outputs 12 V to the speakers. How much total current is the amplifier providing to the speakers?\r\n\r\n",
+        "a": "0 A",
+        "b": "1.5 A",
+        "c": "3 A",
+        "d": "5A",
+        "answer": "3 A"
+    },
+    {
+        "question": "mcq4_1012_1.gif",
+        "a": "R1",
+        "b": "R2",
+        "c": "R3",
+        "d": "R4",
+        "answer": "R4"
+    },
+    {
+        "question": "mcq5_1008_1.gifWhat would these meter readings indicate about the circuit in the given circuit?\r\n\r\nMeter Readings: I = 7.6 mA, V = 12 V",
+        "a": "R1 is open.",
+        "b": "R2 is open.",
+        "c": "The fuse is open.",
+        "d": "The circuit is operating normally.",
+        "answer": "R2 is open."
+    },
+    {
+        "question": "mcq5_1006_1.gifIn the given circuit, Channel 1 of the stereo amplifier outputs 12 V to the speakers. How much total power is the amplifier delivering to the speakers?\r\n\r\n",
+        "a": "0 W",
+        "b": "18 W",
+        "c": "36 W",
+        "d": "3 W",
+        "answer": "36 W"
+    },
+    {
+        "question": "mcq5_1001_1.gifWhat does VS equal in the given circuit?\r\n\r\n",
+        "a": "0 V",
+        "b": "9 V",
+        "c": "27 V",
+        "d": "More information is needed to find VS.",
+        "answer": "9 V"
+    },
+    {
+        "question": "mcq4_1006_1.gifThe current through R1 will be:\r\n",
+        "a": "128 mA",
+        "b": "88 mA",
+        "c": "48 mA",
+        "d": "2.2 mA",
+        "answer": "48 mA"
+    },
+    {
+        "question": "mcq4_1005_1.gifThe voltage read by the voltmeter will be:\r\n",
+        "a": "24 V",
+        "b": "12 V",
+        "c": "6 V",
+        "d": "4 V",
+        "answer": "12 V"
+    },
+    {
+        "question": "mcq4_1013_1.gifWhich component is of the wrong value?\r\n",
+        "a": "R1",
+        "b": "R2",
+        "c": "R3",
+        "d": "R4",
+        "answer": "R1"
+    },
+    {
+        "question": "mcq5_1001_1.gifWhat does I3 equal in the given circuit?\r\n\r\n",
+        "a": "5 mA",
+        "b": "45 mA",
+        "c": "50 mA",
+        "d": "100 mA",
+        "answer": "5 mA"
+    },
+    {
+        "question": "mcq4_1009_1.gifWhat is the total power of the circuit?\r\n",
+        "a": "2.2 W",
+        "b": "4.2 W",
+        "c": "6.2 W",
+        "d": "8.2 W",
+        "answer": "4.2 W"
+    },
+    {
+        "question": "mcq4_1007_1.gifWhat is the total resistance?\r\n",
+        "a": "7 k ohm",
+        "b": "1 k ohm",
+        "c": "706 ohm",
+        "d": "353 ohm",
+        "answer": "353 ohm"
+    },
+    {
+        "question": "mcq4_1011_1.gifWhich component is open?\r\n",
+        "a": "R1",
+        "b": "R2",
+        "c": "R3",
+        "d": "R4",
+        "answer": "R3"
+    },
+    {
+        "question": "mcq5_1008_1.gifWhat would these meter readings indicate about the circuit in the given circuit?\r\n\r\nMeter Readings: I = 0 mA, V = 0 V",
+        "a": "R1 is open.",
+        "b": "R2 is open.",
+        "c": "The fuse is open.",
+        "d": "The circuit is operating normally.",
+        "answer": "The fuse is open."
+    },
+    {
+        "question": "mcq5_1008_1.gifWhat would these meter readings indicate about the circuit in the given circuit?\r\nMeter Readings: I = 10 mA, V = 12 V",
+        "a": "R1 is open.",
+        "b": "R2 is open.",
+        "c": "The fuse is open.",
+        "d": "The circuit is operating normally.",
+        "answer": "The circuit is operating normally."
+    },
+    {
+        "question": "mcq5_1001_1.gifWhat does RT equal in the given circuit?\r\n\r\n",
+        "a": "90 ohm",
+        "b": "180 ohm",
+        "c": "200 ohm",
+        "d": "1.8 k ohm",
+        "answer": "90 ohm"
+    },
+    {
+        "question": "mcq5_1001_1.gifWhat does P2 equal in the given circuit?\r\n\r\n",
+        "a": "45 mW",
+        "b": "405 mW",
+        "c": "450 mW",
+        "d": "900 mW",
+        "answer": "405 mW"
+    },
+    {
+        "question": "mcq5_1001_1.gifWhat does R1 equal in the given circuit?\r\n\r\n",
+        "a": "90 ohm",
+        "b": "180 ohm",
+        "c": "200 ohm",
+        "d": "1.8 k ohm",
+        "answer": "180 ohm"
+    },
+    {
+        "question": "mcq4_1010_1.gifWhat is the total resistance?\r\n",
+        "a": "1.045 k ohm",
+        "b": "1.545 k ohm",
+        "c": "2.045 k ohm",
+        "d": "2.545 k ohm",
+        "answer": "1.545 k ohm"
+    },
+    {
+        "question": "tfq4_1008_1.gifThe total power dissipated is 4.8 watts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq4_1007_1.gifThe total resistance is 480 ohm.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "fbq5_1005_1.gifThe total current in the given circuit equals _____.\r\n\r\n",
+        "a": "86 mA",
+        "b": "170 mA",
+        "c": "42 mA",
+        "d": "128 mA",
+        "answer": "170 mA"
+    },
+    {
+        "question": "fbq5_1007_1.gifThe total current in the given circuit is ___.\r\n\r\n",
+        "a": "2.5 mA",
+        "b": "0.6 mA",
+        "c": "1.5 mA",
+        "d": "0.4 mA",
+        "answer": "2.5 mA"
+    },
+    {
+        "question": "fbq5_1003_1.gifIf the voltmeter indicates 12 V in the given circuit, the voltage across R2 equals ___.\r\n\r\n",
+        "a": "12 V",
+        "b": "VS minus 12 V",
+        "c": "0 V",
+        "d": "More information is needed to find the voltage across R2.",
+        "answer": "12 V"
+    },
+    {
+        "question": "fbq5_1007_1.gifThe total power in the given circuit is ___.\r\n\r\n",
+        "a": "4.8 mW",
+        "b": "18 mW",
+        "c": "7.2 mW",
+        "d": "30 mW",
+        "answer": "30 mW"
+    },
+    {
+        "question": "fbq5_1007_1.gifThe total resistance in the given circuit is _____.\r\n\r\n",
+        "a": "greater than 8 k ohm",
+        "b": "58 k ohm",
+        "c": "4.8 k ohm",
+        "d": "greater than 30 k ohm",
+        "answer": "4.8 k ohm"
+    },
+    {
+        "question": "fbq5_1005_1u.gifIf R1 opens in the given circuit, the total current equals ___.\r\n",
+        "a": "86 mA",
+        "b": "170 mA",
+        "c": "42 mA",
+        "d": "128 mA",
+        "answer": "128 mA"
+    },
+    {
+        "question": "fbq5_1003_1.gifIf R2 opens in the given circuit, the voltage across R1 will ___.\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "equal 0 V",
+        "d": "remain unchanged",
+        "answer": "remain unchanged"
+    }
+]

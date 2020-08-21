@@ -1,0 +1,234 @@
+[
+    {
+        "question": "When 1100010 is divided by 0101, what will be the decimal remainder?\r\n\r\n",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "6",
+        "answer": "3"
+    },
+    {
+        "question": "What are the two types of basic adder circuits?\r\n\r\n",
+        "a": "half adder and full adder",
+        "b": "half adder and parallel adder",
+        "c": "asynchronous and synchronous",
+        "d": "one's complement and two's complement",
+        "answer": "half adder and full adder"
+    },
+    {
+        "question": "Adding the two's complement of \u201311 + (\u20132) will yield which two's complement answer?\r\n\r\n",
+        "a": "1110 1101",
+        "b": "1111 1001",
+        "c": "1111 0011",
+        "d": "1110 1001",
+        "answer": "1111 0011"
+    },
+    {
+        "question": "The two's complement system is to be used to add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and their sum.\r\n\r\n",
+        "a": "\u201314 and \u201313; \u201327",
+        "b": "\u2013113 and \u2013114; 227",
+        "c": "\u201327 and \u201313; 40",
+        "d": "\u201311 and \u201316; \u201327",
+        "answer": "\u201314 and \u201313; \u201327"
+    },
+    {
+        "question": "The fast carry or look-ahead carry circuits found in most 4-bit parallel-adder circuits:\r\n\r\n",
+        "a": "increase ripple delay",
+        "b": "add a 1 to complemented inputs",
+        "c": "reduce propagation delay",
+        "d": "determine sign and magnitude",
+        "answer": "reduce propagation delay"
+    },
+    {
+        "question": "How many basic binary subtraction operations are possible?\r\n\r\n",
+        "a": "4",
+        "b": "3",
+        "c": "2",
+        "d": "1",
+        "answer": "1"
+    },
+    {
+        "question": "How many basic binary subtraction combinations are possible?\r\n\r\n",
+        "a": "4",
+        "b": "3",
+        "c": "2",
+        "d": "1",
+        "answer": "4"
+    },
+    {
+        "question": "Use the two's complement system to add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and their sum.\r\n\r\n",
+        "a": "\u201314 and \u201313; \u201327",
+        "b": "\u2013113 and \u2013114; 227",
+        "c": "\u201327 and \u201313; 40",
+        "d": "\u201311 and \u201316; \u201327",
+        "answer": "\u201314 and \u201313; \u201327"
+    },
+    {
+        "question": "The selector inputs to an arithmetic-logic unit (ALU) determine the:\r\n\r\n",
+        "a": "selection of the IC",
+        "b": "arithmetic or logic function",
+        "c": "data word selection",
+        "d": "clock frequency to be used",
+        "answer": "arithmetic or logic function"
+    },
+    {
+        "question": "Adding in binary, the decimal values 26 + 27 will produce a sum of:\r\n\r\n",
+        "a": "111010",
+        "b": "110110",
+        "c": "110110",
+        "d": "101011",
+        "answer": "110110"
+    },
+    {
+        "question": "Binary subtraction of a decimal 15 from 43 will utilize which two's complement?\r\n\r\n",
+        "a": "101011",
+        "b": "110000",
+        "c": "011100",
+        "d": "110001",
+        "answer": "110001"
+    },
+    {
+        "question": "When multiplying in binary the decimal values 13 \u00d7 11, what is the third partial product?\r\n\r\n",
+        "a": "100000",
+        "b": "100001",
+        "c": "0000",
+        "d": "1011",
+        "answer": "100000"
+    },
+    {
+        "question": "Signed binary numbers have one bit that represents the sign, with the remaining bits representing the magnitude.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The operands in a subtraction operation are the subend and the minuend.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A technique to speed parallel addition by eliminating the delay caused by the carry bit propagation is called fast carry, or look-ahead carry.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "End around carry is an operation in 1's complement subtraction where a 1 is added to the sum of the 1's complement of both numbers.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The operands in an addition operation consist of the augend and the addend.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A full adder adds three bits, a half adder adds 1-1\/2 bits.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Using the two's complement number system we can add numbers with like signs and obtain the correct result.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Two half adders can be combined to form a full adder with no additional gates.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If you borrow from a position that contains a 0, you must borrow from the more significant bit that contains a 1. All 0s up to that point become 1s, and the digit last borrowed from becomes a 0.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "One advantage of using the 2's complement system to represent signed numbers is that you ___________.\r\n\r\n",
+        "a": "can perform subtraction by performing addition",
+        "b": "can perform addition by performing subtraction",
+        "c": "can perform division through repeated subtraction",
+        "d": "none of the above",
+        "answer": "can perform subtraction by performing addition"
+    },
+    {
+        "question": "All digital systems that perform arithmetic operations must indicate _______ and ________ for numbers.\r\n\r\n",
+        "a": "size, base",
+        "b": "sign, magnitude",
+        "c": "sign, base",
+        "d": "magnitude, base",
+        "answer": "sign, magnitude"
+    },
+    {
+        "question": "The carry propagation delay in 4-bit full-adder circuits ____________.\r\n\r\n",
+        "a": "is normally not a consideration because the delays are usually in the nanosecond range",
+        "b": "is cumulative for each stage and limits the speed at which arithmetic operations are performed",
+        "c": "decreases in direct ratio to the total number of full-adder stages",
+        "d": "increases in direct ratio to the total number of full-adder stages, but is not a factor in limiting the speed of arithmetic operations",
+        "answer": "is cumulative for each stage and limits the speed at which arithmetic operations are performed"
+    },
+    {
+        "question": "A full adder adds ____.\r\n\r\n",
+        "a": "two 2-bit binary numbers",
+        "b": "two 4-bit binary numbers",
+        "c": "two single bits and one carry bit",
+        "d": "two 2-bit numbers and one carry bit",
+        "answer": "two single bits and one carry bit"
+    },
+    {
+        "question": "The bits of a number that tell how large the number is are called ____________________.\r\n\r\n",
+        "a": "carry bits",
+        "b": "magnitude bits",
+        "c": "sign bits",
+        "d": "most significant bits",
+        "answer": "magnitude bits"
+    },
+    {
+        "question": "Two 4-bit adders could be cascaded to form a(n) ___________.\r\n\r\n",
+        "a": "16-bit parallel-adder circuit",
+        "b": "8-bit parallel-adder circuit",
+        "c": "full-adder circuit",
+        "d": "arithmetic-logic unit",
+        "answer": "8-bit parallel-adder circuit"
+    },
+    {
+        "question": "An input to the mode pin of an arithmetic-logic unit (ALU) determines if the function will be _________.\r\n\r\n",
+        "a": "one's complemented",
+        "b": "positive or negative",
+        "c": "with or without carry",
+        "d": "arithmetic or logic",
+        "answer": "arithmetic or logic"
+    },
+    {
+        "question": "In binary number systems the sign of a number is indicated by _________.\r\n\r\n",
+        "a": "using a 0 (zero) bit in front of negative numbers",
+        "b": "inverting the bits if the number is negative",
+        "c": "including a sign bit along with the magnitude bits",
+        "d": "placing a negative sign in front of the number",
+        "answer": "including a sign bit along with the magnitude bits"
+    }
+]

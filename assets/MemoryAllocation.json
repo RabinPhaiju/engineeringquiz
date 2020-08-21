@@ -1,0 +1,186 @@
+[
+    {
+        "question": "Which header file should be included to use functions like malloc() and calloc()?\r\n\r\n",
+        "a": "memory.h",
+        "b": "stdlib.h",
+        "c": "string.h",
+        "d": "dos.h",
+        "answer": "stdlib.h"
+    },
+    {
+        "question": "What function should be used to free the memory allocated by calloc() ?\r\n\r\n",
+        "a": "dealloc();",
+        "b": "malloc(variable_name, 0)",
+        "c": "free();",
+        "d": "memalloc(variable_name, 0)",
+        "answer": "free();"
+    },
+    {
+        "question": "How will you free the memory allocated by the following program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\n#define MAXROW 3\r\n#define MAXCOL 4\r\nint main()\r\n{\r\n    int **p, i, j;\r\n    p = (int **) malloc(MAXROW * sizeof(int*));\r\n    return 0;\r\n}",
+        "a": "memfree(int p);",
+        "b": "dealloc(p);",
+        "c": "malloc(p, 0);",
+        "d": "free(p);",
+        "answer": "free(p);"
+    },
+    {
+        "question": "Specify the 2 library functions to dynamically allocate memory?\r\n\r\n",
+        "a": "malloc() and memalloc()",
+        "b": "alloc() and memalloc()",
+        "c": "malloc() and calloc()",
+        "d": "memalloc() and faralloc()",
+        "answer": "malloc() and calloc()"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    int *p;\r\n    p = (int *)malloc(20); \/* Assume p has address of 1314 *\/\r\n    free(p);\r\n    printf(\"%u\", p);\r\n    return 0;\r\n}",
+        "a": "1314",
+        "b": "Garbage value",
+        "c": "1316",
+        "d": "Random address",
+        "answer": "1314"
+    },
+    {
+        "question": "What will be the output of the program (16-bit platform)?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    int *p;\r\n    p = (int *)malloc(20);\r\n    printf(\"%d\\n\", sizeof(p));\r\n    free(p);\r\n    return 0;\r\n}",
+        "a": "4",
+        "b": "2",
+        "c": "8",
+        "d": "Garbage value",
+        "answer": "2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char *s;\r\n    char *fun();\r\n    s = fun();\r\n    printf(\"%s\\n\", s);\r\n    return 0;\r\n}\r\nchar *fun()\r\n{\r\n    char buffer[30];\r\n    strcpy(buffer, \"RAM\");\r\n    return (buffer);\r\n}",
+        "a": "0xffff",
+        "b": "Garbage value",
+        "c": "0xffee",
+        "d": "Error",
+        "answer": "Garbage value"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    union test\r\n    {\r\n        int i;\r\n        float f;\r\n        char c;\r\n    };\r\n    union test *t;\r\n    t = (union test *)malloc(sizeof(union test));\r\n    t->f = 10.10f;\r\n    printf(\"%f\", t->f);\r\n    return 0;\r\n}",
+        "a": "10",
+        "b": "Garbage value",
+        "c": "10.100000",
+        "d": "Error",
+        "answer": "10.100000"
+    },
+    {
+        "question": "Assume integer is 2 bytes wide. How many bytes will be allocated for the following code?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\n#define MAXROW 3\r\n#define MAXCOL 4\r\nint main()\r\n{\r\n    int (*p)[MAXCOL];\r\n    p = (int (*) [MAXCOL])malloc(MAXROW *sizeof(*p));\r\n    return 0;\r\n}",
+        "a": "56 bytes",
+        "b": "128 bytes",
+        "c": "24 bytes",
+        "d": "12 bytes",
+        "answer": "24 bytes"
+    },
+    {
+        "question": "Assume integer is 2 bytes wide. What will be the output of the following code?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\n#define MAXROW 3\r\n#define MAXCOL 4\r\nint main()\r\n{\r\n    int (*p)[MAXCOL];\r\n    p = (int (*) [MAXCOL])malloc(MAXROW *sizeof(*p));\r\n    printf(\"%d, %d\\n\", sizeof(p), sizeof(*p));\r\n    return 0;\r\n}",
+        "a": "2, 8",
+        "b": "4, 16",
+        "c": "8, 24",
+        "d": "16, 32",
+        "answer": "2, 8"
+    },
+    {
+        "question": "How many bytes of memory will the following code reserve?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    int *p;\r\n    p = (int *)malloc(256 * 256);\r\n    if(p == NULL)\r\n        printf(\"Allocation failed\");\r\n    return 0;\r\n}",
+        "a": "65536",
+        "b": "Allocation failed",
+        "c": "Error",
+        "d": "No output",
+        "answer": "Allocation failed"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    int *a[3];\r\n    a = (int*) malloc(sizeof(int)*3);\r\n    free(a);\r\n    return 0;\r\n}",
+        "a": "Error: unable to allocate memory",
+        "b": "Error: We cannot store address of allocated memory in a",
+        "c": "Error: unable to free memory",
+        "d": "No error",
+        "answer": "Error: We cannot store address of allocated memory in a"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    char *ptr;\r\n    *ptr = (char)malloc(30);\r\n    strcpy(ptr, \"RAM\");\r\n    printf(\"%s\", ptr);\r\n    free(ptr);\r\n    return 0;\r\n}",
+        "a": "Error: in strcpy() statement.",
+        "b": "Error: in *ptr = (char)malloc(30);",
+        "c": "Error: in free(ptr);",
+        "d": "No error",
+        "answer": "Error: in *ptr = (char)malloc(30);"
+    },
+    {
+        "question": "Which of the following statement is correct prototype of the malloc() function in c ?\r\n\r\n",
+        "a": "int* malloc(int);",
+        "b": "char* malloc(char);",
+        "c": "unsigned int* malloc(unsigned int);",
+        "d": "void* malloc(size_t);",
+        "answer": "void* malloc(size_t);"
+    },
+    {
+        "question": "Point out the correct statement which correctly free the memory pointed to by 's' and 'p' in the following program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    struct ex\r\n    {\r\n        int i;\r\n        float j;\r\n        char *s\r\n    };\r\n    struct ex *p;\r\n    p = (struct ex *)malloc(sizeof(struct ex));\r\n    p->s = (char*)malloc(20);\r\n    return 0;\r\n}",
+        "a": "free(p); , free(p->s);",
+        "b": "free(p->s); , free(p);",
+        "c": "free(p->s);",
+        "d": "free(p);",
+        "answer": "free(p->s); , free(p);"
+    },
+    {
+        "question": "Point out the correct statement which correctly allocates memory dynamically for 2D array following program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    int *p, i, j;\r\n    \/* Add statement here *\/\r\n    for(i=0; i<3; i++)\r\n    {\r\n        for(j=0; j<4; j++)\r\n        {\r\n            p[i*4+j] = i;\r\n            printf(\"%d\", p[i*4+j]);\r\n        }\r\n    }\r\n    return 0;\r\n}",
+        "a": "p = (int*) malloc(3, 4);",
+        "b": "p = (int*) malloc(3*sizeof(int));",
+        "c": "p = malloc(3*4*sizeof(int));",
+        "d": "p = (int*) malloc(3*4*sizeof(int));",
+        "answer": "p = (int*) malloc(3*4*sizeof(int));"
+    },
+    {
+        "question": "malloc() returns a float pointer if memory is allocated for storing float's and a double pointer if memory is allocated for storing double's.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "malloc() allocates memory from the heap and not from the stack.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "malloc() returns a NULL if it fails to allocate the requested memory.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If malloc() successfully allocates memory it returns the number of bytes it has allocated.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Can I increase the size of dynamically allocated array?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Can I increase the size of statically allocated array?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "When we dynamically allocate memory is there any way to free memory during run time?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    }
+]

@@ -1,0 +1,706 @@
+[
+    {
+        "question": "What is a varistor?\r\n\r\n",
+        "a": "a voltage-dependent resistor",
+        "b": "a voltage-dependent diode",
+        "c": "a current-dependent resistor",
+        "d": "a current-dependent diode",
+        "answer": "a voltage-dependent resistor"
+    },
+    {
+        "question": "Which type of transformer is required to create a 180 degree input to a rectifier?\r\n\r\n",
+        "a": "center-tapped secondary",
+        "b": "step-down secondary",
+        "c": "stepped-up secondary",
+        "d": "split winding primary",
+        "answer": "center-tapped secondary"
+    },
+    {
+        "question": "What circuit activity may shift a characteristic curve so that diode operating points are different?\r\n\r\n",
+        "a": "higher power (heat)",
+        "b": "higher resistance",
+        "c": "lower voltage",
+        "d": "lower current",
+        "answer": "higher power (heat)"
+    },
+    {
+        "question": "mcq11_1010_1.gifWhat is wrong with this diode?\r\n",
+        "a": "open",
+        "b": "short",
+        "c": "nothing",
+        "d": "not enough data",
+        "answer": "nothing"
+    },
+    {
+        "question": "The dc current through each diode in a bridge rectifier equals:\r\n\r\n",
+        "a": "the load current",
+        "b": "half the dc load current",
+        "c": "twice the dc load current",
+        "d": "one-fourth the dc load current",
+        "answer": "the load current"
+    },
+    {
+        "question": "When matching polarity connections have been made and the potential difference (PD) is above 0.7 V, the diode is considered to be:\r\n\r\n",
+        "a": "not working",
+        "b": "forward biased",
+        "c": "reverse biased",
+        "d": "an open switch",
+        "answer": "forward biased"
+    },
+    {
+        "question": "In a power supply diagram, which block indicates a smooth dc output?\r\n\r\n",
+        "a": "transformer",
+        "b": "filter",
+        "c": "rectifier",
+        "d": "regulator",
+        "answer": "regulator"
+    },
+    {
+        "question": "If a 169.7 V half-wave peak has an average voltage of 54 V, what is the average of two full-wave peaks?\r\n\r\n",
+        "a": "119.9 V",
+        "b": "108.0 V",
+        "c": "115.7 V",
+        "d": "339.4 V",
+        "answer": "108.0 V"
+    },
+    {
+        "question": "mcq11_1013_1u.gifWhat is the current through the LED?\r\n",
+        "a": "0 mA",
+        "b": "23 mA",
+        "c": "18 mA",
+        "d": "13 mA",
+        "answer": "13 mA"
+    },
+    {
+        "question": "The characteristic curve for the complex model of a silicon diode shows that\r\n\r\n",
+        "a": "the barrier potential is 0 V",
+        "b": "the barrier potential stays fixed at 0.7 V",
+        "c": "the barrier potential increases slightly with an increase in current",
+        "d": "the barrier potential decreases slightly with an increase in current",
+        "answer": "the barrier potential increases slightly with an increase in current"
+    },
+    {
+        "question": "Since diodes are destroyed by excessive current, circuits must have:\r\n\r\n",
+        "a": "higher voltage sources",
+        "b": "current limiting resistors",
+        "c": "more dopants",
+        "d": "higher current sources",
+        "answer": "current limiting resistors"
+    },
+    {
+        "question": "A diode for which you can change the reverse bias, and thus vary the capacitance is called a\r\n\r\n",
+        "a": "varactor diode",
+        "b": "tunnel diode",
+        "c": "zener diode",
+        "d": "switching diode",
+        "answer": "varactor diode"
+    },
+    {
+        "question": "A filtered full-wave rectifier voltage has a smaller ripple than does a half-wave rectifier voltage for the same load resistance and capacitor values because:\r\n\r\n",
+        "a": "there is a shorter time between peaks",
+        "b": "there is a longer time between peaks",
+        "c": "the larger the ripple, the better the filtering action",
+        "d": "none of the above",
+        "answer": "there is a shorter time between peaks"
+    },
+    {
+        "question": "Testing a good diode with an ohmmeter should indicate\r\n\r\n",
+        "a": "high resistance when forward or reverse biased",
+        "b": "low resistance when forward or reverse biased",
+        "c": "high resistance when reverse biased and low resistance when forward biased",
+        "d": "high resistance when forward biased and low resistance when reverse biased",
+        "answer": "high resistance when reverse biased and low resistance when forward biased"
+    },
+    {
+        "question": "The peak inverse voltage (PIV) across a nonconducting diode in a bridge rectifier equals approximately:\r\n\r\n",
+        "a": "half the peak secondary voltage",
+        "b": "twice the peak secondary voltage",
+        "c": "the peak value of the secondary voltage",
+        "d": "four times the peak value of the secondary voltage",
+        "answer": "the peak value of the secondary voltage"
+    },
+    {
+        "question": "mcq11_1009_1.gifWhat is the current through the diode?",
+        "a": "1 mA",
+        "b": "0.975 mA",
+        "c": "0.942 mA",
+        "d": "0.0 mA",
+        "answer": "1 mA"
+    },
+    {
+        "question": "Electrons in the outermost orbit or shell of an atom are called\r\n\r\n",
+        "a": "free electrons",
+        "b": "negative ions",
+        "c": "valence electrons",
+        "d": "conduction band electrons",
+        "answer": "valence electrons"
+    },
+    {
+        "question": "Shunting the ac component away from the load is the task of a:\r\n\r\n",
+        "a": "transformer",
+        "b": "filter",
+        "c": "regulator",
+        "d": "rectifier",
+        "answer": "filter"
+    },
+    {
+        "question": "A pn junction allows current flow when\r\n\r\n",
+        "a": "the p-type material is more positive than the n-type material",
+        "b": "the n-type material is more positive than the p-type material",
+        "c": "both the n-type and p-type materials have the same potential",
+        "d": "there is no potential on the n-type or p-type materials",
+        "answer": "the p-type material is more positive than the n-type material"
+    },
+    {
+        "question": "mcq11_1011_1.gifWhat is the current through the zener diode?\r\n",
+        "a": "0 mA",
+        "b": "7 mA",
+        "c": "8.3 mA",
+        "d": "13 mA",
+        "answer": "7 mA"
+    },
+    {
+        "question": "When a diode is forward biased, the voltage across it\r\n\r\n",
+        "a": "is directly proportional to the current",
+        "b": "is inversely proportional to the current",
+        "c": "is directly proportional to the source voltage",
+        "d": "remains approximately the same",
+        "answer": "remains approximately the same"
+    },
+    {
+        "question": "Why is heat produced in a diode?\r\n\r\n",
+        "a": "due to current passing through the diode",
+        "b": "due to voltage across the diode",
+        "c": "due to the power rating of the diode",
+        "d": "due to the PN junction of the diode",
+        "answer": "due to current passing through the diode"
+    },
+    {
+        "question": "The arrow in the schematic symbol of a diode points to\r\n\r\n",
+        "a": "the n-type material, which is called the anode",
+        "b": "the n-type material, which is called the cathode",
+        "c": "the p-type material, which is called the anode",
+        "d": "the p-type material, which is called the cathode",
+        "answer": "the p-type material, which is called the anode"
+    },
+    {
+        "question": "The diode schematic arrow points to the:\r\n\r\n",
+        "a": "trivalent-doped material",
+        "b": "positive axial lead",
+        "c": "anode lead",
+        "d": "cathode lead",
+        "answer": "cathode lead"
+    },
+    {
+        "question": "When checking a diode, low resistance readings both ways indicate the diode is:\r\n\r\n",
+        "a": "open",
+        "b": "satisfactory",
+        "c": "faulty",
+        "d": "not the problem",
+        "answer": "faulty"
+    },
+    {
+        "question": "In a diode schematic, the anode is represented by a(n):\r\n\r\n",
+        "a": "triangle",
+        "b": "vertical line",
+        "c": "zig-zag line",
+        "d": "element indicator",
+        "answer": "triangle"
+    },
+    {
+        "question": "An IC regulator receives an overload; it will:\r\n\r\n",
+        "a": "shut down",
+        "b": "compensate for heat",
+        "c": "provide more voltage",
+        "d": "sample and adjust",
+        "answer": "shut down"
+    },
+    {
+        "question": "With full-wave rectification, current through the load resistor must be:\r\n\r\n",
+        "a": "in opposite directions",
+        "b": "to the external load",
+        "c": "from the reverse biased diode",
+        "d": "in the same direction",
+        "answer": "in the same direction"
+    },
+    {
+        "question": "A characteristic curve is the result of a current versus voltage plot of diode activity, which begins at the:\r\n\r\n",
+        "a": "3rd quadrant",
+        "b": "current plot",
+        "c": "graph origin",
+        "d": "voltage plot",
+        "answer": "graph origin"
+    },
+    {
+        "question": "Rectifier output polarity depends upon:\r\n\r\n",
+        "a": "cycles of input",
+        "b": "capacitor polarity",
+        "c": "half or full wave",
+        "d": "diode installation",
+        "answer": "diode installation"
+    },
+    {
+        "question": "With a 12 V supply, a silicon diode, and a 370-ohm resistor in series, what voltage will be dropped across the diode?\r\n\r\n",
+        "a": "0.3 V",
+        "b": "0.7 V",
+        "c": "0.9 V",
+        "d": "1.4 V",
+        "answer": "0.7 V"
+    },
+    {
+        "question": "If the frequency of the applied ac signal to a half-wave rectifier is 60 Hz, the frequency of the pulsating dc output will be\r\n\r\n",
+        "a": "30 pps",
+        "b": "60 pps",
+        "c": "90 pps",
+        "d": "120 pps",
+        "answer": "60 pps"
+    },
+    {
+        "question": "mcq11_1015_1.gifWhat is the peak output voltage for this half-wave rectifier?\r\n",
+        "a": "1 V",
+        "b": "7.8 V",
+        "c": "10.9 V",
+        "d": "15.6 V",
+        "answer": "7.8 V"
+    },
+    {
+        "question": "Thermal shutdown occurs in an IC regulator if:\r\n\r\n",
+        "a": "power dissipation is too high",
+        "b": "internal temperature is too high",
+        "c": "current through the device is too high",
+        "d": "load resistance increases",
+        "answer": "internal temperature is too high"
+    },
+    {
+        "question": "The conduction band is closest to the valence band in\r\n\r\n",
+        "a": "semiconductors",
+        "b": "conductors",
+        "c": "insulators",
+        "d": "The distance is the same for all of the above.",
+        "answer": "semiconductors"
+    },
+    {
+        "question": "What is the percent of regulation if Vnl = 20 V and Vfl = 19.8 V?\r\n\r\n",
+        "a": "0%",
+        "b": "1%",
+        "c": ".1%",
+        "d": "5%",
+        "answer": "1%"
+    },
+    {
+        "question": "With a half-wave rectified voltage across the load resistor, load current flows for what part of a cycle?\r\n\r\n",
+        "a": "0 degrees",
+        "b": "90 degrees",
+        "c": "180 degrees",
+        "d": "360 degrees",
+        "answer": "180 degrees"
+    },
+    {
+        "question": "Which of the following circuits would require the least amount of filtering?\r\n\r\n",
+        "a": "A half-wave rectifier",
+        "b": "A full-wave rectifier",
+        "c": "A bridge rectifier",
+        "d": "A full-wave rectifier and a bridge rectifier",
+        "answer": "A full-wave rectifier and a bridge rectifier"
+    },
+    {
+        "question": "mcq11_1012_1.gifWhat is wrong with this circuit?\r\n",
+        "a": "The zener is open.",
+        "b": "The zener is shorted.",
+        "c": "nothing",
+        "d": "not enough data",
+        "answer": "The zener is open."
+    },
+    {
+        "question": "The voltage where current may start to flow in a reverse-biased pn junction is called the\r\n\r\n",
+        "a": "breakdown voltage",
+        "b": "barrier potential",
+        "c": "forward voltage",
+        "d": "biasing voltage",
+        "answer": "breakdown voltage"
+    },
+    {
+        "question": "Providing a constant output regardless of ac input or load resistance changes is the function of a:\r\n\r\n",
+        "a": "transformer",
+        "b": "filter",
+        "c": "regulator",
+        "d": "rectifier",
+        "answer": "regulator"
+    },
+    {
+        "question": "When a diode is destroyed it has infinite impedance. When damaged by heat it will probably:\r\n\r\n",
+        "a": "short",
+        "b": "conduct more",
+        "c": "conduct less",
+        "d": "open",
+        "answer": "short"
+    },
+    {
+        "question": "The area at the junction of p-type and n-type materials that has lost its majority carriers is called the\r\n\r\n",
+        "a": "barrier potential",
+        "b": "depletion region",
+        "c": "n region",
+        "d": "p region",
+        "answer": "depletion region"
+    },
+    {
+        "question": "DC power should be connected to forward bias a diode as follows:\r\n\r\n",
+        "a": "\u2013 anode, + cathode",
+        "b": "\u2013 cathode, \u2013 anode",
+        "c": "+ anode, \u2013 cathode",
+        "d": "+ cathode, + anode",
+        "answer": "+ anode, \u2013 cathode"
+    },
+    {
+        "question": "At any given time in an intrinsic piece of semiconductor material at room temperature\r\n\r\n",
+        "a": "electrons drift randomly",
+        "b": "recombination occurs",
+        "c": "holes are created",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "In a power supply diagram, which block indicates a pulsating dc output?\r\n\r\n",
+        "a": "transformer",
+        "b": "filter",
+        "c": "rectifier",
+        "d": "regulator",
+        "answer": "rectifier"
+    },
+    {
+        "question": "List three diode packages:\r\n\r\n",
+        "a": "clip package, DIP, small current package",
+        "b": "DIP, small current package, large current package",
+        "c": "small current package, large current package, and SIP",
+        "d": "small current package, large current package, clip package",
+        "answer": "small current package, large current package, clip package"
+    },
+    {
+        "question": "The mimicking of an open\/closed switch by a diode allows alternating current to be:\r\n\r\n",
+        "a": "rectified",
+        "b": "regulated",
+        "c": "controlled",
+        "d": "attenuated",
+        "answer": "rectified"
+    },
+    {
+        "question": "A reverse biased diode will act as an open switch.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If the diode in a series circuit is reverse biased, the resistor will drop all the applied voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The PIV rating of a diode in a full-wave bridge rectifier is more than that required for a full-wave center-tapped configuration.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The troubleshooting process for a typical dc power supply contains four steps.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The number of electrons in a stable atom is the same as the number of protons in its nucleus.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A rectifying diode can change ac voltage to dc voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The barrier potential is the small difference of potential created by positive and negative ions on either side of the depletion region.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Dark current is a small reverse current that flows in a photodiode that is receiving no light.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "One of the advantages of using transformer coupling in a half-wave rectifier is that it allows the ac source to be directly connected to the load.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A zener diode can be used to provide voltage regulation in a power supply.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The positive lead of a diode is the cathode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "It is not possible to use a half-wave rectifier circuit without a transformer.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Electrons in the conduction band are the only ones that are included in the electron current flow.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The forward biased characteristics of a zener diode are the same as those of a diode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Breakdown voltage and peak inverse voltage are the same.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An LED can be tested with an ohmmeter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Reverse biasing a pn junction allows the flow of majority current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A zener diode can be tested with an ohmmeter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A diode can be tested with an ohmmeter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A zener diode has a larger breakdown voltage than a diode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The diode's characteristic curve shows that current increases when voltage increases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If a bridge rectifier is used, it is not necessary to use a transformer.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Doping semiconductive material is the process of putting a small amount of pentavalent or trivalent atoms in with tetravalent atoms.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A common problem with rectifiers is open diodes.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "fbq16_1003_1.gifA ___ is created when an electron moves from the valence band to the conduction band.\r\n\r\n",
+        "a": "hole",
+        "b": "gap",
+        "c": "vacancy",
+        "d": "blank",
+        "answer": "hole"
+    },
+    {
+        "question": "The average value of the half-wave rectified output voltage is approximately __________ of Vp.\r\n\r\n",
+        "a": "31.8%",
+        "b": "63.6%",
+        "c": "70.7%",
+        "d": "100%",
+        "answer": "31.8%"
+    },
+    {
+        "question": "Typically the forward voltage on an LED is between _______ and ________.\r\n\r\n",
+        "a": "1.5 V, 3.7 V",
+        "b": "0.7 V, 1.1 V",
+        "c": "1 V, 3 V",
+        "d": "1 V, 6 V",
+        "answer": "1 V, 3 V"
+    },
+    {
+        "question": "A two-diode rectifier will not operate without a _________.\r\n\r\n",
+        "a": "center-tapped transformer",
+        "b": "voltage regulator",
+        "c": "capacitive filter",
+        "d": "phase-inverting transformer",
+        "answer": "center-tapped transformer"
+    },
+    {
+        "question": "fbq16_1010_1u.gifThe name of the circuit in the given circuit is the ___.\r\n\r\n",
+        "a": "half-wave rectifier",
+        "b": "center-tapped full-wave rectifier",
+        "c": "full-wave bridge rectifier",
+        "d": "half-wave bridge rectifier",
+        "answer": "full-wave bridge rectifier"
+    },
+    {
+        "question": "The small amount of ac signal present on the output of a filtering network for a dc power supply is known as ________.\r\n\r\n",
+        "a": "pulsating dc",
+        "b": "trickle",
+        "c": "ripple",
+        "d": "waffle",
+        "answer": "ripple"
+    },
+    {
+        "question": "fbq16_1007_1.gifThe peak output voltage from the circuit in the given circuit equals ___.\r\n\r\n",
+        "a": "3 V",
+        "b": "3.7 V",
+        "c": "2.3 V",
+        "d": "0 V",
+        "answer": "2.3 V"
+    },
+    {
+        "question": "An electron can move to another atom's orbit only while in the _______.\r\n\r\n",
+        "a": "valence band",
+        "b": "conduction band",
+        "c": "orbit nearest the nucleus",
+        "d": "covalent band",
+        "answer": "conduction band"
+    },
+    {
+        "question": "fbq16_1010_1.gifThe average value of the output voltage from the circuit in the given circuit equals ___.\r\n\r\n",
+        "a": "5.48 V",
+        "b": "2.74 V",
+        "c": "0 V",
+        "d": "6.37 V",
+        "answer": "5.48 V"
+    },
+    {
+        "question": "fbq16_1001_1.gifAtoms in a silicon crystal are held together by ___ bonds.\r\n\r\n",
+        "a": "crystal",
+        "b": "chemical",
+        "c": "electrical",
+        "d": "covalent",
+        "answer": "covalent"
+    },
+    {
+        "question": "Special diodes designed to conduct in the reverse direction are called _______________ diodes.\r\n\r\n",
+        "a": "zener",
+        "b": "varactor",
+        "c": "LED",
+        "d": "switching",
+        "answer": "zener"
+    },
+    {
+        "question": "___ occurs when a pn junction is first formed.\r\n\r\n",
+        "a": "Recombination",
+        "b": "Covalent bonding",
+        "c": "Crystallization",
+        "d": "Breakdown",
+        "answer": "Recombination"
+    },
+    {
+        "question": "fbq16_1010_1.gifConnecting a capacitor filter to the circuit in the given circuit will___.\r\n\r\n",
+        "a": "produce a nearly-constant dc voltage",
+        "b": "reduce the output voltage",
+        "c": "increase the ripple voltage",
+        "d": "lower the surge current",
+        "answer": "produce a nearly-constant dc voltage"
+    },
+    {
+        "question": "fbq16_1007_1.gifThe peak inverse voltage (PIV) for the diode in the give circuit equals ___.\r\n\r\n",
+        "a": "3 V",
+        "b": "2.3 V",
+        "c": "0 V",
+        "d": "6 V",
+        "answer": "3 V"
+    },
+    {
+        "question": "A pure semiconductor material ___ very well.\r\n\r\n",
+        "a": "conducts",
+        "b": "insulates",
+        "c": "conducts and insulates",
+        "d": "neither conducts nor insulates",
+        "answer": "neither conducts nor insulates"
+    },
+    {
+        "question": "The small amount of ac signal present on the output of a filtering network for a dc power supply is known as ________.\r\n\r\n",
+        "a": "pulsating dc",
+        "b": "trickle",
+        "c": "ripple",
+        "d": "waffle",
+        "answer": "ripple"
+    }
+]

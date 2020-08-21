@@ -1,0 +1,234 @@
+[
+    {
+        "question": "What will the function rewind() do?\r\n\r\n",
+        "a": "Reposition the file pointer to a character reverse.",
+        "b": "Reposition the file pointer stream to end of file.",
+        "c": "Reposition the file pointer to begining of that line.",
+        "d": "Reposition the file pointer to begining of file.",
+        "answer": "Reposition the file pointer to begining of file."
+    },
+    {
+        "question": "Input\/output function prototypes and macros are defined in which header file?\r\n\r\n",
+        "a": "conio.h",
+        "b": "stdlib.h",
+        "c": "stdio.h",
+        "d": "dos.h",
+        "answer": "stdio.h"
+    },
+    {
+        "question": "Which standard library function will you use to find the last occurance of a character in a string in C?\r\n\r\n",
+        "a": "strnchar()",
+        "b": "strchar()",
+        "c": "strrchar()",
+        "d": "strrchr()",
+        "answer": "strrchr()"
+    },
+    {
+        "question": "What is stderr ?\r\n\r\n",
+        "a": "standard error",
+        "b": "standard error types",
+        "c": "standard error streams",
+        "d": "standard error definitions",
+        "answer": "standard error streams"
+    },
+    {
+        "question": "Does there any function exist to convert the int or float to a string?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "What is the purpose of fflush() function.\r\n\r\n",
+        "a": "flushes all streams and specified streams.",
+        "b": "flushes only specified stream.",
+        "c": "flushes input\/output buffer.",
+        "d": "flushes file buffer.",
+        "answer": "flushes all streams and specified streams."
+    },
+    {
+        "question": "Can you use the fprintf() to display the output on the screen?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "What will the function randomize() do in Turbo C under DOS?\r\n\r\n",
+        "a": "returns a random number.",
+        "b": "returns a random number generator in the specified range.",
+        "c": "returns a random number generator with a random value based on time.",
+        "d": "return a random number with a given seed value.",
+        "answer": "returns a random number generator with a random value based on time."
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    i = printf(\"How r u\\n\");\r\n    i = printf(\"%d\\n\", i);\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}",
+        "a": "How r u 7 2",
+        "b": "How r u 8 2",
+        "c": "How r u 1 1",
+        "d": "Error: cannot assign printf to variable",
+        "answer": "How r u 8 2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<math.h>\r\nint main()\r\n{\r\n    float i = 2.5;\r\n    printf(\"%f, %d\", floor(i), ceil(i));\r\n    return 0;\r\n}",
+        "a": "2, 3",
+        "b": "2.000000, 3",
+        "c": "2.000000, 0",
+        "d": "2, 0",
+        "answer": "2.000000, 0"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    i = scanf(\"%d %d\", &i, &i);\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "2",
+        "c": "Garbage value",
+        "d": "Error: cannot assign scanf to variable",
+        "answer": "2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    char c;\r\n    for(i=1; i<=5; i++)\r\n    {\r\n        scanf(\"%c\", &c); \/* given input is 'b' *\/\r\n        ungetc(c, stdout);\r\n        printf(\"%c\", c);\r\n        ungetc(c, stdin);\r\n    }\r\n    return 0;\r\n}",
+        "a": "bbbb",
+        "b": "bbbbb",
+        "c": "b",
+        "d": "Error in ungetc statement.",
+        "answer": "b"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    char *i = \"55.555\";\r\n    int result1 = 10;\r\n    float result2 = 11.111;\r\n    result1 = result1+atoi(i);\r\n    result2 = result2+atof(i);\r\n    printf(\"%d, %f\", result1, result2);\r\n    return 0;\r\n}",
+        "a": "55, 55.555",
+        "b": "66, 66.666600",
+        "c": "65, 66.666000",
+        "d": "55, 55",
+        "answer": "65, 66.666000"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char dest[] = {97, 97, 0};\r\n    char src[] = \"aaa\";\r\n    int i;\r\n    if((i = memcmp(dest, src, 2))==0)\r\n        printf(\"Got it\");\r\n    else\r\n        printf(\"Missed\");\r\n    return 0;\r\n}",
+        "a": "Missed",
+        "b": "Got it",
+        "c": "Error in memcmp statement",
+        "d": "None of above",
+        "answer": "Got it"
+    },
+    {
+        "question": "What will function gcvt() do?\r\n\r\n",
+        "a": "Convert vector to integer value",
+        "b": "Convert floating-point number to a string",
+        "c": "Convert 2D array in to 1D array.",
+        "d": "Covert multi Dimensional array to 1D array",
+        "answer": "Convert floating-point number to a string"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    char c;\r\n    for(i=1; i<=5; i++)\r\n    {\r\n        scanf(\"%c\", &c); \/* given input is 'a' *\/\r\n        printf(\"%c\", c);\r\n        ungetc(c, stdin);\r\n    }\r\n    return 0;\r\n}",
+        "a": "aaaa",
+        "b": "aaaaa",
+        "c": "Garbage value.",
+        "d": "Error in ungetc statement.",
+        "answer": "aaaaa"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    fprintf(\"NepalBIX\");\r\n    printf(\"%.ef\", 2.0);\r\n    return 0;\r\n}",
+        "a": "Error: unknown value in printf() statement.",
+        "b": "Error: in fprintf() statement.",
+        "c": "No error and prints \"NepalBIX\"",
+        "d": "No error and prints \"2.0\"",
+        "answer": "Error: in fprintf() statement."
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str1[] = \"Learn through NepalBIX\\0.com\",  str2[120];\r\n    char *p;\r\n    p = (char*) memccpy(str2, str1, 'i', strlen(str1));\r\n    *p = '\\0';\r\n    printf(\"%s\", str2);\r\n    return 0;\r\n}",
+        "a": "Error: in memccpy statement",
+        "b": "Error: invalid pointer conversion",
+        "c": "Error: invalid variable declaration",
+        "d": "No error and prints \"Learn through Nepa\"",
+        "answer": "No error and prints \"Learn through Nepa\""
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[] = \"NepalBIX\";\r\n    printf(\"%.#s %2s\", str, str);\r\n    return 0;\r\n}",
+        "a": "Error: in Array declaration",
+        "b": "Error: printf statement",
+        "c": "Error: unspecified character in printf",
+        "d": "No error",
+        "answer": "No error"
+    },
+    {
+        "question": "It is necessary that for the string functions to work safely the strings must be terminated with '\\0'.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "FILE is a structure suitably typedef'd in \"stdio.h\".\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "ftell() returns the current position of the pointer in a file stream.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Data written into a file using fwrite() can be read back using fscanf()\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the two strings are found to be unequal then strcmp returns difference between the first non-matching pair of characters.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Is standard library a part of C language?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the program outputs \"NepalBIX.com\"?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    char str1[] = \"NepalBIX.com\";\r\n    char str2[20];\r\n    strncpy(str2, str1, 8);\r\n    printf(\"%s\", str2);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "The itoa function can convert an integer in decimal, octal or hexadecimal form to a string.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "The prototypes of all standard library string functions are declared in the file string.h.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "scanf() or atoi() function can be used to convert a string like \"436\" in to integer.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    }
+]

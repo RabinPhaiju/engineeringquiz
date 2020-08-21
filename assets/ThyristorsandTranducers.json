@@ -1,0 +1,242 @@
+[
+    {
+        "question": "A TRIAC:\r\n\r\n",
+        "a": "can trigger only on positive gate voltages",
+        "b": "can trigger only on negative gate voltages",
+        "c": "cannot be triggered with gate voltages",
+        "d": "can be triggered by either a positive or a negative gate voltage",
+        "answer": "can be triggered by either a positive or a negative gate voltage"
+    },
+    {
+        "question": "When checking a good SCR or TRIAC with an ohmmeter it will:\r\n\r\n",
+        "a": "show high resistance in both directions",
+        "b": "show low resistance with positive on anode and negative on cathode, and high resistance when reversed",
+        "c": "show high resistance with negative on anode and positive on cathode, and low resistance when reversed",
+        "d": "show low resistance in both directions",
+        "answer": "show high resistance in both directions"
+    },
+    {
+        "question": "What does a hall effect sensor sense?\r\n\r\n",
+        "a": "temperature",
+        "b": "moisture",
+        "c": "magnetic fields",
+        "d": "pressure",
+        "answer": "magnetic fields"
+    },
+    {
+        "question": "What causes the piezoelectric effect?\r\n\r\n",
+        "a": "heat or dissimilar metals",
+        "b": "pressure on a crystal",
+        "c": "water running on iron",
+        "d": "a magnetic field",
+        "answer": "pressure on a crystal"
+    },
+    {
+        "question": "A UJT has:\r\n\r\n",
+        "a": "two base leads",
+        "b": "one emitter lead",
+        "c": "two emitter leads and one base lead",
+        "d": "one emitter lead and two base leads",
+        "answer": "one emitter lead and two base leads"
+    },
+    {
+        "question": "The only way to close an SCR is with:\r\n\r\n",
+        "a": "a trigger input applied to the gate",
+        "b": "forward breakover voltage",
+        "c": "low-current dropout",
+        "d": "valley voltage",
+        "answer": "forward breakover voltage"
+    },
+    {
+        "question": "What is an SCR?\r\n\r\n",
+        "a": "a PNPN thyristor with 3 terminals",
+        "b": "a PNPN thyristor with 4 terminals",
+        "c": "a PNP thyristor with 3 terminals",
+        "d": "an NPN thyristor with 3 terminals",
+        "answer": "a PNPN thyristor with 3 terminals"
+    },
+    {
+        "question": "What type of application would use a photovoltaic cell?\r\n\r\n",
+        "a": "an automobile horn",
+        "b": "a TI 92 calculator",
+        "c": "a magnetic field detector",
+        "d": "a remote power source",
+        "answer": "a remote power source"
+    },
+    {
+        "question": "The smallest amount of current that the cathode-anode can have, and still sustain conduction of an SCR is called the:\r\n\r\n",
+        "a": "maximum forward current",
+        "b": "maximum forward gate current",
+        "c": "holding current",
+        "d": "reverse gate leakage current",
+        "answer": "reverse gate leakage current"
+    },
+    {
+        "question": "Once a DIAC is conducting, the only way to turn it off is with:\r\n\r\n",
+        "a": "a positive gate voltage",
+        "b": "a negative gate voltage",
+        "c": "low-current dropout",
+        "d": "breakover",
+        "answer": "low-current dropout"
+    },
+    {
+        "question": "The DIAC is a:\r\n\r\n",
+        "a": "transistor",
+        "b": "unidirectional device",
+        "c": "three-layer device",
+        "d": "bidirectional device",
+        "answer": "bidirectional device"
+    },
+    {
+        "question": "What type of application would use an injection laser diode?\r\n\r\n",
+        "a": "a 10BASE-T Ethernet",
+        "b": "a liquid crystal display",
+        "c": "a fiber optic transmission line",
+        "d": "a good flashlight",
+        "answer": "a fiber optic transmission line"
+    },
+    {
+        "question": "The PUT (programmable unijunction transistor) is actually a type of:\r\n\r\n",
+        "a": "UJT thyristor",
+        "b": "FET device",
+        "c": "TRIAC",
+        "d": "SCR",
+        "answer": "UJT thyristor"
+    },
+    {
+        "question": "A transducer's function is to:\r\n\r\n",
+        "a": "transmit electrical energy",
+        "b": "convert energy",
+        "c": "produce mechanical energy",
+        "d": "prevent current flow",
+        "answer": "convert energy"
+    },
+    {
+        "question": "The optically coupled isolator interrupter module is used to transfer switching information between two electrically isolated points.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A photodiode is a device that produces light.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "To turn an SCR off, simply remove the gate voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A thermistor is a semiconductor device that acts like a piezoresistive resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A silicon-controlled rectifier (SCR) has 3 terminals labeled base, collector, and emitter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The DIAC conducts in only one direction when gated on.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A DIAC is a bidirectional diode that has a symmetrical switching mode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A transducer does not convert energy from one form to another.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A semiconductor using the hall effect will detect magnetic fields.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The silicon-controlled rectifier (SCR) is a three-layer device consisting of a gate, an anode, and a cathode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The gate of a TRIAC can turn it on to have current flow in either direction.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "SCRs are four-layer devices that are either fully conducting or not conducting.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A TRIAC will control AC voltage during the positive half cycle only.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A TRIAC can be triggered or activated by either a positive or a negative input gate trigger.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The TRIAC is equivalent to ________________.\r\n\r\n",
+        "a": "a four-layer diode",
+        "b": "two DIACs in parallel",
+        "c": "a thyristor with a gate lead",
+        "d": "two SCRs in parallel",
+        "answer": "two SCRs in parallel"
+    },
+    {
+        "question": "An optically coupled isolator is a device containing _________ in a single package.\r\n\r\n",
+        "a": "a photodiode and an optotransmitter",
+        "b": "an LED and an SCR",
+        "c": "an anode and a cathode",
+        "d": "an IRED and a silicon phototransistor",
+        "answer": "an IRED and a silicon phototransistor"
+    }
+]

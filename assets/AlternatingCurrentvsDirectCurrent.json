@@ -1,0 +1,410 @@
+[
+    {
+        "question": "What are the two main applications for ac?\r\n\r\n",
+        "a": "direct, pulsating",
+        "b": "electric, magnetic",
+        "c": "power, information",
+        "d": "static, dynamic",
+        "answer": "power, information"
+    },
+    {
+        "question": "The distance that a signal's energy can travel in the time it takes for one cycle to occur is called the signal's:\r\n\r\n",
+        "a": "amplitude",
+        "b": "frequency",
+        "c": "wavelength",
+        "d": "period",
+        "answer": "wavelength"
+    },
+    {
+        "question": "One oscilloscope selector knob that allows the major and minor divisions of the graticule to be used to determine a signal amplitude value is called the:\r\n\r\n",
+        "a": "time\/cm control",
+        "b": "position control",
+        "c": "intensity control",
+        "d": "volts\/cm control",
+        "answer": "volts\/cm control"
+    },
+    {
+        "question": "If current varies periodically from zero to a maximum, back to zero, and then repeats, the signal is:\r\n\r\n",
+        "a": "direct",
+        "b": "alternating",
+        "c": "pulsating",
+        "d": "repetitive",
+        "answer": "pulsating"
+    },
+    {
+        "question": "What voltage will an ac voltmeter display?\r\n\r\n",
+        "a": "rms",
+        "b": "average",
+        "c": "peak",
+        "d": "peak-to-peak",
+        "answer": "rms"
+    },
+    {
+        "question": "What is the peak value of a household appliance that uses a 230 V ac source?\r\n\r\n",
+        "a": "163 V",
+        "b": "230 V",
+        "c": "325 V",
+        "d": "480 V",
+        "answer": "325 V"
+    },
+    {
+        "question": "What is the waveform period difference between the 60 Hz electricity used in this country and the 50 Hz used in Europe?\r\n\r\n",
+        "a": "3 ms",
+        "b": "16 ms",
+        "c": "4 ms",
+        "d": "20 ms",
+        "answer": "3 ms"
+    },
+    {
+        "question": "Test equipment selection enables the technician to both generate signals and:\r\n\r\n",
+        "a": "change circuit conditions",
+        "b": "inject signals",
+        "c": "sense circuit conditions",
+        "d": "change signal frequencies",
+        "answer": "sense circuit conditions"
+    },
+    {
+        "question": "Why is ac current transfer more effective than dc current transfer over long distances?\r\n\r\n",
+        "a": "due to the height of power lines",
+        "b": "due to the use of ac generators",
+        "c": "due to step-up and step-down transformers reducing I2R losses",
+        "d": "due to very high voltages",
+        "answer": "due to step-up and step-down transformers reducing I2R losses"
+    },
+    {
+        "question": "A sine wave reaches maximum positive voltage at:\r\n\r\n",
+        "a": "90\u00b0",
+        "b": "0\u00b0",
+        "c": "\u201390\u00b0",
+        "d": "360\u00b0",
+        "answer": "90\u00b0"
+    },
+    {
+        "question": "Which percentages of full-amplitude rise time are used for a pulse wave?\r\n\r\n",
+        "a": "0 to 50 percent",
+        "b": "0 to 100 percent",
+        "c": "5 to 95 percent",
+        "d": "10 to 90 percent",
+        "answer": "10 to 90 percent"
+    },
+    {
+        "question": "What is the average value of a 12 V peak wave?\r\n\r\n",
+        "a": "3.82 V",
+        "b": "4.24 V",
+        "c": "7.64 V",
+        "d": "9.42 V",
+        "answer": "7.64 V"
+    },
+    {
+        "question": "A test equipment item that has the ability to produce either square, triangular, or sawtooth waveforms is called:\r\n\r\n",
+        "a": "a function generator",
+        "b": "a radio frequency generator",
+        "c": "an audio frequency generator",
+        "d": "a frequency meter or counter",
+        "answer": "a function generator"
+    },
+    {
+        "question": "mcq6_1005_1.gifThe current is flowing in what direction?\r\n",
+        "a": "clockwise",
+        "b": "counterclockwise",
+        "c": "in both directions at the same time",
+        "d": "50% of the time clockwise and 50% of the time counterclockwise",
+        "answer": "50% of the time clockwise and 50% of the time counterclockwise"
+    },
+    {
+        "question": "What does the CRT oscilloscope display?\r\n\r\n",
+        "a": "voltage and period",
+        "b": "current and frequency",
+        "c": "rms voltage and current",
+        "d": "frequency and voltage",
+        "answer": "voltage and period"
+    },
+    {
+        "question": "Power companies supply ac, not dc, because:\r\n\r\n",
+        "a": "it is easier to transmit ac",
+        "b": "there is no longer a need for dc",
+        "c": "dc is more dangerous",
+        "d": "there are not enough batteries",
+        "answer": "it is easier to transmit ac"
+    },
+    {
+        "question": "If a waveform period is determined to be 10 microseconds in duration, what is the frequency of the signal?\r\n\r\n",
+        "a": "100 Hz",
+        "b": "1000 Hz",
+        "c": "10 kHz",
+        "d": "100 kHz",
+        "answer": "100 kHz"
+    },
+    {
+        "question": "The phase difference between sine waves of different frequencies is:\r\n\r\n",
+        "a": "equal to their frequency differences",
+        "b": "the difference in their fixed time displacement",
+        "c": "the same throughout time",
+        "d": "constantly changing",
+        "answer": "the difference in their fixed time displacement"
+    },
+    {
+        "question": "If a sine wave signal is 100 mV peak-to-peak, how many volts would be measured by a voltmeter?\r\n\r\n",
+        "a": "14.14 mV",
+        "b": "35.4 mV",
+        "c": "63.7 mV",
+        "d": "70.7 mV",
+        "answer": "35.4 mV"
+    },
+    {
+        "question": "What term expresses the frequency of a rectangular wave?\r\n\r\n",
+        "a": "Hz",
+        "b": "period",
+        "c": "PRF",
+        "d": "PRT",
+        "answer": "PRF"
+    },
+    {
+        "question": "AC effective voltage is named:\r\n\r\n",
+        "a": "average",
+        "b": "peak",
+        "c": "peak-to-peak",
+        "d": "root mean square",
+        "answer": "root mean square"
+    },
+    {
+        "question": "If a voltmeter measures a sine wave as 500 mV, what would be its average value?\r\n\r\n",
+        "a": "159.0 mV",
+        "b": "318.5 mV",
+        "c": "353.5 mV",
+        "d": "451.0 mV",
+        "answer": "451.0 mV"
+    },
+    {
+        "question": "One adjustable knob on the oscilloscope that allows the trace to be aligned with a reference graticule is called the:\r\n\r\n",
+        "a": "position control",
+        "b": "focus control",
+        "c": "intensity control",
+        "d": "volts\/cm control",
+        "answer": "position control"
+    },
+    {
+        "question": "Signal comparisons may be most easily seen when using which item of test equipment?\r\n\r\n",
+        "a": "spectrum analyzer",
+        "b": "multimeter",
+        "c": "function generator",
+        "d": "dual trace oscilloscope",
+        "answer": "dual trace oscilloscope"
+    },
+    {
+        "question": "The magnitude that an alternation varies from zero is called its:\r\n\r\n",
+        "a": "altitude",
+        "b": "amplitude",
+        "c": "attitude",
+        "d": "polarity",
+        "answer": "amplitude"
+    },
+    {
+        "question": "The power that is distributed from a power plant to your home is:\r\n\r\n",
+        "a": "high voltage to high voltage",
+        "b": "low voltage to high voltage",
+        "c": "high voltage to low voltage",
+        "d": "low voltage to low voltage",
+        "answer": "high voltage to low voltage"
+    },
+    {
+        "question": "A rectangular wave that has a duty cycle of 50 percent could be called a:\r\n\r\n",
+        "a": "c wave",
+        "b": "sawtooth wave",
+        "c": "square wave",
+        "d": "triangle wave",
+        "answer": "square wave"
+    },
+    {
+        "question": "A triangle wave consists of repeating:\r\n\r\n",
+        "a": "positive ramps only",
+        "b": "negative ramps only",
+        "c": "positive and negative ramps of equal value",
+        "d": "positive and negative ramps of unequal value",
+        "answer": "positive and negative ramps of equal value"
+    },
+    {
+        "question": "What is the name of a device used to directly measure the frequency of a periodic wave?\r\n\r\n",
+        "a": "oscilloscope",
+        "b": "frequency meter or counter",
+        "c": "audio frequency generator",
+        "d": "radio frequency generator",
+        "answer": "frequency meter or counter"
+    },
+    {
+        "question": "Which control should be moved to display more cycles of a signal on an oscilloscope?\r\n\r\n",
+        "a": "horizontal position to left or right",
+        "b": "volts\/cm to a smaller number",
+        "c": "vertical position to top or bottom",
+        "d": "time\/cm to a higher setting",
+        "answer": "time\/cm to a higher setting"
+    },
+    {
+        "question": "What is the name of a device that converts sound waves to electrical waves?\r\n\r\n",
+        "a": "an amplifier",
+        "b": "an antenna",
+        "c": "a filter",
+        "d": "a microphone",
+        "answer": "a microphone"
+    },
+    {
+        "question": "If the frequency of a radio wave is increased, then its wavelength will:\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "cannot tell",
+        "answer": "decrease"
+    },
+    {
+        "question": "What is the rms voltage value of an ac signal whose peak oscilloscope display uses 3 major divisions above the zero setting? (V\/cm = 5)\r\n\r\n",
+        "a": "5.3 V",
+        "b": "10.6 V",
+        "c": "15.0 V",
+        "d": "21.2 V",
+        "answer": "10.6 V"
+    },
+    {
+        "question": "What is the peak-to-peak current value when an ammeter measures a 20 mA value?\r\n\r\n",
+        "a": "14 mA",
+        "b": "28 mA",
+        "c": "40 mA",
+        "d": "57 mA",
+        "answer": "57 mA"
+    },
+    {
+        "question": "How long would it take to transmit an electromagnetic wave to a receiving antenna 1,000 miles away?\r\n\r\n",
+        "a": "5.38 ms",
+        "b": "10.8 ms",
+        "c": "53.8 ms",
+        "d": "108 ms",
+        "answer": "5.38 ms"
+    },
+    {
+        "question": "What is the waveform period of a square wave signal that horizontally covers 3 major divisions per cycle? (time\/cm = 50 ms)\r\n\r\n",
+        "a": "50 ms",
+        "b": "100 ms",
+        "c": "150 ms",
+        "d": "200 ms",
+        "answer": "150 ms"
+    },
+    {
+        "question": "A sine wave has:\r\n\r\n",
+        "a": "four quadrants",
+        "b": "two alternations",
+        "c": "one period",
+        "d": "all of the above",
+        "answer": "all of the above"
+    },
+    {
+        "question": "What is the peak-to peak voltage of a 56 Vrms ac voltage?\r\n\r\n",
+        "a": "158 V",
+        "b": "164 V",
+        "c": "82 V",
+        "d": "79 V",
+        "answer": "158 V"
+    },
+    {
+        "question": "One oscilloscope selector knob that allows the major and minor divisions of the graticule to be used to determine a waveform period is called a:\r\n\r\n",
+        "a": "focus control",
+        "b": "time\/cm control",
+        "c": "intensity control",
+        "d": "volts\/cm control",
+        "answer": "time\/cm control"
+    },
+    {
+        "question": "What is the period of a 16 MHz sine wave?\r\n\r\n",
+        "a": "196 ns",
+        "b": "62.5 ns",
+        "c": "31.25 ns",
+        "d": "19.9 ns",
+        "answer": "62.5 ns"
+    },
+    {
+        "question": "DC current flows in one direction, while ac current rises from zero to a maximum, then falls to zero in one direction, then rises to a maximum, then falls to zero in the opposite direction.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A square and a rectangular waveform appear to have a step voltage transition.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The duty cycle of a square wave with a pulse width of 3 mu.gifs and a period of 9 mu.gifs is 40%.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The rms value of a sine wave is .707 x peak-to-peak value\/2.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "DC current transfers better over longer distances than ac current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An ac wave shape could be a sine wave, square wave, or sawtooth wave.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A sawtooth voltage waveform has a linear ramp that changes voltage level with respect to time.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The period of a 10 kHz sine wave is 10 mu.gifs.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The average value of a sine wave is .707 times the peak value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The letter in the Greek alphabet used to represent wavelength is __________.\r\n\r\n",
+        "a": "lambda",
+        "b": "theta",
+        "c": "omega",
+        "d": "delta",
+        "answer": "lambda"
+    },
+    {
+        "question": "The __________ is defined as the ratio of a pulse width (positive or negative pulse or cycle) to the overall period of time of the wave.\r\n\r\n",
+        "a": "pulse width",
+        "b": "duty cycle",
+        "c": "phase shift",
+        "d": "active ratio",
+        "answer": "duty cycle"
+    }
+]

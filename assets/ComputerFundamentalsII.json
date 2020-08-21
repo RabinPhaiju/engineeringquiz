@@ -1,0 +1,1578 @@
+[
+    {
+        "question": "What was the total number of UNIVAC-I sold eventually and by which company?\r\n\r\n",
+        "a": "30, British Tabulating Machine Co. (BTM)",
+        "b": "40, International Business Machines (IBM)",
+        "c": "48, Remington Rand",
+        "d": "40, International Computer Ltd. (ICL)",
+        "answer": "48, Remington Rand"
+    },
+    {
+        "question": "A file containing relatively permanent data is\r\n\r\n",
+        "a": "Random file",
+        "b": "Transaction file",
+        "c": "Master file",
+        "d": "Sequential file",
+        "answer": "Master file"
+    },
+    {
+        "question": "Communication that involves computers, establishing a link through the telephone system is called\r\n\r\n",
+        "a": "Teleprocessing",
+        "b": "Microprocessing",
+        "c": "Telecommunications",
+        "d": "All of the above",
+        "answer": "Telecommunications"
+    },
+    {
+        "question": "Dot-matrix is a type of\r\n\r\n",
+        "a": "Tape",
+        "b": "Printer",
+        "c": "Disk",
+        "d": "Bus",
+        "answer": "Printer"
+    },
+    {
+        "question": "Which kind of devices allows the user to add components and capabilities to a computer system?\r\n\r\n",
+        "a": "System boards",
+        "b": "Storage devices",
+        "c": "Input devices",
+        "d": "Expansion slots",
+        "answer": "Expansion slots"
+    },
+    {
+        "question": "Where does a computer add and compare data?\r\n\r\n",
+        "a": "Hard disk",
+        "b": "Floppy disk",
+        "c": "CPU chip",
+        "d": "Memory chip",
+        "answer": "CPU chip"
+    },
+    {
+        "question": "Which of the following require large computer memory?\r\n\r\n",
+        "a": "Imaging",
+        "b": "Graphics",
+        "c": "Voice",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following are used to quickly accept, store, and transfer data and instructions that are being used immediately by the CPU?\r\n\r\n",
+        "a": "microprocessors",
+        "b": "registers",
+        "c": "ROM chips",
+        "d": "data buses",
+        "answer": "registers"
+    },
+    {
+        "question": "Which disk interface standard includes support for up to eight peripheral devices?\r\n\r\n",
+        "a": "ST50G\/412",
+        "b": "IDE",
+        "c": "SCSI",
+        "d": "ESDI",
+        "answer": "SCSI"
+    },
+    {
+        "question": "Who designed the first general purpose electronic digital computer \"ENIAC\" ?\r\n\r\n",
+        "a": "Van-Neumann",
+        "b": "Joseph M Juoquard",
+        "c": "J. Presper Ecket and John W Mauchly",
+        "d": "All of the above",
+        "answer": "J. Presper Ecket and John W Mauchly"
+    },
+    {
+        "question": "What type of control pins are needed in a microprocessor to regulate traffic on the bus, in order to prevent two devices from trying to use it at the same time?\r\n\r\n",
+        "a": "Bus control",
+        "b": "Interrupts",
+        "c": "Bus arbitration",
+        "d": "Status",
+        "answer": "Bus arbitration"
+    },
+    {
+        "question": "The analog computer measures dimensions and its circuits use the differential and integral equations of continuous variables. The digital computer counts units and its circuits use\r\n\r\n",
+        "a": "Logic gates",
+        "b": "Discrete switches",
+        "c": "Boolean algebra id) Bayes' theorem",
+        "d": "None of the above",
+        "answer": "Boolean algebra id) Bayes' theorem"
+    },
+    {
+        "question": "In synchronous transmission data from various users\r\n\r\n",
+        "a": "Require header",
+        "b": "Do not require header",
+        "c": "Sometimes require header",
+        "d": "All of the above",
+        "answer": "Do not require header"
+    },
+    {
+        "question": "General purpose computers are those that can be adopted to countless uses simply by changing its\r\n\r\n",
+        "a": "keyboard",
+        "b": "printer",
+        "c": "program",
+        "d": "display screen",
+        "answer": "program"
+    },
+    {
+        "question": "What is the name of the visible silver rectangle which separates the take-up portion of the magnetic tape from the data recording portion?\r\n\r\n",
+        "a": "Load maker",
+        "b": "Load marker",
+        "c": "Tape separator",
+        "d": "Tape marker",
+        "answer": "Load marker"
+    },
+    {
+        "question": "A part located in the central processing unit that stores data & information is known as\r\n\r\n",
+        "a": "Core memory",
+        "b": "PROM",
+        "c": "EPROM",
+        "d": "ROM",
+        "answer": "Core memory"
+    },
+    {
+        "question": "A software package to perform calculations on data arranged in an array is\r\n\r\n",
+        "a": "System software",
+        "b": "Utility programs",
+        "c": "Electronic spread sheet",
+        "d": "Application programs",
+        "answer": "Electronic spread sheet"
+    },
+    {
+        "question": "What was the name of the first stored program electronic computer which was built in 1949 at Cambridge University in England?\r\n\r\n",
+        "a": "EDVAC",
+        "b": "EDSAC",
+        "c": "UNIVAC",
+        "d": "MARK-I",
+        "answer": "EDSAC"
+    },
+    {
+        "question": "A computer with CPU speed around 100 million instructions per second & with the word length of around 64 bits is known as\r\n\r\n",
+        "a": "Super computer",
+        "b": "Mini computer",
+        "c": "Micro computer",
+        "d": "None of the above",
+        "answer": "Super computer"
+    },
+    {
+        "question": "A computer program consists of\r\n\r\n",
+        "a": "System flowchart",
+        "b": "Program flowchart",
+        "c": "Algorithms written in computer's language",
+        "d": "Discrete logical steps.",
+        "answer": "Algorithms written in computer's language"
+    },
+    {
+        "question": "An input device which can read characters directly from an ordinary piece of paper is\r\n\r\n",
+        "a": "OCR",
+        "b": "OMR",
+        "c": "MSI",
+        "d": "POS",
+        "answer": "OCR"
+    },
+    {
+        "question": "Which of the following is not a part of the CPU\r\n\r\n",
+        "a": "storage unit",
+        "b": "arithmetic and logic unit",
+        "c": "program unit",
+        "d": "control unit",
+        "answer": "program unit"
+    },
+    {
+        "question": "Which of the following chips can be reprogrammed with special electric pulses?\r\n\r\n",
+        "a": "EPROM",
+        "b": "PROM",
+        "c": "ROM",
+        "d": "EEPROM",
+        "answer": "EEPROM"
+    },
+    {
+        "question": "In this world of fast changing computer technology, one of the most important factor to be considered while purchasing a PC is, it should have a provision for\r\n\r\n",
+        "a": "high level integration",
+        "b": "self upgradability",
+        "c": "intelligent sensors",
+        "d": "faster data access",
+        "answer": "self upgradability"
+    },
+    {
+        "question": "A collection of eight bits is called\r\n\r\n",
+        "a": "Byte",
+        "b": "Word",
+        "c": "Record",
+        "d": "File",
+        "answer": "Byte"
+    },
+    {
+        "question": "The ALU of a central processing unit does the essential maths work for the computer. What does the control unit do?\r\n\r\n",
+        "a": "Communicates its results",
+        "b": "Activates the output device",
+        "c": "Monitors the flow of information",
+        "d": "Control the printer",
+        "answer": "Monitors the flow of information"
+    },
+    {
+        "question": "Which of the following storage and retrieval methods would be well suited to your processing requirements if you only need to retrieve records one at a time and there is no fixed pattern to the requests for data and records?\r\n\r\n",
+        "a": "indexed sectors",
+        "b": "sequential",
+        "c": "direct",
+        "d": "indexed direct",
+        "answer": "indexed direct"
+    },
+    {
+        "question": "In MODEMS\r\n\r\n",
+        "a": "Several digital signals are multiplexed",
+        "b": "A digital signal changes some characteristic of a carrier wave",
+        "c": "Digital signal is amplified",
+        "d": "All of the above",
+        "answer": "A digital signal changes some characteristic of a carrier wave"
+    },
+    {
+        "question": "Which is a secondary memory device?\r\n\r\n",
+        "a": "CPU",
+        "b": "ALU",
+        "c": "Floppy disk",
+        "d": "Mouse",
+        "answer": "Floppy disk"
+    },
+    {
+        "question": "A storage device which is used to store data & information external to the main storage is known as\r\n\r\n",
+        "a": "Buffer",
+        "b": "Backing storage",
+        "c": "PROM",
+        "d": "Accumulator",
+        "answer": "Backing storage"
+    },
+    {
+        "question": "In a PC, how much memory is available to application software?\r\n\r\n",
+        "a": "1024 KB",
+        "b": "760 KB",
+        "c": "640 KB",
+        "d": "560 KB",
+        "answer": "640 KB"
+    },
+    {
+        "question": "For a memory system, the cycle time is\r\n\r\n",
+        "a": "same as the access time",
+        "b": "longer than the access time",
+        "c": "shorter than the access time",
+        "d": "submultiple of the access time",
+        "answer": "longer than the access time"
+    },
+    {
+        "question": "The number of records contained within a block of data on magnetic tape is defined by the\r\n\r\n",
+        "a": "block definition",
+        "b": "record contain clause",
+        "c": "blocking factor",
+        "d": "record per block factor",
+        "answer": "blocking factor"
+    },
+    {
+        "question": "The binary equivalent of the Octal number 13.54 is\r\n\r\n",
+        "a": "1011.1011",
+        "b": "1101.1110",
+        "c": "1001.1110",
+        "d": "All of the above",
+        "answer": "1011.1011"
+    },
+    {
+        "question": "What process prepares the magnetic surface of a disk by creating concentric circles, called tracks, around the disk? (Each track is further divided into pic-shaped sections called sectors.)\r\n\r\n",
+        "a": "Tracking",
+        "b": "Formatting",
+        "c": "Copying",
+        "d": "Sectioning",
+        "answer": "Formatting"
+    },
+    {
+        "question": "What does that acronym VGA stand for?\r\n\r\n",
+        "a": "Extended Graphics Adapter",
+        "b": "Enhanced Graphics Array",
+        "c": "Video Graphics Array",
+        "d": "Color Graphics Array",
+        "answer": "Video Graphics Array"
+    },
+    {
+        "question": "Which part of the diskette should never be touched?\r\n\r\n",
+        "a": "Hub",
+        "b": "Centre",
+        "c": "Oval slot",
+        "d": "Corner",
+        "answer": "Oval slot"
+    },
+    {
+        "question": "The storage locations in the interal storage of a CPU are called\r\n\r\n",
+        "a": "contents",
+        "b": "addresses",
+        "c": "locations",
+        "d": "mask",
+        "answer": "addresses"
+    },
+    {
+        "question": "Which is used to provide the sight information to the right person at the right time for proper decision making?\r\n\r\n",
+        "a": "DBMS",
+        "b": "MIS",
+        "c": "ISO",
+        "d": "PSO",
+        "answer": "MIS"
+    },
+    {
+        "question": "Most disk drives have a single read\/ write head for each disk surface. What is the advantage of suing multiple heads on each movable access arm?\r\n\r\n",
+        "a": "Reduced seek time",
+        "b": "Less latency time",
+        "c": "Reduced search time",
+        "d": "Less disk speed",
+        "answer": "Reduced seek time"
+    },
+    {
+        "question": "One of the main feature that distinguish microprocessors from microcomputers is\r\n\r\n",
+        "a": "words are usually larger in microprocessors",
+        "b": "words are shorter in microprocessors",
+        "c": "microprocessor does not contain I\/O devices",
+        "d": "exactly the same as the machine cycle time",
+        "answer": "microprocessor does not contain I\/O devices"
+    },
+    {
+        "question": "Which type of display is the latest to be used for portable computer?\r\n\r\n",
+        "a": "LED display",
+        "b": "LCD display",
+        "c": "Plasma display",
+        "d": "Electroluminescent display",
+        "answer": "Electroluminescent display"
+    },
+    {
+        "question": "Which of the following is not true of future computers?\r\n\r\n",
+        "a": "increased use of CAD\/CAM techniques",
+        "b": "faster turnaround time",
+        "c": "developments in artificial intelligence systems",
+        "d": "All of the above are true",
+        "answer": "All of the above are true"
+    },
+    {
+        "question": "The EAM device that does not use a control panel is the:\r\n\r\n",
+        "a": "collator",
+        "b": "reproducer",
+        "c": "interpreter",
+        "d": "sorter",
+        "answer": "sorter"
+    },
+    {
+        "question": "Whenever a peripheral is being controlled by the CPU, it is said to be online. If additionally, the computer files are updated as soon as any change takes place, the system is called\r\n\r\n",
+        "a": "quick processing system",
+        "b": "batch processing system",
+        "c": "real time system",
+        "d": "remote processing system",
+        "answer": "real time system"
+    },
+    {
+        "question": "The following is true about 2-out of-5 code:\r\n\r\n",
+        "a": "it is weighted code",
+        "b": "it is unweighted code",
+        "c": "it has odd parity",
+        "d": "All of the above",
+        "answer": "it is unweighted code"
+    },
+    {
+        "question": "The Josephson tunneling device illustrates principles associated with the advanced storage technique:\r\n\r\n",
+        "a": "cryogenics",
+        "b": "CCD",
+        "c": "EBAM",
+        "d": "holographing",
+        "answer": "cryogenics"
+    },
+    {
+        "question": "Which of the following statements is true?\r\n\r\n",
+        "a": "The installation of a computer is favorably received by all employees",
+        "b": "Some form of training is necessary for employees who will work with computers",
+        "c": "Computers are portrayed solely as society's benefactor",
+        "d": "A businessperson is only interested in the computer's accuracy",
+        "answer": "Some form of training is necessary for employees who will work with computers"
+    },
+    {
+        "question": "Communication between computers using standard telephone service\r\n\r\n",
+        "a": "Requires a change to an anolog signal",
+        "b": "Is most efficient",
+        "c": "Produces little noise and few disturbances",
+        "d": "All of the above",
+        "answer": "Requires a change to an anolog signal"
+    },
+    {
+        "question": "A floppy disk contains\r\n\r\n",
+        "a": "Circular tracks only",
+        "b": "Sectors only",
+        "c": "Both circular tracks and sector",
+        "d": "All of the above",
+        "answer": "Both circular tracks and sector"
+    },
+    {
+        "question": "When an input electrical signal A=10100 is applied to a NOT gate, its output signal is\r\n\r\n",
+        "a": "01011",
+        "b": "10001",
+        "c": "10101",
+        "d": "00101",
+        "answer": "01011"
+    },
+    {
+        "question": "The first practical commercial typewriter was invented in 1867 in the United States by\r\n\r\n",
+        "a": "Christopher Latham Sholes",
+        "b": "Carlos Glidden",
+        "c": "Samuel Soule",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is meant by quad-density (QD) diskette?\r\n\r\n",
+        "a": "It is double-sided disk",
+        "b": "It is double density disk",
+        "c": "It has double the number of tracks per inch",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Large computer system typically uses:\r\n\r\n",
+        "a": "Line printers",
+        "b": "Ink-jet printers",
+        "c": "Dot-matrix printers",
+        "d": "Daisy wheel printers",
+        "answer": "Line printers"
+    },
+    {
+        "question": "First generation computers are characterised by\r\n\r\n",
+        "a": "Vaccum tubes and magnetic drum",
+        "b": "Minicomputers",
+        "c": "Magnetic tape and transistors",
+        "d": "All of the above",
+        "answer": "Vaccum tubes and magnetic drum"
+    },
+    {
+        "question": "Can you tell what passes into and out from the computer via its ports?\r\n\r\n",
+        "a": "Data",
+        "b": "Bytes",
+        "c": "Graphics",
+        "d": "Pictures",
+        "answer": "Bytes"
+    },
+    {
+        "question": "What is the general name of the device which produces hardcopy graphics?\r\n\r\n",
+        "a": "COM",
+        "b": "Plotter",
+        "c": "Printer",
+        "d": "Microfilm",
+        "answer": "Plotter"
+    },
+    {
+        "question": "When a disk stack is serviced by a comb-like access mechanism, there is one read\/write head for each\r\n\r\n",
+        "a": "disk",
+        "b": "disk surface",
+        "c": "track",
+        "d": "cylinder",
+        "answer": "disk surface"
+    },
+    {
+        "question": "In which year was UK's premier computing event called \"The Which Computer\" started?\r\n\r\n",
+        "a": "1980",
+        "b": "1985",
+        "c": "1986",
+        "d": "1987",
+        "answer": "1980"
+    },
+    {
+        "question": "In comparison to the internal (main) memory, tape or disk memory is\r\n\r\n",
+        "a": "slower and more expensive",
+        "b": "slower and less expensive",
+        "c": "faster and more expensive",
+        "d": "faster and less expensive",
+        "answer": "slower and less expensive"
+    },
+    {
+        "question": "Which of the following input\/output devices is not associated with personal computers?\r\n\r\n",
+        "a": "mice",
+        "b": "color monitors",
+        "c": "punched cards",
+        "d": "dot-matrix printers",
+        "answer": "punched cards"
+    },
+    {
+        "question": "The ALU of a computer responds to the commands coming from\r\n\r\n",
+        "a": "primary memory",
+        "b": "control section",
+        "c": "external memory",
+        "d": "cache memory",
+        "answer": "control section"
+    },
+    {
+        "question": "The heart of any computer is the\r\n\r\n",
+        "a": "CPU",
+        "b": "Memory",
+        "c": "I\/O Unit",
+        "d": "Disks",
+        "answer": "CPU"
+    },
+    {
+        "question": "Which of the following are likely to jam the read\/write head of a disk pack?\r\n\r\n",
+        "a": "Dust",
+        "b": "Smoke particle",
+        "c": "Finger print smudge",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Impact printers\r\n\r\n",
+        "a": "strike a ribbon against the paper to produce character images",
+        "b": "include ink-jet and thermal devices",
+        "c": "are more expensive than Laser printers",
+        "d": "use optical technology",
+        "answer": "strike a ribbon against the paper to produce character images"
+    },
+    {
+        "question": "Which of the following is not a practical data-processing approach?\r\n\r\n",
+        "a": "batch-sequential",
+        "b": "batch-direct",
+        "c": "immediate-sequential",
+        "d": "immediate-direct",
+        "answer": "immediate-sequential"
+    },
+    {
+        "question": "Bit map terminal\r\n\r\n",
+        "a": "support displays containing multiple windows",
+        "b": "requires considerable amount of video RAM",
+        "c": "requires tremendous amount of copying and hence low performance",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "A 32 bit microprocessor has the word length equal to\r\n\r\n",
+        "a": "2 bytes",
+        "b": "32 bytes",
+        "c": "4 bytes",
+        "d": "8 bytes",
+        "answer": "4 bytes"
+    },
+    {
+        "question": "The register which holds the address of the location to or from which data are to be transferred is known as\r\n\r\n",
+        "a": "index register",
+        "b": "instruction register",
+        "c": "memory address register",
+        "d": "memory data register",
+        "answer": "memory address register"
+    },
+    {
+        "question": "In simplex transmission\r\n\r\n",
+        "a": "Data format is simple",
+        "b": "Data transmission is one way",
+        "c": "Data can be transmitted to small distances only",
+        "d": "All of the above",
+        "answer": "Data transmission is one way"
+    },
+    {
+        "question": "Each model of a computer has a unique\r\n\r\n",
+        "a": "Assembly language",
+        "b": "Machine language",
+        "c": "High level language",
+        "d": "All of the above",
+        "answer": "Machine language"
+    },
+    {
+        "question": "Transistorized computer circuits were introduced in the\r\n\r\n",
+        "a": "first generation",
+        "b": "second generation",
+        "c": "thir4 generation",
+        "d": "fourth generation",
+        "answer": "second generation"
+    },
+    {
+        "question": "Those microcomputers which have the same operating characteristics as the IBM microcomputers are called IBM\r\n\r\n",
+        "a": "duplicates",
+        "b": "clones",
+        "c": "copies",
+        "d": "look alikes",
+        "answer": "clones"
+    },
+    {
+        "question": "Communication ports are found on the back of microcomputers. They are used to connect the computer to _____\r\n\r\n",
+        "a": "printers",
+        "b": "modems",
+        "c": "other hardware",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which is considered a direct entry input device?\r\n\r\n",
+        "a": "Optical scanner",
+        "b": "Mouse",
+        "c": "Light pen",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "In a computer system, which device is functionally opposite of a Key-board?\r\n\r\n",
+        "a": "Mouse",
+        "b": "Trackball",
+        "c": "Printer",
+        "d": "Joystick",
+        "answer": "Printer"
+    },
+    {
+        "question": "The first firm to mass-market a microcomputer as a personal computer was\r\n\r\n",
+        "a": "IBM",
+        "b": "Sperry Univac",
+        "c": "Radio Shack",
+        "d": "Data General Corporation",
+        "answer": "Radio Shack"
+    },
+    {
+        "question": "The data appearing first in the left portion of punched card is\r\n\r\n",
+        "a": "descriptive data",
+        "b": "coded data",
+        "c": "quantitative data",
+        "d": "All of the above",
+        "answer": "coded data"
+    },
+    {
+        "question": "Which one of the following is termed a combination input-output device?\r\n\r\n",
+        "a": "VDT",
+        "b": "Keyboard",
+        "c": "Printer",
+        "d": "Laser Jet",
+        "answer": "VDT"
+    },
+    {
+        "question": "The process of writing computer instructions in a programming language is known as\r\n\r\n",
+        "a": "Coding",
+        "b": "Processing",
+        "c": "Programming",
+        "d": "File",
+        "answer": "Coding"
+    },
+    {
+        "question": "Which of the following is not true of a magnetic disk?\r\n\r\n",
+        "a": "It is expensive relative to magnetic tape",
+        "b": "It provides only sequential access to stored data",
+        "c": "Users can easily update records by writing over the old data",
+        "d": "It does not provide an automatic audit trail",
+        "answer": "It provides only sequential access to stored data"
+    },
+    {
+        "question": "A regular TV set can be hooked up to a computer so as to received computer signal instead of a television program. This hooking up is achieved with the help of a\r\n\r\n",
+        "a": "modem",
+        "b": "adapter",
+        "c": "cable",
+        "d": "aerial",
+        "answer": "adapter"
+    },
+    {
+        "question": "An output device that uses words or messages recorded on a magnetic medium to produce audio response is\r\n\r\n",
+        "a": "Magnetic tape",
+        "b": "Voice response unit",
+        "c": "Voice recognition unit.",
+        "d": "Voice band",
+        "answer": "Voice response unit"
+    },
+    {
+        "question": "A factor which would strongly influence a businessperson to adopt a computer is its:\r\n\r\n",
+        "a": "Accuracy",
+        "b": "Reliability",
+        "c": "Speed",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The most common input device used today is\r\n\r\n",
+        "a": "Motherboard",
+        "b": "Track ball",
+        "c": "Scanner",
+        "d": "Keyboard",
+        "answer": "Keyboard"
+    },
+    {
+        "question": "What is the name of the temporary data storage area between a peripheral device and the CPU which compensates for the difference between their speeds?\r\n\r\n",
+        "a": "Backing storage",
+        "b": "Buffer",
+        "c": "Main storage",
+        "d": "Temporary storage",
+        "answer": "Buffer"
+    },
+    {
+        "question": "Which of the following is the fastest?\r\n\r\n",
+        "a": "CPU",
+        "b": "magnetic tapes and disks",
+        "c": "video terminal",
+        "d": "sensors, mechanical controllers",
+        "answer": "CPU"
+    },
+    {
+        "question": "In which year were chips used inside the computer for the first time?\r\n\r\n",
+        "a": "1964",
+        "b": "1975",
+        "c": "1977",
+        "d": "1981",
+        "answer": "1975"
+    },
+    {
+        "question": "The invention of the slide rule is attributed to\r\n\r\n",
+        "a": "Babbage",
+        "b": "Oughtred",
+        "c": "Pascal",
+        "d": "Napier",
+        "answer": "Oughtred"
+    },
+    {
+        "question": "The control unit of a microprocessor\r\n\r\n",
+        "a": "stores data in the memory",
+        "b": "accepts input data from a keyboard",
+        "c": "Performs arithmetic \/ logic \/ functions",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "A flat-bed plotter uses a pen which moves in two directions across a piece of paper fixed on a flat-bed. Can you tell who controls the movements of this pen?\r\n\r\n",
+        "a": "microfilm",
+        "b": "microfiche",
+        "c": "film card",
+        "d": "COM",
+        "answer": "film card"
+    },
+    {
+        "question": "The desirable characteristic(s) of a memory system is (are)\r\n\r\n",
+        "a": "speed and reliability",
+        "b": "low power consumption",
+        "c": "durability and compactness",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The CPU chip used in a computer is partially made out of:\r\n\r\n",
+        "a": "Copper",
+        "b": "Iron",
+        "c": "Gold and silver",
+        "d": "Silica",
+        "answer": "Silica"
+    },
+    {
+        "question": "What type of magnetic material is normally used in bubble memories?\r\n\r\n",
+        "a": "Magnetic core",
+        "b": "Cobalt",
+        "c": "Garnet",
+        "d": "Metallic",
+        "answer": "Garnet"
+    },
+    {
+        "question": "A byte is comprised of:\r\n\r\n",
+        "a": "One bit",
+        "b": "Four bits",
+        "c": "Eight bits",
+        "d": "Sixteen bits",
+        "answer": "Eight bits"
+    },
+    {
+        "question": "Which of the following printer can be classified as a page-at-a-time printer?\r\n\r\n",
+        "a": "Laser printer",
+        "b": "Dot-matrix printer",
+        "c": "Thermal printer",
+        "d": "Inkjet printer",
+        "answer": "Laser printer"
+    },
+    {
+        "question": "The CPU of a computer transfers print output to a temporary disk memory at high speed and then gets back to processing another job without waiting for the output to got to the printer. In this way, the CPU does not remain idle due to its own high speed as compared to the low speed of the printer. What is the name of this memory?\r\n\r\n",
+        "a": "External memory",
+        "b": "I\/O memory",
+        "c": "ROM",
+        "d": "Buffer memory",
+        "answer": "Buffer memory"
+    },
+    {
+        "question": "Which of the following registers hold the information before it goes to the decoder\r\n\r\n",
+        "a": "control register",
+        "b": "data register",
+        "c": "accumulator",
+        "d": "address register",
+        "answer": "data register"
+    },
+    {
+        "question": "A modern electronic computer is a machine that is meant for\r\n\r\n",
+        "a": "doing quick mathematical calculations",
+        "b": "input, storage, manipulation and outputting of data",
+        "c": "electronic data processing",
+        "d": "performing repetitive tasks accurately",
+        "answer": "input, storage, manipulation and outputting of data"
+    },
+    {
+        "question": "A typical modern computer uses\r\n\r\n",
+        "a": "LSI chips",
+        "b": "Vacuum tubes",
+        "c": "Valves",
+        "d": "All the above",
+        "answer": "LSI chips"
+    },
+    {
+        "question": "ENIAC (Electronic Numerical Integrator and Calculator) had huge advantage over Mark I because it used electronic valves in place of the electromagnetic switches. In the beginning, ENIAC was used for calculating the path of artillery shells. For which other was weapon design was it utilized?\r\n\r\n",
+        "a": "hydrogen bomb",
+        "b": "atom bomb",
+        "c": "agnimissile",
+        "d": "fighter aircraft",
+        "answer": "hydrogen bomb"
+    },
+    {
+        "question": "Who was the father of Punched Card Processing?\r\n\r\n",
+        "a": "J Presper Eckert",
+        "b": "Charles Babbage",
+        "c": "Dr. Herman Hollerith",
+        "d": "Blaise Pascal",
+        "answer": "Dr. Herman Hollerith"
+    },
+    {
+        "question": "When did Hewlett-Packard Inc. Introduce its first HP-110 laptop computer?\r\n\r\n",
+        "a": "1984",
+        "b": "1986",
+        "c": "1990",
+        "d": "1995",
+        "answer": "1984"
+    },
+    {
+        "question": "The computer program language which is widely used in computer science and engineering and also in business is\r\n\r\n",
+        "a": "COBOL",
+        "b": "FORTRAN",
+        "c": "PASCAL",
+        "d": "LISP",
+        "answer": "PASCAL"
+    },
+    {
+        "question": "A 'number crunching' computer is one that can handle\r\n\r\n",
+        "a": "large spreadsheets",
+        "b": "large alphanumeric data",
+        "c": "large volume of numbers",
+        "d": "only numbers",
+        "answer": "large volume of numbers"
+    },
+    {
+        "question": "The barcode which is used on all types of items, is read by a scanning device directly into the computer. What is the name of this scanning device?\r\n\r\n",
+        "a": "Laser scanner",
+        "b": "Wand",
+        "c": "OCR",
+        "d": "MICR",
+        "answer": "Laser scanner"
+    },
+    {
+        "question": "A processing unit that coordinates networks and data communication is known as\r\n\r\n",
+        "a": "Control unit",
+        "b": "Communications processor",
+        "c": "Register unit",
+        "d": "CPU",
+        "answer": "Communications processor"
+    },
+    {
+        "question": "A type of line printer that uses an embossed steel band to form the letters printed on the paper is\r\n\r\n",
+        "a": "Golf ball printer",
+        "b": "Dot-matrix printer",
+        "c": "Laser printer",
+        "d": "Band printer",
+        "answer": "Band printer"
+    },
+    {
+        "question": "Which memory system is not as a mass memory medium?\r\n\r\n",
+        "a": "semiconductor memory",
+        "b": "magnetic tape",
+        "c": "magnetic disk",
+        "d": "magnetic drum",
+        "answer": "semiconductor memory"
+    },
+    {
+        "question": "Different components on the motherboard of a PC processor unit are linked together by sets of parallel electrical conducting lines. What are these lines called?\r\n\r\n",
+        "a": "Conductors",
+        "b": "Buses",
+        "c": "Connectors",
+        "d": "Connectively",
+        "answer": "Buses"
+    },
+    {
+        "question": "The terminal device that functions as a cash register, computer terminal, and OCR reader is the:\r\n\r\n",
+        "a": "Data collection terminal",
+        "b": "OCR register terminal",
+        "c": "Video display terminal",
+        "d": "POS terminal",
+        "answer": "POS terminal"
+    },
+    {
+        "question": "The general range of speed in revolutions per minute (rpm) at which floppy disks rotate is\r\n\r\n",
+        "a": "2400-4700",
+        "b": "390-600",
+        "c": "150-250",
+        "d": "300-600",
+        "answer": "150-250"
+    },
+    {
+        "question": "Which of the following typically uses a keyboard for input?\r\n\r\n",
+        "a": "desktop terminal",
+        "b": "point-of-sale terminal",
+        "c": "financial transaction terminal",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The first microprocessor built by the Intel Corpn. was called\r\n\r\n",
+        "a": "8008",
+        "b": "8080",
+        "c": "4004",
+        "d": "8800",
+        "answer": "4004"
+    },
+    {
+        "question": "The microelectronics is the technology of\r\n\r\n",
+        "a": "microwaves",
+        "b": "microcomputers",
+        "c": "chips",
+        "d": "automatic processing",
+        "answer": "chips"
+    },
+    {
+        "question": "Who developed the first personal computer spreadsheet package called Visicalc?\r\n\r\n",
+        "a": "Niklaus Wirth",
+        "b": "Dan Bricklin",
+        "c": "Bob Frankston",
+        "d": "both (b) and (c)",
+        "answer": "both (b) and (c)"
+    },
+    {
+        "question": "When was the X Window System born?\r\n\r\n",
+        "a": "1984",
+        "b": "1989",
+        "c": "1988",
+        "d": "1990",
+        "answer": "1984"
+    },
+    {
+        "question": "A double sided magnetic disk pack has six disks. Can you tell how many surfaces of this pack are normally used?\r\n\r\n",
+        "a": "10",
+        "b": "12",
+        "c": "6",
+        "d": "9",
+        "answer": "10"
+    },
+    {
+        "question": "The Santa Clara Valley, California is popularly known as Silicon Valley of America because\r\n\r\n",
+        "a": "huge deposits of silicon are found there",
+        "b": "many silicon chip manufacturing firms are located there",
+        "c": "Santa Claus visits it every Christmas",
+        "d": "it is full of large grain sand",
+        "answer": "many silicon chip manufacturing firms are located there"
+    },
+    {
+        "question": "Which of the following professions has not been affected by personal computers?\r\n\r\n",
+        "a": "medical",
+        "b": "clerical",
+        "c": "accounting",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "What is the name given to the 8-bit unit used for coding data?\r\n\r\n",
+        "a": "block of characters",
+        "b": "byte",
+        "c": "word",
+        "d": "K",
+        "answer": "byte"
+    },
+    {
+        "question": "What technology is used for flat panel displays?\r\n\r\n",
+        "a": "Solid state",
+        "b": "RBG monitor",
+        "c": "VLSI",
+        "d": "Direct view storage tube",
+        "answer": "Solid state"
+    },
+    {
+        "question": "What is meant by the term RAM?\r\n\r\n",
+        "a": "Memory which can only be read",
+        "b": "Memory which can be both^read and written to",
+        "c": "Memory which is used for permanent storage",
+        "d": "Memory which can only be written to",
+        "answer": "Memory which can be both^read and written to"
+    },
+    {
+        "question": "Magnetic tape can serve as :\r\n\r\n",
+        "a": "secondary-storage media",
+        "b": "output media",
+        "c": "input media",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Microfilm reader is a\r\n\r\n",
+        "a": "OCR device",
+        "b": "COM device",
+        "c": "MICR device",
+        "d": "None of the above",
+        "answer": "COM device"
+    },
+    {
+        "question": "In magnetic disks, data is organized on the platter in a concentric sets of rings called\r\n\r\n",
+        "a": "sector",
+        "b": "track",
+        "c": "head",
+        "d": "block",
+        "answer": "track"
+    },
+    {
+        "question": "The data recording area between the blank gaps on magnetic tape is called a\/ an:\r\n\r\n",
+        "a": "Record",
+        "b": "Block",
+        "c": "Field",
+        "d": "Database",
+        "answer": "Block"
+    },
+    {
+        "question": "Personal computers use a number of chips mounted on a main circuit board. What is the common name for such boards?\r\n\r\n",
+        "a": "Daughterboard",
+        "b": "Motherboard",
+        "c": "Fatherboard",
+        "d": "Breadboard",
+        "answer": "Motherboard"
+    },
+    {
+        "question": "Which term is not used to describe the memory component of a computer?\r\n\r\n",
+        "a": "ROM",
+        "b": "PROM",
+        "c": "RAM",
+        "d": "SAM",
+        "answer": "SAM"
+    },
+    {
+        "question": "Who coordinates the sequencing of events within the central processor of a computer?\r\n\r\n",
+        "a": "Logic unit",
+        "b": "Arithmetic unit",
+        "c": "Register",
+        "d": "Control unit",
+        "answer": "Control unit"
+    },
+    {
+        "question": "What type of computer programming is used for airplane ticket reservation system?\r\n\r\n",
+        "a": "Multi programming",
+        "b": "Real time programming",
+        "c": "Time sharing",
+        "d": "Batch programming",
+        "answer": "Real time programming"
+    },
+    {
+        "question": "The output of a 2 input OR gate is 0 only when its\r\n\r\n",
+        "a": "both inputs are 0",
+        "b": "either input is 1",
+        "c": "both inputs are 1",
+        "d": "either input is 0",
+        "answer": "both inputs are 0"
+    },
+    {
+        "question": "A high quality CAD system uses the following for printing drawing and graphs\r\n\r\n",
+        "a": "Dot matrix printer",
+        "b": "Digital plotter",
+        "c": "Line printer",
+        "d": "All of the above",
+        "answer": "Digital plotter"
+    },
+    {
+        "question": "A printed document reader which scans the characters and then encodes them in a computer-compatible code for direct transmission to the computer is called\r\n\r\n",
+        "a": "Optical character reader",
+        "b": "Kurzweil Data Entry Machine (KDEM)",
+        "c": "MICR",
+        "d": "Laser scanner",
+        "answer": "Kurzweil Data Entry Machine (KDEM)"
+    },
+    {
+        "question": "The equipment with which the computer talks to its users is called a\r\n\r\n",
+        "a": "word processor",
+        "b": "peripheral",
+        "c": "software",
+        "d": "diskette",
+        "answer": "peripheral"
+    },
+    {
+        "question": "In which addressing mode, the effective address of the operand is generated by adding a constant value to the contents of a register?\r\n\r\n",
+        "a": "Absolute mode",
+        "b": "Indirect mode",
+        "c": "Immediate mode",
+        "d": "Index mode",
+        "answer": "Index mode"
+    },
+    {
+        "question": "The term gigabyte refers to\r\n\r\n",
+        "a": "1024 bytes",
+        "b": "1024 kilobytes",
+        "c": "1024 megabytes",
+        "d": "1024 gigabytes",
+        "answer": "1024 megabytes"
+    },
+    {
+        "question": "The CPU chip used in a computer is partially made out of\r\n\r\n",
+        "a": "silica",
+        "b": "carbon",
+        "c": "copper",
+        "d": "gold",
+        "answer": "silica"
+    },
+    {
+        "question": "Which of the following best describes a computer-based information system?\r\n\r\n",
+        "a": "A system in which a computer is used to turn data into information",
+        "b": "Inputting data",
+        "c": "Processing data",
+        "d": "Performing complex mathematical calculations",
+        "answer": "A system in which a computer is used to turn data into information"
+    },
+    {
+        "question": "Accessing records from a file directly without searching from the beginning of the file is\r\n\r\n",
+        "a": "Time sharing",
+        "b": "Random",
+        "c": "Direct access",
+        "d": "Access time",
+        "answer": "Direct access"
+    },
+    {
+        "question": "EBCDIC can code up to how many different characters?\r\n\r\n",
+        "a": "8",
+        "b": "16",
+        "c": "32",
+        "d": "256",
+        "answer": "256"
+    },
+    {
+        "question": "When did IBM close the last of its punched card manufacturing plant?\r\n\r\n",
+        "a": "June, 1989",
+        "b": "December, 1984",
+        "c": "March, 1982",
+        "d": "November, 1979",
+        "answer": "December, 1984"
+    },
+    {
+        "question": "The monitor of a computer is connected to it by a\r\n\r\n",
+        "a": "Wire",
+        "b": "Cable",
+        "c": "Bus",
+        "d": "Line driver",
+        "answer": "Cable"
+    },
+    {
+        "question": "In a punched card system, data is processed by a\r\n\r\n",
+        "a": "keypunch machine, sorter, and posting machine",
+        "b": "accounting machine, posting machine, and billing machine",
+        "c": "sorter, posting machine, and billing machine",
+        "d": "accounting machine, keypunch machine, and sorter",
+        "answer": "accounting machine, keypunch machine, and sorter"
+    },
+    {
+        "question": "A single bus structure is primarily found in\r\n\r\n",
+        "a": "Main frames",
+        "b": "Super computers",
+        "c": "High performance machines",
+        "d": "Mini-and micro-computers",
+        "answer": "Mini-and micro-computers"
+    },
+    {
+        "question": "What is the highest address possible if 16 bits are used for each address?\r\n\r\n",
+        "a": "65536",
+        "b": "12868",
+        "c": "16556",
+        "d": "643897",
+        "answer": "65536"
+    },
+    {
+        "question": "An integrated circuit is\r\n\r\n",
+        "a": "a complicated circuit",
+        "b": "an integrating device",
+        "c": "much costlier than a single transistor",
+        "d": "fabricated on a tiny silicon chip",
+        "answer": "fabricated on a tiny silicon chip"
+    },
+    {
+        "question": "Which of the following memories contains a thin film of magnetic material sandwitched between two permanent bias magnets?\r\n\r\n",
+        "a": "ROM",
+        "b": "Magnetic disk",
+        "c": "Core memory",
+        "d": "Bubble memory",
+        "answer": "Core memory"
+    },
+    {
+        "question": "Which of the following bus types are used by the Apple Macintosh computer?\r\n\r\n",
+        "a": "ISA",
+        "b": "NuBus",
+        "c": "EISA",
+        "d": "MCA",
+        "answer": "NuBus"
+    },
+    {
+        "question": "When the time to establish link is large and the size of data is small, the preferred mode of data transfer is\r\n\r\n",
+        "a": "Circuit switching",
+        "b": "Packet switching",
+        "c": "Time division multiplexing",
+        "d": "All of the above",
+        "answer": "Packet switching"
+    },
+    {
+        "question": "Group of instructions that directs a computer is called\r\n\r\n",
+        "a": "Storage",
+        "b": "Memory",
+        "c": "Logic",
+        "d": "Program",
+        "answer": "Program"
+    },
+    {
+        "question": "A computer-controlled device for training exercises that duplicates the work environment is a:\r\n\r\n",
+        "a": "simulator",
+        "b": "duplicator",
+        "c": "trainer",
+        "d": "COM device",
+        "answer": "simulator"
+    },
+    {
+        "question": "Which of the following is not an output device of a computer?\r\n\r\n",
+        "a": "Printer",
+        "b": "keyboard",
+        "c": "VDU",
+        "d": "CRT screen",
+        "answer": "keyboard"
+    },
+    {
+        "question": "Which of the following terms could be used to describe the concurrent processing of computer programs, via CRTs, on one computer system?\r\n\r\n",
+        "a": "Time-sharing",
+        "b": "Online processing",
+        "c": "Interactive processing",
+        "d": "All the above processing",
+        "answer": "All the above processing"
+    },
+    {
+        "question": "What is the name given to the specialized storage element in the processor unit of a computer which is used as a \"scratch pad\" during processing operations?\r\n\r\n",
+        "a": "storage register",
+        "b": "primary memory",
+        "c": "cache memory",
+        "d": "accumulator",
+        "answer": "cache memory"
+    },
+    {
+        "question": "A large number of computers in a wide geographical area can be efficiently connected using\r\n\r\n",
+        "a": "Twisted pair lines",
+        "b": "Coaxial cables",
+        "c": "Communications satellites",
+        "d": "All of the above",
+        "answer": "Communications satellites"
+    },
+    {
+        "question": "Which of the following statements is true?\r\n\r\n",
+        "a": "Analysts usually work alone and sometimes as part of a team",
+        "b": "Most systems projects are completed in 6 to 12 weeks",
+        "c": "An analyst's primary concern is the development of software",
+        "d": "Analysts evaluate data flow through an organization",
+        "answer": "Analysts evaluate data flow through an organization"
+    },
+    {
+        "question": "Which of the following is not an advantage of magnetic disk storage?\r\n\r\n",
+        "a": "The access time of magnetic disk is much less than that of magnetic tape",
+        "b": "Disk storage is longer lasting than magnetic tape",
+        "c": "Disk storage is less expensive than tape storage",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "An advantage of blocking a tape is that\r\n\r\n",
+        "a": "additional processing time is consumed",
+        "b": "the direct file method can be emulated",
+        "c": "tapes contain less data and longer tapes",
+        "d": "less tape is used to store the same amount of data",
+        "answer": "less tape is used to store the same amount of data"
+    },
+    {
+        "question": "Perforated paper used as input or output media is known as\r\n\r\n",
+        "a": "Paper tape",
+        "b": "Magnetic tape",
+        "c": "Punched paper tape",
+        "d": "Card punch",
+        "answer": "Paper tape"
+    },
+    {
+        "question": "What is the byte capacity of a drum which is 5 inch high, 10 inch diameter, and which has 60 tracks per inch and bit density of 800 bits per inch?\r\n\r\n",
+        "a": "942000 bytes",
+        "b": "9712478 bytes",
+        "c": "192300 bytes",
+        "d": "14384 bytes",
+        "answer": "942000 bytes"
+    },
+    {
+        "question": "Ethernet uses\r\n\r\n",
+        "a": "Bus topology",
+        "b": "Ring topology",
+        "c": "Star topology",
+        "d": "Tree topology",
+        "answer": "Bus topology"
+    },
+    {
+        "question": "What is the latest write-once optical storage media?\r\n\r\n",
+        "a": "Digital paper",
+        "b": "Magneto-optical disk",
+        "c": "WORM disk",
+        "d": "CD-ROM disk",
+        "answer": "Digital paper"
+    },
+    {
+        "question": "The data processing job expected to further decrease in the 1996s is that of:\r\n\r\n",
+        "a": "Keypuncher",
+        "b": "Data entry clerk",
+        "c": "Computer operator",
+        "d": "Programmer",
+        "answer": "Keypuncher"
+    },
+    {
+        "question": "A computer has no more sense than a light\r\n\r\n",
+        "a": "bulb",
+        "b": "pen",
+        "c": "switch",
+        "d": "pad",
+        "answer": "switch"
+    },
+    {
+        "question": "The first large scale electronic computer which became operational in 1946 and contained approximately 18000 vacuum tubes and could perform 300 multiplications per second was known as\r\n\r\n",
+        "a": "ILLIAC",
+        "b": "ENIAC",
+        "c": "JOHNIAC",
+        "d": "EDSAC",
+        "answer": "ENIAC"
+    },
+    {
+        "question": "A computer program that converts an entire program into machine language at one time is called a\/an\r\n\r\n",
+        "a": "interpreter",
+        "b": "simulator",
+        "c": "compiler",
+        "d": "commander",
+        "answer": "compiler"
+    },
+    {
+        "question": "A logic gate is an electronic circuit which\r\n\r\n",
+        "a": "makes logic decisions",
+        "b": "allows electron flow only in one direction",
+        "c": "works on binary algebra",
+        "d": "alternates between 0 and 1 values",
+        "answer": "makes logic decisions"
+    },
+    {
+        "question": "Identity the advantages that Micro Channel Architecture offers over ISA.\r\n\r\n",
+        "a": "Automatic System Configuration",
+        "b": "Less Interference",
+        "c": "Multiple device handling (the system allows expansion boards to take complete of the bus for certain operations)",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Computer scientists are exploring the possibility of culturing bacteria to create living chips which have digital electronic properties. What are these chips called?\r\n\r\n",
+        "a": "bacterial chips",
+        "b": "biochips",
+        "c": "natural chips",
+        "d": "neural chips",
+        "answer": "biochips"
+    },
+    {
+        "question": "What is the name of the storage device which is used to compensate for the difference in rates of flow of data from once device to another?\r\n\r\n",
+        "a": "Cache",
+        "b": "Concentrator",
+        "c": "Buffer",
+        "d": "I\/O device",
+        "answer": "Buffer"
+    },
+    {
+        "question": "In latest generation computers, the instructions are executed\r\n\r\n",
+        "a": "Parallely only",
+        "b": "Sequentially only",
+        "c": "Both sequentially an parallely",
+        "d": "All of the above",
+        "answer": "Both sequentially an parallely"
+    },
+    {
+        "question": "Program execution time would be minimum if the programs are written in\r\n\r\n",
+        "a": "Machine Language",
+        "b": "Assembly language",
+        "c": "High level language",
+        "d": "All of the above",
+        "answer": "Machine Language"
+    },
+    {
+        "question": "A small square or rectangular piece of silica on which several layers of an integrated circuit are etched or imprinted is called\r\n\r\n",
+        "a": "VLSI",
+        "b": "micro",
+        "c": "wafer",
+        "d": "chip",
+        "answer": "chip"
+    },
+    {
+        "question": "The processing capability of a microcomputer can be enhanced with the help of\r\n\r\n",
+        "a": "addition processor",
+        "b": "expansion cards",
+        "c": "secondary memory",
+        "d": "buffer memory",
+        "answer": "expansion cards"
+    },
+    {
+        "question": "A computer programmer\r\n\r\n",
+        "a": "does all the thinking for a computer",
+        "b": "can enter input data quickly",
+        "c": "can operate all types of computer equipment",
+        "d": "can draw only flowchart",
+        "answer": "does all the thinking for a computer"
+    },
+    {
+        "question": "\"The three most important inventions of this century are the nuclear bomb, the high yield hybrid speed, and the computer\". Can you name the person who made this statement?\r\n\r\n",
+        "a": "Harry R Jordan",
+        "b": "Buckminster Fuller",
+        "c": "Jack Smith",
+        "d": "Jan Timmer",
+        "answer": "Buckminster Fuller"
+    },
+    {
+        "question": "A menu-driven operating system is one which allows you to pick up from the menu of choices it displays on the screen. What is the name given to the images which are used in such image oriented menus?\r\n\r\n",
+        "a": "Icon",
+        "b": "Figure",
+        "c": "Symbol",
+        "d": "option",
+        "answer": "Icon"
+    },
+    {
+        "question": "What is the name of the earliest calculating machine which was based on concepts found in modern computers but was unfortunately never built?\r\n\r\n",
+        "a": "Babbage's Difference Engine",
+        "b": "Pascal's Adder",
+        "c": "Leibnitz's Multiplier",
+        "d": "Differential Analyser",
+        "answer": "Babbage's Difference Engine"
+    },
+    {
+        "question": "The first machine to successfully perform a long series of arithmetic and logical operations was:\r\n\r\n",
+        "a": "ENIAC",
+        "b": "Mark I",
+        "c": "Analytic engine",
+        "d": "UNIVAC-I",
+        "answer": "Mark I"
+    },
+    {
+        "question": "Which is used for manufacturing chips?\r\n\r\n",
+        "a": "Bus",
+        "b": "Control unit",
+        "c": "Semiconductors",
+        "d": "(a) and (b) only",
+        "answer": "Semiconductors"
+    },
+    {
+        "question": "The 0 and 1 in the binary numbering system are called binary digits or _____\r\n\r\n",
+        "a": "bytes",
+        "b": "kilobytes",
+        "c": "decimal bytes",
+        "d": "bits",
+        "answer": "bits"
+    },
+    {
+        "question": "Floppy disks which are made from flexible plastic material are also called?\r\n\r\n",
+        "a": "hard disks",
+        "b": "high-density disks",
+        "c": "diskettes",
+        "d": "templates",
+        "answer": "diskettes"
+    },
+    {
+        "question": "Which of the following tasks is not suited for sequential processing by a computer?\r\n\r\n",
+        "a": "Preparing of mailing labels",
+        "b": "Processing payroll cheques",
+        "c": "Accounting for credit card purchases",
+        "d": "Inventory control",
+        "answer": "Inventory control"
+    },
+    {
+        "question": "Which of the following is responsible for coordinating various operations using timing signals?\r\n\r\n",
+        "a": "Arithmetic-logic Unit",
+        "b": "Control unit",
+        "c": "Memory unit",
+        "d": "Input\/Output unit",
+        "answer": "Control unit"
+    },
+    {
+        "question": "All calculations are performed and all comparisons are made in _____ unit.\r\n\r\n",
+        "a": "control unit",
+        "b": "aritmetic-logic unit",
+        "c": "central processing unit",
+        "d": "primary storage unit",
+        "answer": "aritmetic-logic unit"
+    },
+    {
+        "question": "The most commonly used standard data code to represent alphabetical, numerical and punctuation characters used in Electronic Data Processing system is called\r\n\r\n",
+        "a": "ASCII",
+        "b": "EBCDII",
+        "c": "BCD",
+        "d": "All of the above",
+        "answer": "ASCII"
+    },
+    {
+        "question": "The terminal device often used in checking charge cards that offers both a limited keyboard input and visual output is the:\r\n\r\n",
+        "a": "Intelligent terminal",
+        "b": "POS terminal",
+        "c": "Video display terminal",
+        "d": "Audio response unit",
+        "answer": "Video display terminal"
+    },
+    {
+        "question": "The computer translates the condition of each switch to a number. What number is represented by the OFF state?\r\n\r\n",
+        "a": "-7",
+        "b": "-3.75",
+        "c": "1",
+        "d": "0",
+        "answer": "0"
+    },
+    {
+        "question": "Who built the world's first electronic calculator using telephone relays, light bulbs and batteries?\r\n\r\n",
+        "a": "Claude Shannon",
+        "b": "Konard Zuse",
+        "c": "George Stibits",
+        "d": "Howard H. Aliken",
+        "answer": "George Stibits"
+    },
+    {
+        "question": "Hard disks and diskettes are:\r\n\r\n",
+        "a": "Direct access storage devices",
+        "b": "Sequential access storage devices",
+        "c": "Rarely used with microcomputers",
+        "d": "Both (a) and (c)",
+        "answer": "Direct access storage devices"
+    },
+    {
+        "question": "In digital data transmission\r\n\r\n",
+        "a": "Baud rate in equal to bit rate",
+        "b": "Baud rate is always smaller than the bit rate",
+        "c": "Baud rate is always higher than the bit rate",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "Which of the following is not one of the three primary functions that on-line direct-access systems can serve?\r\n\r\n",
+        "a": "inquiry",
+        "b": "backup",
+        "c": "update",
+        "d": "programming",
+        "answer": "backup"
+    },
+    {
+        "question": "How many bits can be stored in the 8K RAM?\r\n\r\n",
+        "a": "8000",
+        "b": "8192",
+        "c": "4000",
+        "d": "4096",
+        "answer": "8192"
+    },
+    {
+        "question": "A code which uses more bits for each character then what is necessary is known as\r\n\r\n",
+        "a": "Hollerith code",
+        "b": "Gray code",
+        "c": "Redundant code",
+        "d": "Mnemonics",
+        "answer": "Redundant code"
+    },
+    {
+        "question": "Point out the odd item amongst the following\r\n\r\n",
+        "a": "Computer mouse",
+        "b": "Touchpad",
+        "c": "Light pen",
+        "d": "Printer",
+        "answer": "Printer"
+    },
+    {
+        "question": "Access time in a computer memory is the time required to\r\n\r\n",
+        "a": "Locate the stored data",
+        "b": "Retrieve the stored data",
+        "c": "Both locate and retrieve the data",
+        "d": "All of the above",
+        "answer": "Both locate and retrieve the data"
+    }
+]

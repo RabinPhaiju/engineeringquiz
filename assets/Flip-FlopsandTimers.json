@@ -1,0 +1,274 @@
+[
+    {
+        "question": "Which of the following is correct for a gated D-type flip-flop?\r\n\r\n",
+        "a": "The Q output is either SET or RESET as soon as the D input goes HIGH or LOW.",
+        "b": "The output complement follows the input when enabled.",
+        "c": "Only one of the inputs can be HIGH at a time.",
+        "d": "The output toggles if one of the inputs is held HIGH.",
+        "answer": "The Q output is either SET or RESET as soon as the D input goes HIGH or LOW."
+    },
+    {
+        "question": "When both inputs of a J-K flip-flop cycle, the output will:\r\n\r\n",
+        "a": "be invalid",
+        "b": "not change",
+        "c": "change",
+        "d": "toggle",
+        "answer": "not change"
+    },
+    {
+        "question": "Latches constructed with NOR and NAND gates tend to remain in the latched condition due to which configuration feature?\r\n\r\n",
+        "a": "asynchronous operation",
+        "b": "low input voltages",
+        "c": "gate impedance",
+        "d": "cross coupling",
+        "answer": "cross coupling"
+    },
+    {
+        "question": "The 555 timer can be used in which of the following configurations?\r\n\r\n",
+        "a": "astable, monostable",
+        "b": "monostable, bistable",
+        "c": "astable, toggled",
+        "d": "bistable, tristable",
+        "answer": "astable, monostable"
+    },
+    {
+        "question": "A basic S-R flip-flop can be constructed by cross-coupling which basic logic gates?\r\n\r\n",
+        "a": "AND or OR gates",
+        "b": "XOR or XNOR gates",
+        "c": "NOR or NAND gates",
+        "d": "AND or NOR gates",
+        "answer": "NOR or NAND gates"
+    },
+    {
+        "question": "One example of the use of an S-R flip-flop is as a(n):\r\n\r\n",
+        "a": "transition pulse generator",
+        "b": "astable oscillator",
+        "c": "racer",
+        "d": "switch debouncer",
+        "answer": "switch debouncer"
+    },
+    {
+        "question": "If both inputs of an S-R NAND latch are LOW, what will happen to the output?\r\n\r\n",
+        "a": "The output would become unpredictable.",
+        "b": "The output will toggle.",
+        "c": "The output will reset.",
+        "d": "No change will occur in the output.",
+        "answer": "The output would become unpredictable."
+    },
+    {
+        "question": "mcq24_1009_1.pngThe equation for the output frequency of a 555 timer operating in the astable mode is:\r\nWhat value of C1 will be required if R1 = 1 k ohm, R2 = 1 komega.gif, and f = 1 kHz?\r\n\r\n",
+        "a": "0.33 uF",
+        "b": "0.48 uF",
+        "c": "480 uF",
+        "d": "33 nF",
+        "answer": "0.48 uF"
+    },
+    {
+        "question": "An astable multivibrator is a circuit that:\r\n\r\n",
+        "a": "has two stable states",
+        "b": "is free-running",
+        "c": "produces a continuous output signal",
+        "d": "is free-running and produces a continuous output signal",
+        "answer": "produces a continuous output signal"
+    },
+    {
+        "question": "What is another name for a one-shot?\r\n\r\n",
+        "a": "monostable",
+        "b": "bistable",
+        "c": "astable",
+        "d": "tristable",
+        "answer": "monostable"
+    },
+    {
+        "question": "The truth table for an S-R flip-flop has how many VALID entries?\r\n\r\n",
+        "a": "3",
+        "b": "1",
+        "c": "4",
+        "d": "2",
+        "answer": "3"
+    },
+    {
+        "question": "What is the significance of the J and K terminals on the J-K flip-flop?\r\n\r\n",
+        "a": "There is no known significance in their designations.",
+        "b": "The J represents \"jump,\" which is how the Q output reacts whenever the clock goes HIGH and the J input is also HIGH.",
+        "c": "The letters represent the initials of Johnson and King, the co-inventors of the J-K flip-flop.",
+        "d": "All of the other letters of the alphabet are already in use.",
+        "answer": "There is no known significance in their designations."
+    },
+    {
+        "question": "Which of the following describes the operation of a positive edge-triggered D-type flip-flop?\r\n\r\n",
+        "a": "If both inputs are HIGH, the output will toggle.",
+        "b": "The output will follow the input on the leading edge of the clock.",
+        "c": "When both inputs are LOW, an invalid state exists.",
+        "d": "The input is toggled into the flip-flop on the leading edge of the clock and is passed to the output on the trailing edge of the clock.",
+        "answer": "The output will follow the input on the leading edge of the clock."
+    },
+    {
+        "question": "What is one disadvantage of an S-R flip-flop?\r\n\r\n",
+        "a": "It has no Enable input.",
+        "b": "It has a RACE condition.",
+        "c": "It has no clock input.",
+        "d": "It has only a single output.",
+        "answer": "It has a RACE condition."
+    },
+    {
+        "question": "Edge-triggered flip-flops can be identified by the triangle on the clock input.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The 555 timer can be used in either the bistable mode or the monostable mode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "J-K flip-flops are often used as switch debouncers.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The J-K flip-flop eliminates the RACE state when both the J and K inputs are HIGH.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Pulse-triggered flip-flops are identified by a bubble on the Q output terminal.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A one-shot is a special type of multivibrator, which must be triggered to produce each output pulse.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Multivibrators must be level-triggered.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A D-type flip-flop is constructed by connecting an inverter between the Set and Clock terminals.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When the S and the R inputs are both HIGH the output of an S-R NOR latch will be unpredictable.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When using master-slave flip-flops, the data is entered into the flip-flop on the leading edge of the clock, but the output does not change until the trailing edge of the clock.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A retriggerable one-shot has a pulse width of 10 ms; 3 ms after being triggered, another trigger pulse is applied. The resulting output pulse will be _________ ms.\r\n\r\n",
+        "a": "3",
+        "b": "7",
+        "c": "10",
+        "d": "13",
+        "answer": "13"
+    },
+    {
+        "question": "The S-R, D-type, and J-K flip-flops are all examples of _________________.\r\n\r\n",
+        "a": "astable multivibrators",
+        "b": "bistable multivibrators",
+        "c": "monostable multivibrators",
+        "d": "tristable multivibrators",
+        "answer": "bistable multivibrators"
+    },
+    {
+        "question": "Edge-triggered flip-flops must have _________.\r\n\r\n",
+        "a": "very fast response times",
+        "b": "at least two inputs to handle rising and falling edges",
+        "c": "a positive-transition pulse generator",
+        "d": "a negative-transition pulse generator",
+        "answer": "a positive-transition pulse generator"
+    },
+    {
+        "question": "An S-R flip-flop can be triggered by ______, ______, or ________.\r\n\r\n",
+        "a": "HIGHs, LOWs, PRESETs",
+        "b": "edges, levels, pulses",
+        "c": "HIGHs, LOWs, CLEARs",
+        "d": "SETs, RESETs, HIGHs",
+        "answer": "edges, levels, pulses"
+    },
+    {
+        "question": "An S-R NAND latch with both of its inputs LOW has an output that is _____________.\r\n\r\n",
+        "a": "unpredictable",
+        "b": "floating",
+        "c": "HIGH",
+        "d": "LOW",
+        "answer": "unpredictable"
+    },
+    {
+        "question": "Pulse-triggered flip-flops are also called _________ flip-flops.\r\n\r\n",
+        "a": "master-slave",
+        "b": "postponed",
+        "c": "level",
+        "d": "edge",
+        "answer": "master-slave"
+    },
+    {
+        "question": "For an S-R flip-flop to be SET or RESET, the respective input must be __________.\r\n\r\n",
+        "a": "LOW",
+        "b": "HIGH",
+        "c": "installed with steering diodes",
+        "d": "in parallel with a limiting resistor",
+        "answer": "HIGH"
+    },
+    {
+        "question": "One example of the use of an S-R flip-flop is as a(n) _________.\r\n\r\n",
+        "a": "racer",
+        "b": "binary storage register",
+        "c": "astable oscillator",
+        "d": "transition pulse generator",
+        "answer": "binary storage register"
+    },
+    {
+        "question": "The toggle condition in a master-slave J-K flip-flop means that Q and q.gif will switch to their ________ state(s) at the _____________________.\r\n\r\n",
+        "a": "inverted, positive clock edge",
+        "b": "quiescent, negative clock edge",
+        "c": "opposite, active clock edge",
+        "d": "reset, synchronous clock edge",
+        "answer": "opposite, active clock edge"
+    },
+    {
+        "question": "If an input is activated by a signal transition, it is _____________.\r\n\r\n",
+        "a": "edge-triggered",
+        "b": "toggle-triggered",
+        "c": "clock-triggered",
+        "d": "noise-triggered",
+        "answer": "edge-triggered"
+    }
+]

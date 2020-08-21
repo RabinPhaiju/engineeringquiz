@@ -1,0 +1,458 @@
+[
+    {
+        "question": "When transistors are used in digital circuits they usually operate in the:\r\n\r\n",
+        "a": "active region",
+        "b": "breakdown region",
+        "c": "saturation and cutoff regions",
+        "d": "linear region",
+        "answer": "saturation and cutoff regions"
+    },
+    {
+        "question": "Three different Q points are shown on a dc load line. The upper Q point represents the:\r\n\r\n",
+        "a": "minimum current gain",
+        "b": "intermediate current gain",
+        "c": "maximum current gain",
+        "d": "cutoff point",
+        "answer": "maximum current gain"
+    },
+    {
+        "question": "A transistor has a Bdc of 250 and a base current, IB, of 20 u A. The collector current, IC, equals:\r\n\r\n",
+        "a": "500 A",
+        "b": "5 mA",
+        "c": "50 mA",
+        "d": "5 A",
+        "answer": "5 mA"
+    },
+    {
+        "question": "A current ratio of IC\/IE is usually less than one and is called:\r\n\r\n",
+        "a": "beta",
+        "b": "theta",
+        "c": "alpha",
+        "d": "omega",
+        "answer": "alpha"
+    },
+    {
+        "question": "With the positive probe on an NPN base, an ohmmeter reading between the other transistor terminals should be:\r\n\r\n",
+        "a": "open",
+        "b": "infinite",
+        "c": "low resistance",
+        "d": "high resistance",
+        "answer": "low resistance"
+    },
+    {
+        "question": "In a C-E configuration, an emitter resistor is used for:\r\n\r\n",
+        "a": "stabilization",
+        "b": "ac signal bypass",
+        "c": "collector bias",
+        "d": "higher gain",
+        "answer": "stabilization"
+    },
+    {
+        "question": "Voltage-divider bias provides:\r\n\r\n",
+        "a": "an unstable Q point",
+        "b": "a stable Q point",
+        "c": "a Q point that easily varies with changes in the transistor's current gain",
+        "d": "a Q point that is stable and easily varies with changes in the transistor\u2019s current gain",
+        "answer": "a stable Q point"
+    },
+    {
+        "question": "To operate properly, a transistor's base-emitter junction must be forward biased with reverse bias applied to which junction?\r\n\r\n",
+        "a": "collector-emitter",
+        "b": "base-collector",
+        "c": "base-emitter",
+        "d": "collector-base",
+        "answer": "collector-base"
+    },
+    {
+        "question": "The ends of a load line drawn on a family of curves determine:\r\n\r\n",
+        "a": "saturation and cutoff",
+        "b": "the operating point",
+        "c": "the power curve",
+        "d": "the amplification factor",
+        "answer": "saturation and cutoff"
+    },
+    {
+        "question": "If VCC = +18 V, voltage-divider resistor R1 is 4.7 k ohm, and R2 is 1500 ohm, what is the base bias voltage?\r\n\r\n",
+        "a": "8.70 V",
+        "b": "4.35 V",
+        "c": "2.90 V",
+        "d": "0.7 V",
+        "answer": "4.35 V"
+    },
+    {
+        "question": "The C-B configuration is used to provide which type of gain?\r\n\r\n",
+        "a": "voltage",
+        "b": "current",
+        "c": "resistance",
+        "d": "power",
+        "answer": "voltage"
+    },
+    {
+        "question": "The Q point on a load line may be used to determine:\r\n\r\n",
+        "a": "VC",
+        "b": "VCC",
+        "c": "VB",
+        "d": "IC",
+        "answer": "VB"
+    },
+    {
+        "question": "A transistor may be used as a switching device or as a:\r\n\r\n",
+        "a": "fixed resistor",
+        "b": "tuning device",
+        "c": "rectifier",
+        "d": "variable resistor",
+        "answer": "variable resistor"
+    },
+    {
+        "question": "If an input signal ranges from 20\u201340u. A (microamps), with an output signal ranging from .5\u20131.5 mA (milliamps), what is the ac beta?\r\n\r\n",
+        "a": "0.05",
+        "b": "20",
+        "c": "50",
+        "d": "500",
+        "answer": "50"
+    },
+    {
+        "question": "Which is beta's current ratio?\r\n\r\n",
+        "a": "IC\/IB",
+        "b": "IC\/IE",
+        "c": "IB\/IE",
+        "d": "IE\/IB",
+        "answer": "IC\/IB"
+    },
+    {
+        "question": "A collector characteristic curve is a graph showing:\r\n\r\n",
+        "a": "emitter current (IE) versus collector-emitter voltage (VCE) with (VBB) base bias voltage held constant",
+        "b": "collector current (IC) versus collector-emitter voltage (VCE) with (VBB) base bias voltage held constant",
+        "c": "collector current (IC) versus collector-emitter voltage (VC) with (VBB) base bias voltage held constant",
+        "d": "collector current (IC) versus collector-emitter voltage (VCC) with (VBB) base bias voltage held constant",
+        "answer": "collector current (IC) versus collector-emitter voltage (VCE) with (VBB) base bias voltage held constant"
+    },
+    {
+        "question": "With low-power transistor packages, the base terminal is usually the:\r\n\r\n",
+        "a": "tab end",
+        "b": "middle",
+        "c": "right end",
+        "d": "stud mount",
+        "answer": "middle"
+    },
+    {
+        "question": "When a silicon diode is forward biased, what is VBE for a C-E configuration?\r\n\r\n",
+        "a": "voltage-divider bias",
+        "b": "0.4 V",
+        "c": "0.7 V",
+        "d": "emitter voltage",
+        "answer": "0.7 V"
+    },
+    {
+        "question": "What is the current gain for a common-base configuration where IE = 4.2 mA and IC = 4.0 mA?\r\n\r\n",
+        "a": "16.80",
+        "b": "1.05",
+        "c": "0.20",
+        "d": "0.95",
+        "answer": "0.95"
+    },
+    {
+        "question": "With a PNP circuit, the most positive voltage is probably:\r\n\r\n",
+        "a": "ground",
+        "b": "VC",
+        "c": "VBE",
+        "d": "VCC",
+        "answer": "ground"
+    },
+    {
+        "question": "If a 2 mV signal produces a 2 V output, what is the voltage gain?\r\n\r\n",
+        "a": "0.001",
+        "b": "0.004",
+        "c": "100",
+        "d": "1000",
+        "answer": "1000"
+    },
+    {
+        "question": "Most of the electrons in the base of an NPN transistor flow:\r\n\r\n",
+        "a": "out of the base lead",
+        "b": "into the collector",
+        "c": "into the emitter",
+        "d": "into the base supply",
+        "answer": "into the collector"
+    },
+    {
+        "question": "In a transistor, collector current is controlled by:\r\n\r\n",
+        "a": "collector voltage",
+        "b": "base current",
+        "c": "collector resistance",
+        "d": "all of the above",
+        "answer": "base current"
+    },
+    {
+        "question": "Total emitter current is:\r\n\r\n",
+        "a": "IE \u2013 IC",
+        "b": "IC + IE",
+        "c": "IB + IC",
+        "d": "IB \u2013 IC",
+        "answer": "IB + IC"
+    },
+    {
+        "question": "Often a common-collector will be the last stage before the load; the main function(s) of this stage is to:\r\n\r\n",
+        "a": "provide voltage gain",
+        "b": "provide phase inversion",
+        "c": "provide a high-frequency path to improve the frequency response",
+        "d": "buffer the voltage amplifiers from the low-resistance load and provide impedance matching for maximum power transfer",
+        "answer": "buffer the voltage amplifiers from the low-resistance load and provide impedance matching for maximum power transfer"
+    },
+    {
+        "question": "For a C-C configuration to operate properly, the collector-base junction should be reverse biased, while forward bias should be applied to which junction?\r\n\r\n",
+        "a": "collector-emitter",
+        "b": "base-emitter",
+        "c": "collector-base",
+        "d": "cathode-anode",
+        "answer": "collector-emitter"
+    },
+    {
+        "question": "The input\/output relationship of the common-collector and common-base amplifiers is:\r\n\r\n",
+        "a": "270 degrees",
+        "b": "180 degrees",
+        "c": "90 degrees",
+        "d": "0 degrees",
+        "answer": "0 degrees"
+    },
+    {
+        "question": "If a transistor operates at the middle of the dc load line, a decrease in the current gain will move the Q point:\r\n\r\n",
+        "a": "off the load line",
+        "b": "nowhere",
+        "c": "up",
+        "d": "down",
+        "answer": "down"
+    },
+    {
+        "question": "Which is the higher gain provided by a C-E configuration?\r\n\r\n",
+        "a": "voltage",
+        "b": "current",
+        "c": "resistance",
+        "d": "power",
+        "answer": "power"
+    },
+    {
+        "question": "What is the collector current for a C-E configuration with a beta of 100 and a base current of 30 uA?\r\n\r\n",
+        "a": "30 uA",
+        "b": ".3 uA",
+        "c": "3 mA",
+        "d": "3 MA",
+        "answer": "3 mA"
+    },
+    {
+        "question": "A decrease in base current of a C-E amplifier causes the voltage measured between the emitter and the collector to increase.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq12_1017_1.gifIn this analog amplifier the input is in phase with the output.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The voltage measured from the collector to the emitter is the sum of the voltage base-emitter plus the voltage collector-base.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq12_1013_1.gifThis is a PNP transistor.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A transistor used in a digital circuit will have two operating states, which are cutoff and saturation.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When a transistor is operating as a variable resistor it has transistance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a BJT, the collector current is approximately equal to the base current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The voltage gain of a transistor is inversely proportional to the change in output current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The three bipolar transistor circuit configurations are common-base, common-emitter, and emitter-follower.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When troubleshooting a bipolar junction transistor using an ohmmeter, if one of the junctions reads low in both directions, the junction is shorted and the transistor is bad. If one of the junctions reads high in both directions, the junction is shorted and the transistor is good.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "BJTs are \"junction\" transistors because they use current-carrying P-N junctions.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The voltage measured from the collector to the emitter is the sum of the base-emitter voltage plus the collector-base voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Transistors are controlled to operate as a switch or to operate as a variable resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq12_1016_1.gifIf this circuit were used in a digital circuit, it would be a NOT gate.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A common-emitter (C-E) is so called because the emitter is connected to both the input and output signals.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Current gain in a transistor is inversely proportional to collector current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "In a common-base (C-B) amplifier, the output is 180 degrees out of phase with the input.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A bipolar transistor has three leads: the base, collector, and emitter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The polarity of VBE is such that it reverse biases the base-emitter junction.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "With a common-collector (C-C) amplifier the input is applied to the base and the output is taken from the emitter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a BJT, the collector current is approximately equal to the base current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The input resistance of the base of an emitter-follower is usually _________.\r\n\r\n",
+        "a": "very low",
+        "b": "very high",
+        "c": "shorted to ground",
+        "d": "open",
+        "answer": "very high"
+    },
+    {
+        "question": "The phase difference between the input and output ac voltage signals of a common-emitter amplifier is __________.\r\n\r\n",
+        "a": "0\u00ba",
+        "b": "90\u00ba",
+        "c": "180\u00ba",
+        "d": "360\u00ba",
+        "answer": "180\u00ba"
+    },
+    {
+        "question": "Base bias provides _________.\r\n\r\n",
+        "a": "a very stable Q point",
+        "b": "a very unstable Q point",
+        "c": "no current gain",
+        "d": "zero current in the base and collector circuits",
+        "answer": "a very unstable Q point"
+    },
+    {
+        "question": "VCE approximately equals ________ when a transistor switch is cut off.\r\n\r\n",
+        "a": "VCC",
+        "b": "VB",
+        "c": "0.2 V",
+        "d": "0.7 V",
+        "answer": "VCC"
+    },
+    {
+        "question": "VCE approximately equals ________ when a transistor switch is in saturation.\r\n\r\n",
+        "a": "VC",
+        "b": "VB",
+        "c": "0.3 V",
+        "d": "0.7 V",
+        "answer": "0.3 V"
+    },
+    {
+        "question": "An emitter-follower has a voltage gain that is __________.\r\n\r\n",
+        "a": "much less than one",
+        "b": "approximately equal to one",
+        "c": "greater than one",
+        "d": "zero",
+        "answer": "approximately equal to one"
+    }
+]

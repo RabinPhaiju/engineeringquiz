@@ -1,0 +1,218 @@
+[
+    {
+        "question": "How many inputs are required for a 1-of-10 BCD decoder?\r\n\r\n",
+        "a": "4",
+        "b": "8",
+        "c": "10",
+        "d": "1",
+        "answer": "4"
+    },
+    {
+        "question": "Most demultiplexers facilitate which of the following?\r\n\r\n",
+        "a": "decimal to hexadecimal",
+        "b": "single input, multiple outputs",
+        "c": "ac to dc",
+        "d": "odd parity to even parity",
+        "answer": "single input, multiple outputs"
+    },
+    {
+        "question": "One application of a digital multiplexer is to facilitate:\r\n\r\n",
+        "a": "code conversion",
+        "b": "parity checking",
+        "c": "parallel-to-serial data conversion",
+        "d": "data generation",
+        "answer": "parallel-to-serial data conversion"
+    },
+    {
+        "question": "Select one of the following statements that best describes the parity method of error detection:\r\n\r\n",
+        "a": "Parity checking is best suited for detecting single-bit errors in transmitted codes.",
+        "b": "Parity checking is best suited for detecting double-bit errors that occur during the transmission of codes from one location to another.",
+        "c": "Parity checking is not suitable for detecting single-bit errors in transmitted codes.",
+        "d": "Parity checking is capable of detecting and correcting errors in transmitted codes.",
+        "answer": "Parity checking is best suited for detecting single-bit errors in transmitted codes."
+    },
+    {
+        "question": "A multiplexed display:\r\n\r\n",
+        "a": "accepts data inputs from one line and passes this data to multiple output lines",
+        "b": "uses one display to present two or more pieces of information",
+        "c": "accepts data inputs from multiple lines and passes this data to multiple output lines",
+        "d": "accepts data inputs from several lines and multiplexes this input data to four BCD lines",
+        "answer": "uses one display to present two or more pieces of information"
+    },
+    {
+        "question": "When two or more inputs are active simultaneously, the process is called:\r\n\r\n",
+        "a": "first-in, first-out processing",
+        "b": "priority encoding",
+        "c": "ripple blanking",
+        "d": "priority decoding",
+        "answer": "priority encoding"
+    },
+    {
+        "question": "Which type of decoder will select one of sixteen outputs, depending on the 4-bit binary input value?\r\n\r\n",
+        "a": "hexadecimal",
+        "b": "dual octal outputs",
+        "c": "binary-to-hexadecimal",
+        "d": "hexadecimal-to-binary",
+        "answer": "hexadecimal"
+    },
+    {
+        "question": "A magnitude comparator determines:\r\n\r\n",
+        "a": "A >> B",
+        "b": "A > B or A < b",
+        "c": "A = B and if A > B or A < b",
+        "d": "A = B",
+        "answer": "A = B and if A > B or A < b"
+    },
+    {
+        "question": "A circuit that responds to a specific set of signals to produce a related digital signal output is called a(n):\r\n\r\n",
+        "a": "BCD matrix",
+        "b": "display driver",
+        "c": "encoder",
+        "d": "decoder",
+        "answer": "encoder"
+    },
+    {
+        "question": "Which digital system translates coded characters into a more intelligible form?\r\n\r\n",
+        "a": "encoder",
+        "b": "display",
+        "c": "counter",
+        "d": "decoder",
+        "answer": "decoder"
+    },
+    {
+        "question": "A basic multiplexer principle can be demonstrated through the use of a:\r\n\r\n",
+        "a": "single-pole relay",
+        "b": "DPDT switch",
+        "c": "rotary switch",
+        "d": "linear stepper",
+        "answer": "rotary switch"
+    },
+    {
+        "question": "In a BCD-to-seven-segment converter, why must a code converter be utilized?\r\n\r\n",
+        "a": "No conversion is necessary.",
+        "b": "to convert the 4-bit BCD into gray code",
+        "c": "to convert the 4-bit BCD into 10-bit code",
+        "d": "to convert the 4-bit BCD into 7-bit code",
+        "answer": "to convert the 4-bit BCD into 7-bit code"
+    },
+    {
+        "question": "A multiplexer is a device that outputs a fixed sequence of binary states on each clock pulse.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The general function of a decoder is to activate one or more circuit outputs upon detection of a particular digital state.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An encoder circuit is designed to generate specific codes.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A decoder with two inputs will have two outputs for the decoded value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A magnitude comparator outputs the highest or lowest value of its inputs depending on control signals.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An AND gate and two INVERTERs can be connected to act as a basic decoder.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Parity checking can only detect an odd number of errors.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A sixteen-input multiplexer will need three data select input control lines.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A hexadecimal decoder selects one of sixteen outputs depending on the 8-bit binary input applied.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A multiplexer is a device that chooses which output to send an input to by means of select lines.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A technique that can be used in multiple-digit numerical displays to control suppression or display of leading or trailing zeros in the display is called _________.\r\n\r\n",
+        "a": "advanced zero control",
+        "b": "time division multiplexing",
+        "c": "parity generation",
+        "d": "ripple blanking",
+        "answer": "ripple blanking"
+    },
+    {
+        "question": "Parity systems are defined as either_____ or _____ and will add an extra _____ to the digital information being transmitted.\r\n\r\n",
+        "a": "positive, negative, byte",
+        "b": "odd, even, bit",
+        "c": "upper, lower, digit",
+        "d": "on, off, decimal",
+        "answer": "odd, even, bit"
+    },
+    {
+        "question": "A device that uses a binary decoder to direct a digital signal from a single source to one of several destinations is a ________.\r\n\r\n",
+        "a": "multiplexer",
+        "b": "demultiplexer",
+        "c": "encoder",
+        "d": "comparator",
+        "answer": "demultiplexer"
+    },
+    {
+        "question": "A code in which each individual digit of a decimal number is represented by a 4-bit binary number is _________.\r\n\r\n",
+        "a": "binary coded decimal",
+        "b": "binary",
+        "c": "hexadecimal",
+        "d": "seven-segment code",
+        "answer": "binary coded decimal"
+    },
+    {
+        "question": "The diodes in a seven-segment display where all cathodes are tied together and grounded are illuminated when a logic ____________________ is applied to the ____________________.\r\n\r\n",
+        "a": "LOW, anodes",
+        "b": "LOW, count down control line",
+        "c": "HIGH, anode",
+        "d": "HIGH, count up control line",
+        "answer": "HIGH, anode"
+    }
+]

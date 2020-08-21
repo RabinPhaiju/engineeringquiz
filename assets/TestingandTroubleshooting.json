@@ -1,0 +1,194 @@
+[
+    {
+        "question": "A series of gradually decreasing sine wave oscillations is called:\r\n\r\n",
+        "a": "ringing",
+        "b": "slew",
+        "c": "overshooting",
+        "d": "undershooting",
+        "answer": "ringing"
+    },
+    {
+        "question": "The determination of a digital signal's frequency and waveshape is best accomplished with which test equipment?\r\n\r\n",
+        "a": "an oscilloscope",
+        "b": "a multimeter",
+        "c": "a spectrum analyzer",
+        "d": "a frequency generator",
+        "answer": "an oscilloscope"
+    },
+    {
+        "question": "A logic probe is placed on the output of a gate and the display indicator is dim. A logic pulser is used on each of the input terminals, but the output indication does not change. What is wrong?\r\n\r\n",
+        "a": "The dim indication on the logic probe indicates that the supply voltage is probably low.",
+        "b": "The output of the gate appears to be open.",
+        "c": "The LOW indication is the result of a bad ground connection on the logic probe.",
+        "d": "The gate is a tri-state device.",
+        "answer": "The output of the gate appears to be open."
+    },
+    {
+        "question": "A +5 V PCB power source that has been \"pulled down\" to a +3.4 V level may be due to:\r\n\r\n",
+        "a": "a circuit open",
+        "b": "a faulty regulator",
+        "c": "the half-split method",
+        "d": "a circuit short",
+        "answer": "a circuit short"
+    },
+    {
+        "question": "Measurement of pulse width should be taken at a 50% mean of the:\r\n\r\n",
+        "a": "overshoot and undershoot",
+        "b": "rise and fall",
+        "c": "damping and ringing",
+        "d": "leading and trailing amplitude",
+        "answer": "rise and fall"
+    },
+    {
+        "question": "Which test equipment best allows a comparison between input and output signals?\r\n\r\n",
+        "a": "an oscilloscope",
+        "b": "a logic probe",
+        "c": "a spectrum analyzer",
+        "d": "a multitrace oscilloscope",
+        "answer": "a multitrace oscilloscope"
+    },
+    {
+        "question": "What is the next step after discovering a faulty gate within an IC?\r\n\r\n",
+        "a": "repair the gate",
+        "b": "resolder the tracks",
+        "c": "replace the IC involved",
+        "d": "recheck the power source",
+        "answer": "replace the IC involved"
+    },
+    {
+        "question": "The use of a multimeter with digital circuits allows the measurement of:\r\n\r\n",
+        "a": "pulse width",
+        "b": "voltage or resistance",
+        "c": "current",
+        "d": "pulse trains",
+        "answer": "voltage or resistance"
+    },
+    {
+        "question": "The use of triggered sweep when using an oscilloscope provides more accuracy in which area?\r\n\r\n",
+        "a": "frequency",
+        "b": "amplitude",
+        "c": "graticule activity",
+        "d": "timing",
+        "answer": "timing"
+    },
+    {
+        "question": "The time needed for a pulse to increase from 10% to 90% of its amplitude defines:\r\n\r\n",
+        "a": "pulse width",
+        "b": "propagation delay",
+        "c": "rise time",
+        "d": "duty cycle",
+        "answer": "rise time"
+    },
+    {
+        "question": "Which device would best aid in shorted track detection?\r\n\r\n",
+        "a": "multimeter",
+        "b": "current tracer",
+        "c": "logic pulser",
+        "d": "oscilloscope",
+        "answer": "current tracer"
+    },
+    {
+        "question": "The three basic steps for fixing a failure are ISOLATE, DIAGNOSE, and REPAIR.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An internal logic gate that shorts to either +VCC or ground will cause the inputs or output to be stuck either LOW or FLOATING.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A noise problem in a digital circuit is often called a glitch.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The time interval between the start of two consecutive pulses is called pulse repetition time.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "\"Train\" and \"single\" is the mode selection for a _______.\r\n\r\n",
+        "a": "multimeter",
+        "b": "logic probe",
+        "c": "current tracer",
+        "d": "logic pulser",
+        "answer": "logic pulser"
+    },
+    {
+        "question": "The use of a logic probe may be improved through the use of a(n) ________.\r\n\r\n",
+        "a": "logic clip",
+        "b": "frequency counter",
+        "c": "oscilloscope",
+        "d": "current tracer",
+        "answer": "logic clip"
+    },
+    {
+        "question": "The control of digital circuits is usually achieved with _________.\r\n\r\n",
+        "a": "random pulses",
+        "b": "clock signals",
+        "c": "sophisticated gating",
+        "d": "selected frequencies",
+        "answer": "clock signals"
+    },
+    {
+        "question": "In order for a logic probe to operate, its red and black leads must first be connected to a ________.\r\n\r\n",
+        "a": "logic clip",
+        "b": "HIGH or TRUE signal",
+        "c": "power source",
+        "d": "logic pulser",
+        "answer": "power source"
+    },
+    {
+        "question": "The ideal test equipment to use for locating shorts in digital circuitry is the ________ and _______.\r\n\r\n",
+        "a": "logic probe, clip",
+        "b": "logic pulser, logic probe",
+        "c": "current tracer, logic pulser",
+        "d": "current tracer, logic clip",
+        "answer": "current tracer, logic pulser"
+    },
+    {
+        "question": "The results of internal IC failures will usually be noticed during the ______ phase of troubleshooting.\r\n\r\n",
+        "a": "diagnostic",
+        "b": "isolation",
+        "c": "repair",
+        "d": "final test",
+        "answer": "diagnostic"
+    },
+    {
+        "question": "Erratic or unexplained digital circuit activity is often due to _________.\r\n\r\n",
+        "a": "a glitch",
+        "b": "a random pulse",
+        "c": "clock frequency changes",
+        "d": "a change in slew rate",
+        "answer": "clock frequency changes"
+    },
+    {
+        "question": "The device that would best aid in open track detection is a(n) ________.\r\n\r\n",
+        "a": "multimeter",
+        "b": "current tracer",
+        "c": "logic probe",
+        "d": "oscilloscope",
+        "answer": "current tracer"
+    },
+    {
+        "question": "A check of all power supply voltages should be made during the ________ method of troubleshooting.\r\n\r\n",
+        "a": "half-split",
+        "b": "diagnosis",
+        "c": "repair",
+        "d": "final test",
+        "answer": "half-split"
+    }
+]

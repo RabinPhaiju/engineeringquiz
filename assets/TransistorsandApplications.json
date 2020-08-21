@@ -1,0 +1,250 @@
+[
+    {
+        "question": "The primary function of the bias circuit is to\r\n\r\n",
+        "a": "hold the circuit stable at VCC",
+        "b": "hold the circuit stable at vin",
+        "c": "ensure proper gain is achieved",
+        "d": "hold the circuit stable at the designed Q-point",
+        "answer": "hold the circuit stable at the designed Q-point"
+    },
+    {
+        "question": "A JFET\r\n\r\n",
+        "a": "is a current-controlled device",
+        "b": "has a low input resistance",
+        "c": "is a voltage-controlled device",
+        "d": "is always forward-biased",
+        "answer": "is a voltage-controlled device"
+    },
+    {
+        "question": "The capacitor that produces an ac ground is called a(n)\r\n\r\n",
+        "a": "coupling capacitor",
+        "b": "dc open",
+        "c": "bypass capacitor",
+        "d": "ac open",
+        "answer": "bypass capacitor"
+    },
+    {
+        "question": "In a class B push-pull amplifier, the transistors are biased slightly above cutoff to avoid\r\n\r\n",
+        "a": "crossover distortion",
+        "b": "unusually high efficiency",
+        "c": "negative feedback",
+        "d": "a low input impedance",
+        "answer": "crossover distortion"
+    },
+    {
+        "question": "The depletion-mode MOSFET\r\n\r\n",
+        "a": "can operate with only positive gate voltages",
+        "b": "can operate with only negative gate voltages",
+        "c": "cannot operate in the ohmic region",
+        "d": "can operate with positive as well as negative gate voltages",
+        "answer": "can operate with positive as well as negative gate voltages"
+    },
+    {
+        "question": "Three different points are shown on a dc load line. The upper point represents the\r\n\r\n",
+        "a": "minimum current gain",
+        "b": "quiescent point",
+        "c": "saturation point",
+        "d": "cutoff point",
+        "answer": "saturation point"
+    },
+    {
+        "question": "Which of the following conditions are needed to properly bias an npn transistor amplifier?\r\n\r\n",
+        "a": "Forward bias the base\/emitter junction and reverse bias the base\/collector junction.",
+        "b": "Forward bias the collector\/base junction and reverse bias the emitter\/base junction.",
+        "c": "Apply a positive voltage on the n-type material and a negative voltage on the p-type material.",
+        "d": "Apply a large voltage on the base.",
+        "answer": "Forward bias the base\/emitter junction and reverse bias the base\/collector junction."
+    },
+    {
+        "question": "Often a common-collector will be the last stage before the load; the main function of this stage is to\r\n\r\n",
+        "a": "provide voltage gain",
+        "b": "buffer the voltage amplifiers from the low-resistance load",
+        "c": "provide phase inversion",
+        "d": "provide a high-frequency path to improve the frequency response",
+        "answer": "buffer the voltage amplifiers from the low-resistance load"
+    },
+    {
+        "question": "In order for feedback oscillators to have any practical value, the gain has to be\r\n\r\n",
+        "a": "< 1",
+        "b": "self-adjusting",
+        "c": "stabilized",
+        "d": "nonlinear",
+        "answer": "self-adjusting"
+    },
+    {
+        "question": "To get a negative gate-source voltage in a self-biased JFET circuit, you must use a\r\n\r\n",
+        "a": "voltage divider",
+        "b": "source resistor",
+        "c": "ground",
+        "d": "negative gate supply voltage",
+        "answer": "source resistor"
+    },
+    {
+        "question": "If the drain, source, and channel of a MOSFET are all a p-type material, and it operates in both modes, this is an n-channel D-MOSFET.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A practical CE amplifier has the input on the base and the output taken off the emitter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq17_1007_1.gifThe maximum peak-to-peak output voltage in the given circuit is 15 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Base currents are usually small because of the physical construction of the thin and lightly doped base.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The beta of a BJT is the ratio of collector current to emitter current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A certain amplifier has a voltage gain of 210. That gain expressed in decibels is 46.4 dB.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The voltage measured from the collector to the emitter is the sum of the voltage base-emitter plus the voltage collector-base.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A decrease in base current of a CE amplifier causes the voltage measured between the emitter and the collector to increase.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In an n-type JFET, current will flow when a positive voltage is applied to the drain and a negative voltage is applied to the source.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An essential requirement of a feedback oscillator is a phase shift around the feedback loop of 360\u00b0.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The gate-source junction of a JFET must be ________ for proper linear operation.\r\n\r\n",
+        "a": "forward-biased",
+        "b": "reverse-biased",
+        "c": "either forward-biased or reverse-biased",
+        "d": "neutral",
+        "answer": "reverse-biased"
+    },
+    {
+        "question": "The ___ oscillator takes advantage of the piezoelectric effect.\r\n\r\n",
+        "a": "crystal",
+        "b": "Hartley",
+        "c": "Colpitts",
+        "d": "RC",
+        "answer": "crystal"
+    },
+    {
+        "question": "In order to sustain oscillations in a feedback oscillator, the gain should be _________ so the product of Av \u00d7 B equals_______.\r\n\r\n",
+        "a": "reduced, one",
+        "b": "reduced, less than one",
+        "c": "increased, more than one",
+        "d": "increased, much greater than one",
+        "answer": "reduced, one"
+    },
+    {
+        "question": "Vce approximately equals _______ when a transistor is in saturation.\r\n\r\n",
+        "a": "Vcc",
+        "b": "Vb",
+        "c": "0.2 V",
+        "d": "0.7 V",
+        "answer": "0.2 V"
+    },
+    {
+        "question": "The power gain (Ap) of any transistor amplifier circuit equals the ___________.\r\n\r\n",
+        "a": "current gain squared",
+        "b": "current gain times the voltage gain",
+        "c": "voltage gain times the output resistance",
+        "d": "current gain plus the voltage gain",
+        "answer": "current gain times the voltage gain"
+    },
+    {
+        "question": "A(n) ___ has a conductive channel only when it is biased properly.\r\n\r\n",
+        "a": "p-channel JFET",
+        "b": "n-channel D-MOSFET",
+        "c": "p-channel D-MOSFET",
+        "d": "n-channel E-MOSFET",
+        "answer": "n-channel E-MOSFET"
+    },
+    {
+        "question": "The collector current in a class A amplifier flows for ________ of the ac input signal.\r\n\r\n",
+        "a": "< 180\u00b0",
+        "b": "180\u00b0",
+        "c": "< 360\u00b0",
+        "d": "360\u00b0",
+        "answer": "360\u00b0"
+    },
+    {
+        "question": "Removing a bypass capacitor from a common-emitter amplifier circuit will _________ voltage gain and ________ input resistance.\r\n\r\n",
+        "a": "increase, decrease",
+        "b": "decrease, increase",
+        "c": "decrease, decrease",
+        "d": "increase, increase",
+        "answer": "decrease, increase"
+    },
+    {
+        "question": "The gain of a BJT is called _______ and the gain of a JFET is called _______.\r\n\r\n",
+        "a": "beta, alpha",
+        "b": "transconductance, beta",
+        "c": "beta, transconductance",
+        "d": "transconductance, transconductance",
+        "answer": "beta, transconductance"
+    },
+    {
+        "question": "A _______________ JFET amplifier provides a voltage gain of less than one.\r\n\r\n",
+        "a": "common-source",
+        "b": "common-channel",
+        "c": "common-drain",
+        "d": "None of the above",
+        "answer": "common-drain"
+    },
+    {
+        "question": "Changing ________ can control the voltage gain of a common-source amplifier.\r\n\r\n",
+        "a": "the input voltage",
+        "b": "gm",
+        "c": "VDD",
+        "d": "Rs",
+        "answer": "gm"
+    }
+]

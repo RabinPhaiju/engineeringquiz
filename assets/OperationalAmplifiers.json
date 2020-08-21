@@ -1,0 +1,842 @@
+[
+    {
+        "question": "An ideal operational amplifier has\r\n\r\n",
+        "a": "infinite output impedance",
+        "b": "zero input impedance",
+        "c": "infinite bandwidth",
+        "d": "All of the above",
+        "answer": "infinite bandwidth"
+    },
+    {
+        "question": "Another name for a unity gain amplifier is:\r\n\r\n",
+        "a": "difference amplifier",
+        "b": "comparator",
+        "c": "single ended",
+        "d": "voltage follower",
+        "answer": "voltage follower"
+    },
+    {
+        "question": "The open-loop voltage gain (Aol) of an op-amp is the\r\n\r\n",
+        "a": "external voltage gain the device is capable of",
+        "b": "internal voltage gain the device is capable of",
+        "c": "most controlled parameter",
+        "d": "same as Acl",
+        "answer": "internal voltage gain the device is capable of"
+    },
+    {
+        "question": "mcq15_1016_1.gifWhat is the output waveform?\r\n",
+        "a": "sine wave",
+        "b": "square wave",
+        "c": "sawtooth wave",
+        "d": "triangle wave",
+        "answer": "triangle wave"
+    },
+    {
+        "question": "A series dissipative regulator is an example of a:\r\n\r\n",
+        "a": "linear regulator",
+        "b": "switching regulator",
+        "c": "shunt regulator",
+        "d": "dc-to-dc converter",
+        "answer": "linear regulator"
+    },
+    {
+        "question": "mcq15_1017_1.gifWhat is this circuit?\r\n",
+        "a": "a low-pass filter",
+        "b": "a high-pass filter",
+        "c": "a bandpass filter",
+        "d": "a band-stop filter",
+        "answer": "a band-stop filter"
+    },
+    {
+        "question": "A noninverting closed-loop op-amp circuit generally has a gain factor:\r\n\r\n",
+        "a": "less than one",
+        "b": "greater than one",
+        "c": "of zero",
+        "d": "equal to one",
+        "answer": "greater than one"
+    },
+    {
+        "question": "In order for an output to swing above and below a zero reference, the op-amp circuit requires:\r\n\r\n",
+        "a": "a resistive feedback network",
+        "b": "zero offset",
+        "c": "a wide bandwidth",
+        "d": "a negative and positive supply",
+        "answer": "a negative and positive supply"
+    },
+    {
+        "question": "Op-amps used as high- and low-pass filter circuits employ which configuration?\r\n\r\n",
+        "a": "noninverting",
+        "b": "comparator",
+        "c": "open-loop",
+        "d": "inverting",
+        "answer": "inverting"
+    },
+    {
+        "question": "mcq18_1012.gifDecreasing the gain in the given circuit could be achieved by\r\n\r\n",
+        "a": "reducing the amplitude of the input voltage",
+        "b": "increasing the value of the feedback resistor",
+        "c": "increasing the value of the input resistor",
+        "d": "removing the feedback resistor",
+        "answer": "increasing the value of the input resistor"
+    },
+    {
+        "question": "If ground is applied to the (+) terminal of an inverting op-amp, the (\u2013) terminal will:\r\n\r\n",
+        "a": "not need an input resistor",
+        "b": "be virtual ground",
+        "c": "have high reverse current",
+        "d": "not invert the signal",
+        "answer": "be virtual ground"
+    },
+    {
+        "question": "An astable multivibrator is also known as a:\r\n\r\n",
+        "a": "one-shot multivibrator",
+        "b": "free-running multivibrator",
+        "c": "bistable multivibrator",
+        "d": "monostable multivibrator",
+        "answer": "free-running multivibrator"
+    },
+    {
+        "question": "With negative feedback, the returning signal:\r\n\r\n",
+        "a": "aids the input signal",
+        "b": "is proportional to output current",
+        "c": "opposes the input signal",
+        "d": "is proportional to differential voltage gain",
+        "answer": "opposes the input signal"
+    },
+    {
+        "question": "What starts a free-running multivibrator?\r\n\r\n",
+        "a": "a trigger",
+        "b": "an input signal",
+        "c": "an external circuit",
+        "d": "nothing",
+        "answer": "nothing"
+    },
+    {
+        "question": "A portion of the output that provides circuit stabilization is considered to be:\r\n\r\n",
+        "a": "negative feedback",
+        "b": "distortion",
+        "c": "open-loop",
+        "d": "positive feedback",
+        "answer": "negative feedback"
+    },
+    {
+        "question": "How many leads does the TO-5 metal can package of an operational amplifier have?\r\n\r\n",
+        "a": "8, 10, or 12",
+        "b": "6, 8, or 10",
+        "c": "8 or 14",
+        "d": "8 or 16",
+        "answer": "8, 10, or 12"
+    },
+    {
+        "question": "If a noninverting amplifier has an Rin of 1000 ohms and an Rfb of 2.5 kilohms, what is the RIN voltage when 1.42 mV is applied to the correct input?\r\n\r\n",
+        "a": "3.5 mV",
+        "b": "ground",
+        "c": "1.42 mV",
+        "d": "0.56 mV",
+        "answer": "1.42 mV"
+    },
+    {
+        "question": "Input impedance [Zin(I)] of an inverting amplifier is approximately equal to:\r\n\r\n",
+        "a": "Ri",
+        "b": "Rf + Ri",
+        "c": "infinity",
+        "d": "Rf \u2013 Ri",
+        "answer": "Ri"
+    },
+    {
+        "question": "The closed-loop voltage gain of an inverting amplifier equals:\r\n\r\n",
+        "a": "the ratio of the input resistance to the feedback resistance",
+        "b": "the open-loop voltage gain",
+        "c": "the feedback resistance divided by the input resistance",
+        "d": "the input resistance",
+        "answer": "the feedback resistance divided by the input resistance"
+    },
+    {
+        "question": "mcq15_1018_1.gifWhat is the cutoff frequency of this low-pass filter?\r\n",
+        "a": "4.8 kHz",
+        "b": "3.8 kHz",
+        "c": "2.8 kHz",
+        "d": "1.8 kHz",
+        "answer": "1.8 kHz"
+    },
+    {
+        "question": "All of the following are basic op-amp input modes of operation EXCEPT\r\n\r\n",
+        "a": "inverting mode",
+        "b": "common-mode",
+        "c": "double-ended",
+        "d": "single-ended",
+        "answer": "inverting mode"
+    },
+    {
+        "question": "mcq15_1014_1.gifWhat is the output voltage?\r\n",
+        "a": "15 V",
+        "b": "5 V",
+        "c": "\u20135 V",
+        "d": "\u201315 V",
+        "answer": "\u20135 V"
+    },
+    {
+        "question": "A circuit whose output is proportional to the difference between the input signals is considered to be which type of amplifier?\r\n\r\n",
+        "a": "common-mode",
+        "b": "darlington",
+        "c": "differential",
+        "d": "operational",
+        "answer": "differential"
+    },
+    {
+        "question": "With negative feedback, the returning signal\r\n\r\n",
+        "a": "is proportional to the output current",
+        "b": "is proportional to the differential voltage gain",
+        "c": "opposes the input signal",
+        "d": "aids the input signal",
+        "answer": "opposes the input signal"
+    },
+    {
+        "question": "mcq15_1015_1.gifWhat is the output waveform?\r\n",
+        "a": "sine wave",
+        "b": "square wave",
+        "c": "+15 V",
+        "d": "\u201315 V",
+        "answer": "sine wave"
+    },
+    {
+        "question": "The voltage follower has a:\r\n\r\n",
+        "a": "closed-loop voltage gain of unity",
+        "b": "small open-loop voltage gain",
+        "c": "closed-loop bandwidth of zero",
+        "d": "large closed-loop output impedance",
+        "answer": "closed-loop voltage gain of unity"
+    },
+    {
+        "question": "mcq15_1013_1.gifWhat is the output waveform of the circuit?\r\n",
+        "a": "sine wave",
+        "b": "square wave",
+        "c": "sawtooth wave",
+        "d": "triangle wave",
+        "answer": "square wave"
+    },
+    {
+        "question": "The ratio between differential gain and common-mode gain is called:\r\n\r\n",
+        "a": "amplitude",
+        "b": "differential-mode rejection",
+        "c": "common-mode rejection",
+        "d": "phase",
+        "answer": "common-mode rejection"
+    },
+    {
+        "question": "mcq15_1038_1.gifWhat is the frequency of this 555 astable multivibrator?\r\n",
+        "a": "278 Hz",
+        "b": "178 Hz",
+        "c": "78 Hz",
+        "d": "8 Hz",
+        "answer": "178 Hz"
+    },
+    {
+        "question": "If the gain of a closed-loop inverting amplifier is 3.9, with an input resistor value of 1.6 kilohms, what value of feedback resistor is necessary?\r\n\r\n",
+        "a": "6240 ohms",
+        "b": "2.4 kilohms",
+        "c": "410 ohms",
+        "d": "0.62 kilohms",
+        "answer": "6240 ohms"
+    },
+    {
+        "question": "In an open-loop op-amp circuit, whenever the inverting input (\u2013) is negative relative to the noninverting input (+), the output will:\r\n\r\n",
+        "a": "swing negative",
+        "b": "close the loop",
+        "c": "be balanced",
+        "d": "swing positive",
+        "answer": "swing positive"
+    },
+    {
+        "question": "With a differential gain of 50,000 and a common-mode gain of 2, what is the common-mode rejection ratio?\r\n\r\n",
+        "a": "\u201387.9 dB",
+        "b": "\u201343.9 dB",
+        "c": "43.9 dB",
+        "d": "87.9 dB",
+        "answer": "87.9 dB"
+    },
+    {
+        "question": "If the input to a comparator is a sine wave, the output is a:\r\n\r\n",
+        "a": "ramp voltage",
+        "b": "sine wave",
+        "c": "rectangular wave",
+        "d": "sawtooth wave",
+        "answer": "rectangular wave"
+    },
+    {
+        "question": "What three subcircuits does a phase locked loop (PLL) consist of?\r\n\r\n",
+        "a": "phase comparator, comparator, and VCO",
+        "b": "phase comparator, bandpass filter, and VCO",
+        "c": "phase comparator, bandpass filter, and demodulator",
+        "d": "phase comparator, low-pass filter, and VCO",
+        "answer": "phase comparator, low-pass filter, and VCO"
+    },
+    {
+        "question": "The major difference between ground and virtual ground is that virtual ground is only a:\r\n\r\n",
+        "a": "voltage reference",
+        "b": "current reference",
+        "c": "power reference",
+        "d": "difference reference",
+        "answer": "voltage reference"
+    },
+    {
+        "question": "If an op-amp has one input grounded and the other input has a signal feed to it, then it is operating as what?\r\n\r\n",
+        "a": "Common-mode",
+        "b": "Single-ended",
+        "c": "Double-ended",
+        "d": "Noninverting mode",
+        "answer": "Single-ended"
+    },
+    {
+        "question": "If the feedback\/input resistor ratio of a feedback amplifier is 4.6 with 1.7 V applied to the noninverting input, what is the output voltage value?\r\n\r\n",
+        "a": "7.82 V",
+        "b": "saturation",
+        "c": "cutoff",
+        "d": "9.52 V",
+        "answer": "9.52 V"
+    },
+    {
+        "question": "The Schmitt trigger is a two-state device that is used for:\r\n\r\n",
+        "a": "pulse shaping",
+        "b": "peak detection",
+        "c": "input noise rejection",
+        "d": "filtering",
+        "answer": "pulse shaping"
+    },
+    {
+        "question": "When a capacitor is used in place of a resistor in an op-amp network, its placement determines:\r\n\r\n",
+        "a": "open- or closed-loop gain",
+        "b": "integration or differentiation",
+        "c": "saturation or cutoff",
+        "d": "addition or subtraction",
+        "answer": "integration or differentiation"
+    },
+    {
+        "question": "mcq18_1012.gifWhat value of input resistance is needed in the given circuit to produce the given output voltage?\r\n\r\n",
+        "a": "50 ohm",
+        "b": "4 k ohm",
+        "c": "4.08 k ohm",
+        "d": "5 k ohm",
+        "answer": "4 k ohm"
+    },
+    {
+        "question": "The common-mode voltage gain is\r\n\r\n",
+        "a": "smaller than differential voltage gain",
+        "b": "equal to voltage gain",
+        "c": "greater than differential voltage gain",
+        "d": "None of the above",
+        "answer": "smaller than differential voltage gain"
+    },
+    {
+        "question": "How many logic states does an S-R flip-flop have?\r\n\r\n",
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "answer": "4"
+    },
+    {
+        "question": "An output that is proportional to the addition of two or more inputs is from which type of amplifier?\r\n\r\n",
+        "a": "differentiator",
+        "b": "difference",
+        "c": "summing",
+        "d": "analog subtractor",
+        "answer": "summing"
+    },
+    {
+        "question": "In a PLL, to obtain lock, the signal frequency must:\r\n\r\n",
+        "a": "come within the lock range",
+        "b": "be less than the capture frequency",
+        "c": "come within the capture range",
+        "d": "be greater than the capture frequency",
+        "answer": "come within the capture range"
+    },
+    {
+        "question": "An ideal amplifier should have:\r\n\r\n",
+        "a": "high input current",
+        "b": "zero offset",
+        "c": "high output impedance",
+        "d": "moderate gain",
+        "answer": "zero offset"
+    },
+    {
+        "question": "A differential amplifier has a common-mode gain of 0.2 and a common-mode rejection ratio of 3250. What would the output voltage be if the single-ended input voltage was 7 mV rms?\r\n\r\n",
+        "a": "1.4 mV rms",
+        "b": "650 mV rms",
+        "c": "4.55 V rms",
+        "d": "0.455 V rms",
+        "answer": "4.55 V rms"
+    },
+    {
+        "question": "The magnitude of closed-loop voltage gain (Acl) of an inverting amplifier equals:\r\n\r\n",
+        "a": "the ratio of the input resistance to the feedback resistance",
+        "b": "the open-loop voltage gain Aol",
+        "c": "the feedback resistance divided by the input resistance",
+        "d": "the input resistance",
+        "answer": "the feedback resistance divided by the input resistance"
+    },
+    {
+        "question": "What is the difference between common-mode and differential-mode input signals?\r\n\r\n",
+        "a": "phase relationship",
+        "b": "voltage",
+        "c": "current",
+        "d": "apparent power",
+        "answer": "phase relationship"
+    },
+    {
+        "question": "A circuit that uses an amplifier with passive filter elements is called a(n):\r\n\r\n",
+        "a": "relaxation oscillator",
+        "b": "signal generator",
+        "c": "differential amplifier",
+        "d": "active filter",
+        "answer": "active filter"
+    },
+    {
+        "question": "The input offset current equals the\r\n\r\n",
+        "a": "average of two base currents",
+        "b": "collector current divided by the current gain",
+        "c": "difference between two base-emitter voltages",
+        "d": "difference between two base currents",
+        "answer": "difference between two base currents"
+    },
+    {
+        "question": "Feedback is used in an open-loop operational amplifier circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq15_1014_1.gifThis circuit is operating in a closed-loop mode.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq15_1018_1.gifThis circuit is a bandpass filter.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq15_1015_1.gifThis circuit is a voltage follower.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the two inputs to a differential amplifier are exactly the same, then the output is the signal multiplied by two.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A virtual ground is a ground for current, but not for voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An op-amp has very low open-loop gain.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If an input signal is applied to the inverting input of an op-amp with the noninverting input grounded, the output signal would be opposite in polarity with the input.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The TO-5 operational amplifier package can have 5 pins.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Operational amplifiers (op-amps) use internal capacitive coupling between stages.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An operational amplifier contains a differential amplifier, a voltage amplifier, and an output amplifier.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If an input signal is applied to the inverting input of an op-amp with the noninverting input grounded, the output signal would be opposite in polarity to the input.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq15_1010_1.gifThe inverting input is pin 2.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An S-R flip-flop is an example of a bistable multivibrator circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The ideal output impedance for an operational amplifier is 0 omega.gif.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Current actually flows into or out of a virtual ground.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A voltage-follower op-amp has the output connected directly to the inverting input.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The frequency of a crystal is dependent on how much voltage is applied to activate it.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the two inputs to a differential amplifier are exactly the same, then the output is the signal multiplied by 2.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An inverting amplifier has a phase shift of 180\u00b0 from input to output.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The feedback resistor adds to the gain of an op-amp.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A 555 timer can be configured as an astable multivibrator.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A monostable multivibrator must be triggered.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The voltage-follower amplifier circuit has a fixed voltage gain of approximately 10.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An astable multivibrator has two states.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If the frequency of an astable multivibrator is 54.86 kHz then its period is 1.82 s.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An open feedback resistor in an inverting or noninverting op-amp circuit can cause severe clipping of the output signal.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "It takes 4 mu.gifs for the output voltage of an op-amp to rise from \u201314 V to +14 V. The slew rate of this op-amp is 3.5 V\/ us.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The difference between the upper and lower trigger points is called the Schmitt trigger.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "True",
+        "answer": "False"
+    },
+    {
+        "question": "Changing the input voltage to an op-amp circuit will change its voltage gain.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq15_1017_1.gifThis circuit is a differentiator.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Crystal oscillator circuits have a very low Q.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "In a common-mode input to an op-amp, both inputs are connected to the same signal source.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A PLL can be used as a(n) ___________.\r\n\r\n",
+        "a": "series voltage regulator",
+        "b": "frequency multiplier",
+        "c": "relaxation oscillator",
+        "d": "Schmitt trigger",
+        "answer": "frequency multiplier"
+    },
+    {
+        "question": "Common-mode signals have _____.\r\n\r\n",
+        "a": "the same amplitude",
+        "b": "the same phase",
+        "c": "the same frequency",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "A circuit that has an output equal to the algebraic sum of the inputs is called a(n) ______ .\r\n\r\n",
+        "a": "integrator amplifier",
+        "b": "summing amplifier",
+        "c": "differential amplifier",
+        "d": "voltage multiplier",
+        "answer": "summing amplifier"
+    },
+    {
+        "question": "Switching voltage regulators have ______ than linear regulators.\r\n\r\n",
+        "a": "longer life",
+        "b": "simpler circuitry",
+        "c": "greater efficiency",
+        "d": "lower cost",
+        "answer": "greater efficiency"
+    },
+    {
+        "question": "A ______ is not a multivibrator.\r\n\r\n",
+        "a": "one-shot",
+        "b": "flip-flop",
+        "c": "VCO",
+        "d": "bistable",
+        "answer": "one-shot"
+    },
+    {
+        "question": "An op-amp circuit in which the output voltage is equal to the difference between the two input voltages is called a(n) _____\r\n\r\n",
+        "a": "integrator",
+        "b": "differentiator",
+        "c": "differential amplifier",
+        "d": "voltage regulator",
+        "answer": "differential amplifier"
+    },
+    {
+        "question": "fbq18_1007.gifThe feedback resistor has a value of ______ in the given circuit\r\n\r\n",
+        "a": "2 k ohm",
+        "b": "10.5 k ohm",
+        "c": "21 k ohm",
+        "d": "40 k ohm",
+        "answer": "40 k ohm"
+    },
+    {
+        "question": "fbq18_1012.gifThe input impedance is ______ for the amplifier in the given circuit. The data sheet values are Zin = 3 M ohm, Zout = 80 ohm, and Aol = 250,000.\r\n\r\n",
+        "a": "4.7 k ohm",
+        "b": "22.7 k ohm",
+        "c": "3 M ohm",
+        "d": "68.6 k ohm",
+        "answer": "4.7 k ohm"
+    },
+    {
+        "question": "The Q of a crystal _________.\r\n\r\n",
+        "a": "is extremely low",
+        "b": "is about 40 or so in most cases",
+        "c": "is extremely high",
+        "d": "none of the above",
+        "answer": "is extremely high"
+    },
+    {
+        "question": "The 555 timer can be connected to operate a(n) ___________.\r\n\r\n",
+        "a": "astable multivibrator",
+        "b": "bistable multivibrator",
+        "c": "monostable multivibrator",
+        "d": "astable multivibrator and a monostable multivibrator",
+        "answer": "astable multivibrator and a monostable multivibrator"
+    },
+    {
+        "question": "fbq18_1010.gifThe input voltage must be ______ in the given circuit to obtain the given output voltage.\r\n\r\n",
+        "a": "343 mV",
+        "b": "400 mV",
+        "c": "480 mV",
+        "d": "600 mV",
+        "answer": "400 mV"
+    },
+    {
+        "question": "The voltage required to force the differential output to zero is called _______.\r\n\r\n",
+        "a": "input-offset current",
+        "b": "input-offset voltage",
+        "c": "input bias current",
+        "d": "slew rate voltage",
+        "answer": "input-offset voltage"
+    },
+    {
+        "question": "If the input to a comparator is a sine wave, the output is a(n) _________.\r\n\r\n",
+        "a": "ramp voltage",
+        "b": "sine wave",
+        "c": "sawtooth wave",
+        "d": "rectangular wave",
+        "answer": "rectangular wave"
+    },
+    {
+        "question": "The common-mode rejection ratio (CMMR) is the ratio of _____ to ______.\r\n\r\n",
+        "a": "the differential voltage gain, the common-mode voltage gain",
+        "b": "the differential power gain, the common-mode power gain",
+        "c": "the ideal voltage gain, the actual voltage gain",
+        "d": "signal voltage, noise voltage",
+        "answer": "the differential voltage gain, the common-mode voltage gain"
+    },
+    {
+        "question": "fbq18_1010.gifThe voltage gain is ______ for the amplifier in the given circuit.\r\n\r\n",
+        "a": "\u20134",
+        "b": "\u20135",
+        "c": "\u20136",
+        "d": "\u20137",
+        "answer": "\u20136"
+    },
+    {
+        "question": "fbq18_1007.gifThe voltage gain of the amplifier in the given circuit would increase if ______.\r\n\r\n",
+        "a": "the feedback resistor was decreased in value",
+        "b": "the input voltage was increased",
+        "c": "the input resistor was increased in value",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "A virtual ground is a(n) ______ ground because this point is at zero volts.\r\n\r\n",
+        "a": "ordinary",
+        "b": "voltage",
+        "c": "chassis",
+        "d": "earth",
+        "answer": "voltage"
+    },
+    {
+        "question": "The resistors Rf and Ri in an op-amp circuit control ______ .\r\n\r\n",
+        "a": "positive feedback and current gain",
+        "b": "negative feedback and power gain",
+        "c": "negative feedback and voltage gain",
+        "d": "open and closed loop gain",
+        "answer": "negative feedback and voltage gain"
+    },
+    {
+        "question": "______ is NOT a characteristic of an ideal op-amp.\r\n\r\n",
+        "a": "Infinite voltage gain",
+        "b": "Minimum bandwidth",
+        "c": "Infinite input impedance",
+        "d": "Zero output impedance",
+        "answer": "Minimum bandwidth"
+    },
+    {
+        "question": "Current cannot flow to ground through a(n) ________.\r\n\r\n",
+        "a": "mechanical ground",
+        "b": "ac ground",
+        "c": "virtual ground",
+        "d": "virtual short",
+        "answer": "virtual ground"
+    },
+    {
+        "question": "fbq18_1007.gifThe given circuit is ___.\r\n\r\n",
+        "a": "an inverting amplifier",
+        "b": "a noninverting amplifier",
+        "c": "a voltage follower",
+        "d": "a differential amplifier",
+        "answer": "a noninverting amplifier"
+    },
+    {
+        "question": "An oscillator whose frequency can be controlled by an input \"control voltage\" is called a(n) ______ .\r\n\r\n",
+        "a": "PLL",
+        "b": "Schmitt trigger",
+        "c": "VCO",
+        "d": "S-R latch",
+        "answer": "VCO"
+    }
+]

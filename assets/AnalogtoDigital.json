@@ -1,0 +1,114 @@
+[
+    {
+        "question": "The two basic types of signals are analog and:\r\n\r\n",
+        "a": "digilog",
+        "b": "digital",
+        "c": "vetilog",
+        "d": "sine wave",
+        "answer": "digital"
+    },
+    {
+        "question": "Which of the following characterizes an analog quantity?\r\n\r\n",
+        "a": "Discrete levels represent changes in a quantity.",
+        "b": "Its values follow a logarithmic response curve.",
+        "c": "It can be described with a finite number of steps.",
+        "d": "It has a continuous set of values over a given range.",
+        "answer": "It has a continuous set of values over a given range."
+    },
+    {
+        "question": "ASCII stands for:\r\n\r\n",
+        "a": "American Serial Communication Interface",
+        "b": "Additive Signal Coupling Interface",
+        "c": "American Standard Code for Information Interchange",
+        "d": "none of the above",
+        "answer": "American Standard Code for Information Interchange"
+    },
+    {
+        "question": "Which type of signal is represented by discrete values?\r\n\r\n",
+        "a": "noisy signal",
+        "b": "nonlinear",
+        "c": "analog",
+        "d": "digital",
+        "answer": "digital"
+    },
+    {
+        "question": "A data conversion system may be used to interface a digital computer system to:\r\n\r\n",
+        "a": "an analog output device",
+        "b": "a digital output device",
+        "c": "an analog input device",
+        "d": "a digital printer",
+        "answer": "an analog output device"
+    },
+    {
+        "question": "Digitizing a signal converts it from digital to analog.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The voltages in digital electronics are continuously variable.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In digital electronic circuits, information is first converted to a coded group of pulses.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Digital systems using the 10-state system are more accurate than those using the two-state system.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The decimal code system used ten levels of voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Most of the input signals applied to a computer for storage or processing are digital in nature.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The coded group of pulses in a digital electronic circuit consists of a series of HIGH and LOW voltages.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A data conversion system may be used to interface a digital computer system to _________.\r\n\r\n",
+        "a": "an analog output device",
+        "b": "a digital output device",
+        "c": "an analog input device",
+        "d": "a digital printer",
+        "answer": "an analog output device"
+    },
+    {
+        "question": "Sensor outputs destined for a digital computer system must first be processed by __________.\r\n\r\n",
+        "a": "a DAC",
+        "b": "an ADC",
+        "c": "the MPU",
+        "d": "a PLD",
+        "answer": "an ADC"
+    }
+]

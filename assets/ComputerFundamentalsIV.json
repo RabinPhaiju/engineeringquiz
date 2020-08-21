@@ -1,0 +1,1898 @@
+[
+    {
+        "question": "A type of simulation method using random numbers to determine the evolution of a system is\r\n\r\n",
+        "a": "Model dispersion",
+        "b": "Monte carlo",
+        "c": "Monadic",
+        "d": "Padding",
+        "answer": "Monte carlo"
+    },
+    {
+        "question": "A database management system based on the concept of ownership is\r\n\r\n",
+        "a": "Network topology",
+        "b": "Network layer",
+        "c": "Network database system",
+        "d": "Network license system",
+        "answer": "Network database system"
+    },
+    {
+        "question": "Which of the following printers, are you sure will not to use if your objective is to print on multicarbon forms?\r\n\r\n",
+        "a": "daisy wheel",
+        "b": "dot-matrix",
+        "c": "laser",
+        "d": "thimble",
+        "answer": "laser"
+    },
+    {
+        "question": "The term MIPS refers to _____\r\n\r\n",
+        "a": "millions of instructions per second",
+        "b": "multiple instructions per second",
+        "c": "megabytes of instructions per seconds",
+        "d": "millions input processor set",
+        "answer": "millions of instructions per second"
+    },
+    {
+        "question": "The primary memory of a personal computer consists of:\r\n\r\n",
+        "a": "ROM only",
+        "b": "RAM only",
+        "c": "Both ROM and RAM",
+        "d": "Memory module",
+        "answer": "Both ROM and RAM"
+    },
+    {
+        "question": "A software package to implement a data base is\r\n\r\n",
+        "a": "System analysis",
+        "b": "DBMS",
+        "c": "Database",
+        "d": "DASD",
+        "answer": "DBMS"
+    },
+    {
+        "question": "Methods used to organise and physically store disk data are cylinder and\r\n\r\n",
+        "a": "Sector",
+        "b": "Surface",
+        "c": "Track",
+        "d": "Hib",
+        "answer": "Sector"
+    },
+    {
+        "question": "A dot-matrix printer\r\n\r\n",
+        "a": "is an input device",
+        "b": "is an output device",
+        "c": "cannot print alphabet",
+        "d": "has a speed of 1000 cps",
+        "answer": "is an output device"
+    },
+    {
+        "question": "What was the name of the first commercially available micro\u00acprocessor chip?\r\n\r\n",
+        "a": "Intel 8008",
+        "b": "Intel 8080",
+        "c": "Intel 4004",
+        "d": "Motorola 6809",
+        "answer": "Intel 4004"
+    },
+    {
+        "question": "The term \"memory\" applies to which one of the following\r\n\r\n",
+        "a": "Logic",
+        "b": "Storage",
+        "c": "Control",
+        "d": "Input device",
+        "answer": "Storage"
+    },
+    {
+        "question": "The working principles of today's computers were provided by an English mathematician\r\n\r\n",
+        "a": "Charles Babbage",
+        "b": "Dr. Hollerith",
+        "c": "Donald Reach",
+        "d": "Ken Reider",
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "A new technology which provides the ability to create an artificial world and have people interact with it is called\r\n\r\n",
+        "a": "televirtuality",
+        "b": "virtual reality",
+        "c": "alternative reality",
+        "d": "3-D reality",
+        "answer": "virtual reality"
+    },
+    {
+        "question": "The proper definition of a modern digital computer is\r\n\r\n",
+        "a": "an electronic automated machine that can solve problems involving words and numbers",
+        "b": "a more sophisticated and modified electronic pocket calculator",
+        "c": "any machine that can perform mathematical operations '",
+        "d": "a machine that works on binary code",
+        "answer": "an electronic automated machine that can solve problems involving words and numbers"
+    },
+    {
+        "question": "Data systems for planning are often called\r\n\r\n",
+        "a": "decision analysis systems",
+        "b": "planning analysis systems",
+        "c": "decision support systems",
+        "d": "All of the above",
+        "answer": "decision support systems"
+    },
+    {
+        "question": "Which of the following is not used as secondary storage\r\n\r\n",
+        "a": "Semiconductor memory",
+        "b": "Magnetic disks",
+        "c": "Magnetic drums",
+        "d": "Magnetic tapes",
+        "answer": "Semiconductor memory"
+    },
+    {
+        "question": "A device that can accept data, hold them&deliver them on demand at a later time is known as\r\n\r\n",
+        "a": "Buffer",
+        "b": "Memory",
+        "c": "CPU",
+        "d": "Register",
+        "answer": "Memory"
+    },
+    {
+        "question": "A magnetic tape volume that is used on a data processing operation without any change to its contents is\r\n\r\n",
+        "a": "Magnetic disk",
+        "b": "Punched paper tape",
+        "c": "Master tape",
+        "d": "Card reader",
+        "answer": "Master tape"
+    },
+    {
+        "question": "An output device that converts data from a binary format in main storage to coded hole patterns punched into a paper tape is\r\n\r\n",
+        "a": "Paper tape punch",
+        "b": "Punched paper tape",
+        "c": "Magnetic disk",
+        "d": "Magnetic tape.",
+        "answer": "Paper tape punch"
+    },
+    {
+        "question": "A computer performs operations by comparing data items and then, depending on the results, follows predetermined course of action. What are such operations called?\r\n\r\n",
+        "a": "Sequential",
+        "b": "Logical",
+        "c": "Digital",
+        "d": "Physical",
+        "answer": "Logical"
+    },
+    {
+        "question": "A file that includes an index directory to facilitate random access is\r\n\r\n",
+        "a": "Sequential file",
+        "b": "Indexed file",
+        "c": "Random file",
+        "d": "Serial file",
+        "answer": "Indexed file"
+    },
+    {
+        "question": "The data bus in 8080A\/8085 microprocessor is a group of\r\n\r\n",
+        "a": "eight bidirectional lines that are used to transfer 8 bits between the microprocessor and its I\/O and memory",
+        "b": "sixteen bidirectional lines that are used for data transfer between the microprocessor and memory",
+        "c": "eight unidirectional lines that are used for I\/O devices",
+        "d": "eight lines used to transfer data among the registers",
+        "answer": "eight bidirectional lines that are used to transfer 8 bits between the microprocessor and its I\/O and memory"
+    },
+    {
+        "question": "Control of computer system or subsystem operation by an operator who may intervene at arbitrary times is\r\n\r\n",
+        "a": "Manual control",
+        "b": "Mapping",
+        "c": "Shift register",
+        "d": "ALU",
+        "answer": "Manual control"
+    },
+    {
+        "question": "In which of the following terminals the screen is regarded as an array of pixels, where each pixel is either on or off?\r\n\r\n",
+        "a": "Character map terminal",
+        "b": "Bit map terminal",
+        "c": "RS-232 C terminal",
+        "d": "All of the above",
+        "answer": "Bit map terminal"
+    },
+    {
+        "question": "Which language has been selected as the basis for the Japanese \"fifth generation\" computers.\r\n\r\n",
+        "a": "ALGOL",
+        "b": "COBOL",
+        "c": "PROLOG",
+        "d": "C",
+        "answer": "PROLOG"
+    },
+    {
+        "question": "A notation for defining the form and structure of data is known as\r\n\r\n",
+        "a": "Data description language",
+        "b": "Binary language",
+        "c": "Data channel",
+        "d": "Data definition language",
+        "answer": "Data definition language"
+    },
+    {
+        "question": "The CPU is made up of control unit ALU and\r\n\r\n",
+        "a": "Memory",
+        "b": "Input-Output",
+        "c": "Register unit",
+        "d": "All of the above",
+        "answer": "Memory"
+    },
+    {
+        "question": "In digital computer, all the expressions are coded into\r\n\r\n",
+        "a": "Octal digits",
+        "b": "Binary digits",
+        "c": "Hexadecimal digits",
+        "d": "Decimal cligits",
+        "answer": "Binary digits"
+    },
+    {
+        "question": "In computer terminology a compiler means\r\n\r\n",
+        "a": "a person who computes source programs",
+        "b": "the same thing as a programmer",
+        "c": "key punch operator",
+        "d": "a program which translates source program into object program",
+        "answer": "a program which translates source program into object program"
+    },
+    {
+        "question": "Which part of computer performs functions similar to the cerebrums of the above cardiac and nervous system of a human body.\r\n\r\n",
+        "a": "ALU",
+        "b": "Input device",
+        "c": "CPU",
+        "d": "Control unit",
+        "answer": "CPU"
+    },
+    {
+        "question": "A storage area used to store data to compensate for the difference in speed at which the different units can handle data is\r\n\r\n",
+        "a": "Memory",
+        "b": "Buffer",
+        "c": "Accumulator",
+        "d": "Address",
+        "answer": "Buffer"
+    },
+    {
+        "question": "A memory that contains a fine pattern of data permanently defined is\r\n\r\n",
+        "a": "RAM",
+        "b": "EPROM",
+        "c": "ROM",
+        "d": "PROM",
+        "answer": "ROM"
+    },
+    {
+        "question": "What is the number of bits needed for an address in a 4 K memory?\r\n\r\n",
+        "a": "16",
+        "b": "8",
+        "c": "12",
+        "d": "4",
+        "answer": "12"
+    },
+    {
+        "question": "The physical equipment made oi various metals, silicon and plastic components that make up the parts of a computer is called\r\n\r\n",
+        "a": "micro",
+        "b": "peripheral",
+        "c": "hardware",
+        "d": "disk drive",
+        "answer": "hardware"
+    },
+    {
+        "question": "Who launched IBM's First PC in 1981?\r\n\r\n",
+        "a": "Dean Cline",
+        "b": "C.B. Rogers Jr.",
+        "c": "John F. Akers",
+        "d": "David Svenson",
+        "answer": "C.B. Rogers Jr."
+    },
+    {
+        "question": "Memories in which any location can be reached in a fixed (and short) amount of time after specifying its address is called\r\n\r\n",
+        "a": "sequential-access memory",
+        "b": "random-access memory",
+        "c": "secondary memory",
+        "d": "mass storage",
+        "answer": "random-access memory"
+    },
+    {
+        "question": "How many operations per second can perform by a modern fast mainframe digital computer.\r\n\r\n",
+        "a": "1000",
+        "b": "100,000",
+        "c": "10,00,000",
+        "d": "1,00,00,00,000",
+        "answer": "1,00,00,00,000"
+    },
+    {
+        "question": "A connection between two end points, either physical or logical, over which data may travel in both directions simultaneously is called _____\r\n\r\n",
+        "a": "Dump point",
+        "b": "Datalink",
+        "c": "Duplex",
+        "d": "Networks",
+        "answer": "Duplex"
+    },
+    {
+        "question": "Which is part of a computer system, enables human operators to communicate with the computer.\r\n\r\n",
+        "a": "Console",
+        "b": "Keyboard",
+        "c": "Printer",
+        "d": "CPU",
+        "answer": "Console"
+    },
+    {
+        "question": "Who invented the microprocessor?\r\n\r\n",
+        "a": "Marcian E Hoff",
+        "b": "Herman H Goldstein",
+        "c": "Joseph Jacquard",
+        "d": "All of the above",
+        "answer": "Marcian E Hoff"
+    },
+    {
+        "question": "Sending data from one place to another, by physical or electronic means is\r\n\r\n",
+        "a": "E-mail",
+        "b": "Internet",
+        "c": "Data transmission",
+        "d": "Distributed processing.",
+        "answer": "Data transmission"
+    },
+    {
+        "question": "A method for representing digital data analog signals by changing the phase of the analog carrier to represent the digital information is known as\r\n\r\n",
+        "a": "PIA",
+        "b": "PSK",
+        "c": "PM",
+        "d": "None of the above",
+        "answer": "PSK"
+    },
+    {
+        "question": "A device that stores one item of information is\r\n\r\n",
+        "a": "Memory element",
+        "b": "Block Compaction",
+        "c": "MDR",
+        "d": "Memory guard",
+        "answer": "Memory element"
+    },
+    {
+        "question": "MODULA is a\r\n\r\n",
+        "a": "Programming language",
+        "b": "Low-level language",
+        "c": "Assembly language",
+        "d": "Machine language",
+        "answer": "Programming language"
+    },
+    {
+        "question": "A register in which of the following that holds the current instruction while it is being executed is called instruction register.\r\n\r\n",
+        "a": "ALU",
+        "b": "CPU",
+        "c": "Memory",
+        "d": "Address",
+        "answer": "CPU"
+    },
+    {
+        "question": "The OCR stand for?\r\n\r\n",
+        "a": "Outsized character reader",
+        "b": "Optical character recognition",
+        "c": "Operational character reader",
+        "d": "Only character reader",
+        "answer": "Optical character recognition"
+    },
+    {
+        "question": "Only character reader\r\n",
+        "a": "Multipoint connection",
+        "b": "Multipoint line",
+        "c": "Multiple chain",
+        "d": "Multilinked",
+        "answer": "Multipoint line"
+    },
+    {
+        "question": "The two basic types of record-access methods are:\r\n\r\n",
+        "a": "sequential and random",
+        "b": "sequential and indexed",
+        "c": "direct and immediate",
+        "d": "on-line and realtime",
+        "answer": "sequential and random"
+    },
+    {
+        "question": "Which functional component of a computer is responsible for the computing?\r\n\r\n",
+        "a": "Input",
+        "b": "Output",
+        "c": "CPU",
+        "d": "Memory",
+        "answer": "CPU"
+    },
+    {
+        "question": "Punched cards are associated with the name\r\n\r\n",
+        "a": "Leibniz",
+        "b": "Jacquard",
+        "c": "Hollerith",
+        "d": "Pascal",
+        "answer": "Hollerith"
+    },
+    {
+        "question": "The light pen was developed in\r\n\r\n",
+        "a": "1942",
+        "b": "1976",
+        "c": "1950",
+        "d": "1992",
+        "answer": "1950"
+    },
+    {
+        "question": "The two main components of the CPU is\r\n\r\n",
+        "a": "Control unit and registers",
+        "b": "Control unit and ALU",
+        "c": "Registers and main memory",
+        "d": "ALU and bus",
+        "answer": "Control unit and ALU"
+    },
+    {
+        "question": "A factor which might cause an individual to consider using a computer in criminal activities is:\r\n\r\n",
+        "a": "The computer's access to large sums of money",
+        "b": "The speed with which the crime can be accomplished",
+        "c": "EFTS (Electronic Funds Transfer System)",
+        "d": "All the above",
+        "answer": "All the above"
+    },
+    {
+        "question": "Transmission and presentation of text and graphics is called\r\n\r\n",
+        "a": "Tele-text",
+        "b": "Network",
+        "c": "Telematique",
+        "d": "Video text",
+        "answer": "Video text"
+    },
+    {
+        "question": "Which of the following is directry controlled from a keyboard.\r\n\r\n",
+        "a": "Card punch",
+        "b": "Punched paper tape",
+        "c": "Magnetic disk",
+        "d": "Magnetic tape",
+        "answer": "Card punch"
+    },
+    {
+        "question": "Which of the following is a machine for reading documents that are encoded in a way that is readable by person and machine.\r\n\r\n",
+        "a": "Document reader",
+        "b": "Distributed system",
+        "c": "Artificial intelligence",
+        "d": "Document sorter",
+        "answer": "Document reader"
+    },
+    {
+        "question": "Which of the following does not affect the resolution of a video display image?\r\n\r\n",
+        "a": "bandwidth",
+        "b": "raster scan rate",
+        "c": "vertical and horizontal lines of resolution",
+        "d": "screen size",
+        "answer": "screen size"
+    },
+    {
+        "question": "Which was the first commercial computer built by M.V. Wilkies.\r\n\r\n",
+        "a": "Super computer",
+        "b": "LEO",
+        "c": "Mainframe",
+        "d": "Micro computer",
+        "answer": "LEO"
+    },
+    {
+        "question": "Disketts and hard disks are\r\n\r\n",
+        "a": "Direct access devices",
+        "b": "Sequential access devices",
+        "c": "Slower than magnetic tape",
+        "d": "Used only in mainframe computers",
+        "answer": "Direct access devices"
+    },
+    {
+        "question": "If you see a diskette with a piece of foil covering its notch, it is said to be\r\n\r\n",
+        "a": "write-protected",
+        "b": "copy-protected",
+        "c": "write-enabled",
+        "d": "foil-covered",
+        "answer": "write-protected"
+    },
+    {
+        "question": "No computer can do anything without a\r\n\r\n",
+        "a": "program",
+        "b": "memory",
+        "c": "chip",
+        "d": "output device",
+        "answer": "program"
+    },
+    {
+        "question": "The estimation of the value of a function at a point beyond the interval in which the data lies is called known as\r\n\r\n",
+        "a": "Interpolation",
+        "b": "Simulation",
+        "c": "Emulation",
+        "d": "Extra polation",
+        "answer": "Interpolation"
+    },
+    {
+        "question": "An input device that is able to interpret pencil marks on paper media is known as\r\n\r\n",
+        "a": "Magnetic disk",
+        "b": "Optical Mark Reader",
+        "c": "Card Puncher",
+        "d": "Magnetic tape",
+        "answer": "Optical Mark Reader"
+    },
+    {
+        "question": "Front-end processor is a _____ designed specifically to handle the communications processing task.\r\n\r\n",
+        "a": "ALU",
+        "b": "Control unit",
+        "c": "CPU",
+        "d": "Register",
+        "answer": "CPU"
+    },
+    {
+        "question": "The shifting of a program from one of the memory addresses to another is\r\n\r\n",
+        "a": "Data transmission",
+        "b": "Data collection",
+        "c": "Relocation",
+        "d": "Database",
+        "answer": "Relocation"
+    },
+    {
+        "question": "Arranging data in a specific order is called\r\n\r\n",
+        "a": "Merging",
+        "b": "Sorting",
+        "c": "Classification",
+        "d": "Verification",
+        "answer": "Sorting"
+    },
+    {
+        "question": "The area of computer science which is concerned with the display of pictures is\r\n\r\n",
+        "a": "Networks",
+        "b": "Graphics",
+        "c": "Designing",
+        "d": "Architecture",
+        "answer": "Graphics"
+    },
+    {
+        "question": "Which of the following is a computer memory that can be programmed once, but not reprogrammed.\r\n\r\n",
+        "a": "ROM",
+        "b": "RAM",
+        "c": "PROM",
+        "d": "EPROM",
+        "answer": "PROM"
+    },
+    {
+        "question": "A programming language intended to solve a no. of different types of problems is\r\n\r\n",
+        "a": "COBOL",
+        "b": "General purpose programming language",
+        "c": "BASIC",
+        "d": "FORTRAN",
+        "answer": "General purpose programming language"
+    },
+    {
+        "question": "Which of the following is used as a primary storage device?\r\n\r\n",
+        "a": "Magnetic drum",
+        "b": "PROM",
+        "c": "Floppy disk",
+        "d": "All of the above",
+        "answer": "PROM"
+    },
+    {
+        "question": "A program used to detect overall system malfunction is\r\n\r\n",
+        "a": "System analysis",
+        "b": "System software",
+        "c": "Utilities",
+        "d": "System diagnostics",
+        "answer": "System diagnostics"
+    },
+    {
+        "question": "A computer, by definition, is any device that computers. This broad definition includes which of the following?\r\n\r\n",
+        "a": "Calculators",
+        "b": "Cash registers",
+        "c": "Automotive controllers",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What was the computer conceived by Babbage?\r\n\r\n",
+        "a": "Analytical Engine",
+        "b": "Arithmetic Machine",
+        "c": "Donald Knuth",
+        "d": "All of the above",
+        "answer": "Analytical Engine"
+    },
+    {
+        "question": "A acronym for the organisation that publishes programming language standard is\r\n\r\n",
+        "a": "ASCn",
+        "b": "BCD",
+        "c": "ANSI",
+        "d": "EBCDIC",
+        "answer": "ANSI"
+    },
+    {
+        "question": "Which of the following is used to make a programs run when the computer is switched on.\r\n\r\n",
+        "a": "Autoboot",
+        "b": "Warmboot",
+        "c": "Bubble",
+        "d": "Authentication",
+        "answer": "Autoboot"
+    },
+    {
+        "question": "A micro processor chip used in a PC system\r\n\r\n",
+        "a": "Performs the arithmetic-logic and control functions",
+        "b": "Is the only chip cound in most PC models",
+        "c": "Almost always operates on by-bits of data at a time",
+        "d": "Performs the primary storage function",
+        "answer": "Performs the arithmetic-logic and control functions"
+    },
+    {
+        "question": "ILLIAC is a\r\n\r\n",
+        "a": "Super computer",
+        "b": "Mini computer",
+        "c": "Mainframe computer",
+        "d": "Micro computer",
+        "answer": "Super computer"
+    },
+    {
+        "question": "An electrical inter-connection that permit 8 or more bits of data to be moved in the same instant of time is called\r\n\r\n",
+        "a": "Outline processor",
+        "b": "Parallel interface",
+        "c": "Page layout program",
+        "d": "Fasimile system",
+        "answer": "Parallel interface"
+    },
+    {
+        "question": "The hardware in which data may be stored for a computer system is called\r\n\r\n",
+        "a": "Registers",
+        "b": "Bus",
+        "c": "Control unit",
+        "d": "Memory",
+        "answer": "Memory"
+    },
+    {
+        "question": "Software that's loaded into a computer primary storage area is known as\r\n\r\n",
+        "a": "Memory-resident package",
+        "b": "File management system",
+        "c": "Electronic spread sheet program",
+        "d": "Utilities",
+        "answer": "Memory-resident package"
+    },
+    {
+        "question": "Which of the following are the building blocks of all the circuits in a computer.\r\n\r\n",
+        "a": "Circuit switch",
+        "b": "Logic gates",
+        "c": "Logical Operators",
+        "d": "Instructions",
+        "answer": "Logic gates"
+    },
+    {
+        "question": "How many symbols exist in Baudot code?\r\n\r\n",
+        "a": "42",
+        "b": "116",
+        "c": "58",
+        "d": "76",
+        "answer": "58"
+    },
+    {
+        "question": "Which gate sends on a pulse when it receives one at either or both of its terminals.\r\n\r\n",
+        "a": "NOR",
+        "b": "NOT",
+        "c": "OR",
+        "d": "NAND",
+        "answer": "OR"
+    },
+    {
+        "question": "A circuit which can store information is known as\r\n\r\n",
+        "a": "Integrated circuit",
+        "b": "Chip",
+        "c": "Memory cell",
+        "d": "Gate",
+        "answer": "Memory cell"
+    },
+    {
+        "question": "A language based on graphics for use in education is\r\n\r\n",
+        "a": "PROLOG",
+        "b": "LOGO",
+        "c": "COBOL",
+        "d": "BASIC",
+        "answer": "LOGO"
+    },
+    {
+        "question": "Non-volatility is an important advantage of\r\n\r\n",
+        "a": "CCD's",
+        "b": "Magnetic tapes and disks",
+        "c": "Magnetic bubbles",
+        "d": "Both (b) and (c)",
+        "answer": "Both (b) and (c)"
+    },
+    {
+        "question": "Which company produces processors for the Apple Macintosh?\r\n\r\n",
+        "a": "IBM",
+        "b": "Motorola",
+        "c": "Intel",
+        "d": "AMD",
+        "answer": "Motorola"
+    },
+    {
+        "question": "The essential features of a number system are\r\n\r\n",
+        "a": "Radix",
+        "b": "Set of distinct counting digits",
+        "c": "bits",
+        "d": "Both (a) & (b)",
+        "answer": "Both (a) & (b)"
+    },
+    {
+        "question": "Which of the following high speed non\u00acimpact printers are fast enough to print the entire book in about 1 minute.\r\n\r\n",
+        "a": "Laser",
+        "b": "Dot-matrix",
+        "c": "Page",
+        "d": "Line",
+        "answer": "Page"
+    },
+    {
+        "question": "An identifying label on the first record of magnetic tape is\r\n\r\n",
+        "a": "Punched paper tape",
+        "b": "Optical mark reader",
+        "c": "Tape label",
+        "d": "Joystick",
+        "answer": "Tape label"
+    },
+    {
+        "question": "Super computers are primarily useful for\r\n\r\n",
+        "a": "Input-output intensive processing",
+        "b": "Data-retrieval operations",
+        "c": "Mathematical-intensive scientific applications",
+        "d": "All of the above",
+        "answer": "Mathematical-intensive scientific applications"
+    },
+    {
+        "question": "A reflective marker that indicates the end of the usable tape is\r\n\r\n",
+        "a": "End user",
+        "b": "End-of-tape",
+        "c": "Optical mark reader",
+        "d": "FAX",
+        "answer": "End-of-tape"
+    },
+    {
+        "question": "Which of the following are not likely to be found on a PC main circuit board\r\n\r\n",
+        "a": "RAM chips",
+        "b": "Microprocessor chips",
+        "c": "ROM chips",
+        "d": "LCD clocks",
+        "answer": "LCD clocks"
+    },
+    {
+        "question": "A specific part of an arithmetic & logic unit that is used to perform the operation of multiplication is\r\n\r\n",
+        "a": "Multiplier",
+        "b": "Multiplener",
+        "c": "Multivibrator",
+        "d": "Quantization",
+        "answer": "Multiplier"
+    },
+    {
+        "question": "Which of the following is used for input and output both\r\n\r\n",
+        "a": "Graph plotter",
+        "b": "Teletype terminal",
+        "c": "Line printer",
+        "d": "All of the above",
+        "answer": "Teletype terminal"
+    },
+    {
+        "question": "Character readers are those devices which read the characters printed on the source documents and then convert them directly into computer-usable input. Which of the following is not a character reader?\r\n\r\n",
+        "a": "OCR",
+        "b": "MICR",
+        "c": "OMR",
+        "d": "LCD",
+        "answer": "LCD"
+    },
+    {
+        "question": "SPSS stands for\r\n\r\n",
+        "a": "Statistical Package for Systems Science",
+        "b": "Systems Package for Social Science",
+        "c": "Statistical Package for Sociai Science",
+        "d": "All of the above",
+        "answer": "Statistical Package for Sociai Science"
+    },
+    {
+        "question": "An Integrated Circuit (IC) is\r\n\r\n",
+        "a": "Fabricated on a tiny silicon chip",
+        "b": "A complicated circuit",
+        "c": "Much costlier than a single transistor",
+        "d": "An integrating device",
+        "answer": "Fabricated on a tiny silicon chip"
+    },
+    {
+        "question": "The 2's complement number of 110010 is\r\n\r\n",
+        "a": "001101",
+        "b": "110011",
+        "c": "010011",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "The purpose of an application program is to\r\n\r\n",
+        "a": "Convert program written in high level language to machine language",
+        "b": "Meet specific user needs",
+        "c": "Allow the operating system to control resources better",
+        "d": "Make off-line equpment run better",
+        "answer": "Meet specific user needs"
+    },
+    {
+        "question": "Which of the following translate back from machine code something resembling the source language\r\n\r\n",
+        "a": "Interpreter",
+        "b": "Compiler",
+        "c": "Assembler",
+        "d": "Decompiler",
+        "answer": "Decompiler"
+    },
+    {
+        "question": "Who developed a mechanical device in the 17th century that could add, subtract, multiply, divide and find square roots?\r\n\r\n",
+        "a": "Napier",
+        "b": "Babbage",
+        "c": "Pascal",
+        "d": "Leibnitz",
+        "answer": "Leibnitz"
+    },
+    {
+        "question": "Serial access memories are useful in applications where\r\n\r\n",
+        "a": "data consists of numbers",
+        "b": "short access time is required",
+        "c": "each stored word is processed differently",
+        "d": "data naturally needs to flow in and out in serial form",
+        "answer": "data naturally needs to flow in and out in serial form"
+    },
+    {
+        "question": "A six - digit card field used for postal ZIP codes is defined as\r\n\r\n",
+        "a": "A letter field",
+        "b": "An alphabetic field",
+        "c": "A numeric field",
+        "d": "An alphanumeric field",
+        "answer": "A numeric field"
+    },
+    {
+        "question": "The octal equivalent of the number 11010.1011 is\r\n\r\n",
+        "a": "32.54",
+        "b": "63.51",
+        "c": "32.27",
+        "d": "All of the above",
+        "answer": "32.54"
+    },
+    {
+        "question": "Super-computers\r\n\r\n",
+        "a": "Are found at thousands of sites around the world",
+        "b": "Can now fit on a single silicon chip",
+        "c": "Are usually designed to process accounting applications",
+        "d": "Are not fast enough for some applications",
+        "answer": "Are not fast enough for some applications"
+    },
+    {
+        "question": "A special type of device which uses an ordinary telephone with a computer is\r\n\r\n",
+        "a": "Light pen",
+        "b": "Mouse",
+        "c": "Acoustic couple",
+        "d": "Touch panel",
+        "answer": "Acoustic couple"
+    },
+    {
+        "question": "The first electronic general purpose digital computer built by Mauchly and Eckert called ENIAC did not work on the stored program principle. How many numbers could it store in its internal memory?\r\n\r\n",
+        "a": "100",
+        "b": "20",
+        "c": "40",
+        "d": "80",
+        "answer": "20"
+    },
+    {
+        "question": "A hand-held device for optically reading bar codes on goods, labels & shelves is\r\n\r\n",
+        "a": "Wand",
+        "b": "Touch tablet",
+        "c": "Mouse",
+        "d": "Light pen",
+        "answer": "Wand"
+    },
+    {
+        "question": "In analog computer\r\n\r\n",
+        "a": "Input is first converted to digital form",
+        "b": "Input is never converted to digital form",
+        "c": "Output is displayed in digital form",
+        "d": "All of the above",
+        "answer": "Input is never converted to digital form"
+    },
+    {
+        "question": "The decimal equivalent of the binary number 11100001111 is\r\n\r\n",
+        "a": "1806",
+        "b": "1807",
+        "c": "2806",
+        "d": "All of the above",
+        "answer": "1807"
+    },
+    {
+        "question": "A disk storage medium in the form of an assembly containing a single rigid magnetic disk permenently is\r\n\r\n",
+        "a": "fixed disk",
+        "b": "disk cartridge",
+        "c": "card punch",
+        "d": "card reader",
+        "answer": "disk cartridge"
+    },
+    {
+        "question": "The benefit of using computers are that\r\n\r\n",
+        "a": "Computers are very fast and can store huge amounts of data",
+        "b": "Computers produce accurate output even when the input is incorrect",
+        "c": "Computers are designed to the inflexible",
+        "d": "All of the above",
+        "answer": "Computers are very fast and can store huge amounts of data"
+    },
+    {
+        "question": "Which is a Common-Business oriented language.\r\n\r\n",
+        "a": "SNOBOL",
+        "b": "BASIC",
+        "c": "COBOL",
+        "d": "C",
+        "answer": "COBOL"
+    },
+    {
+        "question": "Software instructions intended to satisfy a user's specific processing needs are called _____.\r\n\r\n",
+        "a": "Systems software",
+        "b": "A microcomputer",
+        "c": "Documentation",
+        "d": "Applications software",
+        "answer": "Applications software"
+    },
+    {
+        "question": "Which of the following file organizations is most efficient for a file with a high degree of file activity?\r\n\r\n",
+        "a": "sequential",
+        "b": "ISAM",
+        "c": "VSAM",
+        "d": "B-Tree index",
+        "answer": "sequential"
+    },
+    {
+        "question": "What is the name of the reading device which mades use of photosensors and laser technologies to interpret printed, typed or even hand-written data directly from the source documents?\r\n\r\n",
+        "a": "MICR",
+        "b": "OCR",
+        "c": "Mark-sensing device",
+        "d": "ATM",
+        "answer": "OCR"
+    },
+    {
+        "question": "A(n) ____ device is any device that provides information which is sent to the CPU.\r\n\r\n",
+        "a": "input",
+        "b": "output",
+        "c": "CPU",
+        "d": "memory",
+        "answer": "input"
+    },
+    {
+        "question": "The range of frequencies available for data transmission is known as\r\n\r\n",
+        "a": "Baud",
+        "b": "Bandwidth",
+        "c": "Byte",
+        "d": "Bits",
+        "answer": "Bandwidth"
+    },
+    {
+        "question": "Full adder has\r\n\r\n",
+        "a": "4 inputs",
+        "b": "8 inputs",
+        "c": "10 inputs",
+        "d": "3 inputs",
+        "answer": "3 inputs"
+    },
+    {
+        "question": "Which major development led to the production of microcomputers?\r\n\r\n",
+        "a": "Magnetic disks",
+        "b": "Floppy disks",
+        "c": "Logic gates",
+        "d": "Integrated circuits",
+        "answer": "Integrated circuits"
+    },
+    {
+        "question": "The first computer made available for commercial use was\r\n\r\n",
+        "a": "Mark-I",
+        "b": "ENIAC",
+        "c": "EDSAC",
+        "d": "UNIVAC",
+        "answer": "UNIVAC"
+    },
+    {
+        "question": "In which mode, each user has a local input\/output device.\r\n\r\n",
+        "a": "Interactive",
+        "b": "Time sharing mode",
+        "c": "Batch processing mode",
+        "d": "All of the above",
+        "answer": "Time sharing mode"
+    },
+    {
+        "question": "Sometime data are gathered over a period of time and collected into a group before entering them into a computer for processing. What type of processing is it called?\r\n\r\n",
+        "a": "Interactive processing",
+        "b": "Sequential processing",
+        "c": "Batch processing",
+        "d": "Group processing",
+        "answer": "Interactive processing"
+    },
+    {
+        "question": "Which of the following is considered a direct-entry input device?\r\n\r\n",
+        "a": "optical scanner",
+        "b": "mouse",
+        "c": "light pen",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "A physical connection between the microprocessor memory and other parts of the microcomputer is known as\r\n\r\n",
+        "a": "Path",
+        "b": "Address bus",
+        "c": "Route",
+        "d": "All of the above",
+        "answer": "Address bus"
+    },
+    {
+        "question": "An IBM System\/38 represents the computer class of:\r\n\r\n",
+        "a": "small-scale computer",
+        "b": "medium-scale computer",
+        "c": "large-scale computer",
+        "d": "super computer",
+        "answer": "small-scale computer"
+    },
+    {
+        "question": "Which hole is used to mark the location of the first sector in a soft-sectored disk.\r\n\r\n",
+        "a": "Address",
+        "b": "Location",
+        "c": "Index",
+        "d": "Label",
+        "answer": "Index"
+    },
+    {
+        "question": "Which system was developed by Rank-Xeron for use with office computers and other equipment.\r\n\r\n",
+        "a": "UNIX",
+        "b": "ETHERNET",
+        "c": "PC-DOS",
+        "d": "MS-DOS",
+        "answer": "ETHERNET"
+    },
+    {
+        "question": "Bubble memory is a\r\n\r\n",
+        "a": "Sequential access device only",
+        "b": "Direct access device only",
+        "c": "Combination of sequential and direct access devices",
+        "d": "All of the above",
+        "answer": "Combination of sequential and direct access devices"
+    },
+    {
+        "question": "Any method for controlling access to or use of memory is known as\r\n\r\n",
+        "a": "Memory map",
+        "b": "Memory protection",
+        "c": "Memory management",
+        "d": "Memory instruction",
+        "answer": "Memory protection"
+    },
+    {
+        "question": "If, in a computer, 16 bits are used to specify addresses in a RAM, the number of addresses will be\r\n\r\n",
+        "a": "2^16",
+        "b": "65,536",
+        "c": "64K",
+        "d": "Any of the above",
+        "answer": "Any of the above"
+    },
+    {
+        "question": "What is the storage capacity of a Hollerith card which is organized into nibbles?\r\n\r\n",
+        "a": "32",
+        "b": "64",
+        "c": "128",
+        "d": "240",
+        "answer": "240"
+    },
+    {
+        "question": "A type of instruction that can produce several lines of machine language code is a\r\n\r\n",
+        "a": "Mnemonic",
+        "b": "Address",
+        "c": "Macro",
+        "d": "assemble",
+        "answer": "Macro"
+    },
+    {
+        "question": "A common use of computer in office is for\r\n\r\n",
+        "a": "Distributed",
+        "b": "Word processing",
+        "c": "Data",
+        "d": "All of the above",
+        "answer": "Word processing"
+    },
+    {
+        "question": "The imitation of one device or system by another is\r\n\r\n",
+        "a": "Simulation",
+        "b": "Emulation",
+        "c": "Resilience",
+        "d": "Compaction",
+        "answer": "Emulation"
+    },
+    {
+        "question": "A type of semiconductor memory that usually has small capacity but very fast access is\r\n\r\n",
+        "a": "PROM",
+        "b": "RAM",
+        "c": "Scratchpad",
+        "d": "ROM",
+        "answer": "Scratchpad"
+    },
+    {
+        "question": "Third generation computers\r\n\r\n",
+        "a": "were the first to use built-in error detecting devices",
+        "b": "used transistors instead of vacuum tubes",
+        "c": "were the first to use neural network",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "High-level languages are not concerned with computer but with\r\n\r\n",
+        "a": "Assembler",
+        "b": "Machine code",
+        "c": "Compiler",
+        "d": "All of the above",
+        "answer": "Assembler"
+    },
+    {
+        "question": "Which of the following term is used in connection with the organisation of files in ALGOL 68\r\n\r\n",
+        "a": "Blow",
+        "b": "Machine",
+        "c": "Biquinary",
+        "d": "Book",
+        "answer": "Book"
+    },
+    {
+        "question": "The methods used by COBOL to define that structure of a data item in terms of characters, digits, etc. is\r\n\r\n",
+        "a": "Password",
+        "b": "Pointer",
+        "c": "Picture",
+        "d": "Overlay",
+        "answer": "Picture"
+    },
+    {
+        "question": "Which of the following transfers data contained on computer cards to the computer system.\r\n\r\n",
+        "a": "Card sorter",
+        "b": "Card reader",
+        "c": "Magnetic disk",
+        "d": "Magnetic tape",
+        "answer": "Card reader"
+    },
+    {
+        "question": "The difference between memory and storages is that memory is _____ and storage is _____\r\n\r\n",
+        "a": "Temporary, permanent",
+        "b": "Permanent, temporary",
+        "c": "Slow, fast",
+        "d": "AH of the above",
+        "answer": "Temporary, permanent"
+    },
+    {
+        "question": "Which most popular input device used today for interactive processing & for the on line entry of data for batch processing.\r\n\r\n",
+        "a": "Mouse",
+        "b": "Magnetic disk",
+        "c": "Visual display terminal",
+        "d": "Card punch",
+        "answer": "Visual display terminal"
+    },
+    {
+        "question": "A fully functional computing device containing all the elements of a computer which is built around a MICROPROCESSOR is known as\r\n\r\n",
+        "a": "Machine-in-built computer",
+        "b": "Super computer",
+        "c": "Micro computer",
+        "d": "Mini computer",
+        "answer": "Micro computer"
+    },
+    {
+        "question": "A class of random access memory that requires periodic servicing in order for the contents to remain valid is\r\n\r\n",
+        "a": "Static RAM",
+        "b": "Dynamic RAM",
+        "c": "PROM",
+        "d": "EPROM",
+        "answer": "Dynamic RAM"
+    },
+    {
+        "question": "Computer can not do anything without a\r\n\r\n",
+        "a": "Chip",
+        "b": "Memory",
+        "c": "Output device",
+        "d": "Program",
+        "answer": "Program"
+    },
+    {
+        "question": "The ability of a computer system to remain operational despite various failures is\r\n\r\n",
+        "a": "Relation",
+        "b": "Schema",
+        "c": "Resilience",
+        "d": "Versatility",
+        "answer": "Resilience"
+    },
+    {
+        "question": "Which of the following memories must be refreshed many times per second?\r\n\r\n",
+        "a": "Static RAM",
+        "b": "Dynamic RAM",
+        "c": "EPROM",
+        "d": "ROM",
+        "answer": "Dynamic RAM"
+    },
+    {
+        "question": "The third generation of computers covers the period:\r\n\r\n",
+        "a": "1971-1982",
+        "b": "1982-1994",
+        "c": "1959-1964",
+        "d": "1965-1971",
+        "answer": "1965-1971"
+    },
+    {
+        "question": "An electronic logic gate whose output is logic 0 only when all inputs are logic 1 is\r\n\r\n",
+        "a": "NOR",
+        "b": "NAND",
+        "c": "OR",
+        "d": "NOT",
+        "answer": "NAND"
+    },
+    {
+        "question": "Which of the following is the expansion of EBCDIC\r\n\r\n",
+        "a": "Extended bit comparable to digital interface for computer",
+        "b": "Extended bootable computerised digital infrared calculator",
+        "c": "Extended binary coded decimal interchange code",
+        "d": "Extended binary coded decimal information code",
+        "answer": "Extended binary coded decimal interchange code"
+    },
+    {
+        "question": "A vertically aligned set of tracks on a disk pack is known as\r\n\r\n",
+        "a": "Cluster",
+        "b": "Surface",
+        "c": "Cylinder",
+        "d": "Panel",
+        "answer": "Cylinder"
+    },
+    {
+        "question": "Which is an electronic device that can store temporarily a single bit of data.\r\n\r\n",
+        "a": "Accumulator",
+        "b": "Buffer",
+        "c": "Memory",
+        "d": "Latch",
+        "answer": "Latch"
+    },
+    {
+        "question": "A digital device that processes data is known as\r\n\r\n",
+        "a": "Data processor",
+        "b": "Data entry",
+        "c": "DBMS",
+        "d": "Database",
+        "answer": "Data processor"
+    },
+    {
+        "question": "A generalised software package produced to meet the bugs of a variety of data processing users is known as\r\n\r\n",
+        "a": "Utility programs",
+        "b": "System software",
+        "c": "Operating system",
+        "d": "Application package",
+        "answer": "Application package"
+    },
+    {
+        "question": "Who is 1988 announced the latest version of CD-ROM called CD-ROMXA (extended architecture) which provides a documented means of integrating digital audio with computer data on a CD-ROM disk?\r\n\r\n",
+        "a": "Sony",
+        "b": "Philips",
+        "c": "Microsoft",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Third generation computers\r\n\r\n",
+        "a": "Were the first to use integrated circuitry",
+        "b": "Were the first to use built-in error detecting devices",
+        "c": "Used transistors insted of vaccum tubes",
+        "d": "All of the above",
+        "answer": "Were the first to use integrated circuitry"
+    },
+    {
+        "question": "What is the name of the display feature that highlights areas of the screen which require operator attention?\r\n\r\n",
+        "a": "Pixel",
+        "b": "Reverse video",
+        "c": "Touch screen",
+        "d": "Cursor",
+        "answer": "Reverse video"
+    },
+    {
+        "question": "To set a register or counter to the all-zero-state is\r\n\r\n",
+        "a": "Rerun",
+        "b": "Reset",
+        "c": "Remote",
+        "d": "Release",
+        "answer": "Reset"
+    },
+    {
+        "question": "Which is used to store firmware.\r\n\r\n",
+        "a": "RAM",
+        "b": "ROM",
+        "c": "PROM",
+        "d": "EPROM",
+        "answer": "ROM"
+    },
+    {
+        "question": "Which of the following is NOT a primary storage device?\r\n\r\n",
+        "a": "Magnetic tape",
+        "b": "Magnetic disk",
+        "c": "Optical disk",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "A device that prints one character at a ! time is kknown as\r\n\r\n",
+        "a": "Laser printer",
+        "b": "Line printer",
+        "c": "Character printer",
+        "d": "Dot-Matrix printer",
+        "answer": "Character printer"
+    },
+    {
+        "question": "A mechanism for arranging controlled access to a shared resource is\r\n\r\n",
+        "a": "Retrieving",
+        "b": "Sorting",
+        "c": "Balleting",
+        "d": "Lock-out",
+        "answer": "Lock-out"
+    },
+    {
+        "question": "A data item which is not broken down into smaller units is _____\r\n\r\n",
+        "a": "Data element",
+        "b": "Elementary data item",
+        "c": "Data entry",
+        "d": "Database management",
+        "answer": "Elementary data item"
+    },
+    {
+        "question": "A computer is a box full of electronic\r\n\r\n",
+        "a": "Switching devices",
+        "b": "Chips",
+        "c": "Circuits",
+        "d": "Registers",
+        "answer": "Switching devices"
+    },
+    {
+        "question": "What are the concentric circles on floppy disks know as?\r\n\r\n",
+        "a": "Tracks",
+        "b": "Cylinders",
+        "c": "Sectors",
+        "d": "Segments",
+        "answer": "Tracks"
+    },
+    {
+        "question": "A one-bit signal that indicates the start of data transmission by an asynchronous device is\r\n\r\n",
+        "a": "Parity bit",
+        "b": "Status bit",
+        "c": "Zero bit",
+        "d": "Start bit",
+        "answer": "Start bit"
+    },
+    {
+        "question": "Registers which are partially visible to users and used to hold conditional codes (bits set by the CPU hardware as the result of operations), are known as\r\n\r\n",
+        "a": "PC",
+        "b": "Memory Address Registers",
+        "c": "General purpose registers",
+        "d": "Flags",
+        "answer": "Flags"
+    },
+    {
+        "question": "An electronic circuit with about 20 transistors fabricated on a silicon chip is known as\r\n\r\n",
+        "a": "SSI",
+        "b": "MSI",
+        "c": "DPS",
+        "d": "RJE",
+        "answer": "SSI"
+    },
+    {
+        "question": "Instructions and memory addresses are represented by\r\n\r\n",
+        "a": "character codes",
+        "b": "binary codes",
+        "c": "binary word",
+        "d": "parity bit",
+        "answer": "binary codes"
+    },
+    {
+        "question": "Which type of computers use the 8 bit code called EBCDIC?\r\n\r\n",
+        "a": "Minicomputers",
+        "b": "Microcomputers",
+        "c": "Mainframe computers",
+        "d": "Supercomputers",
+        "answer": "Mainframe computers"
+    },
+    {
+        "question": "Which generation of computers is covered by the period 1964-77?\r\n\r\n",
+        "a": "First",
+        "b": "Second",
+        "c": "Third",
+        "d": "Forth",
+        "answer": "Third"
+    },
+    {
+        "question": "Main storage is also called\r\n\r\n",
+        "a": "Accumulator",
+        "b": "Control unit",
+        "c": "Register unit",
+        "d": "memory",
+        "answer": "memory"
+    },
+    {
+        "question": "Which printer is very commonly used for desk-top publishing?\r\n\r\n",
+        "a": "Laser printer",
+        "b": "Ink-jet printer",
+        "c": "Daisy wheel printer",
+        "d": "Dot-matrix printer",
+        "answer": "Laser printer"
+    },
+    {
+        "question": "Hard disks are formatted in the same manner as floppy disks. However, before a hard disk can be formatted, it must first be _____\r\n\r\n",
+        "a": "partitioned",
+        "b": "sectioned",
+        "c": "deleted",
+        "d": "inter-sectioned",
+        "answer": "partitioned"
+    },
+    {
+        "question": "The no of logical records in a physical record is\r\n\r\n",
+        "a": "Group",
+        "b": "Blocking factor",
+        "c": "Sector",
+        "d": "Field",
+        "answer": "Blocking factor"
+    },
+    {
+        "question": "Personnel who design, program, operate and maintain computer equipment refers to\r\n\r\n",
+        "a": "Console-operator",
+        "b": "Programmer",
+        "c": "Peopleware",
+        "d": "System Analyst",
+        "answer": "Peopleware"
+    },
+    {
+        "question": "The magnetic storage chips used to provide nonvolatile direct access storage of data and that have no moving parts are known as\r\n\r\n",
+        "a": "Magnetic core memory",
+        "b": "Magnetic tape memory",
+        "c": "Magnetic disk memory",
+        "d": "Magnetic bubble memory",
+        "answer": "Magnetic bubble memory"
+    },
+    {
+        "question": "In the third generation of computers:\r\n\r\n",
+        "a": "distributed data processing first became popular",
+        "b": "an operating system was first developed",
+        "c": "high-level procedural languages were first used",
+        "d": "on-line, realtime systems first became popular",
+        "answer": "on-line, realtime systems first became popular"
+    },
+    {
+        "question": "A common example of a data storage medium is\r\n\r\n",
+        "a": "cartidge",
+        "b": "floppies",
+        "c": "cluge",
+        "d": "disk",
+        "answer": "disk"
+    },
+    {
+        "question": "IBM-PC is an example of\r\n\r\n",
+        "a": "A main frame",
+        "b": "Machine-in-built",
+        "c": "Micro computer",
+        "d": "Special purpose",
+        "answer": "Micro computer"
+    },
+    {
+        "question": "Which of the following will happen when data is entered into a memory location?\r\n\r\n",
+        "a": "It will add to the content of the location",
+        "b": "It will change the address of the memory location",
+        "c": "It will erase the previous content",
+        "d": "It will not be fruitful if thjere is already some data at that location",
+        "answer": "It will erase the previous content"
+    },
+    {
+        "question": "All inputs must be in ON position to have an output is known as\r\n\r\n",
+        "a": "NOT gate",
+        "b": "AND gate",
+        "c": "OR gate",
+        "d": "XOR gate",
+        "answer": "AND gate"
+    },
+    {
+        "question": "The intersection of a column and row in a spreadsheet is called a bon or\r\n\r\n",
+        "a": "Key",
+        "b": "Field",
+        "c": "Cell",
+        "d": "Menu",
+        "answer": "Cell"
+    },
+    {
+        "question": "A magnetic storage device on which data is stored on a cylindrical drum, subdivided into tracks is known as\r\n\r\n",
+        "a": "Punched card",
+        "b": "Magnetic disk",
+        "c": "Magnetic tape",
+        "d": "Drum",
+        "answer": "Drum"
+    },
+    {
+        "question": "The number of bits that are typically stored on each track of a magnetic disk is usually\r\n\r\n",
+        "a": "the same",
+        "b": "different",
+        "c": "depend on the program to be stored",
+        "d": "All of the above",
+        "answer": "the same"
+    },
+    {
+        "question": "The silicon chips used for data processing are called\r\n\r\n",
+        "a": "RAM chips",
+        "b": "ROM chips",
+        "c": "Micro processor",
+        "d": "PROM chips",
+        "answer": "Micro processor"
+    },
+    {
+        "question": "The code that should be adequate for present and anticipated data processing both for machine and human use is\r\n\r\n",
+        "a": "Conciseness",
+        "b": "Uniqueness",
+        "c": "Operability",
+        "d": "All of the above",
+        "answer": "Operability"
+    },
+    {
+        "question": "What is the number of bit patterns provided by a 7-bit code?\r\n\r\n",
+        "a": "256",
+        "b": "128",
+        "c": "64",
+        "d": "512",
+        "answer": "128"
+    },
+    {
+        "question": "The basic unit within a computer store capable of holding a single unit of data is\r\n\r\n",
+        "a": "Register",
+        "b": "ALU",
+        "c": "Control unit",
+        "d": "Store location",
+        "answer": "Store location"
+    },
+    {
+        "question": "An error in computer data is called\r\n\r\n",
+        "a": "Chip",
+        "b": "Bug",
+        "c": "Bit",
+        "d": "Byte",
+        "answer": "Bug"
+    },
+    {
+        "question": "A system program which helps the execution of user programs is known as\r\n\r\n",
+        "a": "System software",
+        "b": "Application program",
+        "c": "Batch operating system",
+        "d": "Utilities",
+        "answer": "Batch operating system"
+    },
+    {
+        "question": "LISP was developed by\r\n\r\n",
+        "a": "John Mc Carthy",
+        "b": "Blaise Pascal",
+        "c": "Dr. Hollerith",
+        "d": "John Napier",
+        "answer": "John Mc Carthy"
+    },
+    {
+        "question": "The first mechanical calculating machine was made by\r\n\r\n",
+        "a": "William Oughtred",
+        "b": "Gottfried Leibnitz",
+        "c": "Blaise Pascal",
+        "d": "Charles Babbage",
+        "answer": "Blaise Pascal"
+    },
+    {
+        "question": "Which programming language is much in vogue among users of microcomputers\r\n\r\n",
+        "a": "ALGOL",
+        "b": "APL",
+        "c": "LOGO",
+        "d": "FORTH",
+        "answer": "FORTH"
+    },
+    {
+        "question": "Which of the following registers is used to keep track of address of the memory location where the next instruction is located?\r\n\r\n",
+        "a": "Memory Address Register",
+        "b": "Memory Data Register",
+        "c": "Instruction Register",
+        "d": "Program Counter",
+        "answer": "Program Counter"
+    },
+    {
+        "question": "Which is not a factor when categorizing a computer?\r\n\r\n",
+        "a": "Speed of the output device",
+        "b": "Amount of main memory the CPU can use",
+        "c": "Cost of the system",
+        "d": "Where it was purchased",
+        "answer": "Where it was purchased"
+    },
+    {
+        "question": "Which of the following is a system programming language for micro-computers in the Intel family.\r\n\r\n",
+        "a": "LOGO",
+        "b": "SNOBOL",
+        "c": "PCM",
+        "d": "PL\/1",
+        "answer": "PCM"
+    },
+    {
+        "question": "Which of the following can be output by a computer?\r\n\r\n",
+        "a": "graphics",
+        "b": "voice",
+        "c": "text",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Sequential file organization is most appropriate for which of the following applications?\r\n\r\n",
+        "a": "grocery-store checkout",
+        "b": "bank checking accounts",
+        "c": "payroll",
+        "d": "airline reservations",
+        "answer": "payroll"
+    },
+    {
+        "question": "Who is called the \"grand father\" of the computer?\r\n\r\n",
+        "a": "Blaise Pascal",
+        "b": "Charles Babbage",
+        "c": "Joseph Jacquard",
+        "d": "Dr. Herman Hollerith",
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Which input device is able to scan & interpret an entire page that is typed in a special font\r\n\r\n",
+        "a": "Floppy disk",
+        "b": "Page reader",
+        "c": "Paper tape punch",
+        "d": "Optical card readers",
+        "answer": "Page reader"
+    },
+    {
+        "question": "A half byte is know is\r\n\r\n",
+        "a": "Data",
+        "b": "Bit",
+        "c": "Half byte",
+        "d": "Nibble",
+        "answer": "Nibble"
+    },
+    {
+        "question": "Which language is used in the areas of pattern recognition, artificial intelligence & for simulation of games.\r\n\r\n",
+        "a": "APL",
+        "b": "FORTH",
+        "c": "LISP",
+        "d": "CORAL",
+        "answer": "LISP"
+    },
+    {
+        "question": "Which company is the biggest player in the microprocessor industry?\r\n\r\n",
+        "a": "Motorola",
+        "b": "IBM",
+        "c": "Intel",
+        "d": "AMD",
+        "answer": "Intel"
+    },
+    {
+        "question": "A medium for transferring data between two locations is called\r\n\r\n",
+        "a": "Network",
+        "b": "Communication channel",
+        "c": "Modem",
+        "d": "Bus",
+        "answer": "Communication channel"
+    },
+    {
+        "question": "An adder in which the bits of the operands are added one after another is\r\n\r\n",
+        "a": "Half-adder",
+        "b": "Full-adder",
+        "c": "Serial adder",
+        "d": "All of the above",
+        "answer": "Serial adder"
+    },
+    {
+        "question": "The OR, XOR & AND functions can be performed by _____ of the computer in a CPU.\r\n\r\n",
+        "a": "ALU",
+        "b": "CU",
+        "c": "Memory",
+        "d": "Register",
+        "answer": "ALU"
+    },
+    {
+        "question": "A prewritten program that's sold to perform a common task is called an application\r\n\r\n",
+        "a": "System software",
+        "b": "Package",
+        "c": "Utilities",
+        "d": "Program",
+        "answer": "Package"
+    },
+    {
+        "question": "Locations in the main memory of a computer are called\r\n\r\n",
+        "a": "Alphabets",
+        "b": "Words",
+        "c": "Data",
+        "d": "Characters",
+        "answer": "Words"
+    },
+    {
+        "question": "Which of the following is a communication network that is devoted to carrying computer information.\r\n\r\n",
+        "a": "Data point",
+        "b": "Data module",
+        "c": "Data network",
+        "d": "Data pack",
+        "answer": "Data network"
+    },
+    {
+        "question": "The minimum number of MOS transistors required to make a dynamic RAM cell is\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is used as \"Input device\" for the computer?\r\n\r\n",
+        "a": "Printer",
+        "b": "VDU",
+        "c": "TV",
+        "d": "Light pen",
+        "answer": "Light pen"
+    },
+    {
+        "question": "A machine associated with card-based data processing is\r\n\r\n",
+        "a": "Codomain",
+        "b": "Collator",
+        "c": "Cartridge",
+        "d": "Digitizer",
+        "answer": "Collator"
+    },
+    {
+        "question": "The most popular language used with microcomputers and time-shared mini computers, is an easy-to-use high level language.\r\n\r\n",
+        "a": "COBOL",
+        "b": "ADA",
+        "c": "PASCAL",
+        "d": "BASIC",
+        "answer": "BASIC"
+    },
+    {
+        "question": "Primary storage is _____ as compared to secondary storage.\r\n\r\n",
+        "a": "Slow and inexpensive",
+        "b": "Fast and inexpensive",
+        "c": "Fast and expensive",
+        "d": "Slow and expensive",
+        "answer": "Fast and expensive"
+    },
+    {
+        "question": "Offline device is\r\n\r\n",
+        "a": "a device which is not connected to CPU",
+        "b": "a device which is connected to CPU",
+        "c": "a direct access storage device",
+        "d": "an I\/O device",
+        "answer": "a device which is not connected to CPU"
+    },
+    {
+        "question": "The process of fetching and executing instructions, one at a time, in the order of increasing addresses is known as\r\n\r\n",
+        "a": "instruction execution",
+        "b": "straight line sequencing",
+        "c": "instruction fetch",
+        "d": "random sequencing",
+        "answer": "straight line sequencing"
+    },
+    {
+        "question": "What is the term which represents the use of links between information of all sorts whether text, graphics, video oi audio-based?\r\n\r\n",
+        "a": "Hypertext",
+        "b": "Hypermedia",
+        "c": "HyperCard",
+        "d": "Wildcard",
+        "answer": "Hypermedia"
+    },
+    {
+        "question": "Codes which do not require to be frequently updated also promote user efficiency due to\r\n\r\n",
+        "a": "Simplicity",
+        "b": "Sortability",
+        "c": "Stability",
+        "d": "Expansibility",
+        "answer": "Stability"
+    },
+    {
+        "question": "A packet switching network that was sponsored by the Commission of the EEC and became operational in 1979 is\r\n\r\n",
+        "a": "LAN",
+        "b": "Broadband network",
+        "c": "Star network",
+        "d": "Euronet",
+        "answer": "Euronet"
+    },
+    {
+        "question": "What is the standard code the computer industry created to represent characters?\r\n\r\n",
+        "a": "DASI",
+        "b": "ASSH",
+        "c": "ASCII",
+        "d": "BASCII",
+        "answer": "ASCII"
+    },
+    {
+        "question": "A sizeable geographical area with communication based on the telephone system is though as\r\n\r\n",
+        "a": "Local area network",
+        "b": "Wide area network",
+        "c": "Modulator-Demodulator",
+        "d": "All of the above",
+        "answer": "Wide area network"
+    },
+    {
+        "question": "A Winchester disk is a\r\n\r\n",
+        "a": "Disk Stack",
+        "b": "Removable disk",
+        "c": "Flexible disk",
+        "d": "All of the above",
+        "answer": "Disk Stack"
+    },
+    {
+        "question": "Which one of the following is the first second-generation computer?\r\n\r\n",
+        "a": "IBM 7090",
+        "b": "IBM 801",
+        "c": "IBM 7070",
+        "d": "IBM 650",
+        "answer": "IBM 7090"
+    },
+    {
+        "question": "Which of the following is not a factor affecting the processing capability or performance of a PC system?\r\n\r\n",
+        "a": "The clock speed of the microprocessor",
+        "b": "The revolutions per minute of the printer disk",
+        "c": "The primary storage capacity of the processor",
+        "d": "The built-in instruction set available to the microprocessor",
+        "answer": "The revolutions per minute of the printer disk"
+    },
+    {
+        "question": "Condensing output data to exhibit specific information is\r\n\r\n",
+        "a": "Calculating",
+        "b": "Recording",
+        "c": "Merging",
+        "d": "Summarising",
+        "answer": "Summarising"
+    },
+    {
+        "question": "Which of the following is used for manufacturing chips?\r\n\r\n",
+        "a": "control bus",
+        "b": "control unit",
+        "c": "parity unit",
+        "d": "semiconductor",
+        "answer": "semiconductor"
+    },
+    {
+        "question": "Which of the following terms applies to communication between separate computer systems?\r\n\r\n",
+        "a": "Computer literacy",
+        "b": "Power supply",
+        "c": "Applications software",
+        "d": "Connectivity",
+        "answer": "Connectivity"
+    },
+    {
+        "question": "Output hardware is often categorized according to whether it:\r\n\r\n",
+        "a": "is expensive",
+        "b": "requires a large amount of electricity to work",
+        "c": "produces hardcopy or softcopy",
+        "d": "can fit on a desktop",
+        "answer": "produces hardcopy or softcopy"
+    },
+    {
+        "question": "The original ASCII code used _____ bits of each byte, reserving that last bit for error checking.\r\n\r\n",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "answer": "7"
+    },
+    {
+        "question": "Which of the following terms is the most closely related to main memory?\r\n\r\n",
+        "a": "nonvolatile",
+        "b": "permanent",
+        "c": "control unit",
+        "d": "temporary",
+        "answer": "temporary"
+    },
+    {
+        "question": "The computer industry uses prefixes of Greek origin to measure large amounts of data. Which term describes 1024 bytes.\r\n\r\n",
+        "a": "Kilobyte",
+        "b": "Megabyte",
+        "c": "Gigabyte",
+        "d": "Terabyte",
+        "answer": "Kilobyte"
+    },
+    {
+        "question": "Which kind of storage device can be carried around?\r\n\r\n",
+        "a": "Floppy disk",
+        "b": "Hard disk",
+        "c": "System cabinet",
+        "d": "Hard disk drive",
+        "answer": "Floppy disk"
+    },
+    {
+        "question": "One nibble is equal to\r\n\r\n",
+        "a": "4 bits",
+        "b": "8 bits",
+        "c": "6 bits",
+        "d": "16 bits",
+        "answer": "4 bits"
+    },
+    {
+        "question": "In which area of the primary storage section are the intermediate processing results held temporarily?\r\n\r\n",
+        "a": "Input storage area",
+        "b": "Program storage area",
+        "c": "Output storage area",
+        "d": "Working storage space",
+        "answer": "Working storage space"
+    },
+    {
+        "question": "What is required when more than one person uses a central computer at the same time?\r\n\r\n",
+        "a": "Light pen",
+        "b": "Mouse",
+        "c": "Digitizer",
+        "d": "Terminal",
+        "answer": "Terminal"
+    }
+]

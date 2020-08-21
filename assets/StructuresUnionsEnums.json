@@ -1,0 +1,418 @@
+[
+    {
+        "question": "How will you free the allocated memory ?\r\n\r\n",
+        "a": "remove(var-name);",
+        "b": "free(var-name);",
+        "c": "delete(var-name);",
+        "d": "dalloc(var-name);",
+        "answer": "free(var-name);"
+    },
+    {
+        "question": "What is the similarity between a structure, union and enumeration?\r\n\r\n",
+        "a": "All of them let you define new values",
+        "b": "All of them let you define new data types",
+        "c": "All of them let you define new pointers",
+        "d": "All of them let you define new structures",
+        "answer": "All of them let you define new data types"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    union a\r\n    {\r\n        int i;\r\n        char ch[2];\r\n    };\r\n    union a u;\r\n    u.ch[0]=3;\r\n    u.ch[1]=2;\r\n    printf(\"%d, %d, %d\\n\", u.ch[0], u.ch[1], u.i);\r\n    return 0;\r\n}",
+        "a": "3, 2, 515",
+        "b": "515, 2, 3",
+        "c": "3, 2, 5",
+        "d": "515, 515, 4",
+        "answer": "3, 2, 515"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    union var\r\n    {\r\n        int a, b;\r\n    };\r\n    union var v;\r\n    v.a=10;\r\n    v.b=20;\r\n    printf(\"%d\\n\", v.a);\r\n    return 0;\r\n}",
+        "a": "10",
+        "b": "20",
+        "c": "30",
+        "d": "0",
+        "answer": "20"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct value\r\n    {\r\n        int bit1:1;\r\n        int bit3:4;\r\n        int bit4:4;\r\n    }bit={1, 2, 13};\r\n    printf(\"%d, %d, %d\\n\", bit.bit1, bit.bit3, bit.bit4);\r\n    return 0;\r\n}",
+        "a": "1, 2, 13",
+        "b": "1, 4, 4",
+        "c": "-1, 2, -3",
+        "d": "-1, -2, -13",
+        "answer": "-1, 2, -3"
+    },
+    {
+        "question": "What will be the output of the program in 16 bit platform (Turbo C under DOS) ?\r\n\r\n#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    struct value\r\n    {\r\n        int bit1:1;\r\n        int bit3:4;\r\n        int bit4:4;\r\n    }bit;\r\n    printf(\"%d\\n\", sizeof(bit));\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "9",
+        "answer": "2"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    enum days {MON=-1, TUE, WED=6, THU, FRI, SAT};\r\n    printf(\"%d, %d, %d, %d, %d, %d\\n\", MON, TUE, WED, THU, FRI, SAT);\r\n    return 0;\r\n}",
+        "a": "-1, 0, 1, 2, 3, 4",
+        "b": "-1, 2, 6, 3, 4, 5",
+        "c": "-1, 0, 6, 2, 3, 4",
+        "d": "-1, 0, 6, 7, 8, 9",
+        "answer": "-1, 0, 6, 7, 8, 9"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    enum status {pass, fail, absent};\r\n    enum status stud1, stud2, stud3;\r\n    stud1 = pass;\r\n    stud2 = absent;\r\n    stud3 = fail;\r\n    printf(\"%d %d %d\\n\", stud1, stud2, stud3);\r\n    return 0;\r\n}",
+        "a": "0, 1, 2",
+        "b": "1, 2, 3",
+        "c": "0, 2, 1",
+        "d": "1, 3, 2",
+        "answer": "0, 2, 1"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=4, j=8;\r\n    printf(\"%d, %d, %d\\n\", i|j&j|i, i|j&j|i, i^j);\r\n    return 0;\r\n}",
+        "a": "12, 12, 12",
+        "b": "112, 1, 12",
+        "c": "32, 1, 12",
+        "d": "-64, 1, 12",
+        "answer": "12, 12, 12"
+    },
+    {
+        "question": "What will be the output of the program in Turbo C (under DOS)?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct emp\r\n    {\r\n        char *n;\r\n        int age;\r\n    };\r\n    struct emp e1 = {\"Dravid\", 23};\r\n    struct emp e2 = e1;\r\n    strupr(e2.n);\r\n    printf(\"%s\\n\", e1.n);\r\n    return 0;\r\n}",
+        "a": "Error: Invalid structure assignment",
+        "b": "DRAVID",
+        "c": "Dravid",
+        "d": "No output",
+        "answer": "DRAVID"
+    },
+    {
+        "question": "What will be the output of the program in 16-bit platform (under DOS)?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct node\r\n    {\r\n        int data;\r\n        struct node *link;\r\n    };\r\n    struct node *p, *q;\r\n    p = (struct node *) malloc(sizeof(struct node));\r\n    q = (struct node *) malloc(sizeof(struct node));\r\n    printf(\"%d, %d\\n\", sizeof(p), sizeof(q));\r\n    return 0;\r\n}",
+        "a": "2, 2",
+        "b": "8, 8",
+        "c": "5, 5",
+        "d": "4, 4",
+        "answer": "2, 2"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct byte\r\n    {\r\n        int one:1;\r\n    };\r\n    struct byte var = {1};\r\n    printf(\"%d\\n\", var.one);\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "-1",
+        "c": "0",
+        "d": "Error",
+        "answer": "-1"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    enum days {MON=-1, TUE, WED=6, THU, FRI, SAT};\r\n    printf(\"%d, %d, %d, %d, %d, %d\\n\", ++MON, TUE, WED, THU, FRI, SAT);\r\n    return 0;\r\n}",
+        "a": "-1, 0, 1, 2, 3, 4",
+        "b": "Error",
+        "c": "0, 1, 6, 3, 4, 5",
+        "d": "0, 0, 6, 7, 8, 9",
+        "answer": "Error"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n    struct course\r\n    {\r\n        int courseno;\r\n        char coursename[25];\r\n    };\r\nint main()\r\n{\r\n    struct course c[] = { {102, \"Java\"}, \r\n                          {103, \"PHP\"}, \r\n                          {104, \"DotNet\"}     };\r\n    printf(\"%d \", c[1].courseno);\r\n    printf(\"%s\\n\", (*(c+2)).coursename);\r\n    return 0;\r\n}",
+        "a": "103 DotNet",
+        "b": "102 Java",
+        "c": "103 PHP",
+        "d": "104 DotNet",
+        "answer": "103 DotNet"
+    },
+    {
+        "question": "What will be the output of the program given below in 16-bit platform ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    enum value{VAL1=0, VAL2, VAL3, VAL4, VAL5} var;\r\n    printf(\"%d\\n\", sizeof(var));\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "10",
+        "answer": "2"
+    },
+    {
+        "question": "Point out the error in the program?\r\nstruct emp\r\n{\r\n    int ecode;\r\n    struct emp *e;\r\n};",
+        "a": "Error: in structure declaration",
+        "b": "Linker Error",
+        "c": "No Error",
+        "d": "None of above",
+        "answer": "No Error"
+    },
+    {
+        "question": "Point out the error in the program?\r\ntypedef struct data mystruct;\r\nstruct data\r\n{\r\n    int x;\r\n    mystruct *b;\r\n};",
+        "a": "Error: in structure declaration",
+        "b": "Linker Error",
+        "c": "No Error",
+        "d": "None of above",
+        "answer": "No Error"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct a\r\n    {\r\n        float category:5;\r\n        char scheme:4;\r\n    };\r\n    printf(\"size=%d\", sizeof(struct a));\r\n    return 0;\r\n}",
+        "a": "Error: invalid structure member in printf",
+        "b": "Error in this float category:5; statement",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error in this float category:5; statement"
+    },
+    {
+        "question": "Point out the error in the program?\r\nstruct emp\r\n{\r\n    int ecode;\r\n    struct emp e;\r\n};",
+        "a": "Error: in structure declaration",
+        "b": "Linker Error",
+        "c": "No Error",
+        "d": "None of above",
+        "answer": "Error: in structure declaration"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct emp\r\n    {\r\n        char name[20];\r\n        float sal;\r\n    };\r\n    struct emp e[10];\r\n    int i;\r\n    for(i=0; i<=9; i++)\r\n        scanf(\"%s %f\", e[i].name, &e[i].sal);\r\n    return 0;\r\n}",
+        "a": "Error: invalid structure member",
+        "b": "Error: Floating point formats not linked",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: Floating point formats not linked"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\n#include<string.h>\r\nvoid modify(struct emp*);\r\nstruct emp\r\n{\r\n    char name[20];\r\n    int age;\r\n};\r\nint main()\r\n{\r\n    struct emp e = {\"Sanjay\", 35};\r\n    modify(&e);\r\n    printf(\"%s %d\", e.name, e.age);\r\n    return 0;\r\n}\r\nvoid modify(struct emp *p)\r\n{\r\n     p ->age=p->age+2;\r\n}",
+        "a": "Error: in structure",
+        "b": "Error: in prototype declaration unknown struct emp",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: in prototype declaration unknown struct emp"
+    },
+    {
+        "question": "Point out the error in the program in 16-bit platform?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct bits\r\n    {\r\n        int i:40;\r\n    }bit;\r\n\r\n    printf(\"%d\\n\", sizeof(bit));\r\n    return 0;\r\n}",
+        "a": "4",
+        "b": "2",
+        "c": "Error: Bit field too large",
+        "d": "Error: Invalid member access in structure",
+        "answer": "Error: Bit field too large"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    union a\r\n    {\r\n        int i;\r\n        char ch[2];\r\n    };\r\n    union a z1 = {512};\r\n    union a z2 = {0, 2};\r\n    return 0;\r\n}",
+        "a": "Error: invalid union declaration",
+        "b": "Error: in Initializing z2",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: in Initializing z2"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct emp\r\n    {\r\n        char n[20];\r\n        int age;\r\n    };\r\n    struct emp e1 = {\"Dravid\", 23};\r\n    struct emp e2 = e1;\r\n    if(e1 == e2)\r\n        printf(\"The structure are equal\");\r\n    return 0;\r\n}",
+        "a": "Prints: The structure are equal",
+        "b": "Error: Structure cannot be compared using '=='",
+        "c": "No output",
+        "d": "None of above",
+        "answer": "Error: Structure cannot be compared using '=='"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct bits\r\n    {\r\n        float f:2;\r\n    }bit;\r\n\r\n    printf(\"%d\\n\", sizeof(bit));\r\n    return 0;\r\n}",
+        "a": "4",
+        "b": "2",
+        "c": "Error: cannot set bit field for float",
+        "d": "Error: Invalid member access in structure",
+        "answer": "Error: cannot set bit field for float"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct emp\r\n    {\r\n        char name[25];\r\n        int age;\r\n        float bs;\r\n    };\r\n    struct emp e;\r\n    e.name = \"Suresh\";\r\n    e.age = 25;\r\n    printf(\"%s %d\\n\", e.name, e.age);\r\n    return 0;\r\n}",
+        "a": "Error: Lvalue required\/incompatible types in assignment",
+        "b": "Error: invalid constant expression",
+        "c": "Error: Rvalue required",
+        "d": "No error, Output: Suresh 25",
+        "answer": "Error: Lvalue required\/incompatible types in assignment"
+    },
+    {
+        "question": "Which of the following statements correct about the below program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    struct emp\r\n    {\r\n        char name[25];\r\n        int age;\r\n        float sal;\r\n    };\r\n    struct emp e[2];\r\n    int i=0;\r\n    for(i=0; i<2; i++)\r\n        scanf(\"%s %d %f\", e[i].name, &e[i].age, &e[i].sal);\r\n\r\n    for(i=0; i<2; i++)\r\n        scanf(\"%s %d %f\", e[i].name, e[i].age, e[i].sal);\r\n    return 0;\r\n}",
+        "a": "Error: scanf() function cannot be used for structures elements.",
+        "b": "The code runs successfully.",
+        "c": "Error: Floating point formats not linked Abnormal program termination.",
+        "d": "Error: structure variable must be initialized.",
+        "answer": "Error: Floating point formats not linked Abnormal program termination."
+    },
+    {
+        "question": "Which of the following statements correctly assigns 12 to month using pointer variable pdt?\r\n#include<stdio.h>\r\n    struct date\r\n    {\r\n        int day;\r\n        int month;\r\n        int year;\r\n    };\r\nint main()\r\n{\r\n    struct date d;\r\n    struct date *pdt;\r\n    pdt = &d;\r\n    return 0;\r\n}",
+        "a": "pdt.month = 12",
+        "b": "&pdt.month = 12",
+        "c": "d.month = 12",
+        "d": "pdt->month = 12",
+        "answer": "pdt->month = 12"
+    },
+    {
+        "question": "Which of the following statements correct about the below code?\r\nmaruti.engine.bolts=25;",
+        "a": "Structure bolts is nested within structure engine.",
+        "b": "Structure engine is nested within structure maruti.",
+        "c": "Structure maruti is nested within structure engine.",
+        "d": "Structure maruti is nested within structure bolts.",
+        "answer": "Structure engine is nested within structure maruti."
+    },
+    {
+        "question": "A union cannot be nested in a structure\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Nested unions are allowed\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Bit fields CANNOT be used in union.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "one of elements of a structure can be a pointer to the same structure.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A structure can be nested inside another structure.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Which of the following statement is True?\r\n\r\n",
+        "a": "User has to explicitly define the numeric value of enumerations",
+        "b": "User has a control over the size of enumeration variables.",
+        "c": "Enumeration can have an effect local to the block, if desired",
+        "d": "Enumerations have a global effect throughout the file.",
+        "answer": "Enumeration can have an effect local to the block, if desired"
+    },
+    {
+        "question": "The '.' operator can be used access structure elements using a structure variable.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Union elements can be of different sizes.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A structure can contain similar or dissimilar elements\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The '->' operator can be used to access structures elements using a pointer to a structure variable only\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "It is not possible to create an array of pointer to structures.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the following structure is written to a file using fwrite(), can fread() read it back successfully?\r\nstruct emp\r\n{\r\n    char *n;\r\n    int age;\r\n};\r\nstruct emp e={\"NepalBIX\", 15};\r\nFILE *fp;\r\nfwrite(&e, sizeof(e), 1, fp);",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "size of union is size of the longest element in the union\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "The elements of union are always accessed using & operator\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the following code work?\r\n#include<stdio.h>\r\n#include<malloc.h>\r\nstruct emp\r\n{\r\n    int len;\r\n    char name[1];\r\n};\r\nint main()\r\n{\r\n    char newname[] = \"Rahul\";\r\n    struct emp *p = (struct emp *) malloc(sizeof(struct emp) -1 +\r\n                    strlen(newname)+1);\r\n\r\n    p->len = strlen(newname);\r\n    strcpy(p -> name, newname);\r\n    printf(\"%d %s\\n\", p->len, p->name);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "A pointer union CANNOT be created\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Is there easy way to print enumeration values symbolically?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "By default structure variable will be of auto storage class\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Is it necessary that the size of all elements in a union should be same?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Can we have an array of bit fields?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the following declaration work?\r\n\r\ntypedef struct s\r\n{\r\n    int a;\r\n    float b;\r\n}s;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Can a structure can point to itself?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "If a char is 1 byte wide, an integer is 2 bytes wide and a long integer is 4 bytes wide then will the following structure always occupy 7 bytes?\r\nstruct ex\r\n{\r\n    char ch;\r\n    int i;\r\n    long int a;\r\n};",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

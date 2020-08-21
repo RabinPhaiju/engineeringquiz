@@ -1,0 +1,290 @@
+[
+    {
+        "question": "As frequency increases\r\n\r\n",
+        "a": "both series and parallel RL impedance decrease",
+        "b": "series RL impedance decreases and parallel RL impedance increases",
+        "c": "series RL impedance increases and parallel RL impedance decreases",
+        "d": "both series and parallel RL impedance increase",
+        "answer": "both series and parallel RL impedance increase"
+    },
+    {
+        "question": "mcq12_1004_1.gifCalculate the voltage dropped across R1 in the given circuit.\r\n\r\n",
+        "a": "14 V",
+        "b": "26.8 V",
+        "c": "28 V",
+        "d": "0 V",
+        "answer": "26.8 V"
+    },
+    {
+        "question": "What is the true power of a 24 Vac parallel RL circuit when R = 45 ohm and XL = 1100 ohm?\r\n\r\n",
+        "a": "313.45 W",
+        "b": "12.8 W",
+        "c": "44.96 W",
+        "d": "22.3 W",
+        "answer": "12.8 W"
+    },
+    {
+        "question": "If XL= 100 ohm and R = 100 ohm, then impedance will be\r\n\r\n",
+        "a": "141.4 ohm",
+        "b": "14.14 ohm",
+        "c": "100 ohm",
+        "d": "200 ohm",
+        "answer": "141.4 ohm"
+    },
+    {
+        "question": "mcq12_1001_1.gifWhich of the following statements is true if the inductor shorts out in the circuit in the given circuit?\r\n\r\n",
+        "a": "Each component drops 5 V.",
+        "b": "The impedance equals 0 ohm",
+        "c": "The power factor equals 1.",
+        "d": "The phase angle equals 90\u00b0.",
+        "answer": "The power factor equals 1."
+    },
+    {
+        "question": "mcq12_1004_1.gifCalculate the voltage dropped across L2 in the given circuit.\r\n\r\n",
+        "a": "18 V",
+        "b": "6 V",
+        "c": "13.5 V",
+        "d": "0 V",
+        "answer": "6 V"
+    },
+    {
+        "question": "What is the magnitude of the phase angle of a 24 Vac parallel RL circuit when R = 45 ohm and XL = 1100 ohm?\r\n\r\n",
+        "a": "0.001\u00b0",
+        "b": "2.3\u00b0",
+        "c": "87.6\u00b0",
+        "d": "89.9\u00b0",
+        "answer": "2.3\u00b0"
+    },
+    {
+        "question": "mcq12_1001_1.gifWhich of the following statements is true if the frequency decreases in the circuit in the given circuit?\r\n\r\n",
+        "a": "The phase angle decreases.",
+        "b": "VR decreases.",
+        "c": "IT decreases.",
+        "d": "VS decreases.",
+        "answer": "The phase angle decreases."
+    },
+    {
+        "question": "What is the magnitude of the phase angle between the source voltage and current when a 100 mH inductor with an inductive reactance of 6 k ohm and a 1 k ohm resistor are in series with a source?\r\n\r\n",
+        "a": "0.1\u00b0",
+        "b": "9.0\u00b0",
+        "c": "61.0\u00b0",
+        "d": "81.0\u00b0",
+        "answer": "81.0\u00b0"
+    },
+    {
+        "question": "mcq12_1004_1.gifWhich of the following statements is true if R1 opens in the circuit in the given circuit?\r\n\r\n",
+        "a": "IL2 increases.",
+        "b": "ZT decreases.",
+        "c": "VS increases.",
+        "d": "VL1 equals 0 V.",
+        "answer": "VL1 equals 0 V."
+    },
+    {
+        "question": "mcq12_1001_1.gifWhich of the following statements is true if R = 100 ohm and XL = 100 ohm in the circuit in the given circuit?\r\n\r\n",
+        "a": "Each component drops 5 V.",
+        "b": "The impedance equals 200 ohm",
+        "c": "The power factor equals 1.",
+        "d": "The phase angle equals 45\u00b0.",
+        "answer": "The phase angle equals 45\u00b0."
+    },
+    {
+        "question": "Which of the following statements is true about a lag network?\r\n\r\n",
+        "a": "An increase in frequency causes an increase in phase lag.",
+        "b": "An increase in frequency causes an increase in the magnitude of the output voltage.",
+        "c": "A decrease in frequency causes an increase in phase lag.",
+        "d": "A decrease in frequency causes a decrease in the magnitude of the output voltage.",
+        "answer": "An increase in frequency causes an increase in phase lag."
+    },
+    {
+        "question": "As the frequency increases in a series RL circuit the impedance also increases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq12_1001_1.gifThe impedance of the circuit in the given circuit is 110 omega.gif .\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "For series ac circuits containing both resistance and inductive reactance, total opposition to current can be found by simply adding ohmic values or oppositions to current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The phase angle will increase in a parallel RL circuit if the resistance is increased.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq12_1008_1.gifThe circuit in the given circuit is a low-pass filter.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Phase angle is the difference in phase between the applied voltage (VS) and the circuit current (IT).\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If a 7.5 k ohm resistance is connected to a 10 k ohm inductive reactance in a series RL circuit, then the impedance equals 12.5 k ohm .\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a series RL circuit, a power factor of 0.5 results in less energy conversion to heat than does a power factor of 0.6.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If Y = 20 mS, then Z = 20.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The current lags the source voltage in a series RL circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The phase angle will decrease in a series RL circuit if the inductance is increased.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "As frequency decreases in a parallel RL circuit the impedance also decreases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "fbq12_1004_1.gifIf the resistance is larger than the inductive reactance in the given circuit, the phase angle is _______.\r\n\r\n",
+        "a": "less than 0\u00b0",
+        "b": "between 0\u00b0 and 45\u00b0",
+        "c": "between 45\u00b0 and 0\u00b0",
+        "d": "greater than 90\u00b0",
+        "answer": "between 0\u00b0 and 45\u00b0"
+    },
+    {
+        "question": "fbq12_1006_1.gifThe phase angle in the circuit in the given circuit is approximately equal to ______.\r\n\r\n",
+        "a": "53\u00b0",
+        "b": "90\u00b0",
+        "c": "37\u00b0",
+        "d": "0\u00b0",
+        "answer": "37\u00b0"
+    },
+    {
+        "question": "fbq12_1001_1.gifIf VS increases in the given circuit, then the _____.\r\n\r\n",
+        "a": "impedance increases",
+        "b": "real power decreases",
+        "c": "phase angle increases",
+        "d": "current increases",
+        "answer": "current increases"
+    },
+    {
+        "question": "The frequency at which XL = R in an RL circuit is called the _______________.\r\n\r\n",
+        "a": "cutoff frequency",
+        "b": "optimum frequency",
+        "c": "bandwidth characteristic",
+        "d": "resonant frequency",
+        "answer": "cutoff frequency"
+    },
+    {
+        "question": "fbq12_1001_1.gifIn the given circuit, IT equals _____.\r\n\r\n",
+        "a": "0.5 A",
+        "b": "2 A",
+        "c": "1.5 A",
+        "d": "2.5 A",
+        "answer": "2.5 A"
+    },
+    {
+        "question": "The impedance of a series circuit when R = 15 k ohm and XL = 10 k ohm is approximately equal to ________.\r\n\r\n",
+        "a": "5 k ohm",
+        "b": "6 k ohm",
+        "c": "18 k ohm",
+        "d": "25 k ohm",
+        "answer": "18 k ohm"
+    },
+    {
+        "question": "fbq12_1009_1.gifThe given circuit is a _______.\r\n\r\n",
+        "a": "low-pass filter",
+        "b": "high-pass filter",
+        "c": "band-pass filter",
+        "d": "band-stop filter",
+        "answer": "low-pass filter"
+    },
+    {
+        "question": "fbq12_1001_1.gifIf the frequency decreases in the given circuit, then _____.\r\n\r\n",
+        "a": "IT decreases",
+        "b": "IR increases",
+        "c": "IL increases",
+        "d": "none of the currents will change",
+        "answer": "IL increases"
+    },
+    {
+        "question": "fbq12_1009_1.gifThe cutoff frequency of the circuit in the given circuit is approximately equal to _____.\r\n\r\n",
+        "a": "21 Hz",
+        "b": "60 Hz",
+        "c": "0 Hz",
+        "d": "365 Hz",
+        "answer": "365 Hz"
+    },
+    {
+        "question": "fbq12_1004_1.gifIn the circuit given is, _____.\r\n\r\n",
+        "a": "VR leads VL",
+        "b": "VR lags VL",
+        "c": "VR is in phase with VL",
+        "d": "VR, VL, and VS are all in phase",
+        "answer": "VR leads VL"
+    },
+    {
+        "question": "fbq12_1006_1.gifThe voltage dropped across the resistor in the circuit in the given circuit is approximately equal to ___.\r\n\r\n",
+        "a": "5 V",
+        "b": "10 V",
+        "c": "7.98 V",
+        "d": "6.02 V",
+        "answer": "7.98 V"
+    },
+    {
+        "question": "fbq12_1006_1.gifThe impedance of the circuit in the given circuit is approximately equal to _____.\r\n\r\n",
+        "a": "2 k ohm",
+        "b": "750 ohm",
+        "c": "1.25 k ohm",
+        "d": "1 k ohm",
+        "answer": "1.25 k ohm"
+    }
+]

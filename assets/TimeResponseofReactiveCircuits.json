@@ -1,0 +1,266 @@
+[
+    {
+        "question": "mcq15_1002.gifWhat voltage will the capacitor charge up to in the given circuit for the single input pulse shown?\r\n\r\n",
+        "a": "3.15 V",
+        "b": "4.3 V",
+        "c": "4.75 V",
+        "d": "4.9 V",
+        "answer": "4.3 V"
+    },
+    {
+        "question": "An RL integrator and an RC differentiator can act as what types of filters, respectively?\r\n\r\n",
+        "a": "low-pass, low-pass",
+        "b": "low-pass, high-pass",
+        "c": "high-pass, high-pass",
+        "d": "high-pass, low-pass",
+        "answer": "low-pass, high-pass"
+    },
+    {
+        "question": "In a repetitive-pulse RC integrator circuit, what would the steady-state voltage equal at the end of the fifth pulse? Assume a Vin of 20 V.\r\n\r\n",
+        "a": "1.46 V",
+        "b": "14.62 V",
+        "c": "20 V",
+        "d": "0 V",
+        "answer": "14.62 V"
+    },
+    {
+        "question": "What is a circuit that produces short-duration spikes?\r\n\r\n",
+        "a": "A trigger pulse generator",
+        "b": "An RL integrator",
+        "c": "A timing circuit",
+        "d": "A pulse waveform-to-dc converter",
+        "answer": "A trigger pulse generator"
+    },
+    {
+        "question": "mcq15_1005.gifIn the given circuit, what must the pulse width and time between pulses be to allow the capacitor to completely charge by the end of each pulse and to completely discharge between each pulse?\r\n\r\n",
+        "a": "940 \u00b5s",
+        "b": "2.82 ms",
+        "c": "3.76 ms",
+        "d": "4.7 ms",
+        "answer": "4.7 ms"
+    },
+    {
+        "question": "mcq15_1002.gifThe given circuit is an\r\n\r\n",
+        "a": "RL integrator",
+        "b": "RC differentiator",
+        "c": "RL differentiator",
+        "d": "RC integrator",
+        "answer": "RC integrator"
+    },
+    {
+        "question": "Which of the following is true for a capacitor?\r\n\r\n",
+        "a": "A capacitor acts like a short to instantaneous changes in current.",
+        "b": "A capacitor's voltage cannot change instantaneously.",
+        "c": "A capacitor acts like an open to dc.",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "If the capacitor in an RC integrator shorts, the output\r\n\r\n",
+        "a": "is at ground",
+        "b": "would measure the same as the input",
+        "c": "would measure zero volts",
+        "d": "None of the above",
+        "answer": "is at ground"
+    },
+    {
+        "question": "mcq15_1005.gifWhat has the voltage across the resistor decayed to by the end of the pulse in the given circuit?\r\n\r\n",
+        "a": "0 V",
+        "b": "0.75 V",
+        "c": "5.55 V",
+        "d": "14.25 V",
+        "answer": "0.75 V"
+    },
+    {
+        "question": "mcq15_1002.gifHow long will it take the capacitor in the given circuit to discharge?\r\n\r\n",
+        "a": "16.4 \u00b5s",
+        "b": "32.8 \u00b5s",
+        "c": "65.6 \u00b5s",
+        "d": "82 \u00b5s",
+        "answer": "82 \u00b5s"
+    },
+    {
+        "question": "mcq15_1007.gifWhat is the voltage across the inductor in the given circuit on the falling edge of the first input pulse?\r\n\r\n",
+        "a": "\u20130.2 V",
+        "b": "0.2 V",
+        "c": "\u20139.8 V",
+        "d": "9.8 V",
+        "answer": "\u20130.2 V"
+    },
+    {
+        "question": "A repetitive pulse with a 50% duty cycle is being applied to the input of an RC integrator. If one time constant is less than one-fifth the pulse width, the capacitor will be able to fully charge and discharge.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The output of an RL differentiator is taken from across the inductor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The output voltage of an RC integrator will eventually equal the voltage of a single input pulse if the input pulse width is less than 5 time constants.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The output of a differentiator could be considered a spike when the input pulse width is much longer than 5 time constants.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The output of an RC differentiator is taken from across the capacitor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the output of an RC integrator is zero volts, the capacitor might be open.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "During the steady-state condition of a differentiator, the average output voltage is zero volts.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The voltage across a capacitor in an RC integrator circuit cannot change exponentially; it can change only instantaneously.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The output voltage of a differentiator goes negative on the falling edge of the input pulse.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If a repetitive-pulse waveform is applied to an RC integrator, the output waveshape depends on the relationship of the circuit time constant and the duty cycle of the input pulses.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The steady-state condition of an integrator is reached after 5 time constants regardless of the number of input pulses that occur in that amount of time.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A differentiator circuit can be used to convert a pulse input to a nearly constant dc output.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "fbq15_1003_1.gifThe output voltage in the given circuit is _____ at the end of the second pulse.\r\n\r\n",
+        "a": "1.06 V",
+        "b": "7.56 V",
+        "c": "3.32 V",
+        "d": "12 V",
+        "answer": "3.32 V"
+    },
+    {
+        "question": "fbq15_1007_1.gifIt takes ______ for the output voltage in the given circuit to reach its maximum value.\r\n\r\n",
+        "a": "0 s",
+        "b": "243.9 \u00b5s",
+        "c": "1 ms",
+        "d": "1.22 ms",
+        "answer": "1.22 ms"
+    },
+    {
+        "question": "For a capacitor to completely charge in an RC integrator, the pulse width must be _____ 5 time constants.\r\n\r\n",
+        "a": "less than",
+        "b": "greater than",
+        "c": "equal to",
+        "d": "greater than or equal to",
+        "answer": "greater than or equal to"
+    },
+    {
+        "question": "The _____ is the time it takes for a capacitor to fully charge or discharge.\r\n\r\n",
+        "a": "transient time",
+        "b": "pulse response",
+        "c": "time constant",
+        "d": "steady state",
+        "answer": "transient time"
+    },
+    {
+        "question": "fbq15_1005_1.gifAfter the rising edge of the input pulse occurs, it takes ______ for the voltage across the resistor to decrease to zero in the given circuit.\r\n\r\n",
+        "a": "0 s",
+        "b": "68 \u00b5s",
+        "c": "340 \u00b5s",
+        "d": "500 \u00b5s",
+        "answer": "340 \u00b5s"
+    },
+    {
+        "question": "fbq15_1003_1.gifThe voltage across the capacitor in the given circuit is _______ at the beginning of the second pulse. Assume the capacitor is initially uncharged.\r\n\r\n",
+        "a": "0 V",
+        "b": "427.74 mV",
+        "c": "2.8 V",
+        "d": "7.56 V",
+        "answer": "427.74 mV"
+    },
+    {
+        "question": "fbq15_1005_1.gifIf the pulse width were cut in half in the given circuit, the voltage across the resistor would be ______ at the end of the pulse.\r\n\r\n",
+        "a": "0 V",
+        "b": "0.36 V",
+        "c": "0.46 V",
+        "d": "0.9 V",
+        "answer": "0.46 V"
+    },
+    {
+        "question": "fbq15_1007_1.gifIf the pulse source has an internal resistance of 80 \u03a9 in the given circuit, it will take ______ for the output voltage to decrease to zero.\r\n\r\n",
+        "a": "1 ms",
+        "b": "1.1 ms",
+        "c": "1.2 ms",
+        "d": "2.5 ms",
+        "answer": "1.1 ms"
+    },
+    {
+        "question": "A(n) _____ will decrease the time constant in an RC integrator or differentiator.\r\n\r\n",
+        "a": "open resistor",
+        "b": "open capacitor",
+        "c": "shorted capacitor",
+        "d": "leaky capacitor",
+        "answer": "leaky capacitor"
+    },
+    {
+        "question": "fbq15_1007_1.gifIf the component positions were switched in the given circuit, the circuit would be an ______.\r\n\r\n",
+        "a": "RL differentiator",
+        "b": "RC differentiator",
+        "c": "RL integrator",
+        "d": "RC integrator",
+        "answer": "RL differentiator"
+    }
+]

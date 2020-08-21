@@ -1,0 +1,250 @@
+[
+    {
+        "question": "Which of the following is a type of error associated with digital-to-analog converters (DACs)?\r\n\r\n",
+        "a": "nonmonotonic error",
+        "b": "incorrect output codes",
+        "c": "offset error",
+        "d": "nonmonotonic and offset error",
+        "answer": "nonmonotonic and offset error"
+    },
+    {
+        "question": "A 4-bit R\/2R digital-to-analog (DAC) converter has a reference of 5 volts. What is the analog output for the input code 0101.\r\n\r\n",
+        "a": "0.3125 V",
+        "b": "3.125 V",
+        "c": "0.78125 V",
+        "d": "\u20133.125 V",
+        "answer": "3.125 V"
+    },
+    {
+        "question": "A binary-weighted digital-to-analog converter has an input resistor of 100 komega.gif. If the resistor is connected to a 5 V source, the current through the resistor is:\r\n\r\n",
+        "a": "50 uA",
+        "b": "5 mA",
+        "c": "500 mA",
+        "d": "50 mA",
+        "answer": "50 uA"
+    },
+    {
+        "question": "What is the resolution of a digital-to-analog converter (DAC)?\r\n\r\n",
+        "a": "It is the comparison between the actual output of the converter and its expected output.",
+        "b": "It is the deviation between the ideal straight-line output and the actual output of the converter.",
+        "c": "It is the smallest analog output change that can occur as a result of an increment in the digital input.",
+        "d": "It is its ability to resolve between forward and reverse steps when sequenced over its entire range.",
+        "answer": "It is the smallest analog output change that can occur as a result of an increment in the digital input."
+    },
+    {
+        "question": "The practical use of binary-weighted digital-to-analog converters is limited to:\r\n\r\n",
+        "a": "R\/2R ladder D\/A converters",
+        "b": "4-bit D\/A converters",
+        "c": "8-bit D\/A converters",
+        "d": "op-amp comparators",
+        "answer": "4-bit D\/A converters"
+    },
+    {
+        "question": "The difference between analog voltage represented by two adjacent digital codes, or the analog step size, is the:\r\n\r\n",
+        "a": "quantization",
+        "b": "accuracy",
+        "c": "resolution",
+        "d": "monotonicity",
+        "answer": "resolution"
+    },
+    {
+        "question": "The primary disadvantage of the flash analog-to digital converter (ADC) is that:\r\n\r\n",
+        "a": "it requires the input voltage to be applied to the inputs simultaneously",
+        "b": "a long conversion time is required",
+        "c": "a large number of output lines is required to simultaneously decode the input voltage",
+        "d": "a large number of comparators is required to represent a reasonable sized binary number",
+        "answer": "a large number of comparators is required to represent a reasonable sized binary number"
+    },
+    {
+        "question": "A binary-weighted digital-to-analog converter has a feedback resistor, Rf, of 12 k ohm. If 50 mu.A of current is through the resistor, the voltage out of the circuit is:\r\n\r\n",
+        "a": "0.6 V",
+        "b": "\u20130.6 V",
+        "c": "0.1 V",
+        "d": "\u20130.1 V",
+        "answer": "\u20130.6 V"
+    },
+    {
+        "question": "What is the major advantage of the R\/2R ladder digital-to-analog (DAC), as compared to a binary-weighted digital-to-analog DAC converter?\r\n\r\n",
+        "a": "It only uses two different resistor values.",
+        "b": "It has fewer parts for the same number of inputs.",
+        "c": "Its operation is much easier to analyze.",
+        "d": "The virtual ground is eliminated and the circuit is therefore easier to understand and troubleshoot.",
+        "answer": "It only uses two different resistor values."
+    },
+    {
+        "question": "The resolution of a 0\u20135 V 6-bit digital-to-analog converter (DAC) is:\r\n\r\n",
+        "a": "63%",
+        "b": "64%",
+        "c": "1.56%",
+        "d": "15.6%",
+        "answer": "1.56%"
+    },
+    {
+        "question": "In a flash analog-to-digital converter, the output of each comparator is connected to an input of a:\r\n\r\n",
+        "a": "decoder",
+        "b": "priority encoder",
+        "c": "multiplexer",
+        "d": "demultiplexer",
+        "answer": "decoder"
+    },
+    {
+        "question": "Which is not an analog-to-digital (ADC) conversion error?\r\n\r\n",
+        "a": "differential nonlinearity",
+        "b": "missing code",
+        "c": "incorrect code",
+        "d": "offset",
+        "answer": "differential nonlinearity"
+    },
+    {
+        "question": "Sample-and-hold circuits in analog-to digital converters (ADCs) are designed to:\r\n\r\n",
+        "a": "sample and hold the output of the binary counter during the conversion process",
+        "b": "stabilize the comparator's threshold voltage during the conversion process",
+        "c": "stabilize the input analog signal during the conversion process",
+        "d": "sample and hold the D\/A converter staircase waveform during the conversion process",
+        "answer": "stabilize the input analog signal during the conversion process"
+    },
+    {
+        "question": "A sample-and-hold circuit samples an analog value and holds it long enough for the analog-to-digital conversion to occur.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Incorrect codes are a form of output error for a digital-to-analog converter (DAC).\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If we double the number of bits in our digital representation of a number from 4 to 8 bits, we double the relative accuracy of the conversion from digital to analog.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The flash method of analog-to-digital conversion (ADC) uses comparators that compare reference voltages with the analog input voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A digital-to-analog converter (DAC) is said to be nonmonotonic if the magnitude of the output voltage increases every time the input code increases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The relative accuracy of a digital-to-analog converter (DAC) is determined by settling time.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The key advantage of the successive approximation analog-to-digital converter (ADC) is its conversion speed.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "One way to determine the resolution of a digital-to-analog converter (DAC) is to compare the ratio of one step voltage to the maximum output voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a binary-weighted digital-to-analog converter (DAC), the values of the input resistors are chosen to be proportional to the binary weights of the corresponding input bits.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An 8-bit digital-to-analog converter (DAC) has a resolution of 0.125 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "________ analog-to-digital converters (ADCs) use no clock signal, because there is no timing or sequencing required.\r\n\r\n",
+        "a": "Actuator",
+        "b": "Dual",
+        "c": "Flash",
+        "d": "Bipolar",
+        "answer": "Flash"
+    },
+    {
+        "question": "________ analog-to-digital converters (ADCs) have a fixed value of conversion time that is not dependent on the value of the analog input.\r\n\r\n",
+        "a": "Substandard",
+        "b": "Dual",
+        "c": "Recessive approximation",
+        "d": "Successive approximation",
+        "answer": "Successive approximation"
+    },
+    {
+        "question": "The problems of the binary-weighted resistor digital-to-analog converter (DAC) can be overcome by using ___________.\r\n\r\n",
+        "a": "an 8-bit binary-weighted resistor DAC",
+        "b": "an R\/2R ladder DAC",
+        "c": "a staircase DAC",
+        "d": "a flash DAC",
+        "answer": "an R\/2R ladder DAC"
+    },
+    {
+        "question": "The number of binary bits at the input of a digital-to-analog converter (DAC) is known as ________.\r\n\r\n",
+        "a": "accuracy",
+        "b": "linearity",
+        "c": "resolution",
+        "d": "monotonicity",
+        "answer": "resolution"
+    },
+    {
+        "question": "A(n) ________ converts an analog input to a digital output.\r\n\r\n",
+        "a": "flash converter",
+        "b": "bipolar converter",
+        "c": "ADC",
+        "d": "DAC",
+        "answer": "ADC"
+    },
+    {
+        "question": "The characteristic that a change of one binary step on the input of a digital-to-analog converter (DAC) should cause exactly one step change on the output is called ________.\r\n\r\n",
+        "a": "resolution",
+        "b": "monotonicity",
+        "c": "linearity",
+        "d": "accuracy",
+        "answer": "monotonicity"
+    },
+    {
+        "question": "Inaccurate analog-to-digital conversion may be due to ____________.\r\n\r\n",
+        "a": "constant analog input voltage",
+        "b": "linear ramp usage",
+        "c": "intermittent counter inputs",
+        "d": "faulty sample-and-hold circuitry",
+        "answer": "faulty sample-and-hold circuitry"
+    },
+    {
+        "question": "A binary-weighted resistor used in a digital-to-analog converter (DAC) is only practical up to a resolution of ________.\r\n\r\n",
+        "a": "10 bits",
+        "b": "2 bits",
+        "c": "8 bits",
+        "d": "4 bits",
+        "answer": "4 bits"
+    }
+]

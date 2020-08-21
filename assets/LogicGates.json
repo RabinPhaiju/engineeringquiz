@@ -1,0 +1,170 @@
+[
+    {
+        "question": "The output will be a LOW for any case when one or more inputs are zero in a(n):\r\n\r\n",
+        "a": "OR gate",
+        "b": "NOT gate",
+        "c": "AND gate",
+        "d": "NAND gate",
+        "answer": "AND gate"
+    },
+    {
+        "question": "If a signal passing through a gate is inhibited by sending a low into one of the inputs, and the output is HIGH, the gate is a(n):\r\n\r\n",
+        "a": "AND",
+        "b": "NAND",
+        "c": "NOR",
+        "d": "OR",
+        "answer": "NAND"
+    },
+    {
+        "question": "A single transistor can be used to build which of the following digital logic gates?\r\n\r\n",
+        "a": "AND gates",
+        "b": "OR gates",
+        "c": "NOT gates",
+        "d": "NAND gates",
+        "answer": "NOT gates"
+    },
+    {
+        "question": "The logic gate that will have HIGH or \"1\" at its output when any one of its inputs is HIGH is a(n):\r\n\r\n",
+        "a": "OR gate",
+        "b": "AND gate",
+        "c": "NOR gate",
+        "d": "NOT gate",
+        "answer": "OR gate"
+    },
+    {
+        "question": "How many NAND circuits are contained in a 7400 NAND IC?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "8",
+        "answer": "4"
+    },
+    {
+        "question": "Exclusive-OR (XOR) logic gates can be constructed from what other logic gates?\r\n\r\n",
+        "a": "OR gates only",
+        "b": "AND gates and NOT gates",
+        "c": "AND gates, OR gates, and NOT gates",
+        "d": "OR gates and NOT gates",
+        "answer": "AND gates, OR gates, and NOT gates"
+    },
+    {
+        "question": "How many truth table entries are necessary for a four-input circuit?\r\n\r\n",
+        "a": "4",
+        "b": "8",
+        "c": "12",
+        "d": "16",
+        "answer": "16"
+    },
+    {
+        "question": "A NAND gate has:\r\n\r\n",
+        "a": "LOW inputs and a LOW output",
+        "b": "HIGH inputs and a HIGH output",
+        "c": "LOW inputs and a HIGH output",
+        "d": "None of the these",
+        "answer": "LOW inputs and a HIGH output"
+    },
+    {
+        "question": "The basic logic gate whose output is the complement of the input is the:\r\n\r\n",
+        "a": "OR gate",
+        "b": "AND gate",
+        "c": "INVERTER gate",
+        "d": "comparator",
+        "answer": "INVERTER gate"
+    },
+    {
+        "question": "What input values will cause an AND logic gate to produce a HIGH output?\r\n\r\n",
+        "a": "At least one input is HIGH.",
+        "b": "At least one input is LOW.",
+        "c": "All inputs are HIGH.",
+        "d": "All inputs are LOW.",
+        "answer": "All inputs are HIGH."
+    },
+    {
+        "question": "The output of an exclusive-OR (XOR) gate is 1 only when the inputs are different.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If the output of a gate is OFF when the inputs are the same, and ON when they are different, the gate must be an exclusive-OR.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The output of a NAND gate is the same as the inverted output of an AND gate.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Logic gate circuits contain predictable gate functions that open their outputs.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If both inputs are required to be ON for the output to be ON, the gate must be an AND gate.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A NAND gate consists of an AND gate and an OR gate connected in series with each other.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The exclusive-NOR (XNOR) gate is simply an OR gate followed by a NOT gate.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A logic circuit whose output is LOW when at least one input is HIGH is a(n) _________ gate.\r\n\r\n",
+        "a": "NOR",
+        "b": "AND",
+        "c": "NAND",
+        "d": "exclusive-OR gate",
+        "answer": "NOR"
+    },
+    {
+        "question": "The AND function can be used to ___________ and the OR function can be used to _____________.\r\n\r\n",
+        "a": "enable, disable",
+        "b": "disable, enable",
+        "c": "synchronize, energize",
+        "d": "detect, invert",
+        "answer": "enable, disable"
+    },
+    {
+        "question": "The dependency notation \">= 1\" inside a block stands for the ________ operation.\r\n\r\n",
+        "a": "OR",
+        "b": "XOR",
+        "c": "AND",
+        "d": "XNOR",
+        "answer": "OR"
+    },
+    {
+        "question": "If we use an AND gate to inhibit a signal from passing, one of the inputs must be _________.\r\n\r\n",
+        "a": "LOW",
+        "b": "HIGH",
+        "c": "inverted",
+        "d": "floating",
+        "answer": "LOW"
+    }
+]

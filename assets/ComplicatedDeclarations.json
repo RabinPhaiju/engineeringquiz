@@ -1,0 +1,290 @@
+[
+    {
+        "question": "Declare the following statement?\r\n\"An array of three pointers to chars\".",
+        "a": "char *ptr[3]();",
+        "b": "char *ptr[3];",
+        "c": "char (*ptr[3])();",
+        "d": "char **ptr[3];",
+        "answer": "char *ptr[3];"
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nint *ptr[30];",
+        "a": "ptr is a pointer to an array of 30 integer pointers.",
+        "b": "ptr is a array of 30 pointers to integers.",
+        "c": "ptr is a array of 30 integer pointers.",
+        "d": "ptr is a array 30 pointers.",
+        "answer": "ptr is a array of 30 pointers to integers."
+    },
+    {
+        "question": "Declare the following statement?\r\n\"A pointer to an array of three chars\".",
+        "a": "char *ptr[3]();",
+        "b": "char (*ptr)*[3];",
+        "c": "char (*ptr[3])();",
+        "d": "char (*ptr)[3];",
+        "answer": "char (*ptr)[3];"
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nchar *arr[10];",
+        "a": "arr is a array of 10 character pointers.",
+        "b": "arr is a array of function pointer.",
+        "c": "arr is a array of characters.",
+        "d": "arr is a pointer to array of characters.",
+        "answer": "arr is a array of 10 character pointers."
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nint (*pf)();",
+        "a": "pf is a pointer to function.",
+        "b": "pf is a function pointer.",
+        "c": "pf is a pointer to a function which return int",
+        "d": "pf is a function of pointer variable.",
+        "answer": "pf is a pointer to a function which return int"
+    },
+    {
+        "question": "Declare the following statement?\r\n\"A pointer to a function which receives an int pointer and returns float pointer\".",
+        "a": "float *(ptr)*int;",
+        "b": "float *(*ptr)(int)",
+        "c": "float *(*ptr)(int*)",
+        "d": "float (*ptr)(int)",
+        "answer": "float *(*ptr)(int*)"
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nvoid *cmp();",
+        "a": "cmp is a pointer to an void type.",
+        "b": "cmp is a void type pointer variable.",
+        "c": "cmp is a function that return a void pointer.",
+        "d": "cmp function returns nothing.",
+        "answer": "cmp is a function that return a void pointer."
+    },
+    {
+        "question": "Declare the following statement?\r\n\"A pointer to a function which receives nothing and returns nothing\".",
+        "a": "void *(ptr)*int;",
+        "b": "void *(*ptr)()",
+        "c": "void *(*ptr)(*)",
+        "d": "void (*ptr)()",
+        "answer": "void (*ptr)()"
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nint *f();",
+        "a": "f is a pointer variable of function type.",
+        "b": "f is a function returning pointer to an int.",
+        "c": "f is a function pointer.",
+        "d": "f is a simple declaration of pointer variable.",
+        "answer": "f is a function returning pointer to an int."
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nvoid (*cmp)();",
+        "a": "cmp is a pointer to an void function type.",
+        "b": "cmp is a void type pointer function.",
+        "c": "cmp is a function that return a void pointer.",
+        "d": "cmp is a pointer to a function which returns void .",
+        "answer": "cmp is a pointer to a function which returns void ."
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nchar **argv;",
+        "a": "argv is a pointer to pointer.",
+        "b": "argv is a pointer to a char pointer.",
+        "c": "argv is a function pointer.",
+        "d": "argv is a member of function pointer.",
+        "answer": "argv is a pointer to a char pointer."
+    },
+    {
+        "question": "What do the following declaration signify?\r\n\r\nchar *scr;",
+        "a": "scr is a pointer to pointer variable.",
+        "b": "scr is a function pointer.",
+        "c": "scr is a pointer to char.",
+        "d": "scr is a member of function pointer.",
+        "answer": "scr is a pointer to char."
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char far *near *ptr1;\r\n    char far *far *ptr2;\r\n    char far *huge *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(ptr2), sizeof(ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 8",
+        "b": "4, 4, 4",
+        "c": "2, 4, 4",
+        "d": "2, 4, 8",
+        "answer": "2, 4, 4"
+    },
+    {
+        "question": "What will be the output of the program in DOS (Compiler - Turbo C)?\r\n#include<stdio.h>\r\ndouble i;\r\nint main()\r\n{\r\n    (int)(float)(char) i;\r\n    printf(\"%d\", sizeof((int)(float)(char)i));\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "8",
+        "answer": "2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char huge *near *far *ptr1;\r\n    char near *far *huge *ptr2;\r\n    char far *huge *near *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(**ptr1), sizeof(ptr2), sizeof(*ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 4",
+        "b": "2, 2, 2",
+        "c": "2, 8, 4",
+        "d": "2, 4, 8",
+        "answer": "4, 4, 4"
+    },
+    {
+        "question": "What will be the output of the program (in Turbo C under DOS)?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char huge *near *far *ptr1;\r\n    char near *far *huge *ptr2;\r\n    char far *huge *near *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(ptr2), sizeof(ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 8",
+        "b": "2, 4, 4",
+        "c": "4, 4, 2",
+        "d": "2, 4, 8",
+        "answer": "4, 4, 2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\ntypedef void v;\r\ntypedef int i;\r\nint main()\r\n{\r\n    v fun(i, i);\r\n    fun(2, 3);\r\n    return 0;\r\n}\r\nv fun(i a, i b)\r\n{\r\n    i s=2;\r\n    float i;\r\n    printf(\"%d,\", sizeof(i));\r\n    printf(\" %d\", a*b*s);\r\n}",
+        "a": "2, 8",
+        "b": "4, 8",
+        "c": "2, 4",
+        "d": "4, 12",
+        "answer": "4, 12"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char huge *near *far *ptr1;\r\n    char near *far *huge *ptr2;\r\n    char far *huge *near *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(*ptr2), sizeof(**ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 4",
+        "b": "2, 4, 4",
+        "c": "4, 4, 2",
+        "d": "2, 4, 8",
+        "answer": "4, 4, 4"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\ntypedef unsigned long int uli;\r\ntypedef uli u;\r\nint main()\r\n{\r\n    uli a;\r\n    u b = -1;\r\n    a = -1;\r\n    printf(\"%lu, %lu\", a, b);\r\n    return 0;\r\n}",
+        "a": "4343445454, 4343445454",
+        "b": "4545455434, 4545455434",
+        "c": "4294967295, 4294967295",
+        "d": "Garbage values",
+        "answer": "4294967295, 4294967295"
+    },
+    {
+        "question": "What will be the output of the program in DOS (Compiler - Turbo C)?\r\n#include<stdio.h>\r\ndouble i;\r\nint main()\r\n{\r\n    (int)(float)(char) i;\r\n    printf(\"%d\",sizeof(i));\r\n    return 0;\r\n}",
+        "a": "4",
+        "b": "8",
+        "c": "16",
+        "d": "22",
+        "answer": "8"
+    },
+    {
+        "question": "What will be the output of the program under DOS?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char huge *near *far *ptr1;\r\n    char near *far *huge *ptr2;\r\n    char far *huge *near *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(**ptr2), sizeof(ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 4",
+        "b": "4, 2, 2",
+        "c": "2, 8, 4",
+        "d": "2, 4, 8",
+        "answer": "4, 2, 2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char huge *near *ptr1;\r\n    char huge *far *ptr2;\r\n    char huge *huge *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(ptr2), sizeof(ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 8",
+        "b": "2, 4, 4",
+        "c": "4, 4, 2",
+        "d": "2, 4, 8",
+        "answer": "2, 4, 4"
+    },
+    {
+        "question": "What will be the output of the program in Turbo C?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char near *near *ptr1;\r\n    char near *far *ptr2;\r\n    char near *huge *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(ptr2), sizeof(ptr3));\r\n    return 0;\r\n}",
+        "a": "4, 4, 8",
+        "b": "4, 4, 4",
+        "c": "2, 4, 8",
+        "d": "2, 4, 4",
+        "answer": "2, 4, 4"
+    },
+    {
+        "question": "Point out the error in the following program (in Turbo C under DOS).\r\n#include<stdio.h>\r\nunion emp\r\n{\r\n    int empno;\r\n    int age;\r\n};\r\n\r\nint main()\r\n{\r\n    union emp e = {10, 25};\r\n    printf(\"%d %d\", e.empno, e.age);\r\n    return 0;\r\n}",
+        "a": "Error: Lvalue required",
+        "b": "Error: Rvalue required",
+        "c": "Error: cannot initialize more than one union member.",
+        "d": "No error",
+        "answer": "Error: cannot initialize more than one union member."
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    static char *p = (char *)malloc(10);\r\n    return 0;\r\n}",
+        "a": "Error: Lvalue required",
+        "b": "Error: Rvalue required",
+        "c": "Error: invalid *p declaration",
+        "d": "No error",
+        "answer": "No error"
+    },
+    {
+        "question": "Point out the error in the following program.\r\n#include<stdio.h>\r\nvoid display(int (*ff)());\r\nint main()\r\n{\r\n    int show();\r\n    int (*f)();\r\n    f = show;\r\n    display(f);\r\n    return 0;\r\n}\r\nvoid display(int (*ff)())\r\n{\r\n    (*ff)();\r\n}\r\nint show()\r\n{\r\n    printf(\"NepalBIX\");\r\n}",
+        "a": "Error: invalid parameter in function display()",
+        "b": "Error: invalid function call f=show;",
+        "c": "No error and prints \"NepalBIX\"",
+        "d": "No error and prints nothing.",
+        "answer": "No error and prints \"NepalBIX\""
+    },
+    {
+        "question": "Does the data type of all elements in the union will be same.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "It is not necessary to typecast the address returned by malloc().\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "We can modify the pointers \"source\" as well as \"target\".\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Function can return a floating point number.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "We can allocate a 2-Dimensional array dynamically.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Is the following declaration correct?\r\ntypedef *void (*pfun)(**int, *float);",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Is the following declaration correct?\r\nchar (* ( *f())[])();",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Is the following declaration correct?\r\nchar far *far *ptr;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "\t\r\nIs the following declaration correct?\r\nvoid(*f)(int, void(*)());",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Are the following declarations same?\r\n\r\nchar far *far *scr;\r\nchar far far** scr;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

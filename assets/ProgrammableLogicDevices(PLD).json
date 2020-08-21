@@ -1,0 +1,106 @@
+[
+    {
+        "question": "Which type of PLD should be used to program basic logic functions?\r\n\r\n",
+        "a": "PLA",
+        "b": "PAL",
+        "c": "CPLD",
+        "d": "SLD",
+        "answer": "PAL"
+    },
+    {
+        "question": "The content of a simple programmable logic device (PLD) consists of:\r\n\r\n",
+        "a": "fuse-link arrays",
+        "b": "thousands of basic logic gates",
+        "c": "advanced sequential logic functions",
+        "d": "thousands of basic logic gates and advanced sequential logic functions",
+        "answer": "thousands of basic logic gates and advanced sequential logic functions"
+    },
+    {
+        "question": "Once a PAL has been programmed:\r\n\r\n",
+        "a": "it cannot be reprogrammed.",
+        "b": "its outputs are only active HIGHs",
+        "c": "its outputs are only active LOWs",
+        "d": "its logic capacity is lost",
+        "answer": "it cannot be reprogrammed."
+    },
+    {
+        "question": "The complex programmable logic device (CPLD) contains several PLD blocks and:\r\n\r\n",
+        "a": "field-programmable switches",
+        "b": "AND\/OR arrays",
+        "c": "a global interconnection matrix",
+        "d": "a language compiler",
+        "answer": "a global interconnection matrix"
+    },
+    {
+        "question": "PLAs, CPLDs, and FPGAs are all which type of device?\r\n\r\n",
+        "a": "SLD",
+        "b": "PLD",
+        "c": "EPROM",
+        "d": "SRAM",
+        "answer": "PLD"
+    },
+    {
+        "question": "The difference between a PLA and a PAL is:\r\n\r\n",
+        "a": "the PLA has a programmable OR plane and a programmable AND plane, while the PAL only has a programmable AND plane",
+        "b": "the PAL has a programmable OR plane and a programmable AND plane, while the PLA only has a programmable AND plane",
+        "c": "the PAL has more possible product terms than the PLA",
+        "d": "PALs and PLAs are the same thing.",
+        "answer": "the PLA has a programmable OR plane and a programmable AND plane, while the PAL only has a programmable AND plane"
+    },
+    {
+        "question": "There are five steps in the PLD prototyping process.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "SLDs and PLDs are digital logic ICs that can have their function changed through programming.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Both the AND and OR arrays in a PAL are programmable.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "CAD software can be used to create a detailed logic circuit that will perform like an actual PLD.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A FPGA is an array of programmable logic blocks that are interconnected by OR gates.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The OR array in a PAL is ________.\r\n\r\n",
+        "a": "fixed",
+        "b": "programmable",
+        "c": "nonexistent; there is no OR array in a PAL",
+        "d": "floating",
+        "answer": "fixed"
+    },
+    {
+        "question": "The basic programmable logic array (PLA) contains a set of _____ gates, _____ gates, and ______ gates.\r\n\r\n",
+        "a": "NOT, NAND, OR",
+        "b": "NOT, AND, OR",
+        "c": "NAND, AND, NOR",
+        "d": "OR, NOR, AND",
+        "answer": "NOT, AND, OR"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "question": "What will the SWAP macro in the following program be expanded to on preprocessing? will the code compile?\r\n#include<stdio.h>\r\n#define SWAP(a, b, c)(c t; t=a, a=b, b=t)\r\nint main()\r\n{\r\n    int x=10, y=20;\r\n    SWAP(x, y, int);\r\n    printf(\"%d %d\\n\", x, y);\r\n    return 0;\r\n}",
+        "a": "It compiles",
+        "b": "Compiles with an warning",
+        "c": "Not compile",
+        "d": "Compiles and print nothing",
+        "answer": "Not compile"
+    },
+    {
+        "question": "In which stage the following code\r\n#include<stdio.h>\r\ngets replaced by the contents of the file stdio.h",
+        "a": "During editing",
+        "b": "During linking",
+        "c": "During execution",
+        "d": "During preprocessing",
+        "answer": "During preprocessing"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define MAN(x, y) ((x)>(y)) ? (x):(y);\r\nint main()\r\n{\r\n    int i=10, j=5, k=0;\r\n    k = MAN(++i, j++);\r\n    printf(\"%d, %d, %d\\n\", i, j, k);\r\n    return 0;\r\n}",
+        "a": "12, 6, 12",
+        "b": "11, 5, 11",
+        "c": "11, 5, Garbage",
+        "d": "12, 6, Garbage",
+        "answer": "12, 6, 12"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define SQUARE(x) x*x\r\nint main()\r\n{\r\n    float s=10, u=30, t=2, a;\r\n    a = 2*(s-u*t)\/SQUARE(t);\r\n    printf(\"Result = %f\", a);\r\n    return 0;\r\n}",
+        "a": "Result = -100.000000",
+        "b": "Result = -25.000000",
+        "c": "Result = 0.000000",
+        "d": "Result = 100.000000",
+        "answer": "Result = -100.000000"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define SQR(x)(x*x)\r\nint main()\r\n{\r\n    int a, b=3;\r\n    a = SQR(b+2);\r\n    printf(\"%d\\n\", a);\r\n    return 0;\r\n}",
+        "a": "25",
+        "b": "11",
+        "c": "Error",
+        "d": "Garbage value",
+        "answer": "11"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define JOIN(s1, s2) printf(\"%s=%s %s=%s \\n\", #s1, s1, #s2, s2);\r\nint main()\r\n{\r\n    char *str1=\"Nepal\";\r\n    char *str2=\"BIX\";\r\n    JOIN(str1, str2);\r\n    return 0;\r\n}",
+        "a": "str1=NepalBIX str2=BIX",
+        "b": "str1=Nepal str2=BIX",
+        "c": "str1=Nepal str2=NepalBIX",
+        "d": "Error: in macro substitution",
+        "answer": "str1=Nepal str2=BIX"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define CUBE(x) (x*x*x)\r\nint main()\r\n{\r\n    int a, b=3;\r\n    a = CUBE(b++);\r\n    printf(\"%d, %d\\n\", a, b);\r\n    return 0;\r\n}",
+        "a": "9, 4",
+        "b": "27, 4",
+        "c": "27, 6",
+        "d": "Error",
+        "answer": "27, 6"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define PRINT(int) printf(\"int=%d, \", int);\r\nint main()\r\n{\r\n    int x=2, y=3, z=4;   \r\n    PRINT(x);\r\n    PRINT(y);\r\n    PRINT(z);\r\n    return 0;\r\n}",
+        "a": "int=2, int=3, int=4",
+        "b": "int=2, int=2, int=2",
+        "c": "int=3, int=3, int=3",
+        "d": "int=4, int=4, int=4",
+        "answer": "int=2, int=3, int=4"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define SWAP(a, b) int t; t=a, a=b, b=t;\r\nint main()\r\n{\r\n    int a=10, b=12;\r\n    SWAP(a, b);\r\n    printf(\"a = %d, b = %d\\n\", a, b);\r\n    return 0;\r\n}",
+        "a": "a = 10, b = 12",
+        "b": "a = 12, b = 10",
+        "c": "Error: Declaration not allowed in macro",
+        "d": "Error: Undefined symbol 't'",
+        "answer": "a = 12, b = 10"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define FUN(i, j) i##j\r\nint main()\r\n{\r\n    int va1=10;\r\n    int va12=20;\r\n    printf(\"%d\\n\", FUN(va1, 2));\r\n    return 0;\r\n}",
+        "a": "10",
+        "b": "20",
+        "c": "1020",
+        "d": "12",
+        "answer": "20"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define FUN(arg) do\\\r\n                 {\\\r\n                    if(arg)\\\r\n                        printf(\"NepalBIX...\", \"\\n\");\\\r\n                  }while(--i)\r\nint main()\r\n{\r\n    int i=2;\r\n    FUN(i<3);\r\n    return 0;\r\n}",
+        "a": "NepalBIX... NepalBIX... NepalBIX",
+        "b": "NepalBIX... NepalBIX...",
+        "c": "Error: cannot use control instructions in macro",
+        "d": "No output",
+        "answer": "NepalBIX... NepalBIX..."
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define MAX(a, b) (a > b ? a : b)\r\nint main()\r\n{\r\n    int x;\r\n    x = MAX(3+2, 2+7);\r\n    printf(\"%d\\n\", x);\r\n    return 0;\r\n}",
+        "a": "8",
+        "b": "9",
+        "c": "6",
+        "d": "5",
+        "answer": "9"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define MIN(x, y) (x<y)? x : y;\r\nint main()\r\n{\r\n    int x=3, y=4, z;\r\n    z = MIN(x+y\/2, y-1);\r\n    if(z > 0)\r\n        printf(\"%d\\n\", z);\r\n    return 0;\r\n}",
+        "a": "3",
+        "b": "4",
+        "c": "0",
+        "d": "No output",
+        "answer": "3"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define str(x) #x\r\n#define Xstr(x) str(x)\r\n#define oper multiply\r\nint main()\r\n{\r\n    char *opername = Xstr(oper);\r\n    printf(\"%s\\n\", opername);\r\n    return 0;\r\n}",
+        "a": "Error: in macro substitution",
+        "b": "Error: invalid reference 'x' in macro",
+        "c": "print 'multiply'",
+        "d": "No output",
+        "answer": "print 'multiply'"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define MESS junk\r\nint main()\r\n{\r\n    printf(\"MESS\\n\");\r\n    return 0;\r\n}",
+        "a": "junk",
+        "b": "MESS",
+        "c": "Error",
+        "d": "Nothing will print",
+        "answer": "MESS"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define PRINT(i) printf(\"%d,\",i)\r\nint main()\r\n{\r\n    int x=2, y=3, z=4;\r\n    PRINT(x);\r\n    PRINT(y);\r\n    PRINT(z);\r\n    return 0;\r\n}",
+        "a": "2, 3, 4,",
+        "b": "2, 2, 2,",
+        "c": "3, 3, 3,",
+        "d": "4, 4, 4,",
+        "answer": "2, 3, 4,"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\n#define MAX(a, b, c) (a>b ? a>c ? a : c: b>c ? b : c)\r\nint main()\r\n{\r\n    int x;\r\n    x = MAX(3+2, 2+7, 3+7);\r\n    printf(\"%d\\n\", x);\r\n    return 0;\r\n}",
+        "a": "5",
+        "b": "9",
+        "c": "10",
+        "d": "3+7",
+        "answer": "10"
+    },
+    {
+        "question": "Point out the error in the program\r\n#include<stdio.h>\r\n#define SI(p, n, r) float si; si=p*n*r\/100;\r\nint main()\r\n{\r\n    float p=2500, r=3.5;\r\n    int n=3;\r\n    SI(p, n, r);\r\n    SI(1500, 2, 2.5);\r\n    return 0;\r\n}",
+        "a": "26250.00 7500.00",
+        "b": "Nothing will print",
+        "c": "Error: Multiple declaration of si",
+        "d": "Garbage values",
+        "answer": "Error: Multiple declaration of si"
+    },
+    {
+        "question": "Point out the error in the program\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    #if A\r\n        printf(\"Enter any number:\");\r\n        scanf(\"%d\", &i);\r\n    #elif B\r\n        printf(\"The number is odd\");\r\n    return 0;\r\n}",
+        "a": "Error: unexpected end of file because there is no matching #endif",
+        "b": "The number is odd",
+        "c": "Garbage values",
+        "d": "None of above",
+        "answer": "Error: unexpected end of file because there is no matching #endif"
+    },
+    {
+        "question": "Which of the following are correctly formed #define statements in C?\r\n\r\n",
+        "a": "#define CUBE (X) (X*X*X);",
+        "b": "#define CUBE(x) (X*X*X)",
+        "c": "#define CUBE(X)(X*X*X)",
+        "d": "#define CUBE(X) {X*X*X}",
+        "answer": "#define CUBE(X)(X*X*X)"
+    },
+    {
+        "question": "If the file to be included doesn't exist, the preprocessor flashes an error message.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Preprocessor directive #undef can be used only on a macro that has been #define earlier\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "There exists a way to prevent the same file from getting #included twice in the same program.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A preprocessor directive is a message from programmer to the preprocessor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Macro calls and function calls work exactly similarly.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A macro must always be defined in capital letters.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Macros have a local scope.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Every C program will contain at least one preprocessor directive.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Preprocessor directive #ifdef .. #else ... #endif is used for conditional compilation.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Macros with arguments are allowed\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a macro call the control is passed to the macro.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A header file contains macros, structure declaration and function prototypes.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The preprocessor can trap simple errors like missing declarations, nested comments or mismatch of braces.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A preprocessor directive is a message from compiler to a linker.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Once preprocessing is over and the program is sent for the compilation the macros are removed from the expanded source code.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Will the program compile successfully?\r\n#include<stdio.h>\r\n#define X (4+Y)\r\n#define Y (X+3)\r\nint main()\r\n{\r\n    printf(\"%d\\n\", 4*X+2);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Would the following typedef work?\r\ntypedef #include l;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the program compile successfully?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"Nepal\" \"BIX\\n\");\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "It is necessary that a header files should have a .h extension?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the program compile successfully?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    #ifdef NOTE\r\n        int a;\r\n        a=10;\r\n    #else\r\n        int a;\r\n        a=20;\r\n    #endif\r\n    printf(\"%d\\n\", a);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Will the following program print the message infinite number of times?\r\n#include<stdio.h>\r\n#define INFINITELOOP while(1)\r\nint main()\r\n{\r\n    INFINITELOOP\r\n    printf(\"NepalBIX\");\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Will it result in to an error if a header file is included twice?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "It is compiler dependent.",
+        "d": "",
+        "answer": "It is compiler dependent."
+    }
+]

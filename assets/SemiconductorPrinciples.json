@@ -1,0 +1,322 @@
+[
+    {
+        "question": "Intrinsic semiconductor material is characterized by a valence shell of how many electrons?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "6",
+        "answer": "4"
+    },
+    {
+        "question": "Ionization within a P-N junction causes a layer on each side of the barrier called the:\r\n\r\n",
+        "a": "junction",
+        "b": "depletion region",
+        "c": "barrier voltage",
+        "d": "forward voltage",
+        "answer": "depletion region"
+    },
+    {
+        "question": "What is the most significant development in electronics since World War II?\r\n\r\n",
+        "a": "the development of color TV",
+        "b": "the development of the diode",
+        "c": "the development of the transistor",
+        "d": "the development of the TRIAC",
+        "answer": "the development of the transistor"
+    },
+    {
+        "question": "What causes the depletion region?\r\n\r\n",
+        "a": "doping",
+        "b": "diffusion",
+        "c": "barrier potential",
+        "d": "ions",
+        "answer": "diffusion"
+    },
+    {
+        "question": "What is an energy gap?\r\n\r\n",
+        "a": "the space between two orbital shells",
+        "b": "the energy equal to the energy acquired by an electron passing a 1 V electric field",
+        "c": "the energy band in which electrons can move freely",
+        "d": "an energy level at which an electron can exist",
+        "answer": "the space between two orbital shells"
+    },
+    {
+        "question": "Silicon atoms combine into an orderly pattern called a:\r\n\r\n",
+        "a": "covalent bond",
+        "b": "crystal",
+        "c": "semiconductor",
+        "d": "valence orbit",
+        "answer": "crystal"
+    },
+    {
+        "question": "In \"n\" type material, majority carriers would be:\r\n\r\n",
+        "a": "holes",
+        "b": "dopants",
+        "c": "slower",
+        "d": "electrons",
+        "answer": "electrons"
+    },
+    {
+        "question": "Elements with 1, 2, or 3 valence electrons usually make excellent:\r\n\r\n",
+        "a": "conductors",
+        "b": "semiconductors",
+        "c": "insulators",
+        "d": "neutral",
+        "answer": "conductors"
+    },
+    {
+        "question": "A commonly used pentavalent material is:\r\n\r\n",
+        "a": "arsenic",
+        "b": "boron",
+        "c": "gallium",
+        "d": "neon",
+        "answer": "arsenic"
+    },
+    {
+        "question": "Which material may also be considered a semiconductor element?\r\n\r\n",
+        "a": "carbon",
+        "b": "ceramic",
+        "c": "mica",
+        "d": "argon",
+        "answer": "carbon"
+    },
+    {
+        "question": "In \"p\" type material, minority carriers would be:\r\n\r\n",
+        "a": "holes",
+        "b": "dopants",
+        "c": "slower",
+        "d": "electrons",
+        "answer": "electrons"
+    },
+    {
+        "question": "What can a semiconductor sense?\r\n\r\n",
+        "a": "magnetism",
+        "b": "temperature",
+        "c": "pressure",
+        "d": "all of the above",
+        "answer": "all of the above"
+    },
+    {
+        "question": "When an electron jumps from the valence shell to the conduction band, it leaves a gap. What is this gap called?\r\n\r\n",
+        "a": "energy gap",
+        "b": "hole",
+        "c": "electron-hole pair",
+        "d": "recombination",
+        "answer": "hole"
+    },
+    {
+        "question": "Forward bias of a silicon P-N junction will produce a barrier voltage of approximately how many volts?\r\n\r\n",
+        "a": "0.2",
+        "b": "0.3",
+        "c": "0.7",
+        "d": "0.8",
+        "answer": "0.7"
+    },
+    {
+        "question": "Which semiconductor material is made from coal ash?\r\n\r\n",
+        "a": "germanium",
+        "b": "silicon",
+        "c": "tin",
+        "d": "carbon",
+        "answer": "germanium"
+    },
+    {
+        "question": "When and who discovered that more than one transistor could be constructed on a single piece of semiconductor material:\r\n\r\n",
+        "a": "1949, William Schockley",
+        "b": "1955, Walter Bratten",
+        "c": "1959, Robert Noyce",
+        "d": "1960, John Bardeen",
+        "answer": "1959, Robert Noyce"
+    },
+    {
+        "question": "When is a P-N junction formed?\r\n\r\n",
+        "a": "in a depletion region",
+        "b": "in a large reverse biased region",
+        "c": "the point at which two opposite doped materials come together",
+        "d": "whenever there is a forward voltage drop",
+        "answer": "the point at which two opposite doped materials come together"
+    },
+    {
+        "question": "A P-N junction mimics a closed switch when it:\r\n\r\n",
+        "a": "has a low junction resistance",
+        "b": "is reverse biased",
+        "c": "cannot overcome its barrier voltage",
+        "d": "has a wide depletion region",
+        "answer": "has a low junction resistance"
+    },
+    {
+        "question": "Solid state devices were first manufactured during:\r\n\r\n",
+        "a": "World War 2",
+        "b": "1904",
+        "c": "1907",
+        "d": "1960",
+        "answer": "1960"
+    },
+    {
+        "question": "Electron pair bonding occurs when atoms:\r\n\r\n",
+        "a": "lack electrons",
+        "b": "share holes",
+        "c": "lack holes",
+        "d": "share electrons",
+        "answer": "share electrons"
+    },
+    {
+        "question": "How many valence electrons are in every semiconductor material?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "4"
+    },
+    {
+        "question": "What is a type of doping material?\r\n\r\n",
+        "a": "extrinsic semiconductor material",
+        "b": "pentavalent material",
+        "c": "n-type semiconductor",
+        "d": "majority carriers",
+        "answer": "pentavalent material"
+    },
+    {
+        "question": "Minority carriers are many times activated by:\r\n\r\n",
+        "a": "heat",
+        "b": "pressure",
+        "c": "dopants",
+        "d": "forward bias",
+        "answer": "heat"
+    },
+    {
+        "question": "mcq10_1012_1.gifWhat is the voltage across R1 if the P-N junction is made of silicon?\r\n",
+        "a": "12 V",
+        "b": "11.7 V",
+        "c": "11.3 V",
+        "d": "0 V",
+        "answer": "11.3 V"
+    },
+    {
+        "question": "If conductance increases as temperature increases, this is known as a:\r\n\r\n",
+        "a": "positive coefficient",
+        "b": "negative current flow",
+        "c": "negative coefficient",
+        "d": "positive resistance",
+        "answer": "negative coefficient"
+    },
+    {
+        "question": "Which of the following cannot actually move?\r\n\r\n",
+        "a": "majority carriers",
+        "b": "ions",
+        "c": "holes",
+        "d": "free electrons",
+        "answer": "ions"
+    },
+    {
+        "question": "What electrical characteristic of intrinsic semiconductor material is controlled by the addition of impurities?\r\n\r\n",
+        "a": "conductivity",
+        "b": "resistance",
+        "c": "power",
+        "d": "all of the above",
+        "answer": "conductivity"
+    },
+    {
+        "question": "The forward voltage drop for a germanium transistor is 0.7 V and for a silicon transistor is 0.3 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When a depletion region of a transistor is large the barrier voltage is also large.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The first integrated circuit was invented in 1959.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A covalent bond is when atoms lose valence shell electrons.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When a voltage is placed across a semiconductor, free electrons move toward the negative voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The first transistor was invented in 1938.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Germanium is the most widely used semiconductor material because of its stability at high temperatures.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The natural elements carbon, germanium, and silicon are semiconductors.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The P-N junction is a barrier to electron flow.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The number of electrons in the outer shell of carbon, germanium, and silicon is 5.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The n-type semiconductor material is doped by adding material with electron holes.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Reverse bias is a condition that essentially ___________ current through the diode.\r\n\r\n",
+        "a": "allows",
+        "b": "prevents",
+        "c": "increases",
+        "d": "blocks",
+        "answer": "prevents"
+    },
+    {
+        "question": "Atoms that normally have three electrons in their outer shell are called __________________ atoms.\r\n\r\n",
+        "a": "trivalent",
+        "b": "pentavalent",
+        "c": "tetravalent",
+        "d": "charged",
+        "answer": "trivalent"
+    }
+]

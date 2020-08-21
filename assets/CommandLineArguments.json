@@ -1,0 +1,242 @@
+[
+    {
+        "question": "The maximum combined length of the command-line arguments including the spaces between adjacent arguments is\r\n\r\n",
+        "a": "128 characters",
+        "b": "256 characters",
+        "c": "67 characters",
+        "d": "It may vary from one operating system to another",
+        "answer": "It may vary from one operating system to another"
+    },
+    {
+        "question": "What do the 'c' and 'v' in argv stands for?\r\n\r\n",
+        "a": "'c' means argument control 'v' means argument vector",
+        "b": "'c' means argument count 'v' means argument vertex",
+        "c": "'c' means argument count 'v' means argument vector",
+        "d": "'c' means argument configuration 'v' means argument visibility",
+        "answer": "'c' means argument count 'v' means argument vector"
+    },
+    {
+        "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?\r\ncmd> myprog one two three\r\n\/* myprog.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char **argv)\r\n{\r\n    printf(\"%c\\n\", **++argv);\r\n    return 0;\r\n}",
+        "a": "myprog one two three",
+        "b": "myprog one",
+        "c": "o",
+        "d": "two",
+        "answer": "o"
+    },
+    {
+        "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?\r\ncmd> myprog one two three\r\n\/* myprog.c *\/\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main(int argc, char **argv)\r\n{\r\n    printf(\"%s\\n\", *++argv);\r\n    return 0;\r\n}",
+        "a": "myprog",
+        "b": "one",
+        "c": "two",
+        "d": "three",
+        "answer": "one"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line (Turbo C in DOS)?\r\ncmd> sample 1 2 3\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    int j;\r\n    j = argv[1] + argv[2] + argv[3];\r\n    printf(\"%d\", j);\r\n    return 0;\r\n}",
+        "a": "6",
+        "b": "sample 6",
+        "c": "Error",
+        "d": "Garbage value",
+        "answer": "Error"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line (turbo c under DOS)?\r\ncmd> sample Good Morning\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    printf(\"%d %s\", argc, argv[1]);\r\n    return 0;\r\n}",
+        "a": "3 Good",
+        "b": "2 Good",
+        "c": "Good Morning",
+        "d": "3 Morning",
+        "answer": "3 Good"
+    },
+    {
+        "question": "What will be the output of the program\r\n#include<stdio.h>\r\nvoid fun(int);\r\nint main(int argc)\r\n{\r\n    printf(\"%d \", argc);\r\n    fun(argc);\r\n    return 0;\r\n}\r\nvoid fun(int i)\r\n{\r\n    if(i!=4)\r\n        main(++i);\r\n}",
+        "a": "1 2 3",
+        "b": "1 2 3 4",
+        "c": "2 3 4",
+        "d": "1",
+        "answer": "1 2 3 4"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample \"*.c\"\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, int *argv)\r\n{\r\n    int i;\r\n    for(i=1; i<argc; i++)\r\n        printf(\"%s\\n\", argv[i]);\r\n    return 0;\r\n}",
+        "a": "*.c",
+        "b": "\"*.c\"",
+        "c": "sample *.c",
+        "d": "List of all files and folders in the current directory",
+        "answer": "*.c"
+    },
+    {
+        "question": "What will be the output of the program if it is executed like below?\r\ncmd> sample\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char **argv)\r\n{\r\n    printf(\"%s\\n\", argv[argc-1]);\r\n    return 0;\r\n}",
+        "a": "0",
+        "b": "sample",
+        "c": "samp",
+        "d": "No output",
+        "answer": "sample"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample friday tuesday sunday\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    printf(\"%c\", **++argv);\r\n    return 0;\r\n}",
+        "a": "s",
+        "b": "f",
+        "c": "sample",
+        "d": "friday",
+        "answer": "f"
+    },
+    {
+        "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?\r\ncmd> myprog friday tuesday sunday\r\n\/* myprog.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    printf(\"%c\", *++argv[1]);\r\n    return 0;\r\n}",
+        "a": "r",
+        "b": "f",
+        "c": "m",
+        "d": "y",
+        "answer": "r"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample one two three\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    int i=0;\r\n    i+=strlen(argv[1]);\r\n    while(i>0)\r\n    {\r\n        printf(\"%c\", argv[1][--i]);\r\n    }\r\n    return 0;\r\n}",
+        "a": "three two one",
+        "b": "owt",
+        "c": "eno",
+        "d": "eerht",
+        "answer": "eno"
+    },
+    {
+        "question": "What will be the output of the program in Turbo C?\r\n#include<stdio.h>\r\nint main(int argc, char *argv, char *env[])\r\n{\r\n    int i;\r\n    for(i=1; i<argc; i++)\r\n        printf(\"%s\\n\", env[i]);\r\n    return 0;\r\n}",
+        "a": "List of all environment variables",
+        "b": "List of all command-line arguments",
+        "c": "count of command-line arguments",
+        "d": "Error: cannot have more than two arguments in main()",
+        "answer": "List of all environment variables"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample Jan Feb Mar\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\n#include<dos.h>\r\nint main(int arc, char *arv[])\r\n{\r\n    int i;\r\n    for(i=1; i<_argc; i++)\r\n        printf(\"%s \", _argv[i]);\r\n    return 0;\r\n}",
+        "a": "No output",
+        "b": "sample Jan Feb Mar",
+        "c": "Jan Feb Mar",
+        "d": "Error",
+        "answer": "Jan Feb Mar"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample monday tuesday wednesday thursday\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    while(--argc>0)\r\n        printf(\"%s\", *++argv);\r\n    return 0;\r\n}",
+        "a": "sample monday tuesday wednesday thursday",
+        "b": "monday tuesday wednesday thursday",
+        "c": "monday tuesday thursday",
+        "d": "tuesday",
+        "answer": "monday tuesday wednesday thursday"
+    },
+    {
+        "question": "If the following program (myproc.c) is present in the directory \"C:\\TC\" then what will be output of the program if run it from DOS shell?\r\n\/* myproc.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    printf(\"%s\", argv[0]);\r\n    return 0;\r\n}",
+        "a": "SAMPLE.C",
+        "b": "C:\\TC\\MYPROC.EXE",
+        "c": "C:\\TC",
+        "d": "Error",
+        "answer": "C:\\TC\\MYPROC.EXE"
+    },
+    {
+        "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?\r\ncmd> myprog one two three\r\n\/* myprog.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    int i;\r\n    for(i=1; i<argc; i++)\r\n        printf(\"%c\", argv[i][0]);\r\n    return 0;\r\n}",
+        "a": "oot",
+        "b": "ott",
+        "c": "nwh",
+        "d": "eoe",
+        "answer": "ott"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample 1 2 3\r\ncmd> sample 2 2 3\r\ncmd> sample 3 2 3\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    printf(\"%s\\n\", argv[0]);\r\n    return 0;\r\n}",
+        "a": "sample 3 2 3",
+        "b": "sample 1 2 3",
+        "c": "sample",
+        "d": "Error",
+        "answer": "sample"
+    },
+    {
+        "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?\r\ncmd> myprog 1 2 3\r\n\/* myprog.c *\/\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main(int argc, char **argv)\r\n{\r\n    int i, j=0;\r\n    for(i=0; i<argc; i++)\r\n        j = j+atoi(argv[i]);\r\n    printf(\"%d\\n\", j);\r\n    return 0;\r\n}",
+        "a": "123",
+        "b": "6",
+        "c": "Error",
+        "d": "\"123\"",
+        "answer": "6"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample friday tuesday sunday\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int sizeofargv, char *argv[])\r\n{\r\n    while(sizeofargv)\r\n        printf(\"%s\", argv[--sizeofargv]);\r\n    return 0;\r\n}",
+        "a": "sample friday tuesday sunday",
+        "b": "sample friday tuesday",
+        "c": "sunday tuesday friday sample",
+        "d": "sunday tuesday friday",
+        "answer": "sunday tuesday friday sample"
+    },
+    {
+        "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?\r\ncmd> sample friday tuesday sunday\r\n\/* sample.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char *argv[])\r\n{\r\n    printf(\"%c\", *++argv[2] );\r\n    return 0;\r\n}",
+        "a": "s",
+        "b": "f",
+        "c": "u",
+        "d": "r",
+        "answer": "u"
+    },
+    {
+        "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?\r\ncmd> myprog 10 20 30\r\n\/* myprog.c *\/\r\n#include<stdio.h>\r\nint main(int argc, char **argv)\r\n{\r\n    int i;\r\n    for(i=0; i<argc; i++)\r\n        printf(\"%s\\n\", argv[i]);\r\n    return 0;\r\n}",
+        "a": "10 20 30",
+        "b": "myprog 10 20",
+        "c": "myprog 10 20 30",
+        "d": "10 20",
+        "answer": "myprog 10 20 30"
+    },
+    {
+        "question": "Which of the following is TRUE about argv?\r\n\r\n",
+        "a": "It is an array of character pointers",
+        "b": "It is a pointer to an array of character pointers",
+        "c": "It is an array of strings",
+        "d": "None of above",
+        "answer": "It is an array of character pointers"
+    },
+    {
+        "question": "Which of the following statements are FALSE about the below code?\r\n\r\nint main(int ac, char *av[])\r\n{\r\n}",
+        "a": "ac contains count of arguments supplied at command-line",
+        "b": "av[] contains addresses of arguments supplied at a command line",
+        "c": "In place of ac and av, argc and argv should be used.",
+        "d": "The variables ac and av are always local to main()",
+        "answer": "In place of ac and av, argc and argv should be used."
+    },
+    {
+        "question": "Every time we supply new set of values to the program at command prompt, we need to recompile the program.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Even if integer\/float arguments are supplied at command prompt they are treated as strings.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The first argument to be supplied at command-line must always be count of total arguments.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "In Turbo C\/C++ under DOS if we want that any wild card characters in the command-line arguments should be appropriately expanded, are we required to make any special provision?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "If the different command line arguments are supplied at different times would the output of the following program change?\r\n#include<stdio.h>\r\nint main(int argc, char **argv)\r\n{\r\n    printf(\"%d\\n\", argv[argc]);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Does there exist any way to make the command-line arguments available to other functions without passing them as arguments to the function?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    }
+]

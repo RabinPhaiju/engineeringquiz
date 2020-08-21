@@ -1,0 +1,282 @@
+[
+    {
+        "question": "What device is similar to an RTD but has a negative temperature coefficient?\r\n\r\n",
+        "a": "Strain gauge",
+        "b": "Thermistor",
+        "c": "Negative-type RTD",
+        "d": "Thermocouple",
+        "answer": "Thermistor"
+    },
+    {
+        "question": "The resistive change of a strain gauge\r\n\r\n",
+        "a": "is based on the weight placed upon it, but can be many thousands of ohms",
+        "b": "is usually no more than 100 ohm",
+        "c": "is based on the gauge factor, but is typically less than an ohm",
+        "d": "has a positive temperature coefficient",
+        "answer": "is based on the gauge factor, but is typically less than an ohm"
+    },
+    {
+        "question": "The silicon-controlled rectifier can be turned off\r\n\r\n",
+        "a": "by a negative gate pulse",
+        "b": "by forced commutation",
+        "c": "with the off switch",
+        "d": "when the breakover voltage is exceeded",
+        "answer": "by forced commutation"
+    },
+    {
+        "question": "The output voltage of a typical thermocouple is\r\n\r\n",
+        "a": "less than 100 mV",
+        "b": "greater than 1 V",
+        "c": "Thermocouples vary resistance, not voltage.",
+        "d": "None of the above",
+        "answer": "less than 100 mV"
+    },
+    {
+        "question": "The connections to a thermocouple\r\n\r\n",
+        "a": "can produce an unwanted thermocouple effect, which must be compensated for",
+        "b": "produce an extra desirable thermocouple effect",
+        "c": "must be protected, since high voltages are present",
+        "d": "produce an extra desirable thermocouple effect and must be protected, since high voltages are present",
+        "answer": "can produce an unwanted thermocouple effect, which must be compensated for"
+    },
+    {
+        "question": "What is the zero-voltage switch used for?\r\n\r\n",
+        "a": "To reduce radiation of high frequencies during turn-on of a high current to a load",
+        "b": "To control low-voltage circuits",
+        "c": "To provide power to a circuit when power is lost",
+        "d": "For extremely low-voltage applications",
+        "answer": "To reduce radiation of high frequencies during turn-on of a high current to a load"
+    },
+    {
+        "question": "Temperature sensing can be achieved by the use of\r\n\r\n",
+        "a": "thermocouples",
+        "b": "RTDs",
+        "c": "thermistors",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The purpose of compensation for a thermocouple is\r\n\r\n",
+        "a": "to decrease temperature sensitivity",
+        "b": "to increase voltage output",
+        "c": "to cancel unwanted voltage output of a thermocouple",
+        "d": "used for high-temperature circuits",
+        "answer": "to cancel unwanted voltage output of a thermocouple"
+    },
+    {
+        "question": "The change in value of an analog signal during the conversion process produces what is called the\r\n\r\n",
+        "a": "quantization error",
+        "b": "resolution error",
+        "c": "Nyquist error",
+        "d": "sampling error",
+        "answer": "quantization error"
+    },
+    {
+        "question": "Which of the following performance specifications applies to a sample-and-hold circuit?\r\n\r\n",
+        "a": "Aperture time",
+        "b": "Aperture droop",
+        "c": "Feedback",
+        "d": "Acquisition jitter",
+        "answer": "Aperture time"
+    },
+    {
+        "question": "RTDs are typically connected with other fixed resistors\r\n\r\n",
+        "a": "in a pi configuration",
+        "b": "in a bridge configuration",
+        "c": "and variable resistors",
+        "d": "and capacitors in a filter-type circuit",
+        "answer": "in a bridge configuration"
+    },
+    {
+        "question": "Holding current for an SCR is best described as\r\n\r\n",
+        "a": "the minimum current required for turn-off",
+        "b": "the current required before an SCR will turn on",
+        "c": "the amount of current required to maintain conduction",
+        "d": "the gate current required to maintain conduction",
+        "answer": "the amount of current required to maintain conduction"
+    },
+    {
+        "question": "What is the moving part of a linear variable differential transformer?\r\n\r\n",
+        "a": "Primary",
+        "b": "Secondary",
+        "c": "Diaphragm",
+        "d": "Core",
+        "answer": "Core"
+    },
+    {
+        "question": "A resistance temperature detector produces a voltage for a given change in temperature.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The triac provides better dc power control than the SCR.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The SCR is ideal for ac applications.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Displacement, velocity, and acceleration can all be measured by using specific motion transducers.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A strain gauge uses the principle of capacitance for its operation.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Thermocouple connections must be taken into account to ensure a high degree of accuracy.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The change in value of the analog signal during the sampling process produces what is called the quantization error.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Pressure transducers are devices that exhibit a change in resistance inversely proportional to a change in pressure.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A basic sample-and-hold circuit consists of an analog switch, a capacitor, and an instrumentation amplifier.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Noncontacting displacement transducers include optical and capacitive transducers.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "All triacs operate in __________.\r\n\r\n",
+        "a": "quadrant 1 and quadrant 2",
+        "b": "quadrant 1 and quadrant 3",
+        "c": "quadrant 2 and quadrant 4",
+        "d": "quadrant 3 and quadrant 4",
+        "answer": "quadrant 1 and quadrant 3"
+    },
+    {
+        "question": "The number of bits in a digital word determines the number of digital combinations that will be represented. The number of combinations can be calculated by ________.\r\n\r\n",
+        "a": "raising 2 to the number of bits in the analog word",
+        "b": "raising 2 to the number of bits in the digital word",
+        "c": "multiplying 2 by the number of bits in the analog word",
+        "d": "determining the range of the analog word",
+        "answer": "raising 2 to the number of bits in the digital word"
+    },
+    {
+        "question": "A(n) _____ can be rapidly switched on and off remotely by another controlling circuit.\r\n\r\n",
+        "a": "triac",
+        "b": "diac",
+        "c": "RTD",
+        "d": "zero-voltage switch",
+        "answer": "triac"
+    },
+    {
+        "question": "A sample-and-hold circuit consists of _________.\r\n\r\n",
+        "a": "an op-amp, an analog switch, and an inductor",
+        "b": "an op-amp, an analog switch, and a capacitor",
+        "c": "two op-amps, an analog switch, and a variable resistor",
+        "d": "two op-amps, an analog switch, and a capacitor",
+        "answer": "two op-amps, an analog switch, and a capacitor"
+    },
+    {
+        "question": "two op-amps, an analog switch, and a capacitor\r\n",
+        "a": "resistive",
+        "b": "inductive",
+        "c": "capacitive",
+        "d": "solid-state",
+        "answer": "resistive"
+    },
+    {
+        "question": "A thermistor's temperature characteristic is essentially _________.\r\n\r\n",
+        "a": "linear",
+        "b": "logarithmic",
+        "c": "nonlinear",
+        "d": "geometric",
+        "answer": "logarithmic"
+    },
+    {
+        "question": "The three types of relative pressure measurement are ________.\r\n\r\n",
+        "a": "exact, reflective, and referenced",
+        "b": "absolute, exact, and differential",
+        "c": "absolute, gauge, and reflective",
+        "d": "absolute, gauge, and differential",
+        "answer": "absolute, gauge, and differential"
+    },
+    {
+        "question": "The two most common types of analog-to-digital converters discussed in this chapter were the ______.\r\n\r\n",
+        "a": "linear converter and the analog converter",
+        "b": "linear converter and the successive approximation converter",
+        "c": "flash converter and the analog converter",
+        "d": "flash converter and the successive approximation converter",
+        "answer": "flash converter and the successive approximation converter"
+    },
+    {
+        "question": "The voltage produced by a thermocouple is called the _________.\r\n\r\n",
+        "a": "hot junction voltage",
+        "b": "cold junction voltage",
+        "c": "Seebeck voltage",
+        "d": "Hooke voltage",
+        "answer": "Seebeck voltage"
+    },
+    {
+        "question": "The ________ are two types of acceleration transducers.\r\n\r\n",
+        "a": "LVDT and the piezoelectric",
+        "b": "magnetic and the piezoelectric",
+        "c": "RTD and the magnetic",
+        "d": "LVDT and the RTD",
+        "answer": "LVDT and the piezoelectric"
+    },
+    {
+        "question": "A triac is different from an SCR because ________.\r\n\r\n",
+        "a": "it can handle large current flows",
+        "b": "it can handle large voltages",
+        "c": "the gate signal can turn off the current flow",
+        "d": "it allows current flow in both directions",
+        "answer": "it allows current flow in both directions"
+    },
+    {
+        "question": "The ______ is composed of a transformer with a movable core, a primary, and two secondaries.\r\n\r\n",
+        "a": "LVDT",
+        "b": "strain gauge",
+        "c": "accelerometer",
+        "d": "transformer displacement sensor",
+        "answer": "LVDT"
+    }
+]

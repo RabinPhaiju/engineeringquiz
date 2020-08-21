@@ -1,0 +1,1898 @@
+[
+    {
+        "question": "A program language:\r\n\r\n",
+        "a": "defines the form of the instruction",
+        "b": "is always machine dependent",
+        "c": "is never machine dependent",
+        "d": "All of the above",
+        "answer": "defines the form of the instruction"
+    },
+    {
+        "question": "Which of the following symbol modes are used to input of graphics to General CAD system?\r\n\r\n",
+        "a": "Live and Rectangle mode",
+        "b": "Arc and Circle mode",
+        "c": "Dimension and Alphanumeric mode",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which technique enables the designer to mold and shape, rather than construct on object using a series of lines?\r\n\r\n",
+        "a": "Solid modeling",
+        "b": "Wire-frame modeling",
+        "c": "Surface modeling",
+        "d": "FEM (Finite Element Modeling)",
+        "answer": "Solid modeling"
+    },
+    {
+        "question": "Computer-based controllers:\r\n\r\n",
+        "a": "should be built in a modular fashion wherever possible",
+        "b": "are very difficult to change",
+        "c": "are very flexible",
+        "d": "(a) and (c) above",
+        "answer": "(a) and (c) above"
+    },
+    {
+        "question": "Flood guns bombard the phosphor surface of the tube in which one of the following types of CRT technology?\r\n\r\n",
+        "a": "Direct view storage tube",
+        "b": "Raster scan CRT",
+        "c": "Refresh-vector CRT",
+        "d": "Stroke CRT",
+        "answer": "Direct view storage tube"
+    },
+    {
+        "question": "Automation normally means:\r\n\r\n",
+        "a": "a net loss of jobs.",
+        "b": "a net increase in jobs.",
+        "c": "no change in jobs.",
+        "d": "All of the above",
+        "answer": "a net increase in jobs."
+    },
+    {
+        "question": "Trend analysis:\r\n\r\n",
+        "a": "is used only in financial planning",
+        "b": "can improve control system response",
+        "c": "requires a very expensive system to implement",
+        "d": "is a brand new concept",
+        "answer": "can improve control system response"
+    },
+    {
+        "question": "The use of specialized workstations:\r\n\r\n",
+        "a": "provides limited growth potentials for 3-D",
+        "b": "reduces the host computer workload and allows more users",
+        "c": "reduces the host computer workload",
+        "d": "has a high cost-performance tradeoff",
+        "answer": "reduces the host computer workload and allows more users"
+    },
+    {
+        "question": "What key hardware item ties a CAD\/ CAM system together?\r\n\r\n",
+        "a": "Mouse",
+        "b": "Graphics workstation",
+        "c": "Digitizer",
+        "d": "Plotter",
+        "answer": "Graphics workstation"
+    },
+    {
+        "question": "Which of these controller types is the most accurate?\r\n\r\n",
+        "a": "Proportional plus integral",
+        "b": "Proportional",
+        "c": "Proportional plus derivative",
+        "d": "Three mode",
+        "answer": "Three mode"
+    },
+    {
+        "question": "Flat panel displays are based on what type of technology?\r\n\r\n",
+        "a": "Direct view storage tube",
+        "b": "Very large-scale integration (VLSI)",
+        "c": "Solid state",
+        "d": "RGB monitor",
+        "answer": "Solid state"
+    },
+    {
+        "question": "Which of the following is a graphical input device?\r\n\r\n",
+        "a": "light pen",
+        "b": "keyboard",
+        "c": "mouse",
+        "d": "Track ball",
+        "answer": "light pen"
+    },
+    {
+        "question": "Today, programmable controllers:\r\n\r\n",
+        "a": "are more powerful then the first controllers on the market",
+        "b": "are relatively low cost compared with the original digital equipment available for industrial control",
+        "c": "can be cost effective even when replacing just a few relays",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Productivity is defined as:\r\n\r\n",
+        "a": "number of items manufactured per day",
+        "b": "output per man-hour of labour",
+        "c": "cost per day",
+        "d": "cost per unit",
+        "answer": "output per man-hour of labour"
+    },
+    {
+        "question": "The main function(s) of computer in CAD is\/are\r\n\r\n",
+        "a": "To serve as an extension to the memory of the designer",
+        "b": "To enhance the analytical and logical power of the designer",
+        "c": "To relieve the designer from routine repetitious tasks.",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The first industrial robot for commercial uses was installed in a Japanese plant at Toyota Automatic Loom Company, the parent company of the Toyota Automobile Group. When did this robot go into operation?\r\n\r\n",
+        "a": "June 1965",
+        "b": "November 1966",
+        "c": "December 1967",
+        "d": "April 1970",
+        "answer": "December 1967"
+    },
+    {
+        "question": "What is the difference between integral and derivative control?\r\n\r\n",
+        "a": "derivative control does not eliminate offset error",
+        "b": "integral control has slower response to an error signal.",
+        "c": "derivative control responds to a change in the rate of change in the error signal",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The program counter:\r\n\r\n",
+        "a": "decides which program to run",
+        "b": "counts the number of instructions that have been executed",
+        "c": "contains the address of the next instruction to be executed",
+        "d": "is where arithmetic is done in a computer.",
+        "answer": "contains the address of the next instruction to be executed"
+    },
+    {
+        "question": "Digital signals:\r\n\r\n",
+        "a": "can have three possible levels",
+        "b": "are assigned values of 1 or 0 depending on the voltage level",
+        "c": "have a sinusoidal shape.",
+        "d": "have a frequency measured in units of hertz",
+        "answer": "are assigned values of 1 or 0 depending on the voltage level"
+    },
+    {
+        "question": "There are several procedures you can implement to provide maximum security. The most important of these is:\r\n\r\n",
+        "a": "do not leave training manuals unsecured",
+        "b": "run regular simulated tests using TARP (testing of Applications Recovery Planes)",
+        "c": "Verify the reputation of the people installing your system",
+        "d": "do not allow unbonded service people to work on your equipment",
+        "answer": "run regular simulated tests using TARP (testing of Applications Recovery Planes)"
+    },
+    {
+        "question": "Semiconductor devices:\r\n\r\n",
+        "a": "are less reliable than electro\u00acmechanical components",
+        "b": "usually have a very short MTBF (mean time between failure)",
+        "c": "have a very short infant mortality period",
+        "d": "All of the above",
+        "answer": "have a very short infant mortality period"
+    },
+    {
+        "question": "A drum timer is a good example of:\r\n\r\n",
+        "a": "an output actuator",
+        "b": "an input sensor",
+        "c": "a position sensor",
+        "d": "a sequence controller",
+        "answer": "a sequence controller"
+    },
+    {
+        "question": "The formula for memory capacity is:\r\n\r\n",
+        "a": "MC = N\/2",
+        "b": "MC = 2\/N",
+        "c": "MC = N squared.",
+        "d": "MC -2 to the Nth power",
+        "answer": "MC -2 to the Nth power"
+    },
+    {
+        "question": "How is the integral mode implemented using analog methods?\r\n\r\n",
+        "a": "Op amp and resistors",
+        "b": "Op amp and a capacitor",
+        "c": "Op amp and an RC network to place the error voltage across the capacitor",
+        "d": "All of the above",
+        "answer": "Op amp and a capacitor"
+    },
+    {
+        "question": "The general type of process found in industry is:\r\n\r\n",
+        "a": "discrete parts",
+        "b": "continuous",
+        "c": "batch",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which method is frequently used, especially in the early stages of design?\r\n\r\n",
+        "a": "The iterative design method",
+        "b": "The direct method",
+        "c": "The design selection method",
+        "d": "All of the above",
+        "answer": "The iterative design method"
+    },
+    {
+        "question": "In raster-scan colour monitors, colour can be intensified by:\r\n\r\n",
+        "a": "grouping the phosphor dots in a circular pattern",
+        "b": "having each electron gun controlled by a composite signal",
+        "c": "using an in-line gun arrangement with a solid metal mesh",
+        "d": "having each electron gun controlled by separate signal",
+        "answer": "having each electron gun controlled by separate signal"
+    },
+    {
+        "question": "Timing using a TM990 micro\u00accomputer:\r\n\r\n",
+        "a": "require an external timer added by the user",
+        "b": "is available on the standard CPU board",
+        "c": "can be handled in software",
+        "d": "both (b) and (c)",
+        "answer": "both (b) and (c)"
+    },
+    {
+        "question": "A discrete parts process is:\r\n\r\n",
+        "a": "the same as a continuous process except a different controller must be used",
+        "b": "often encountered in manufacturing",
+        "c": "normally a repetitive series of operations",
+        "d": "(b) and (c)",
+        "answer": "the same as a continuous process except a different controller must be used"
+    },
+    {
+        "question": "Speech recognition:\r\n\r\n",
+        "a": "will never be used in industrial controls",
+        "b": "is already widely used in industrial controls",
+        "c": "will be used in more applications as the technology matures.",
+        "d": "All of the above",
+        "answer": "will be used in more applications as the technology matures."
+    },
+    {
+        "question": "Which device does the general population associate most with automation?\r\n\r\n",
+        "a": "Flexible manufacturing",
+        "b": "Robots",
+        "c": "Numerical control machine",
+        "d": "Computer graphics workstation",
+        "answer": "Robots"
+    },
+    {
+        "question": "Using a microcomputer as a controller allows:\r\n\r\n",
+        "a": "faster cycle time",
+        "b": "simpler mechanical hardware",
+        "c": "more self diagnostics of the machine operation",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "If the transient response is under damped:\r\n\r\n",
+        "a": "steady-state will be reached faster than if the system is overdamped",
+        "b": "the value of the output will exceed the value of the input at times during the transient period",
+        "c": "the present overshoot is zero",
+        "d": "both a and b",
+        "answer": "both a and b"
+    },
+    {
+        "question": "What should be first considered in choosing a plotter?\r\n\r\n",
+        "a": "The hardware you currently own",
+        "b": "The application for which it will be used",
+        "c": "The type of data you will input",
+        "d": "The cost",
+        "answer": "The application for which it will be used"
+    },
+    {
+        "question": "The coordinate system used to describe a workpiece:\r\n\r\n",
+        "a": "is always two-dimensional",
+        "b": "changes from part to part",
+        "c": "is defined with respect to a point on the machine",
+        "d": "All of the above",
+        "answer": "is defined with respect to a point on the machine"
+    },
+    {
+        "question": "A programmable controller:\r\n\r\n",
+        "a": "allows faster machine checkout",
+        "b": "is easier to troubleshoot than standard relay logic",
+        "c": "both (a) and (b)",
+        "d": "All of the above",
+        "answer": "both (a) and (b)"
+    },
+    {
+        "question": "The SKETCHPAD system\r\n\r\n",
+        "a": "consisted of an cathode-ray oscilloscope driven by a Lincoln Tx2 computer where by graphical information was displayed on the screen.",
+        "b": "is used for interactive Graphics",
+        "c": "is expensive because it is sophisticated and make demands on the power and resources of the computer.",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The name given to the test that determines whether a machine can think is the:\r\n\r\n",
+        "a": "Gaussian test",
+        "b": "McCarthy test",
+        "c": "Turing test",
+        "d": "Boolean test",
+        "answer": "Turing test"
+    },
+    {
+        "question": "Which of the following is a machine language instruction?\r\n\r\n",
+        "a": "ADD 5",
+        "b": "10001101",
+        "c": "GOTO XOUT",
+        "d": "All of the above",
+        "answer": "10001101"
+    },
+    {
+        "question": "The two major categories of software are: application software and\r\n\r\n",
+        "a": "system software",
+        "b": "UNIX software",
+        "c": "high-level languages",
+        "d": "CAD software",
+        "answer": "system software"
+    },
+    {
+        "question": "What was the name of the Japanese worker who was killed by an industrial robot at the Akashi plant of Kawasaki Heavy Industries in Japan?\r\n\r\n",
+        "a": "M. Shubhagya",
+        "b": "Harun Shimada",
+        "c": "Kenji Urada",
+        "d": "K. Miceni",
+        "answer": "Kenji Urada"
+    },
+    {
+        "question": "When of the following produces the best quality graphics reproduction?\r\n\r\n",
+        "a": "Dot metric printers",
+        "b": "Ink jet printers",
+        "c": "Laser printers",
+        "d": "Plotters",
+        "answer": "Plotters"
+    },
+    {
+        "question": "The three key elements for a graphics workstation include the host processor, display controller, and:\r\n\r\n",
+        "a": "mouse",
+        "b": "keyboard",
+        "c": "CRT",
+        "d": "digitizer",
+        "answer": "CRT"
+    },
+    {
+        "question": "An operational amplifier:\r\n\r\n",
+        "a": "can be used to subtract two or more signals",
+        "b": "can be used to sum two or more signals",
+        "c": "uses the principle of feedback",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The raster CRT eliminates:\r\n\r\n",
+        "a": "flicker and slow update",
+        "b": "slow update only",
+        "c": "flicker only",
+        "d": "has no effect",
+        "answer": "flicker and slow update"
+    },
+    {
+        "question": "Who made the statement \"if a robot can do a job, a person should not be doing it\"?\r\n\r\n",
+        "a": "Prof. F. A. Fisher of Britain",
+        "b": "Ron Albo of Shugart Associates, California",
+        "c": "Prof. Meredith Turing, London University",
+        "d": "John Smith, USA",
+        "answer": "Ron Albo of Shugart Associates, California"
+    },
+    {
+        "question": "CAD\/CAM is the inter-relationship between:\r\n\r\n",
+        "a": "manufacturing and marketing",
+        "b": "marketing and design",
+        "c": "engineering and marketing",
+        "d": "engineering and manufacturing",
+        "answer": "engineering and manufacturing"
+    },
+    {
+        "question": "What prevents a robotic instrument from running into other objects?\r\n\r\n",
+        "a": "negative image",
+        "b": "functional manipulators",
+        "c": "memory",
+        "d": "sensory devices",
+        "answer": "sensory devices"
+    },
+    {
+        "question": "The axis of movement of a robot may include:\r\n\r\n",
+        "a": "Wrist rotation",
+        "b": "X-Y coordinate motion",
+        "c": "elbow rotation",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Numerical control:\r\n\r\n",
+        "a": "is a method for controlling the operation of a machine by means of a set of instructions",
+        "b": "applies only to milling machines",
+        "c": "is a method for producing an exact number of parts per hour",
+        "d": "All of the above",
+        "answer": "is a method for controlling the operation of a machine by means of a set of instructions"
+    },
+    {
+        "question": "A flip-flop:\r\n\r\n",
+        "a": "is a combinational logic device",
+        "b": "is a sequential logic device",
+        "c": "remembers what was previously stored in it",
+        "d": "(a) and (c)",
+        "answer": "(a) and (c)"
+    },
+    {
+        "question": "A technique for displaying applications where complex 3-D geometric are required for the exteror shall of a product is called:\r\n\r\n",
+        "a": "solid modeling",
+        "b": "2-D modeling",
+        "c": "3-D modeling",
+        "d": "surface modeling",
+        "answer": "surface modeling"
+    },
+    {
+        "question": "The user communicates directly with the computer through its peripheral devices is known as\r\n\r\n",
+        "a": "On-line processing",
+        "b": "Remote-terminal processing",
+        "c": "Batch mode processing",
+        "d": "Intelligent terminal Processing",
+        "answer": "On-line processing"
+    },
+    {
+        "question": "A semi-continuous operation means:\r\n\r\n",
+        "a": "the operation is continuous each shift, but stops between shifts",
+        "b": "coffee breaks are allowed for the operator",
+        "c": "a computer is a required part of the machine",
+        "d": "each operation in a sequence is continuous, but subsequent operations in the sequence may be different.",
+        "answer": "each operation in a sequence is continuous, but subsequent operations in the sequence may be different."
+    },
+    {
+        "question": "A servo controlled robot:\r\n\r\n",
+        "a": "stop only at fixed points on each axis",
+        "b": "can accelerate",
+        "c": "must be hydraulically driven",
+        "d": "must be electrically driven",
+        "answer": "can accelerate"
+    },
+    {
+        "question": "An aneroid barometer\r\n\r\n",
+        "a": "is very unreliable",
+        "b": "can measure only atmospheric pressure",
+        "c": "measures pressure by sensing deflection of an evacuated chambers.",
+        "d": "can be used to measure gas or liquid flow rates",
+        "answer": "measures pressure by sensing deflection of an evacuated chambers."
+    },
+    {
+        "question": "Which of the following represents a conditional branching instruction?\r\n\r\n",
+        "a": "BGT LOOPS",
+        "b": "GOTO 50",
+        "c": "X = 5 + Y",
+        "d": "JMP MOTOR",
+        "answer": "BGT LOOPS"
+    },
+    {
+        "question": "The electronic component that has been the key to recent developments in automation is the:\r\n\r\n",
+        "a": "improved vacuum tube",
+        "b": "integrated circuit",
+        "c": "diode",
+        "d": "transistor",
+        "answer": "integrated circuit"
+    },
+    {
+        "question": "Which of the following is considered a high-level language?\r\n\r\n",
+        "a": "Machine language",
+        "b": "FORTRAN",
+        "c": "Assembly language",
+        "d": "All of the above",
+        "answer": "FORTRAN"
+    },
+    {
+        "question": "Pressure sensors:\r\n\r\n",
+        "a": "use the piezoresistive effect in strain gauge sensors",
+        "b": "use an aneroid chamber with a variable resistance output",
+        "c": "use capacitive variations to sense pressure",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Flexible manufacturing allows for:\r\n\r\n",
+        "a": "factory management",
+        "b": "automated design",
+        "c": "tool design and tool production",
+        "d": "quick and inexpensive product changes",
+        "answer": "quick and inexpensive product changes"
+    },
+    {
+        "question": "Three different aspects of colour are used to define specific colours. They are hue, saturation, and:\r\n\r\n",
+        "a": "metamer",
+        "b": "value",
+        "c": "gray scale",
+        "d": "shading",
+        "answer": "value"
+    },
+    {
+        "question": "A way to transfer programs to a central system is:\r\n\r\n",
+        "a": "by setting bit switches on the central CPU",
+        "b": "to copy the program into PROMs and install the PROMs in the system",
+        "c": "to develop the program on the actual system only",
+        "d": "All of the above",
+        "answer": "to copy the program into PROMs and install the PROMs in the system"
+    },
+    {
+        "question": "The device that assembles groups of characters into complete messages prior to their entering the CPU is called:\r\n\r\n",
+        "a": "a compiler",
+        "b": "an interpreter",
+        "c": "a communications processor",
+        "d": "an editor",
+        "answer": "a communications processor"
+    },
+    {
+        "question": "Which industry is the leading user of robots?\r\n\r\n",
+        "a": "Chemical industry",
+        "b": "Automobile industry",
+        "c": "Electronic industry",
+        "d": "Shipping industry",
+        "answer": "Automobile industry"
+    },
+    {
+        "question": "What two methods are available to build electronic continuous control?\r\n\r\n",
+        "a": "Analog and mechanical",
+        "b": "Pneumatic and analog",
+        "c": "Analog and digital",
+        "d": "All of the above",
+        "answer": "Analog and digital"
+    },
+    {
+        "question": "If the transient response of a system is overdamped:\r\n\r\n",
+        "a": "the value of the output exceeds the value of the input at times during the transient period.",
+        "b": "the value of the output never exceeds the value of the input during the transient period.",
+        "c": "the value of the output never stabilizes.",
+        "d": "All of the above",
+        "answer": "the value of the output never exceeds the value of the input during the transient period."
+    },
+    {
+        "question": "Resolution in a CRT refers to:\r\n\r\n",
+        "a": "the speed at which the monitor can accept data from the computer",
+        "b": "the number of phosphor dots that react when hit by the electron beam",
+        "c": "the number of addressable elements on the tube",
+        "d": "the number of pixels in each square centimeter",
+        "answer": "the number of addressable elements on the tube"
+    },
+    {
+        "question": "Actuators are used to:\r\n\r\n",
+        "a": "sense an object",
+        "b": "activate a chemical",
+        "c": "make a mechanical movement",
+        "d": "All of the above",
+        "answer": "make a mechanical movement"
+    },
+    {
+        "question": "If the period of a sine wave is 0.001 second, the frequency of the sine wave is:\r\n\r\n",
+        "a": "0.001 Hz",
+        "b": "1,000 Hz",
+        "c": "10,000 Hz",
+        "d": "10 Hz",
+        "answer": "1,000 Hz"
+    },
+    {
+        "question": "Software is:\r\n\r\n",
+        "a": "printer output",
+        "b": "a set of instructions",
+        "c": "tape input.",
+        "d": "a programming language",
+        "answer": "a set of instructions"
+    },
+    {
+        "question": "Which item best describes a CAM technology?\r\n\r\n",
+        "a": "Numerical control",
+        "b": "Drafting",
+        "c": "Documentation",
+        "d": "Geometric modeling",
+        "answer": "Numerical control"
+    },
+    {
+        "question": "The linking of PCs with a communi\u00accations system is referred to as:\r\n\r\n",
+        "a": "workstations",
+        "b": "streaming",
+        "c": "turnkey systems",
+        "d": "networking",
+        "answer": "networking"
+    },
+    {
+        "question": "Two of the major processing languages are PROLOG and:\r\n\r\n",
+        "a": "LISP",
+        "b": "COBOL",
+        "c": "BASIC",
+        "d": "Pascal",
+        "answer": "LISP"
+    },
+    {
+        "question": "Vision sensors:\r\n\r\n",
+        "a": "will remain very costly",
+        "b": "can not improve much in the next decade",
+        "c": "will more closely match the capabilities of the human eye",
+        "d": "All of the above",
+        "answer": "will more closely match the capabilities of the human eye"
+    },
+    {
+        "question": "A disadvantage of Numerical Control (NC) is:\r\n\r\n",
+        "a": "the computer is not reliable",
+        "b": "the tape and tape reader are not reliable",
+        "c": "one operator is needed for each machine.",
+        "d": "the machine tool can easily overheat",
+        "answer": "the tape and tape reader are not reliable"
+    },
+    {
+        "question": "Digitizers can be converted from \"dumb\" to \"smart\" through the addition of:\r\n\r\n",
+        "a": "a microprocessor",
+        "b": "an electromagnetic coupling",
+        "c": "keyboard",
+        "d": "a scanner",
+        "answer": "a microprocessor"
+    },
+    {
+        "question": "Over the last ten years, productivity has risen most rapidly in:\r\n\r\n",
+        "a": "Italy",
+        "b": "Japan",
+        "c": "France",
+        "d": "States",
+        "answer": "Japan"
+    },
+    {
+        "question": "The difference between a high-technology and a medium-technology robot is the:\r\n\r\n",
+        "a": "speed of movement",
+        "b": "range of motion of the robot",
+        "c": "accuracy of the robot",
+        "d": "complexity of the task it can perform.",
+        "answer": "complexity of the task it can perform."
+    },
+    {
+        "question": "The output of a thermocouple is:\r\n\r\n",
+        "a": "a capacitance",
+        "b": "a resistance",
+        "c": "a current",
+        "d": "a voltage",
+        "answer": "a voltage"
+    },
+    {
+        "question": "Compared to humans, machines:\r\n\r\n",
+        "a": "can make more complex decisions based on unexpected circumstances",
+        "b": "can work in harsher environments",
+        "c": "make fewer errors",
+        "d": "(a) and (c)",
+        "answer": "(a) and (c)"
+    },
+    {
+        "question": "A solenoid:\r\n\r\n",
+        "a": "can be used only in de circuits",
+        "b": "is spring operated",
+        "c": "is widely used in industrial automation",
+        "d": "is related to an aneroid",
+        "answer": "is widely used in industrial automation"
+    },
+    {
+        "question": "Most industrial control applications:\r\n\r\n",
+        "a": "can be solved using more than one method of control",
+        "b": "can be done more reliably using solid-state methods",
+        "c": "must have the process specified correctly to be successful",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "When was the first successful industrial robot installed in the General Motors Plant in USA?\r\n\r\n",
+        "a": "1960",
+        "b": "1961",
+        "c": "1963",
+        "d": "1967",
+        "answer": "1961"
+    },
+    {
+        "question": "arrangement ",
+        "a": "topology",
+        "b": "pairing",
+        "c": "queuing",
+        "d": "logic",
+        "answer": "topology"
+    },
+    {
+        "question": "The computer graphics system called SKETCHPAD was demonstrated at\r\n\r\n",
+        "a": "Massachusetts Institute of Technology in 1963",
+        "b": "Imperial college of Science and Technology, London, 1973",
+        "c": "University of Aston, Birmingham, 1960",
+        "d": "Cranfield Institute of Technology, London, 1962",
+        "answer": "Massachusetts Institute of Technology in 1963"
+    },
+    {
+        "question": "The new industrial revolution has been caused by:\r\n\r\n",
+        "a": "social unrest",
+        "b": "advances in electronics",
+        "c": "the Vietnam War",
+        "d": "demand for higher wages",
+        "answer": "advances in electronics"
+    },
+    {
+        "question": "Straight-line operations:\r\n\r\n",
+        "a": "must be limited to two per workpiece",
+        "b": "must be parallel to one of the axes of the coordinate system",
+        "c": "can include diagonal cuts if they aren't curved",
+        "d": "All of the above",
+        "answer": "must be parallel to one of the axes of the coordinate system"
+    },
+    {
+        "question": "The workspace required for a robot:\r\n\r\n",
+        "a": "is less than that of a human performing the same task",
+        "b": "depends upon the robot used",
+        "c": "is not dependent on the application.",
+        "d": "must be enclosed by a fence",
+        "answer": "depends upon the robot used"
+    },
+    {
+        "question": "In pen plotters, \"resolution\" refers to the shortest possible line, but in electrostatic plotters it refers to:\r\n\r\n",
+        "a": "the number of dots per inch",
+        "b": "the speed per inch",
+        "c": "dual-axis tracking",
+        "d": "how accurately the plotter returns to a specific point",
+        "answer": "the number of dots per inch"
+    },
+    {
+        "question": "A common data base is one requisite for converting CAD and CAM to CIM. Another is that:\r\n\r\n",
+        "a": "the system must make provision for new techniques.",
+        "b": "there should be a common 3-D part description system.",
+        "c": "the user must have access to both hardware and software",
+        "d": "technical assistance must be provided to the user.",
+        "answer": "there should be a common 3-D part description system."
+    },
+    {
+        "question": "Sensors",
+        "a": "are easily developed",
+        "b": "probably will not improve over the next decade",
+        "c": "are not important in automation",
+        "d": "will be much smarter and more sophisticated in the future",
+        "answer": "will be much smarter and more sophisticated in the future"
+    },
+    {
+        "question": "Which of the following devices could be part of a sensor?\r\n\r\n",
+        "a": "thermometer",
+        "b": "brake",
+        "c": "relay",
+        "d": "clutch",
+        "answer": "thermometer"
+    },
+    {
+        "question": "In general, American buyers will purchase goods:\r\n\r\n",
+        "a": "that offer the best quality for the least money.",
+        "b": "that are made in America, even at higher costs.",
+        "c": "without regard to country of manufacturer.",
+        "d": "(a) and (c)",
+        "answer": "(a) and (c)"
+    },
+    {
+        "question": "The reliability life cycle of a product:\r\n\r\n",
+        "a": "has three distinct rates of failure",
+        "b": "cannot be predicted",
+        "c": "All of the above",
+        "d": "stays constant with environmental conditions",
+        "answer": "has three distinct rates of failure"
+    },
+    {
+        "question": "Robots consist of three basic components; power supply, control (memory) console, and:\r\n\r\n",
+        "a": "coaxial cable",
+        "b": "microcomputer",
+        "c": "mechanical unit (arm)",
+        "d": "software",
+        "answer": "mechanical unit (arm)"
+    },
+    {
+        "question": "Today's engineers feel that the ultimate solution to the CAD\/CAM problem will be\r\n\r\n",
+        "a": "Animation",
+        "b": "the microprocessor",
+        "c": "turnkey systems",
+        "d": "development of a more efficient display controller",
+        "answer": "the microprocessor"
+    },
+    {
+        "question": "The method of solid modeling that defines the topology of faces, edges, and vertics, as well as data that defines the surface in which each face lies is called:\r\n\r\n",
+        "a": "constructive solid geometry",
+        "b": "layering",
+        "c": "boundary representation",
+        "d": "isometric",
+        "answer": "boundary representation"
+    },
+    {
+        "question": "Programming languages currently available for robots:\r\n\r\n",
+        "a": "may be point-to-point languages",
+        "b": "require training",
+        "c": "may allow primitive motion",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "A process controller:\r\n\r\n",
+        "a": "can interface to digital and analog I\/O",
+        "b": "is useful in a continuous process control application",
+        "c": "can solve a PID process control equation easily",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Compared to an open-loop system, a closed-loop control system is:\r\n\r\n",
+        "a": "more accurate",
+        "b": "more complex",
+        "c": "more stable",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Automation means:\r\n\r\n",
+        "a": "assisting or replacing humans with machines.",
+        "b": "workers controlling machines.",
+        "c": "increased productivity.",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The \"snap\" command feature in both AutoCAD and VersaCAD ensure that:\r\n\r\n",
+        "a": "template lines can be removed",
+        "b": "objects are entered at specific intervals.",
+        "c": "identified data are automatically segmented",
+        "d": "definable center markers are entered.",
+        "answer": "objects are entered at specific intervals."
+    },
+    {
+        "question": "An intelligent robot can:\r\n\r\n",
+        "a": "make decisions",
+        "b": "handle only small payloads",
+        "c": "walk",
+        "d": "speak",
+        "answer": "make decisions"
+    },
+    {
+        "question": "What is proportional control?\r\n\r\n",
+        "a": "It has a discrete output for each error value",
+        "b": "The controller output varies continuously over a range",
+        "c": "The gain is independent of offset error.",
+        "d": "All of the above",
+        "answer": "The controller output varies continuously over a range"
+    },
+    {
+        "question": "The real \"brain\" of an artificial intelligence system is referred to as:\r\n\r\n",
+        "a": "bubble memory",
+        "b": "the expert system",
+        "c": "recursive technology",
+        "d": "natural language interfaces",
+        "answer": "the expert system"
+    },
+    {
+        "question": "Analog and digital controllers:\r\n\r\n",
+        "a": "cost the same to build",
+        "b": "accept the same input signals",
+        "c": "can be changed with equal case",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "Robot motion:\r\n\r\n",
+        "a": "is the same for all robots",
+        "b": "usually imitates human motion",
+        "c": "is not dependent on the robot structure",
+        "d": "All of the above",
+        "answer": "usually imitates human motion"
+    },
+    {
+        "question": "The digitizing technology that uses an electric field radiated from the tablet and picked up by a cursor is:\r\n\r\n",
+        "a": "electromagnetic",
+        "b": "raster",
+        "c": "sonic",
+        "d": "electrostic",
+        "answer": "electrostic"
+    },
+    {
+        "question": "Advantages of robots include:\r\n\r\n",
+        "a": "increased productivity",
+        "b": "ability to withstand hazardous environments",
+        "c": "good return on investment and better company image",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Light sensors:\r\n\r\n",
+        "a": "cannot be used a s limit switches.",
+        "b": "come in a wide variety of mounting styles",
+        "c": "work in direct sunlight",
+        "d": "never use infrared light as light source",
+        "answer": "come in a wide variety of mounting styles"
+    },
+    {
+        "question": "Stepping motors:\r\n\r\n",
+        "a": "can run at varying speeds",
+        "b": "can be built to index different amounts by changing the pole configuration",
+        "c": "can run both clockwise and counterclockwise",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Most continuous control actuators:\r\n\r\n",
+        "a": "are of the time proportioning type",
+        "b": "use a 4 to 20 mA current loop input",
+        "c": "are used with standard continuous control loop",
+        "d": "(b) and (c) above",
+        "answer": "(b) and (c) above"
+    },
+    {
+        "question": "Group technology brings together and organizes:\r\n\r\n",
+        "a": "automation and tool production",
+        "b": "parts and simulation analysis",
+        "c": "documentation and analysis",
+        "d": "common parts, problems, and tasks",
+        "answer": "common parts, problems, and tasks"
+    },
+    {
+        "question": "A venturi tube:\r\n\r\n",
+        "a": "is extremely difficult to use",
+        "b": "is made only of metal",
+        "c": "measures the presence of a liquid",
+        "d": "can be used to measure gas or liquid flow rates",
+        "answer": "can be used to measure gas or liquid flow rates"
+    },
+    {
+        "question": "The APT (automatically progra\u00acmmed tools) language is used with:\r\n\r\n",
+        "a": "large automation systems",
+        "b": "drafting systems",
+        "c": "programmable controllers",
+        "d": "numerical controlled machines.",
+        "answer": "numerical controlled machines."
+    },
+    {
+        "question": "The ideal solution is to have a system coordinator who will interface with the engineering and manufacturing managers, as well as the:\r\n\r\n",
+        "a": "finance manager",
+        "b": "president",
+        "c": "marketing manager",
+        "d": "MIS manager",
+        "answer": "MIS manager"
+    },
+    {
+        "question": "Four basic elements are required for an automated machine tool or production process. They are: input interface, memory, output interface and:\r\n\r\n",
+        "a": "logic",
+        "b": "software",
+        "c": "NC tape programming",
+        "d": "computer graphics workstation",
+        "answer": "logic"
+    },
+    {
+        "question": "The Ziegler-Nichols method:\r\n\r\n",
+        "a": "is a graphical solution method",
+        "b": "can be used to determine gain factors of a PI loop",
+        "c": "is a method of control",
+        "d": "a and b above",
+        "answer": "a and b above"
+    },
+    {
+        "question": "A Hall effect switch is usually used to:\r\n\r\n",
+        "a": ", measure voltage",
+        "b": "measure temperature",
+        "c": "sense a vacuum",
+        "d": "sense the presence of a magnetic object.",
+        "answer": "sense the presence of a magnetic object."
+    },
+    {
+        "question": "The hardware device Jhat acts as both a switching and connecting unit is called a(n):\r\n\r\n",
+        "a": "concentrator",
+        "b": "RS-232C port",
+        "c": "multiplexer",
+        "d": "communications processor",
+        "answer": "multiplexer"
+    },
+    {
+        "question": "The addition of _____ can reduce processing time.\r\n\r\n",
+        "a": "A buffer",
+        "b": "An EPROM",
+        "c": "A converter",
+        "d": "A co-processor",
+        "answer": "A co-processor"
+    },
+    {
+        "question": "Which of the following method is used the results of a design analysis as a base for redesign decisions?\r\n\r\n",
+        "a": "The iterative design method",
+        "b": "The direct method",
+        "c": "The design selection method",
+        "d": "All of the above",
+        "answer": "The iterative design method"
+    },
+    {
+        "question": "What kind of capability is required if one plans to interface with a plotter or printer?\r\n\r\n",
+        "a": "A graphics cable",
+        "b": "RGB monitor",
+        "c": "A graphics board",
+        "d": "A co-processor",
+        "answer": "A graphics board"
+    },
+    {
+        "question": "Robots can increase productivity because:\r\n\r\n",
+        "a": "they do not take a vacation",
+        "b": "they do not get tired",
+        "c": "production quality is uniform",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which CAD display configurability allows work without any host support?\r\n\r\n",
+        "a": "Highly intelligent",
+        "b": "Medium intelligence",
+        "c": "Low intelligence",
+        "d": "One with no secondary storage capacity.",
+        "answer": "Highly intelligent"
+    },
+    {
+        "question": "The rectangular boundary around a specific area on the display is called\r\n\r\n",
+        "a": "a window",
+        "b": "a conic section",
+        "c": "a view point",
+        "d": "a view plane",
+        "answer": "a window"
+    },
+    {
+        "question": "In the PROLOG language system, facts are manipulated by:\r\n\r\n",
+        "a": "algorithms",
+        "b": "rules",
+        "c": "memory",
+        "d": "simulations",
+        "answer": "rules"
+    },
+    {
+        "question": "A favourable reason for automation is to:\r\n\r\n",
+        "a": "decrease throughput",
+        "b": "raises assembly cost",
+        "c": "perform difficult operations",
+        "d": "increase number of operations",
+        "answer": "perform difficult operations"
+    },
+    {
+        "question": "Which method uses the design analysis as a method for effecting the design?\r\n\r\n",
+        "a": "The iterative design method",
+        "b": "The direct method",
+        "c": "The design selection method",
+        "d": "All of the above",
+        "answer": "The direct method"
+    },
+    {
+        "question": "The main activity(ies) of Designer in CAD is\/are:\r\n\r\n",
+        "a": "Control of the design process in information distribution.",
+        "b": "Application of creativity, ingenuity, and experience.",
+        "c": "Organisation of design information",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The three different types of pen plotter technology are flatbed, drum, and:\r\n\r\n",
+        "a": "electrostatic",
+        "b": "thermal",
+        "c": "pinch roller",
+        "d": "impact",
+        "answer": "pinch roller"
+    },
+    {
+        "question": "High-level languages:\r\n\r\n",
+        "a": "are \"procedure-oriented\"",
+        "b": "are very difficult to use",
+        "c": "cannot be used with automatic systems.",
+        "d": "require knowledge of the computer design",
+        "answer": "are \"procedure-oriented\""
+    },
+    {
+        "question": "The heart of automation technology is.\r\n\r\n",
+        "a": "robots",
+        "b": "computers",
+        "c": "control",
+        "d": "sensors",
+        "answer": "computers"
+    },
+    {
+        "question": "A dc servo motor:\r\n\r\n",
+        "a": "uses a tachometer for speed feedback",
+        "b": "uses a variable dc voltage for speed control",
+        "c": "can provide precise position control",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Plotter accuracy is measured in terms of repeatability and:\r\n\r\n",
+        "a": "intelligence",
+        "b": "vertical dimension",
+        "c": "resolution",
+        "d": "buffer size",
+        "answer": "resolution"
+    },
+    {
+        "question": "The basic difference between broadband and baseband is:\r\n\r\n",
+        "a": "availability",
+        "b": "capacity",
+        "c": "reliability",
+        "d": "transmission",
+        "answer": "capacity"
+    },
+    {
+        "question": "The power source that drives the manipulator can be:\r\n\r\n",
+        "a": "pneumatic",
+        "b": "electric",
+        "c": "hydraulic",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following devices would be classified as a robot by the Robot Institute of America?\r\n\r\n",
+        "a": "Automobile",
+        "b": "Pick-and-place manipulator",
+        "c": "Artificial hand",
+        "d": "All of the above",
+        "answer": "Pick-and-place manipulator"
+    },
+    {
+        "question": "An operating system:\r\n\r\n",
+        "a": "can help reduce software development time",
+        "b": "provides ability for other programmers to understand the software structure",
+        "c": "is useless in most control applications",
+        "d": "All of the above",
+        "answer": "can help reduce software development time"
+    },
+    {
+        "question": "A programmable controller:\r\n\r\n",
+        "a": "can be used on more than one machine during its lifetime.",
+        "b": "can be reprogrammed in the field",
+        "c": "requires considerable training before it can be used",
+        "d": "(a) and (b) above",
+        "answer": "(a) and (b) above"
+    },
+    {
+        "question": "A LISP environment consists of a language, a programming environ\u00acment, and:\r\n\r\n",
+        "a": "random-access storage",
+        "b": "a processor",
+        "c": "a large address",
+        "d": "a set of functions",
+        "answer": "a set of functions"
+    },
+    {
+        "question": "What Is a process variable?\r\n\r\n",
+        "a": "A manipulated variable",
+        "b": "A controlled variable",
+        "c": "A process parameter that changes value",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Time proportioning control:\r\n\r\n",
+        "a": "can be used on a PM550 programmable process controller",
+        "b": "is less efficient than normal PID control",
+        "c": "cannot use a TM990 micro\u00accomputer",
+        "d": "a and b above.",
+        "answer": "can be used on a PM550 programmable process controller"
+    },
+    {
+        "question": "What is the process lag?\r\n\r\n",
+        "a": "The time it takes for the sensor to respond to a changed.",
+        "b": "The lag in the error signal when the setpoint is changed.",
+        "c": "The time it takes for the mass of the process to respond to an input change.",
+        "d": "All of the above",
+        "answer": "The time it takes for the mass of the process to respond to an input change."
+    },
+    {
+        "question": "If the present value in a timer in the TI510 is 8, how many milliseconds is required from the time the timer is started until the output is enabled?\r\n\r\n",
+        "a": "18.0",
+        "b": "133.36",
+        "c": "149.88",
+        "d": "1275.41",
+        "answer": "133.36"
+    },
+    {
+        "question": "The two types of relays in a PC are:\r\n\r\n",
+        "a": "an output relay and a control relay",
+        "b": "a control relay and a retentive relay",
+        "c": "a retentive relay and a non-retentive relay",
+        "d": "All of the above",
+        "answer": "an output relay and a control relay"
+    },
+    {
+        "question": "A common way to take x, y coordinates off a drawing is to use a\r\n\r\n",
+        "a": "light pen",
+        "b": "digitiser",
+        "c": "Direct view storage tube (DVST)",
+        "d": "Tablet",
+        "answer": "digitiser"
+    },
+    {
+        "question": "How is the integral mode implemented on a digital controller?\r\n\r\n",
+        "a": "the digital controller cannot handle integral mode",
+        "b": "the error is divided into discrete amounts",
+        "c": "the error signal is summed over a discrete time interval and accumulated by the controller",
+        "d": "All of the above",
+        "answer": "the error signal is summed over a discrete time interval and accumulated by the controller"
+    },
+    {
+        "question": "Which of the following is not critical in PC CAD software?\r\n\r\n",
+        "a": "Crosshatching",
+        "b": "Layering",
+        "c": "Drawing\/editing",
+        "d": "Damping",
+        "answer": "Damping"
+    },
+    {
+        "question": "Which of the following editor(s) is(are) incorporated into general CAD system?\r\n\r\n",
+        "a": "Point Editor",
+        "b": "Line Editor",
+        "c": "Macro and symbol Editor",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "A microprocessor:\r\n\r\n",
+        "a": "is another name for a computer",
+        "b": "is a CPU in integrated circuit form",
+        "c": "executes a program of instructions",
+        "d": "(a) and (c)",
+        "answer": "(a) and (c)"
+    },
+    {
+        "question": "Which document sums up the general provisions of purchase, terms and agreement, warranties, and maintenance?\r\n\r\n",
+        "a": "The contract",
+        "b": "The project evaluation",
+        "c": "The financial report.",
+        "d": "The purchasing report",
+        "answer": "The contract"
+    },
+    {
+        "question": "Which of the plotters listed below eliminates media size limitations?\r\n\r\n",
+        "a": "Drum",
+        "b": "Flatbed",
+        "c": "Electrostatic",
+        "d": "Pinch roller",
+        "answer": "Drum"
+    },
+    {
+        "question": "In order to combat foreign competition, U.S. companies are:\r\n\r\n",
+        "a": "automating",
+        "b": "ignoring the situation",
+        "c": "seeking import tariffs",
+        "d": "decreasing the salaries",
+        "answer": "automating"
+    },
+    {
+        "question": "Historically, central systems were used because:\r\n\r\n",
+        "a": "semiconductor memory was not available",
+        "b": "memory was very expensive",
+        "c": "memory consumed a large amount of power",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Most current PC CAD systems are used for producing:\r\n\r\n",
+        "a": "solids modeling",
+        "b": "2-D drawings",
+        "c": "circuit simulation",
+        "d": "finite element analysis",
+        "answer": "2-D drawings"
+    },
+    {
+        "question": "A continuous process is:\r\n\r\n",
+        "a": "used only for simple tasks",
+        "b": "one that never shuts down",
+        "c": "self-contained in that raw materials enter the process and an identifiable products exits the process.",
+        "d": "used only with analog controllers.",
+        "answer": "self-contained in that raw materials enter the process and an identifiable products exits the process."
+    },
+    {
+        "question": "The rate at which scanning is repeated is called the:\r\n\r\n",
+        "a": "stroke rate",
+        "b": "refresh rate",
+        "c": "bandwidth",
+        "d": "resolution",
+        "answer": "refresh rate"
+    },
+    {
+        "question": "One of the following is not considered a method of input control in a CAD system.\r\n\r\n",
+        "a": "Joystick",
+        "b": "Programmable function box",
+        "c": "Plotter",
+        "d": "Touch terminal",
+        "answer": "Plotter"
+    },
+    {
+        "question": "Which part of the system performs the \"housekeeping\" chores?\r\n\r\n",
+        "a": "operating system",
+        "b": "compiler",
+        "c": "interpreter",
+        "d": "translator",
+        "answer": "operating system"
+    },
+    {
+        "question": "The greatest change as a result of CAD\/CAM is taking place in which industry?\r\n\r\n",
+        "a": "Medical",
+        "b": "Aerospace",
+        "c": "Electronics",
+        "d": "Cartography",
+        "answer": "Electronics"
+    },
+    {
+        "question": "Who are called steel collar workers?\r\n\r\n",
+        "a": "Office clerks",
+        "b": "Factory workers",
+        "c": "Steel factory workers",
+        "d": "Robots",
+        "answer": "Robots"
+    },
+    {
+        "question": "For a type 1 system, the steady-state:\r\n\r\n",
+        "a": "error for a step input is always zero",
+        "b": "error for a velocity input is always zero",
+        "c": "input for acceleration input is always non-zero",
+        "d": "(a) and (c)",
+        "answer": "(a) and (c)"
+    },
+    {
+        "question": "Several objectives are required to achieve a successful data base management program. These are availability of data, quality of data, and\r\n\r\n",
+        "a": "compatibility of data",
+        "b": "transmission of data",
+        "c": "desirability of data",
+        "d": "up-to-date data",
+        "answer": "up-to-date data"
+    },
+    {
+        "question": "Which of the following is required for a plotter to perform specific commands?\r\n\r\n",
+        "a": "Firmware",
+        "b": "Software",
+        "c": "Driver",
+        "d": "Hardware",
+        "answer": "Driver"
+    },
+    {
+        "question": "For a type 2 system, the steady-state:\r\n\r\n",
+        "a": "error for a step input is always zero",
+        "b": "error for a velocity input is always zero",
+        "c": "input for acceleration input is always non-zero",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The refresh-vector CRT uses which of the following techniques?\r\n\r\n",
+        "a": "The beam constantly travels across the screen to turn on\/off a series of pixels.",
+        "b": "Makes changes on the image by increasing the anode voltage.",
+        "c": "Uses an electron gun to continuously flood the surface of the tube.",
+        "d": "Creates images on the screen by scanning straight-line vectors between selected points.",
+        "answer": "Creates images on the screen by scanning straight-line vectors between selected points."
+    },
+    {
+        "question": "A set of well-defined procedures based on mathematical and geometric formulas for solving a problem in a finite number of steps is called:\r\n\r\n",
+        "a": "a permutation",
+        "b": "an algorithm",
+        "c": "arithmetic logic",
+        "d": "a geometric model",
+        "answer": "an algorithm"
+    },
+    {
+        "question": "A flexible manufacturing system may be:\r\n\r\n",
+        "a": "an automated assembly line",
+        "b": "expensive to alter",
+        "c": "very difficult to change when new products are introduced",
+        "d": "All of the above.",
+        "answer": "an automated assembly line"
+    },
+    {
+        "question": "Which of the following elements can be used with a TI510 FC?\r\n\r\n",
+        "a": "Drum timer",
+        "b": "Metronome",
+        "c": "Cymbal timer",
+        "d": "Flashing light",
+        "answer": "Drum timer"
+    },
+    {
+        "question": "For a type 0 system, the steady-state:\r\n\r\n",
+        "a": "error for a step input is always zero",
+        "b": "error for a velocity input is always zero",
+        "c": "input for acceleration input is always non-zero",
+        "d": "(a) and (c)",
+        "answer": "input for acceleration input is always non-zero"
+    },
+    {
+        "question": "An assembly language instruction:\r\n\r\n",
+        "a": "is written in ones and zeros",
+        "b": "corresponds to one computer operation",
+        "c": "does not require knowledge of the computer design",
+        "d": "All of the above",
+        "answer": "corresponds to one computer operation"
+    },
+    {
+        "question": "The lowest form of computer language is called:\r\n\r\n",
+        "a": "FORTRAN",
+        "b": "BASIC",
+        "c": "machine language",
+        "d": "COBOL",
+        "answer": "machine language"
+    },
+    {
+        "question": "CAE and CAM are linked through:\r\n\r\n",
+        "a": "a common data base and communications system",
+        "b": "NC tape programming and automated design",
+        "c": "parts production and testing",
+        "d": "assembly automation and tool production.",
+        "answer": "a common data base and communications system"
+    },
+    {
+        "question": "The parallel register:\r\n\r\n",
+        "a": "can store a multiple bit binary number",
+        "b": "uses R-S flip-flops",
+        "c": "All of the above",
+        "d": "is erased after a word is read fromit",
+        "answer": "can store a multiple bit binary number"
+    },
+    {
+        "question": "Microcomputer-based control sys\u00actems\r\n\r\n",
+        "a": "will just keep their present capability",
+        "b": "will have more standard industrial application software available in the future.",
+        "c": "will tend to increase in cost.",
+        "d": "All of the above",
+        "answer": "will have more standard industrial application software available in the future."
+    },
+    {
+        "question": "A thermistor:\r\n\r\n",
+        "a": "is a pressure sensing device",
+        "b": "has a voltage output",
+        "c": "measures temperature",
+        "d": "All of the above",
+        "answer": "measures temperature"
+    },
+    {
+        "question": "The steady-state error is:\r\n\r\n",
+        "a": "independent of the type of input",
+        "b": "a function of the transient response",
+        "c": "zero for all inputs to type 1 systems",
+        "d": "decreased by increasing gain.",
+        "answer": "decreased by increasing gain."
+    },
+    {
+        "question": "Many things can be done to minimize downtime loss. Identify two of them.\r\n\r\n",
+        "a": "establish a user forum program",
+        "b": "stock critical spare parts",
+        "c": "provide an extra workstation",
+        "d": "both b and c",
+        "answer": "both b and c"
+    },
+    {
+        "question": "A typical NC system has which of the following components?\r\n\r\n",
+        "a": "Controller",
+        "b": "Tape input",
+        "c": "Machine tool",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which part of the system allows the user to interact with the compiler? (a) Memory\r\n\r\n",
+        "a": "Translator",
+        "b": "Communications processor",
+        "c": "Interpreter",
+        "d": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "The robot:\r\n\r\n",
+        "a": "is very primitive at the present",
+        "b": "represents the most powerful new industrial automation tool currently on the horizon",
+        "c": "will be more useful when robot vision is improved significantly",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Direct Numerical Control means:\r\n\r\n",
+        "a": "using several computers to control one large machine",
+        "b": "using one computer to control several machines",
+        "c": "complete elimination of a need for a human operator.",
+        "d": "eliminating computers from the manufacturing process",
+        "answer": "using one computer to control several machines"
+    },
+    {
+        "question": "A proportional plus integral contro\u00acller can:\r\n\r\n",
+        "a": "has no transient response",
+        "b": "can compensate for lag",
+        "c": "can increase the system type",
+        "d": "both (b) and (c)",
+        "answer": "both (b) and (c)"
+    },
+    {
+        "question": "A pick-and-place manipulator is:\r\n\r\n",
+        "a": "the most flexible of all robots",
+        "b": "an intelligent robot",
+        "c": "capable of point-to-point operation",
+        "d": "primarily used for large parts handling",
+        "answer": "capable of point-to-point operation"
+    },
+    {
+        "question": "FORTRAN is:\r\n\r\n",
+        "a": "machine dependent",
+        "b": "a medium-level language",
+        "c": "a mathematically oriented language",
+        "d": "All of the above",
+        "answer": "a mathematically oriented language"
+    },
+    {
+        "question": "Which of the methods below can be used to tell a robot what it is to do?\r\n\r\n",
+        "a": "Walk-through",
+        "b": "Set mechanical stops",
+        "c": "Software program",
+        "d": "(a) and (c)",
+        "answer": "(a) and (c)"
+    },
+    {
+        "question": "The processing, which normally consists of a small computer with one or more peripheral devices, connected via a high-speed line to the large control computer is known as\r\n\r\n",
+        "a": "On-line processing",
+        "b": "Remote-terminal processing",
+        "c": "Batch mode processing",
+        "d": "Intelligent terminal Processing",
+        "answer": "Intelligent terminal Processing"
+    },
+    {
+        "question": "VLSI (very large scale integrated circuits) logic:\r\n\r\n",
+        "a": "will not be available in this decade",
+        "b": "means more costly electronic products in the future",
+        "c": "will result in lower cost, higher capability electronic equipment",
+        "d": "All of the above",
+        "answer": "will result in lower cost, higher capability electronic equipment"
+    },
+    {
+        "question": "The term used to represent the recycling of unused memory is:\r\n\r\n",
+        "a": "garbage collection",
+        "b": "diagnostic routine",
+        "c": "memory dump",
+        "d": "direct memory access",
+        "answer": "garbage collection"
+    },
+    {
+        "question": "In the instruction, 500 SUBA # 50 the command field is:\r\n\r\n",
+        "a": "500",
+        "b": "# 50000",
+        "c": "SUBA",
+        "d": "(b) and (c)",
+        "answer": "SUBA"
+    },
+    {
+        "question": "Use of modern control technology in automation systems:\r\n\r\n",
+        "a": "reduces costs",
+        "b": "improves reliability",
+        "c": "increases yield",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "One of the major benefits of using CAD in tool design is that:\r\n\r\n",
+        "a": "product design represents approximately one-half the engineering costs",
+        "b": "tool motions can be checked to see if there is interference between the tool and the object",
+        "c": "there is better coordination in the materials-handling area",
+        "d": "it simplifies the trial-and-error method",
+        "answer": "tool motions can be checked to see if there is interference between the tool and the object"
+    },
+    {
+        "question": "The speed at which the monitor accepts data is called:\r\n\r\n",
+        "a": "bandwidth",
+        "b": "response time",
+        "c": "interlacing",
+        "d": "scanning",
+        "answer": "bandwidth"
+    },
+    {
+        "question": "The chosen language for the Japanese Fifth-Generation Compu\u00acter Project is:\r\n\r\n",
+        "a": "LISP",
+        "b": "FORTRAN",
+        "c": "COBOL",
+        "d": "PROLOG",
+        "answer": "PROLOG"
+    },
+    {
+        "question": "When a computer fetches an instruction, the binary code representing the instruction appears on the:\r\n\r\n",
+        "a": "I\/O address bus",
+        "b": "memory data bus",
+        "c": "input data bus",
+        "d": "output data bus",
+        "answer": "memory data bus"
+    },
+    {
+        "question": "A stepping motor;\r\n\r\n",
+        "a": "has a speed proportional to voltage input",
+        "b": "has a commutator",
+        "c": "is a good choice where continuous rotation is needed",
+        "d": "can index positional movement.",
+        "answer": "can index positional movement."
+    },
+    {
+        "question": "A microprocessor is:\r\n\r\n",
+        "a": "controlled by a program",
+        "b": "an integrated circuit",
+        "c": "relatively inexpensive",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "An up\/down counter used in a TI510PC has three inputs. Which of the following is not one of them?\r\n\r\n",
+        "a": "Count up",
+        "b": "Count out",
+        "c": "Reset",
+        "d": "Count down",
+        "answer": "Count out"
+    },
+    {
+        "question": "If a sine wave has a frequency of 500 Hz, the period in seconds of the sine wave is:\r\n\r\n",
+        "a": "5000",
+        "b": "0.003",
+        "c": "0.02",
+        "d": "0.002.",
+        "answer": "0.002."
+    },
+    {
+        "question": "Standard computer control products:\r\n\r\n",
+        "a": "are available off the shelf",
+        "b": "are very expensive and not cost effective",
+        "c": "do not exist yet",
+        "d": "All of the above",
+        "answer": "are available off the shelf"
+    },
+    {
+        "question": "Skipping every other line and picking up the skipped lines on the second pass is called:\r\n\r\n",
+        "a": "interlacing",
+        "b": "refresh-vector",
+        "c": "raster-scan",
+        "d": "stroke writing",
+        "answer": "interlacing"
+    },
+    {
+        "question": "Ergonomics refers to:\r\n\r\n",
+        "a": "the human aspect of the environment around the workstation as well as the workstation itself",
+        "b": "the cost relationship of the workstation versus productivity",
+        "c": "the level of involvement the operator has with the workstation",
+        "d": "the technology involved in the workstation itself",
+        "answer": "the human aspect of the environment around the workstation as well as the workstation itself"
+    },
+    {
+        "question": "Artificial intelligence operates on the principle of using a _____ base as opposed to a data base.\r\n\r\n",
+        "a": "Character",
+        "b": "Knowledge",
+        "c": "PROLOG",
+        "d": "LISP",
+        "answer": "Knowledge"
+    },
+    {
+        "question": "A smart solid-state sensor is:\r\n\r\n",
+        "a": "one that integrates both logic and a solid-state sensor into one unit.",
+        "b": "one that has two or three substrates",
+        "c": "not available today",
+        "d": "All of the above",
+        "answer": "one that integrates both logic and a solid-state sensor into one unit."
+    },
+    {
+        "question": "D\/A (digital to analog) conversion:\r\n\r\n",
+        "a": "results in a binary code as the final output",
+        "b": "has to be sampled at 1\/2 the highest input frequency",
+        "c": "must be fed through a filter to reproduce the original signal accurately",
+        "d": "both (b) and (c)",
+        "answer": "must be fed through a filter to reproduce the original signal accurately"
+    },
+    {
+        "question": "Most data transmission in the future will be:\r\n\r\n",
+        "a": "digital bit stream encoded data",
+        "b": "analog in nature",
+        "c": "carried over metallic telephone lines",
+        "d": "All of the above",
+        "answer": "digital bit stream encoded data"
+    },
+    {
+        "question": "The integrated circuit:\r\n\r\n",
+        "a": "often is called a \"chip\"",
+        "b": "led to the development of the transistor",
+        "c": "has revolutionized electronics",
+        "d": "(b) and (c)",
+        "answer": "(b) and (c)"
+    },
+    {
+        "question": "What is offset error?\r\n\r\n",
+        "a": "the difference between the sensor input and the absolute sensed parameter.",
+        "b": "the difference between the controller output and the setting of the manipulated variable.",
+        "c": "the difference between the control setpoint value and the actual value.",
+        "d": "All of the above",
+        "answer": "the difference between the control setpoint value and the actual value."
+    },
+    {
+        "question": "Which of the following may be classified as an automation system?\r\n\r\n",
+        "a": "automated warehouses",
+        "b": "numerically controlled machine tools",
+        "c": "robotics",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The accuracy of a pick-and-place robot can be as good as:\r\n\r\n",
+        "a": "+ 0.0005 inches",
+        "b": "+ 0.05 inches",
+        "c": "0.008 inches",
+        "d": "+ 3%",
+        "answer": "+ 0.0005 inches"
+    },
+    {
+        "question": "The difference between CAD and CAM is that CAD software is directed at product design while CAM software is:\r\n\r\n",
+        "a": "concerned with production and control of tool design",
+        "b": "concerned with management programs",
+        "c": "designed for communications",
+        "d": "specifically for PC-board design",
+        "answer": "concerned with production and control of tool design"
+    },
+    {
+        "question": "Localizing an object in an image and selectively analyzing the object in a series of redundant layers is referred to as the:\r\n\r\n",
+        "a": "Turing test",
+        "b": "pyramid",
+        "c": "Gaussian pyramid",
+        "d": "Maxwell pyramid",
+        "answer": "Gaussian pyramid"
+    },
+    {
+        "question": "In the operation of a programmable controller:\r\n\r\n",
+        "a": "all of the logic status is maintained in memory",
+        "b": "any latched data must be done using an external latching relay",
+        "c": "mathematics cannot be performed",
+        "d": "All of the above",
+        "answer": "all of the logic status is maintained in memory"
+    },
+    {
+        "question": "The concept of a general CAD system was that it should provide:\r\n\r\n",
+        "a": "A system for handling user actions.",
+        "b": "A system for the operation of applications programming.",
+        "c": "A set of basic system functions and utilities.",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The insect type robot Attila is a more competent version of the robot Genghis an weights 1.7 kg. What is the number of microprocessors carried by its body?\r\n\r\n",
+        "a": "15",
+        "b": "10",
+        "c": "33",
+        "d": "15",
+        "answer": "10"
+    },
+    {
+        "question": "The \"walk-through\" method of programming a robot involves:\r\n\r\n",
+        "a": "walking through your suggested procedure with your supervisor prior to programming",
+        "b": "physically moving the robot through all the motions it is to repeat",
+        "c": "moving the robot from one location to another",
+        "d": "All of the above.",
+        "answer": "physically moving the robot through all the motions it is to repeat"
+    },
+    {
+        "question": "Which of the following is often used as an alternative to the light pen or in association with storage tube displays?\r\n\r\n",
+        "a": "Digitiser",
+        "b": "Track ball",
+        "c": "Mouse",
+        "d": "Tablet",
+        "answer": "Tablet"
+    },
+    {
+        "question": "The general CAD system was development by considering a wide range of possible uses of such a system.\r\n\r\n",
+        "a": "Mechanical engineering design",
+        "b": "Animation and graphic design",
+        "c": "Structural engineering design and Electronic circuit design",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Relay ladder logic is used in a PC because:\r\n\r\n",
+        "a": "it is impossible to write a control program for a machine in any other logic",
+        "b": "it is the best industrial control language ever developed.",
+        "c": "most industrial control personnel are familiar with relay ladder logic diagrams and this is the easiest for them to use",
+        "d": "All of the above",
+        "answer": "most industrial control personnel are familiar with relay ladder logic diagrams and this is the easiest for them to use"
+    },
+    {
+        "question": "The \"end-effector\" of a robot:\r\n\r\n",
+        "a": "can be an actual tool",
+        "b": "is the robot \"hand\"",
+        "c": "may have a gripping action",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The program execution time:\r\n\r\n",
+        "a": "must be slower than the fastest mechanical operation that is to be controlled",
+        "b": "will vary depending on the language used",
+        "c": "cannot be changed once the program is written",
+        "d": "All of the above",
+        "answer": "will vary depending on the language used"
+    },
+    {
+        "question": "One advantage of a PC in industrial control is that it:\r\n\r\n",
+        "a": "has a reliable long life compared to relay logic",
+        "b": "is very difficult for the inexperienced programmer to understand",
+        "c": "is unreliable because there are no moving parts",
+        "d": "All of the above",
+        "answer": "has a reliable long life compared to relay logic"
+    },
+    {
+        "question": "An operating system:\r\n\r\n",
+        "a": "is required to run a microprocessor system",
+        "b": "provides a structure with which to develop application programs",
+        "c": "is useful because standard modules can be used",
+        "d": "both (b) and (c)",
+        "answer": "both (b) and (c)"
+    },
+    {
+        "question": "When one must sell a project to management, the most important document he or she can produce is a:\r\n\r\n",
+        "a": "method for financing the project",
+        "b": "summary of the problem",
+        "c": "project evaluation",
+        "d": "procedure for purchase",
+        "answer": "project evaluation"
+    },
+    {
+        "question": "What is required to enable the PC to emulate a graphics terminal?\r\n\r\n",
+        "a": "Software",
+        "b": "A laser printer",
+        "c": "A color monitor",
+        "d": "A graphics board",
+        "answer": "Software"
+    },
+    {
+        "question": "Which type of digitizer measures a wave traveling at the speed of sound?\r\n\r\n",
+        "a": "Electrostatic",
+        "b": "Sonic",
+        "c": "Digitizing sr amer",
+        "d": "Caparitive",
+        "answer": "Sonic"
+    },
+    {
+        "question": "An encoder:\r\n\r\n",
+        "a": "is used to send telegraph signals",
+        "b": "converts an input to a binary number",
+        "c": "converts a binary number to a decimal number.",
+        "d": "can have only four keys",
+        "answer": "converts an input to a binary number"
+    },
+    {
+        "question": "Operator interaction directly with the CRT is accomplished via:\r\n\r\n",
+        "a": "a digitizing tablet",
+        "b": "vector scanning",
+        "c": "a stylus",
+        "d": "a touch terminal",
+        "answer": "a touch terminal"
+    },
+    {
+        "question": "What two disciplines are usually tied by a common data base?\r\n\r\n",
+        "a": "Documentation and geometric modeling",
+        "b": "Computer-aided design and computer-aided manufacturing",
+        "c": "Testing and analysis",
+        "d": "Drafting and documentation",
+        "answer": "Computer-aided design and computer-aided manufacturing"
+    },
+    {
+        "question": "Which of the following is a graphical output device?\r\n\r\n",
+        "a": "Dot-matrix Printer",
+        "b": "Plotter",
+        "c": "Laser Printer",
+        "d": "Line Printer",
+        "answer": "Plotter"
+    },
+    {
+        "question": "A display of a volume model that shows all of its edges is called a:\r\n\r\n",
+        "a": "surface model",
+        "b": "3-D model",
+        "c": "wire-frame",
+        "d": "solid model",
+        "answer": "wire-frame"
+    },
+    {
+        "question": "A sequence controller:\r\n\r\n",
+        "a": "is difficult to program",
+        "b": "is a mechanical only controller",
+        "c": "is no longer in widespread use",
+        "d": "performs on\/off control functions in relation to time.",
+        "answer": "performs on\/off control functions in relation to time."
+    },
+    {
+        "question": "Having compatibility and commonality in and between vendors' equipment is called:\r\n\r\n",
+        "a": "registration",
+        "b": "standardization",
+        "c": "integration",
+        "d": "networking",
+        "answer": "standardization"
+    },
+    {
+        "question": "Programmable controllers:\r\n\r\n",
+        "a": "are programmed using relay ladder logic",
+        "b": "cannot perform functions other than relay logic",
+        "c": "are widely used in many different industries",
+        "d": "(a) and (c) above",
+        "answer": "(a) and (c) above"
+    },
+    {
+        "question": "Which of the following are kinds of instructions?\r\n\r\n",
+        "a": "Input",
+        "b": "Arithmetic",
+        "c": "Conditional branching",
+        "d": "All of the above",
+        "answer": "All of the above"
+    }
+]

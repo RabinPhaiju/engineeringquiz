@@ -1,0 +1,322 @@
+[
+    {
+        "question": "In a file contains the line \"I am a boy\\r\\n\" then on reading this line into the array str using fgets(). What will str contain?",
+        "a": "\"I am a boy\\r\\n\\0\"",
+        "b": "\"I am a boy\\r\\0\"",
+        "c": "\"I am a boy\\n\\0\"",
+        "d": "\"I am a boy\"",
+        "answer": "\"I am a boy\\n\\0\""
+    },
+    {
+        "question": "What is the purpose of \"rb\" in fopen() function used below in the code?\r\nFILE *fp;\r\nfp = fopen(\"source.txt\", \"rb\");",
+        "a": "open \"source.txt\" in binary mode for reading",
+        "b": "open \"source.txt\" in binary mode for reading and writing",
+        "c": "Create a new file \"source.txt\" for reading and writing",
+        "d": "None of above",
+        "answer": "open \"source.txt\" in binary mode for reading"
+    },
+    {
+        "question": "What does fp point to in the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    fp=fopen(\"trial\", \"r\");\r\n    return 0;\r\n}",
+        "a": "The first character in the file",
+        "b": "A structure which contains a char pointer which points to the first character of a file.",
+        "c": "The name of the file.",
+        "d": "The last character in the file.",
+        "answer": "A structure which contains a char pointer which points to the first character of a file."
+    },
+    {
+        "question": "Which of the following operations can be performed on the file \"NOTES.TXT\" using the below code?\r\nFILE *fp;\r\nfp = fopen(\"NOTES.TXT\", \"r+\");",
+        "a": "Reading",
+        "b": "Writing",
+        "c": "Appending",
+        "d": "Read and Write",
+        "answer": "Read and Write"
+    },
+    {
+        "question": "To print out a and b given below, which of the following printf() statement will you use?\r\n#include<stdio.h>\r\nfloat a=3.14;\r\ndouble b=3.14;",
+        "a": "printf(\"%f %lf\", a, b);",
+        "b": "printf(\"%Lf %f\", a, b);",
+        "c": "printf(\"%Lf %Lf\", a, b);",
+        "d": "printf(\"%f %Lf\", a, b);",
+        "answer": "printf(\"%f %lf\", a, b);"
+    },
+    {
+        "question": "Which files will get closed through the fclose() in the following program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fs, *ft, *fp;\r\n    fp = fopen(\"A.C\", \"r\");\r\n    fs = fopen(\"B.C\", \"r\");\r\n    ft = fopen(\"C.C\", \"r\");\r\n    fclose(fp, fs, ft);\r\n    return 0;\r\n}",
+        "a": "\"A.C\" \"B.C\" \"C.C\"",
+        "b": "\"B.C\" \"C.C\"",
+        "c": "\"A.C\"",
+        "d": "Error in fclose()",
+        "answer": "Error in fclose()"
+    },
+    {
+        "question": "On executing the below program what will be the contents of 'target.txt' file if the source file contains a line \"To err is human\"?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i, fss;\r\n    char ch, source[20] = \"source.txt\", target[20]=\"target.txt\", t;\r\n    FILE *fs, *ft;\r\n    fs = fopen(source, \"r\");\r\n    ft = fopen(target, \"w\");\r\n    while(1)\r\n    {\r\n        ch=getc(fs);\r\n        if(ch==EOF)\r\n            break;\r\n        else\r\n        {\r\n            fseek(fs, 4L, SEEK_CUR);\r\n            fputc(ch, ft);\r\n        }\r\n    }\r\n    return 0;\r\n}",
+        "a": "r n",
+        "b": "Trh",
+        "c": "err",
+        "d": "None of above",
+        "answer": "Trh"
+    },
+    {
+        "question": "To scan a and b given below, which of the following scanf() statement will you use?\r\n#include<stdio.h>\r\nfloat a;\r\ndouble b;",
+        "a": "scanf(\"%f %f\", &a, &b);",
+        "b": "scanf(\"%Lf %Lf\", &a, &b);",
+        "c": "scanf(\"%f %Lf\", &a, &b);",
+        "d": "scanf(\"%f %lf\", &a, &b);",
+        "answer": "scanf(\"%f %lf\", &a, &b);"
+    },
+    {
+        "question": "Out of fgets() and gets() which function is safe to use?",
+        "a": "gets()",
+        "b": "fgets()",
+        "c": "",
+        "d": "",
+        "answer": "fgets()"
+    },
+    {
+        "question": "Consider the following program and what will be content of t?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    int t;\r\n    fp = fopen(\"DUMMY.C\", \"w\");\r\n    t = fileno(fp);\r\n    printf(\"%d\\n\", t);\r\n    return 0;\r\n}",
+        "a": "size of \"DUMMY.C\" file",
+        "b": "The handle associated with \"DUMMY.C\" file",
+        "c": "Garbage value",
+        "d": "Error in fileno()",
+        "answer": "The handle associated with \"DUMMY.C\" file"
+    },
+    {
+        "question": "What will be the content of 'file.c' after executing the following program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp1, *fp2;\r\n    fp1=fopen(\"file.c\", \"w\");\r\n    fp2=fopen(\"file.c\", \"w\");\r\n    fputc('A', fp1);\r\n    fputc('B', fp2);\r\n    fclose(fp1);\r\n    fclose(fp2);\r\n    return 0;\r\n}",
+        "a": "B",
+        "b": "AB",
+        "c": "BB",
+        "d": "Error in opening file 'file1.c'",
+        "answer": "B"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int k=1;\r\n    printf(\"%d == 1 is\" \"%s\\n\", k, k==1?\"TRUE\":\"FALSE\");\r\n    return 0;\r\n}",
+        "a": "k == 1 is TRUE",
+        "b": "1 == 1 is TRUE",
+        "c": "1 == 1 is FALSE",
+        "d": "K == 1 is FALSE",
+        "answer": "1 == 1 is TRUE"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nchar *str = \"char *str = %c%s%c; main(){ printf(str, 34, str, 34);}\";\r\nint main()\r\n{\r\n    printf(str, 34, str, 34);\r\n    return 0;\r\n}",
+        "a": "char *str = \"char *str = %c%s%c; main(){ printf(str, 34, str, 34);}\"; main(){ printf(str, 34, str, 34);}",
+        "b": "char *str = %c%s%c; main(){ printf(str, 34, str, 34);}",
+        "c": "No output",
+        "d": "Error in program",
+        "answer": "char *str = \"char *str = %c%s%c; main(){ printf(str, 34, str, 34);}\"; main(){ printf(str, 34, str, 34);}"
+    },
+    {
+        "question": "If the file 'source.txt' contains a line \"Be my friend\" which of the following will be the output of below program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fs, *ft;\r\n    char c[10];\r\n    fs = fopen(\"source.txt\", \"r\");\r\n    c[0] = getc(fs);\r\n    fseek(fs, 0, SEEK_END);\r\n    fseek(fs, -3L, SEEK_CUR);\r\n    fgets(c, 5, fs);\r\n    puts(c);\r\n    return 0;\r\n}",
+        "a": "friend",
+        "b": "frien",
+        "c": "end",
+        "d": "Error in fseek();",
+        "answer": "end"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    float a=3.15529;\r\n    printf(\"%2.1f\\n\", a);\r\n    return 0;\r\n}",
+        "a": "3.00",
+        "b": "3.15",
+        "c": "3.2",
+        "d": "3",
+        "answer": "3.2"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"%c\\n\", ~('C'*-1));\r\n    return 0;\r\n}",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "answer": "B"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    unsigned char ch;\r\n     \/* file 'abc.c' contains \"This is NepalBIX \" *\/\r\n    fp=fopen(\"abc.c\", \"r\");\r\n    if(fp == NULL)\r\n    {\r\n        printf(\"Unable to open file\");\r\n        exit(1);\r\n    }\r\n    while((ch=getc(fp)) != EOF)\r\n        printf(\"%c\", ch);\r\n\r\n    fclose(fp);\r\n    printf(\"\\n\", ch);\r\n    return 0;\r\n}",
+        "a": "This is NepalBIX",
+        "b": "This is",
+        "c": "Infinite loop",
+        "d": "Error",
+        "answer": "Infinite loop"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char *p;\r\n    p=\"%d\\n\";\r\n    p++;\r\n    p++;\r\n    printf(p-2, 23);\r\n    return 0;\r\n}",
+        "a": "21",
+        "b": "23",
+        "c": "Error",
+        "d": "No output",
+        "answer": "23"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *ptr;\r\n    char i;\r\n    ptr = fopen(\"myfile.c\", \"r\");\r\n    while((i=fgetc(ptr))!=NULL)\r\n        printf(\"%c\", i);\r\n    return 0;\r\n}",
+        "a": "Print the contents of file \"myfile.c\"",
+        "b": "Print the contents of file \"myfile.c\" upto NULL character",
+        "c": "Infinite loop",
+        "d": "Error in program",
+        "answer": "Infinite loop"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"%%%%\\n\");\r\n    return 0;\r\n}",
+        "a": "%%%%%",
+        "b": "%%",
+        "c": "No output",
+        "d": "Error",
+        "answer": "%%"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a=250;\r\n    printf(\"%1d\u001d\\n\", a);\r\n    return 0;\r\n}",
+        "a": "1250",
+        "b": "2",
+        "c": "50",
+        "d": "250",
+        "answer": "250"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    char ch, str[7];\r\n    fp=fopen(\"try.c\", \"r\"); \/* file 'try.c' contains \"This is Nagpur\" *\/\r\n    fseek(fp, 9L, SEEK_CUR);\r\n    fgets(str, 5, fp);\r\n    puts(str);\r\n    return 0;\r\n}",
+        "a": "agpur",
+        "b": "gpur",
+        "c": "Nagp",
+        "d": "agpu",
+        "answer": "agpu"
+    },
+    {
+        "question": "What will be the output of the program if value 25 given to scanf()?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i;\r\n    printf(\"%d\\n\", scanf(\"%d\", &i));\r\n    return 0;\r\n}",
+        "a": "25",
+        "b": "2",
+        "c": "1",
+        "d": "5",
+        "answer": "1"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\n#include<stdlib.h>\r\nint main()\r\n{\r\n    unsigned char;\r\n    FILE *fp;\r\n    fp=fopen(\"trial\", \"r\");\r\n    if(!fp)\r\n    {\r\n        printf(\"Unable to open file\");\r\n        exit(1);\r\n    }\r\n    fclose(fp);\r\n    return 0;\r\n}",
+        "a": "Error: in unsigned char statement",
+        "b": "Error: unknown file pointer",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "No error"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char ch;\r\n    int i;\r\n    scanf(\"%c\", &i);\r\n    scanf(\"%d\", &ch);\r\n    printf(\"%c %d\", ch, i);\r\n    return 0;\r\n}",
+        "a": "Error: suspicious char to in conversion in scanf()",
+        "b": "Error: we may not get input for second scanf() statement",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: we may not get input for second scanf() statement"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    fp=fopen(\"trial\", \"r\");\r\n    fseek(fp, \"20\", SEEK_SET);\r\n    fclose(fp);\r\n    return 0;\r\n}",
+        "a": "Error: unrecognised Keyword SEEK_SET",
+        "b": "Error: fseek() long offset value",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: fseek() long offset value"
+    },
+    {
+        "question": "Point out the error in the program?\r\n#include<stdio.h>\r\n\/* Assume there is a file called 'file.c' in c:\\tc directory. *\/\r\nint main()\r\n{\r\n    FILE *fp;\r\n    fp=fopen(\"c:\\tc\\file.c\", \"r\");    \r\n    if(!fp) \r\n      printf(\"Unable to open file.\");        \r\n\r\n    fclose(fp);\r\n    return 0;\r\n}",
+        "a": "No error, No output.",
+        "b": "Program crashes at run time.",
+        "c": "Output: Unable to open file.",
+        "d": "None of above",
+        "answer": "Output: Unable to open file."
+    },
+    {
+        "question": "Point out the error\/warning in the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    unsigned char ch;\r\n    FILE *fp;\r\n    fp=fopen(\"trial\", \"r\");\r\n    while((ch = getc(fp))!=EOF)\r\n        printf(\"%c\", ch);\r\n    fclose(fp);\r\n    return 0;\r\n}",
+        "a": "Error: in unsigned char declaration",
+        "b": "Error: while statement",
+        "c": "No error",
+        "d": "It prints all characters in file \"trial\"",
+        "answer": "Error: in unsigned char declaration"
+    },
+    {
+        "question": "Which of the following statement is correct about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    char ch;\r\n    int i=1;\r\n    fp = fopen(\"myfile.c\", \"r\");\r\n    while((ch=getc(fp))!=EOF)\r\n    {\r\n        if(ch == '\\n')\r\n            i++;\r\n    }\r\n    fclose(fp);\r\n    return 0;\r\n}",
+        "a": "The code counts number of characters in the file",
+        "b": "The code counts number of words in the file",
+        "c": "The code counts number of blank lines in the file",
+        "d": "The code counts number of lines in the file",
+        "answer": "The code counts number of lines in the file"
+    },
+    {
+        "question": "Which of the following statement is correct about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fp;\r\n    char str[11], ch;\r\n    int i=0;\r\n    fp = fopen(\"INPUT.TXT\", \"r\");\r\n    while((ch=getc(fp))!=EOF)\r\n    {\r\n        if(ch == '\\n' || ch == ' ')\r\n        {\r\n            str[i]='\\0';\r\n            strrev(str);\r\n            printf(\"%s\", str);\r\n            i=0;\r\n        }\r\n        else\r\n            str[i++]=ch;\r\n    }\r\n    fclose(fp);\r\n    return 0;\r\n}",
+        "a": "The code writes a text to a file",
+        "b": "The code reads a text files and display its content in reverse order",
+        "c": "The code writes a text to a file in reverse order",
+        "d": "None of above",
+        "answer": "The code reads a text files and display its content in reverse order"
+    },
+    {
+        "question": "Point out the correct statements about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    FILE *fptr;\r\n    char str[80];\r\n    fptr = fopen(\"f1.dat\", \"w\");\r\n    if(fptr == NULL)\r\n        printf(\"Cannot open file\");\r\n    else\r\n    {\r\n        while(strlen(gets(str))>0)\r\n        {\r\n            fputs(str, fptr);\r\n            fputs(\"\\n\", fptr);\r\n        }\r\n        fclose(fptr);\r\n    }\r\n    return 0;\r\n}",
+        "a": "The code copies the content of one file to another",
+        "b": "The code writes strings that are read from the keyboard into a file.",
+        "c": "The code reads a file",
+        "d": "None of above",
+        "answer": "The code writes strings that are read from the keyboard into a file."
+    },
+    {
+        "question": "While calling the fprintf() function in the format string conversion specifier %s can be used to write a character string in capital letters.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A text stream is an ordered sequence of characters composed into lines, each line consisting of zero or more characters plus a terminating new-line character.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Offset used in fseek() function call can be a negative number.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "We should not read after a write to a file without an intervening call to fflush(), fseek() or rewind()\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a call to printf() function the format specifier %b can be used to print binary equivalent of an integer.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "stderr, stdin, stdout are FILE pointers\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "A file written in text mode can be read back in binary mode.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the following program work?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int n=5;\r\n    printf(\"n=%*d\\n\", n, n);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Can we specify a variable filed width in a scanf() format string?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

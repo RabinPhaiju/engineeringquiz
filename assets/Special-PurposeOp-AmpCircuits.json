@@ -1,0 +1,226 @@
+[
+    {
+        "question": "When using an OTA in a Schmitt-trigger configuration, the trigger points are controlled by\r\n\r\n",
+        "a": "the Iout",
+        "b": "the IBIAS",
+        "c": "the Vout",
+        "d": "both Iout and IBIAS",
+        "answer": "both Iout and IBIAS"
+    },
+    {
+        "question": "mcq20_1007_1.jpgThis circuit is a setup for\r\n\r\n",
+        "a": "an antilog amplifier",
+        "b": "a constant-current source",
+        "c": "an instrumentation amplifier",
+        "d": "an isolation amplifier",
+        "answer": "an instrumentation amplifier"
+    },
+    {
+        "question": "The primary function of the oscillator in an isolation amplifier is to\r\n\r\n",
+        "a": "convert dc to high-frequency ac",
+        "b": "convert dc to low-frequency ac",
+        "c": "rectify high-frequency ac to dc",
+        "d": "produce dual-polarity dc voltages for the input to the demodulator",
+        "answer": "convert dc to high-frequency ac"
+    },
+    {
+        "question": "mcq20_1008_1.jpgThis circuit is a setup for",
+        "a": "an antilog amplifier",
+        "b": "a constant-current source",
+        "c": "an instrumentation amplifier",
+        "d": "an isolation amplifier",
+        "answer": "a constant-current source"
+    },
+    {
+        "question": "An instrumentation amplifier has a high\r\n\r\n",
+        "a": "output impedance",
+        "b": "power gain",
+        "c": "CMRR",
+        "d": "supply voltage",
+        "answer": "CMRR"
+    },
+    {
+        "question": "mcq20_1009_1.jpgThis circuit is a setup for\r\n\r\n",
+        "a": "an antilog amplifier",
+        "b": "a constant-current source",
+        "c": "an instrumentation amplifier",
+        "d": "an isolation amplifier",
+        "answer": "an isolation amplifier"
+    },
+    {
+        "question": "Circuits that shift the dc level of a signal are called\r\n\r\n",
+        "a": "limiters",
+        "b": "clampers",
+        "c": "peak detectors",
+        "d": "dc converters",
+        "answer": "clampers"
+    },
+    {
+        "question": "In the classic three-op-amp instrumentation amplifier, the differential voltage gain is usually produced by the\r\n\r\n",
+        "a": "first stage",
+        "b": "second stage",
+        "c": "mismatched resistors",
+        "d": "output op-amp",
+        "answer": "first stage"
+    },
+    {
+        "question": "Typical isolation amplifiers use optical coupling.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "OTA stands for Operational Transistor Amplifier.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An isolation amplifier provides ac isolation between input and output.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The main purpose of an instrumentation amplifier is to amplify small signals riding on large common-mode voltages.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "One of the principal areas of application for an isolation amplifier is power plant instrumentation.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Isolation amps are named as such because they are sealed for protection from outside environmental damage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "To construct an instrumentation amplifier, two op-amps and seven resistors are needed.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Clampers are often called peak detectors.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An OTA is primarily a current-to-voltage amplifier.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The basic instrumentation amplifier has ________ input(s).\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "capacitive",
+        "d": "resistive",
+        "answer": "2"
+    },
+    {
+        "question": "A Schmitt trigger has _________.\r\n\r\n",
+        "a": "no trigger points",
+        "b": "one trigger point",
+        "c": "two trigger points",
+        "d": "three trigger points",
+        "answer": "three trigger points"
+    },
+    {
+        "question": "A Schmitt trigger is a comparator with _______.\r\n\r\n",
+        "a": "modulation",
+        "b": "a closed-loop gain less than one",
+        "c": "hysteresis",
+        "d": "a high threshold value",
+        "answer": "hysteresis"
+    },
+    {
+        "question": "The precision rectifier circuit is designed to _________.\r\n\r\n",
+        "a": "rectify waveforms with very large voltage swings",
+        "b": "rectify waveforms with very small voltage swings",
+        "c": "rectify precision waveforms",
+        "d": "amplify and rectify waveforms",
+        "answer": "rectify waveforms with very small voltage swings"
+    },
+    {
+        "question": "A(n) ________ amplifier is used if the application requires a high sensitivity to low-level signals and protection from high-voltage associated circuits.\r\n\r\n",
+        "a": "basic instrumentation",
+        "b": "operational transconductance",
+        "c": "log\/antilog amplifier",
+        "d": "isolation",
+        "answer": "isolation"
+    },
+    {
+        "question": "The gain of an OTA is the ratio of the output current to the input voltage, and is measured in _____________.\r\n\r\n",
+        "a": "amps",
+        "b": "volts",
+        "c": "siemens",
+        "d": "no units",
+        "answer": "siemens"
+    },
+    {
+        "question": "An instrumentation amplifier has extremely high ________, good ________, and high ________.\r\n\r\n",
+        "a": "input impedance, common-mode rejection, gain",
+        "b": "noise factor, grounding, power",
+        "c": "working voltages, current capacity, output impedance",
+        "d": "output gain, output loading, power",
+        "answer": "input impedance, common-mode rejection, gain"
+    },
+    {
+        "question": "The external resistor of a typical instrumentation amplifier is used to set the ________.\r\n\r\n",
+        "a": "impedance",
+        "b": "rejection ratio",
+        "c": "gain",
+        "d": "isolation",
+        "answer": "gain"
+    },
+    {
+        "question": "If an operational transconductance amplifier (OTA) is used as an amplitude modulator, the voltage gain is varied by applying a _________ voltage to the ______ input.\r\n\r\n",
+        "a": "demodulation, bias",
+        "b": "modulation, bias",
+        "c": "bias, modulation",
+        "d": "low-frequency, bias",
+        "answer": "modulation, bias"
+    },
+    {
+        "question": "The ________ amplifier is ideal for amplitude modulation since its gain is current-controlled.\r\n\r\n",
+        "a": "log",
+        "b": "operational transconductance",
+        "c": "isolation",
+        "d": "Schmitt",
+        "answer": "operational transconductance"
+    },
+    {
+        "question": "A voltage-to-current converter is used in applications where it's necessary to have an output load current that is controlled by _________.\r\n\r\n",
+        "a": "input frequency",
+        "b": "output resistance",
+        "c": "input voltage",
+        "d": "input resistance",
+        "answer": "input voltage"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "question": "In the following code, the P2 is Integer Pointer or Integer?\r\ntypedef int *ptr;\r\nptr p1, p2;",
+        "a": "Integer",
+        "b": "Integer pointer",
+        "c": "Error in declaration",
+        "d": "None of above",
+        "answer": "Integer pointer"
+    },
+    {
+        "question": "In the following code what is 'P'?\r\ntypedef char *charp;\r\nconst charp P;",
+        "a": "P is a constant",
+        "b": "P is a character constant",
+        "c": "P is character type",
+        "d": "None of above",
+        "answer": "P is a constant"
+    },
+    {
+        "question": "What is x in the following program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    typedef char (*(*arrfptr[3])())[10];\r\n    arrfptr x;\r\n    return 0;\r\n}",
+        "a": "x is a pointer",
+        "b": "x is an array of three pointer",
+        "c": "x is an array of three function pointers",
+        "d": "Error in x declaration",
+        "answer": "x is an array of three function pointers"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    enum color{red, green, blue};\r\n    typedef enum color mycolor;\r\n    mycolor m = red;\r\n    printf(\"%d\", m);\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "0",
+        "c": "2",
+        "d": "red",
+        "answer": "0"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    typedef int arr[5];\r\n    arr iarr = {1, 2, 3, 4, 5};\r\n    int i;\r\n    for(i=0; i<4; i++)\r\n        printf(\"%d,\", iarr[i]);\r\n    return 0;\r\n}",
+        "a": "1, 2, 3, 4",
+        "b": "1, 2, 3, 4, 5",
+        "c": "No output",
+        "d": "Error: Cannot use typedef with an array",
+        "answer": "1, 2, 3, 4"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    typedef int LONG;\r\n    LONG a=4;\r\n    LONG b=68;\r\n    float c=0;\r\n    c=b;\r\n    b+=a;\r\n    printf(\"%d,\", b);\r\n    printf(\"%f\\n\", c);\r\n    return 0;\r\n}",
+        "a": "72, 68.000000",
+        "b": "72.000000, 68",
+        "c": "68.000000, 72.000000",
+        "d": "68, 72.000000",
+        "answer": "72, 68.000000"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    typedef float f;\r\n    static f *fptr;\r\n    float fval = 90;\r\n    fptr = &fval;\r\n    printf(\"%f\\n\", *fptr);\r\n    return 0;\r\n}",
+        "a": "9",
+        "b": "0",
+        "c": "90.000000",
+        "d": "90",
+        "answer": "90.000000"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\ntypedef struct error {int warning, err, exception;} ERROR;\r\nint main()\r\n{\r\n    ERROR e;\r\n    e.err=1;\r\n    printf(\"%d\\n\", e.err);\r\n    return 0;\r\n}",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "Error",
+        "answer": "1"
+    },
+    {
+        "question": "In the following code snippet can we declare a new typedef named ptr even though struct employee has not been completely declared while using typedef?\r\ntypedef struct employee *ptr;\r\nstruct employee\r\n{\r\n    char name[20];\r\n    int age;\r\n    ptr next;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Point out the error in the following code?\r\ntypedef struct\r\n{\r\n    int data;\r\n    NODEPTR link;\r\n}*NODEPTR;",
+        "a": "Error: in *NODEPTR",
+        "b": "Error: typedef cannot be used until it is defined",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "Error: typedef cannot be used until it is defined"
+    },
+    {
+        "question": "Is the following declaration acceptable?\r\ntypedef long no, *ptrtono;\r\nno n;\r\nptrtono p;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Is there any difference in the #define and typedef in the following code?\r\ntypedef char * string_t;\r\n#define string_d char *;\r\nstring_t s1, s2;\r\nstring_d s3, s4;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "Are the properties of i, j and x, y in the following program same?\r\ntypedef unsigned long int uli;\r\nuli i, j;\r\nunsigned long int x, y;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    },
+    {
+        "question": "typedef's have the advantage that they obey scope rules, that is they can be declared local to a function or a block whereas #define's always have a global effect.\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "Yes"
+    }
+]

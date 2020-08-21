@@ -1,0 +1,178 @@
+[
+    {
+        "question": "Which of the following is used as a moderator in nuclear reactor?",
+        "a": "Thorium",
+        "b": "Graphite",
+        "c": "Radium",
+        "d": "Ordinary water",
+        "answer": "Graphite"
+    },
+    {
+        "question": "Which among the following is a positively charged particle emitted by a radioactive element?",
+        "a": "Beta ray",
+        "b": "Alpha ray",
+        "c": "Cathode ray",
+        "d": "Gamma ray",
+        "answer": "Alpha ray"
+    },
+    {
+        "question": "Atoms are composed of",
+        "a": "electrons and protons",
+        "b": "electrons only",
+        "c": "protons only",
+        "d": "electrons and nuclei",
+        "answer": "electrons and nuclei"
+    },
+    {
+        "question": "In an atomic explosion, enormous energy is released which is due to",
+        "a": "conversion of chemical energy into heat energy",
+        "b": "conversion of mechanical energy into nuclear energy",
+        "c": "conversion of mass into energy",
+        "d": "conversion of neutrons into protons",
+        "answer": "conversion of mass into energy"
+    },
+    {
+        "question": "Isotopes are separated by",
+        "a": "crystallisation",
+        "b": "sublimation",
+        "c": "distillation",
+        "d": "filtration",
+        "answer": "distillation"
+    },
+    {
+        "question": "The wavelength of X-rays is of the order of",
+        "a": "10 micron",
+        "b": "1 angstrom",
+        "c": "1 cm",
+        "d": "1 cm",
+        "answer": "1 angstrom"
+    },
+    {
+        "question": "Mesons are found in",
+        "a": "Laser beam",
+        "b": "X-rays",
+        "c": "Gamma rays",
+        "d": "Cosmic rays",
+        "answer": "Cosmic rays"
+    },
+    {
+        "question": "Which radioactive pollutant has recently drawn to public, due to its occurrence in the building material?",
+        "a": "Thorium",
+        "b": "Radium",
+        "c": "Plutonium",
+        "d": "Radan",
+        "answer": "Thorium"
+    },
+    {
+        "question": "Which of the following shows the masses of the three elementary particles in decreasing order?",
+        "a": "Leptons, Baryons, Mesons",
+        "b": "Mesons, Baryons, Leptons",
+        "c": "Baryons, Mesons, Leptons",
+        "d": "Leptons, Mesons Baryons",
+        "answer": "Baryons, Mesons, Leptons"
+    },
+    {
+        "question": "What is the wavelength of visible spectrum?",
+        "a": "8500 - 9800 angstrom",
+        "b": "7800 - 8000 angstrom",
+        "c": "3900 - 7600 angstrom",
+        "d": "1300 - 3000 angstrom",
+        "answer": "3900 - 7600 angstrom"
+    },
+    {
+        "question": "Which of the following has a least penetrating power?",
+        "a": "All have same penetrating power",
+        "b": "Beta Particles",
+        "c": "Alpha particles",
+        "d": "Gamma rays",
+        "answer": "Alpha particles"
+    },
+    {
+        "question": "The isotope of uranium capable of sustaining chain reaction is",
+        "a": "U-235",
+        "b": "U-245",
+        "c": "U-239",
+        "d": "U-238",
+        "answer": "U-235"
+    },
+    {
+        "question": "The age of most ancient geological formations is estimated by",
+        "a": "Ra - Si method",
+        "b": "Potassium - argon method",
+        "c": "C14 method",
+        "d": "Uranium - lead method",
+        "answer": "Uranium - lead method"
+    },
+    {
+        "question": "Who suggested that most of the mass of the atom is located in the nucleus?",
+        "a": "Thompson",
+        "b": "Bohr",
+        "c": "Rutherford",
+        "d": "Einstein",
+        "answer": "Rutherford"
+    },
+    {
+        "question": "The dark lines in the solar spectrum are due to",
+        "a": "absorption of corresponding wavelengths by the outer layers of the sun",
+        "b": "destructive interference between waves of certain definite wavelengths",
+        "c": "absorption of corresponding wavelengths by the prism used in the photograph",
+        "d": "absence of corresponding wavelengths from the light emitted by the core of the sun",
+        "answer": "absorption of corresponding wavelengths by the outer layers of the sun"
+    },
+    {
+        "question": "In an atomic nucleus, neutrons and protons are held together by",
+        "a": "gravitational forces",
+        "b": "exchange forces",
+        "c": "coulombic forces",
+        "d": "magnetic forces",
+        "answer": "exchange forces"
+    },
+    {
+        "question": "'No two electrons in an atom can have the same set of four quantum numbers' is",
+        "a": "Newton's law",
+        "b": "Bohr's law",
+        "c": "Aufbau principle",
+        "d": "Pauli's exclusion principle",
+        "answer": "Pauli's exclusion principle"
+    },
+    {
+        "question": "According to Avogadro's Hypothesis, the smallest particle of an element or a compound, that can exist independently, is called ____ .",
+        "a": "a molecule",
+        "b": "a cation",
+        "c": "an anion",
+        "d": "an atom",
+        "answer": "a molecule"
+    },
+    {
+        "question": "Atoms of an element differ from those of all other elements in",
+        "a": "atomic number and electronic configuration",
+        "b": "number of neutrons and number of valence electrons",
+        "c": "atomic number and number of valence electrons",
+        "d": "number of neutrons and electronic configuration",
+        "answer": "atomic number and electronic configuration"
+    },
+    {
+        "question": "Nuclear fission is caused by the impact of",
+        "a": "neutron",
+        "b": "proton",
+        "c": "deuteron",
+        "d": "electron",
+        "answer": "neutron"
+    },
+    {
+        "question": "Which of the following rays are more penetrating?",
+        "a": "Beta rays",
+        "b": "Alpha rays",
+        "c": "Gamma rays",
+        "d": "X-rays",
+        "answer": "Gamma rays"
+    },
+    {
+        "question": "How many colours the sunlight spectrum has?",
+        "a": "Three",
+        "b": "Seven",
+        "c": "Four",
+        "d": "Five",
+        "answer": "Seven"
+    }
+]

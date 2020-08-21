@@ -1,0 +1,578 @@
+[
+    {
+        "question": "What theorem replaces a complex network with an equivalent circuit containing a source voltage and a series resistance?\r\n\r\n",
+        "a": "Multinetwork",
+        "b": "Norton",
+        "c": "Thevenin",
+        "d": "Superposition",
+        "answer": "Thevenin"
+    },
+    {
+        "question": "mcq5_1010_1.gifWhat is the power dissipated by R2, R4, and R6?\r\n",
+        "a": "P2 = 417 mW, P4 = 193 mW, P6 = 166 mW",
+        "b": "P2 = 407 mW, P4 = 183 mW, P6 = 156 mW",
+        "c": "P2 = 397 mW, P4 = 173 mW, P6 = 146 mW",
+        "d": "P2 = 387 mW, P4 = 163 mW, P6 = 136 mW",
+        "answer": "P2 = 417 mW, P4 = 193 mW, P6 = 166 mW"
+    },
+    {
+        "question": "mcq6_1001_1.gifIf the load in the given circuit is 120 k \u03a9, what is the loaded output voltage?\r\n\r\n",
+        "a": "4.21 V",
+        "b": "15.79 V",
+        "c": "16 V",
+        "d": "19.67 V",
+        "answer": "15.79 V"
+    },
+    {
+        "question": "In a series\u2013parallel circuit, individual component power dissipations are calculated using:\r\n\r\n",
+        "a": "individual component parameters",
+        "b": "a percent of the voltage division ratio squared",
+        "c": "total current squared multiplied by the resistor values",
+        "d": "a percent of the total power depending on resistor ratios",
+        "answer": "individual component parameters"
+    },
+    {
+        "question": "The current flowing through an unloaded voltage divider is called the:\r\n\r\n",
+        "a": "resistor current",
+        "b": "load current",
+        "c": "bleeder current",
+        "d": "voltage current",
+        "answer": "bleeder current"
+    },
+    {
+        "question": "When a Wheatstone bridge is in a balanced condition, the center voltmeter in the bridge will read:\r\n\r\n",
+        "a": "twice the source voltage",
+        "b": "the same as the source voltage",
+        "c": "zero volts",
+        "d": "half the source voltage",
+        "answer": "zero volts"
+    },
+    {
+        "question": "When a load is connected to a voltage divider, the total resistance of the circuit will:\r\n\r\n",
+        "a": "decrease",
+        "b": "double",
+        "c": "increase",
+        "d": "remain the same",
+        "answer": "decrease"
+    },
+    {
+        "question": "With 21 V applied, if R1 = 5 ohms, R2 = 35 ohms, and R3 = 14 ohms, what is the current of R2 if R1 is series connected with parallel circuit R2 and R3?\r\n\r\n",
+        "a": "200 mA",
+        "b": "800 mA",
+        "c": "600 mA",
+        "d": "400 mA",
+        "answer": "400 mA"
+    },
+    {
+        "question": "What is the total resistance of a circuit when R1 (7 k \u03a9) is in series with a parallel combination of R2 (20 k \u03a9), R3 (36 k \u03a9), and R4 (45 k \u03a9?\r\n\r\n",
+        "a": "4 k \u03a9",
+        "b": "17 k \u03a9",
+        "c": "41 k \u03a9",
+        "d": "108 k \u03a9",
+        "answer": "17 k \u03a9"
+    },
+    {
+        "question": "mcq6_1001_1.gifIf the load in the given circuit is 80 k\u03a9 , what is the bleeder current?\r\n\r\n",
+        "a": "196 \u00b5 A",
+        "b": "1.96 mA",
+        "c": "2 mA",
+        "d": "2.16 mA",
+        "answer": "1.96 mA"
+    },
+    {
+        "question": "mcq6_1005_11.gifWhat is the total resistance of the given circuit?\r\n\r\n",
+        "a": "92 \u03a9",
+        "b": "288 \u03a9",
+        "c": "17.7 \u03a9",
+        "d": "128 \u03a9",
+        "answer": "92 \u03a9"
+    },
+    {
+        "question": "mcq5_1008_11.gifWhat are the branch currents I2 and I3?\r\n",
+        "a": "I2 = 4 mA, I3 = 2 mA",
+        "b": "I2 = 4.5 mA, I3 = 2.5 mA",
+        "c": "I2 = 4.5 mA, I3 = 2.5 mA",
+        "d": "I2 = 5.5 mA, I3 = 3.5 mA",
+        "answer": "I2 = 4.5 mA, I3 = 2.5 mA"
+    },
+    {
+        "question": "mcq6_1001_1.gifIf the load in the given circuit is open, what is the unloaded output voltage?\r\n\r\n",
+        "a": "0 V",
+        "b": "4 V",
+        "c": "16 V",
+        "d": "20 V",
+        "answer": "16 V"
+    },
+    {
+        "question": "mcq5_1006_11.gifWhat is the total resistance?\r\n",
+        "a": "2.2 k \u03a9",
+        "b": "3.2 k \u03a9",
+        "c": "4.2 k \u03a9",
+        "d": "5.2 k \u03a9",
+        "answer": "3.2 k \u03a9"
+    },
+    {
+        "question": "mcq6_1005_11.gifHow much voltage is dropped across R3 in the given circuit?\r\n\r\n",
+        "a": "46 V",
+        "b": "34 V",
+        "c": "23 V",
+        "d": "12 V",
+        "answer": "12 V"
+    },
+    {
+        "question": "When placed into a circuit, how are electronic components usually connected?\r\n\r\n",
+        "a": "positive terminal to positive terminal",
+        "b": "in parallel",
+        "c": "as a combination of series and parallel",
+        "d": "in series",
+        "answer": "as a combination of series and parallel"
+    },
+    {
+        "question": "mcq6_1001_1.gifIf the load in the given circuit is 12 k \u03a9 , what is the loaded output voltage?\r\n\r\n",
+        "a": "5.88 V",
+        "b": "14.12 V",
+        "c": "16 V",
+        "d": "17.14 V",
+        "answer": "14.12 V"
+    },
+    {
+        "question": "If a Wheatstone bridge is balanced, a voltmeter in the center of the bridge will read:\r\n\r\n",
+        "a": "the same as the source voltage",
+        "b": "half the source voltage",
+        "c": "zero volts",
+        "d": "twice the source voltage",
+        "answer": "zero volts"
+    },
+    {
+        "question": "mcq5_1007_1.gifWhat is the voltage to the load?\r\n",
+        "a": "11.4 V",
+        "b": "12.4 V",
+        "c": "13.4 V",
+        "d": "15.4 V",
+        "answer": "15.4 V"
+    },
+    {
+        "question": "The first goal to accomplish in analyzing a complex series-parallel circuit is to\r\n\r\n",
+        "a": "equate all parallel components",
+        "b": "equate all series components",
+        "c": "solve for all the voltage drops",
+        "d": "solve for the total current and resistance",
+        "answer": "solve for the total current and resistance"
+    },
+    {
+        "question": "mcq6_1009_1.gifWhich circuit fault do the meter readings in the given figure indicate?\r\n\r\n",
+        "a": "The 1 k\u03a9 resistor is open.",
+        "b": "The 4.7 k\u03a9 resistor is open.",
+        "c": "The 2.2 k\u03a9 resistor is open.",
+        "d": "The 3.3 k\u03a9resistor is open.",
+        "answer": "The 4.7 k\u03a9 resistor is open."
+    },
+    {
+        "question": "mcq6_1005_11.gifHow much current is flowing through R1 in the given circuit?\r\n\r\n",
+        "a": "0.3 A",
+        "b": "0.15 A",
+        "c": "0.5 A",
+        "d": "0.68 A",
+        "answer": "0.5 A"
+    },
+    {
+        "question": "If R1 is in series with parallel connected to R2 and R3, what happens to total current if R2 opens?\r\n\r\n",
+        "a": "increases",
+        "b": "decreases",
+        "c": "remains the same",
+        "d": "cannot tell",
+        "answer": "decreases"
+    },
+    {
+        "question": "The first goal(s) to accomplish in analyzing a complex series\u2013parallel circuit is to:\r\n\r\n",
+        "a": "equate all parallel components",
+        "b": "equate all series components",
+        "c": "solve for all the voltage drops",
+        "d": "solve for the total current and resistance",
+        "answer": "solve for the total current and resistance"
+    },
+    {
+        "question": "If a series\u2013parallel circuit has all 30-ohm resistors, what is the total resistance when R1 is in series with a parallel circuit consisting of R2 and R3?\r\n\r\n",
+        "a": "10 ohms",
+        "b": "20 ohms",
+        "c": "45 ohms",
+        "d": "90 ohms",
+        "answer": "45 ohms"
+    },
+    {
+        "question": "Components or combinations of components with common currents, in a series\u2013parallel circuit, are in:\r\n\r\n",
+        "a": "parallel with each other",
+        "b": "series with each other",
+        "c": "either series or parallel with each other",
+        "d": "none of the above",
+        "answer": "either series or parallel with each other"
+    },
+    {
+        "question": "What determines if resistor connections are in series, parallel, or series\u2013parallel?\r\n\r\n",
+        "a": "the voltage source",
+        "b": "the power source",
+        "c": "resistance",
+        "d": "current flow",
+        "answer": "current flow"
+    },
+    {
+        "question": "mcq5_1005_1.gifWhat is the total resistance?\r\n",
+        "a": "800 \u03a9",
+        "b": "1.2 k \u03a9",
+        "c": "1.6 k \u03a9",
+        "d": "1.8 k \u03a9",
+        "answer": "1.8 k \u03a9"
+    },
+    {
+        "question": "If R1 is in series with a parallel combination of R2, R3, and R4, when the resistance value of R2 increases, the voltage across R3 will\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "Cannot tell",
+        "answer": "increase"
+    },
+    {
+        "question": "A Wheatstone bridge can be used to determine an unknown\r\n\r\n",
+        "a": "current",
+        "b": "resistance",
+        "c": "power",
+        "d": "voltage",
+        "answer": "resistance"
+    },
+    {
+        "question": "mcq6_1010_1.gifWhich circuit fault do the meter readings in the given figure indicate?\r\n\r\n",
+        "a": "The 1 k \u03a9 resistor is shorted.",
+        "b": "The 4.7 k \u03a9 resistor is shorted.",
+        "c": "The 2.2 k \u03a9 resistor is shorted.",
+        "d": "The 3.3 k \u03a9 resistor is shorted.",
+        "answer": "The 3.3 k \u03a9 resistor is shorted."
+    },
+    {
+        "question": "In a series\u2013parallel circuit consisting of R1 and R2 in series and connected in parallel with R3, if R1 opens, then R2's voltage will:\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "cannot tell",
+        "answer": "decrease"
+    },
+    {
+        "question": "mcq6_1008_1.gifIn the given circuit, what is RUNK equal to if RV must be adjusted to 1,232 \u03a9 in order to balance the bridge?\r\n\r\n",
+        "a": "220 \u03a9",
+        "b": "6,899 \u03a9",
+        "c": "1,232 \u03a9",
+        "d": "More information is needed in order to find RUNK.",
+        "answer": "220 \u03a9"
+    },
+    {
+        "question": "With 6 V applied, what is the voltage across R2 of a parallel combination of R2 (1 k \u03a9), R3 (2 k \u03a9), and R4 (1 k \u03a9) in series with R1, whose value is 2 k \u03a9?\r\n\r\n",
+        "a": "1 V",
+        "b": "3 V",
+        "c": "5 V",
+        "d": "6 V",
+        "answer": "1 V"
+    },
+    {
+        "question": "mcq5_1009_1.gifWhat is the power dissipated by R1, R2, and R3?\r\n",
+        "a": "P1 = 0.13 W, P2 = 0.26 W, P3 = 0.12 W",
+        "b": "P1 = 0.26 W, P2 = 0.52 W, P3 = 0.23 W",
+        "c": "P1 = 0.52 W, P2 = 0.92 W, P3 = 0.46 W",
+        "d": "P1 = 1.04 W, P2 = 1.84 W, P3 = 0.92 W",
+        "answer": "P1 = 0.26 W, P2 = 0.52 W, P3 = 0.23 W"
+    },
+    {
+        "question": "tfq6_1006_1.gifIn the given circuit, the Thevenin voltage equals 6 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq5_1004_1.gifThe voltage across R3 is 20 volts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq5_1007_1.gifThe voltage across R1 is 175 volts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq6_1006_1.gifIn the given circuit, the Thevenin resistance equals 800 omega.gif.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq5_1011_1.gifThe voltmeter will read 18 volts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Bleeder current is the total current left after the total divider current is subtracted from the total current into the circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When analyzing series\u2013parallel circuit currents, you should start with the current in the branch farthest from the source.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq5_1009_1.gifThe power dissipated by R4 is 211 mW.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq5_1003_1.gifThe total resistance in the circuit is 1.6 k \u03a9.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq5_1005_1.gifThe current through R1 is 17 mA.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If the output voltage of a certain loaded voltage divider is 12 V, the output voltage might decrease when the load is removed.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq6_1005_1.gifIf the Wheatstone bridge is balanced in the given circuit, the voltage between points A and B (VAB) equals the source voltage (VS).\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq5_1008_1.gifThe current through R6 is 8.5 mA.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Observed voltages not being shared identify components in parallel in a series\u2013parallel circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq5_1012_1.gifR2 is open.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq5_1006_1.gifThe total power is 10 watts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "tfq6_1010_1.gifThe total resistance in the given circuit can be found using the formula:\r\n\r\nRT = R1 + R2 || R3 || R4.",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When a load resistance is connected to the output of a voltage divider circuit, the source current increases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Opens and shorts are typical problems that occur in electric circuits.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A Wheatstone bridge may be used to determine the value of an unknown resistance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq5_1010_1.gifThe voltage out when a 10 k \u03a9 load is connected is 5.7 volts.\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When resistors burn out, they usually short.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Attaching a 6 k \u03a9 load to a voltage divider will cause a smaller decrease in the output voltage than will attaching a 5 k\u03a9 load.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A loaded voltage divider is a common application of a series-parallel circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The loading effect of a voltmeter can be ignored if ____.\r\n\r\n",
+        "a": "the measured voltage is very high",
+        "b": "the measured voltage is very low",
+        "c": "the meter's resistance is at least 10 times greater than the resistance across which it is connected",
+        "d": "the meter's resistance is at least 10 times less than the resistance across which it is connected",
+        "answer": "the meter's resistance is at least 10 times greater than the resistance across which it is connected"
+    },
+    {
+        "question": "A Thevenin equivalent circuit contains _____.\r\n\r\n",
+        "a": "a voltage source in series with a resistance",
+        "b": "a current source in series with a resistance",
+        "c": "resistors in a series-parallel configuration",
+        "d": "many voltage sources",
+        "answer": "a voltage source in series with a resistance"
+    },
+    {
+        "question": "fbq6_1007_1.gifIn the given circuit, the current flowing through R3 equals ______.\r\n\r\n",
+        "a": "10 mA",
+        "b": "21.11 mA",
+        "c": "90 mA",
+        "d": "100 mA",
+        "answer": "10 mA"
+    },
+    {
+        "question": "Series components in a series\u2013parallel circuit may be in series with other _______________ components, or with other _______________ components.\r\n\r\n",
+        "a": "individual, combinations of",
+        "b": "series, parallel",
+        "c": "parallel, series",
+        "d": "shunt, parallel",
+        "answer": "individual, combinations of"
+    },
+    {
+        "question": "If four 10 k \u03a9 resistors are in series with a single 20 k \u03a9 resistor and one of the parallel resistors shorts, the voltage across the other parallel resistors ________.\r\n\r\n",
+        "a": "increases",
+        "b": "decreases",
+        "c": "remains the same",
+        "d": "drops to zero",
+        "answer": "decreases"
+    },
+    {
+        "question": "fbq6_1007_1.gifIn the given circuit, the voltage dropped across R1 equals _____.\r\n\r\n",
+        "a": "1 V",
+        "b": "9 V",
+        "c": "10 V",
+        "d": "19 V",
+        "answer": "9 V"
+    },
+    {
+        "question": "___ is often used to analyze multiple-source circuits.\r\n\r\n",
+        "a": "Thevenin's theorem",
+        "b": "Superposition",
+        "c": "Kirchhoff's law",
+        "d": "Ohm's law",
+        "answer": "Superposition"
+    },
+    {
+        "question": "fbq6_1001_1.gifIf R3 opens in the given circuit, the total resistance (RT) between points A and B equals ____.\r\n\r\n",
+        "a": "900 \u03a9",
+        "b": "100 \u03a9",
+        "c": "110 \u03a9",
+        "d": "infinite resistance",
+        "answer": "110 \u03a9"
+    },
+    {
+        "question": "If a Wheatstone bridge is balanced, its output voltage is ____.\r\n\r\n",
+        "a": "the same as its input voltage",
+        "b": "very high",
+        "c": "dependent on the unknown resistor value",
+        "d": "equal to 0 V",
+        "answer": "equal to 0 V"
+    },
+    {
+        "question": "When a load is connected to a voltage divider, the total resistance of the circuit will ________.\r\n\r\n",
+        "a": "increase",
+        "b": "decrease",
+        "c": "remain the same",
+        "d": "double",
+        "answer": "decrease"
+    },
+    {
+        "question": "fbq6_1001_1.gifIn the given circuit, the total resistance (RT) between points A and B equals _____.\r\n\r\n",
+        "a": "10 \u03a9",
+        "b": "100 \u03a9",
+        "c": "900 \u03a9",
+        "d": "1,010 \u03a9",
+        "answer": "100 \u03a9"
+    },
+    {
+        "question": "fbq6_1007_1.gifIn the given circuit, the voltage at point A equals ______.\r\n\r\n",
+        "a": "\u201310 V",
+        "b": "+1 V",
+        "c": "+9 V",
+        "d": "+10 V",
+        "answer": "+10 V"
+    },
+    {
+        "question": "fbq6_1001_1.gifIf the voltage between points A and B equals 9 V in the given circuit, then VR3 equals ______.\r\n\r\n",
+        "a": "0.9 V",
+        "b": "8.1 V",
+        "c": "9 V",
+        "d": "More information is needed to find VR^3.",
+        "answer": "8.1 V"
+    }
+]

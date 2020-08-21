@@ -1,0 +1,330 @@
+[
+    {
+        "question": "In both induction and synchronous ac motors\r\n\r\n",
+        "a": "the operating speed is very steady",
+        "b": "the stator magnetic field is stationary",
+        "c": "the stator magnetic field rotates",
+        "d": "the \"squirrel cage\" forms the rotor",
+        "answer": "the stator magnetic field rotates"
+    },
+    {
+        "question": "Most practical alternators generate electricity from\r\n\r\n",
+        "a": "a coil rotating within a magnetic field",
+        "b": "a magnetic field rotating around fixed windings",
+        "c": "a permanent magnet rotating within a varying electromagnetic field",
+        "d": "none of the above",
+        "answer": "a magnetic field rotating around fixed windings"
+    },
+    {
+        "question": "A half-cycle average voltage of 12 V is equal to what rms voltage?\r\n\r\n",
+        "a": "13.33 V",
+        "b": "8.48 V",
+        "c": "18.84 V",
+        "d": "7.64 V",
+        "answer": "13.33 V"
+    },
+    {
+        "question": "What is the instantaneous peak voltage at 250\u00b0 on a 6 V peak sine wave?\r\n\r\n",
+        "a": "+5.64 V",
+        "b": "\u20135.64 V",
+        "c": "+26.13 V",
+        "d": "\u201326.13 V",
+        "answer": "\u20135.64 V"
+    },
+    {
+        "question": "A rectangular wave that has a duty cycle of 50% could be called a\r\n\r\n",
+        "a": "\"c\" wave",
+        "b": "sawtooth wave",
+        "c": "square wave",
+        "d": "triangular wave",
+        "answer": "square wave"
+    },
+    {
+        "question": "The effective value of a sine wave is equal to\r\n\r\n",
+        "a": "0.707 of peak voltage",
+        "b": "0.636 of peak voltage",
+        "c": "sin 45\u00b0 of peak voltage",
+        "d": "both 0.707 of peak voltage and sin 45\u00b0 of peak voltage",
+        "answer": "both 0.707 of peak voltage and sin 45\u00b0 of peak voltage"
+    },
+    {
+        "question": "What is the fourth harmonic of a fundamental frequency of 400 Hz?\r\n\r\n",
+        "a": "100 Hz",
+        "b": "4 kHz",
+        "c": "4 Hz",
+        "d": "1.6 kHz",
+        "answer": "1.6 kHz"
+    },
+    {
+        "question": "A single-phase induction motor\r\n\r\n",
+        "a": "is self-starting",
+        "b": "operates at a fixed speed",
+        "c": "is less reliable than a three-phase synchronous motor",
+        "d": "none of the above",
+        "answer": "none of the above"
+    },
+    {
+        "question": "What is the average voltage when a rectangular wave's base line voltage is 20 V, its peak-to-peak voltage is 50 V, and its duty cycle is 20%?\r\n\r\n",
+        "a": "26 V",
+        "b": "30 V",
+        "c": "40 V",
+        "d": "45 V",
+        "answer": "30 V"
+    },
+    {
+        "question": "One revolution of a conductor through the magnetic field of a basic generator will produce two complete sine waves.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A sine wave's peak-to-peak voltage value is always twice its peak voltage value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If a wave has frequency of 2 Hz, it has a period of ?\r\n\r\n",
+        "a": "1s",
+        "b": "1\/2 s",
+        "c": "2.5s",
+        "d": "2s",
+        "answer": "1\/2 s"
+    },
+    {
+        "question": "90\u00b0 equals 1.57 radians.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A 1 Hz sine wave has a period of 1 s.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The instantaneous voltage at 120\u00b0 on a 5 V peak sine wave equals about \u20134.33 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A sine wave has only one positive maximum point during a cycle.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The sine of a given angle is equal to the ratio of the hypotenuse to the opposite side.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The square, rectangular, and sawtooth waveforms are nonsymmetrical.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "10,000 cycles will occur in 5 s if a sine wave's frequency equals 2 kHz.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If you increase the rotational speed of the conductor in a basic generator, the frequency of the resulting sine wave voltage will increase.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The rms voltage value is a measure of a sine wave's heating effect.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Increasing the number of magnetic poles in a basic generator will ___.\r\n\r\n",
+        "a": "increase the generator's output voltage amplitude",
+        "b": "increase the generator's output frequency",
+        "c": "decrease the generator's output voltage amplitude",
+        "d": "decrease the generator's output frequency",
+        "answer": "increase the generator's output frequency"
+    },
+    {
+        "question": "Increasing the number of turns in a conductor loop in a basic generator will ___.\r\n\r\n",
+        "a": "increase the generator's output voltage amplitude",
+        "b": "increase the generator's output frequency",
+        "c": "decrease the generator's output voltage amplitude",
+        "d": "decrease the generator's output frequency",
+        "answer": "increase the generator's output voltage amplitude"
+    },
+    {
+        "question": "The magnitude of an alternation that varies from zero is called its _______.\r\n\r\n",
+        "a": "altitude",
+        "b": "polarity",
+        "c": "attitude",
+        "d": "amplitude",
+        "answer": "amplitude"
+    },
+    {
+        "question": "The phase angle between the two waveforms in the given circuit equals _____.\r\n\r\n",
+        "a": "75\u00b0",
+        "b": "15\u00b0",
+        "c": "105\u00b0",
+        "d": "45\u00b0",
+        "answer": "15\u00b0"
+    },
+    {
+        "question": "If a sine wave's frequency equals 25 MHz, its period equals _____.\r\n\r\n",
+        "a": "25 \u00b5s",
+        "b": "25 ms",
+        "c": "4 \u00b5s",
+        "d": "40 ns",
+        "answer": "40 ns"
+    },
+    {
+        "question": "If a sine wave's period equals 50 ms, its frequency equals _____.\r\n\r\n",
+        "a": "20 Hz",
+        "b": "0.02 Hz",
+        "c": "50 Hz",
+        "d": "50 kHz",
+        "answer": "20 Hz"
+    },
+    {
+        "question": "A peak current of 12.5 mA is equivalent to ___.\r\n\r\n",
+        "a": "an rms value of 25 mA",
+        "b": "an average value of 12.5 mA",
+        "c": "a peak-to-peak value of 6.25 mA",
+        "d": "a peak-to-peak value of 6.25 mA",
+        "answer": "a peak-to-peak value of 6.25 mA"
+    },
+    {
+        "question": "All periodic frequencies are derived by combining higher frequency ______________ called harmonics.\r\n\r\n",
+        "a": "sine waves",
+        "b": "pulse waves",
+        "c": "square waves",
+        "d": "sawtooth waves",
+        "answer": "sine waves"
+    },
+    {
+        "question": "An rms voltage of 5 V is equivalent to ___.\r\n\r\n",
+        "a": "14.14 V peak-to-peak",
+        "b": "a peak value of 5 V",
+        "c": "10 V peak-to-peak",
+        "d": "an average value of 7.07 V",
+        "answer": "14.14 V peak-to-peak"
+    },
+    {
+        "question": "mcq8_1003_1.gifWhat type of waveform is shown in the given circuit?\r\n\r\n",
+        "a": "Sine wave",
+        "b": "Square wave",
+        "c": "Triangle wave",
+        "d": "Sawtooth wave",
+        "answer": "Triangle wave"
+    },
+    {
+        "question": "mcq8_1006_1.gifWhat is the peak-to-peak voltage of the waveform in the given circuit?\r\n\r\n",
+        "a": "2 V",
+        "b": "4 V",
+        "c": "6 V",
+        "d": "8 V",
+        "answer": "8 V"
+    },
+    {
+        "question": "mcq8_1003_1.gifCalculate the positive-going slope of the waveform in the given circuit.\r\n\r\n",
+        "a": "5 V\/ms",
+        "b": "2.5 V\/ms",
+        "c": "2.5 V\/s",
+        "d": "5 V\/s",
+        "answer": "2.5 V\/ms"
+    },
+    {
+        "question": "mcq8_1001_1.gifCalculate the duty cycle of the repetitive pulse waveform in the given circuit.\r\n\r\n",
+        "a": "8.33%",
+        "b": "0%",
+        "c": "33.33%",
+        "d": "25%",
+        "answer": "25%"
+    },
+    {
+        "question": "mcq8_1006_1.gifWhat is the dc voltage of the waveform in the given circuit?\r\n\r\n",
+        "a": "2 V",
+        "b": "4 V",
+        "c": "6 V",
+        "d": "8 V",
+        "answer": "6 V"
+    },
+    {
+        "question": "mcq8_1008_1.gifWhat is the peak voltage across R3 in the given circuit?\r\n\r\n",
+        "a": "1.2 V",
+        "b": "5 V",
+        "c": "7 V",
+        "d": "12 V",
+        "answer": "5 V"
+    },
+    {
+        "question": "mcq8_1001_1.gifWhich point is the trailing edge of the repetitive pulse waveform in the given circuit?\r\n\r\n",
+        "a": "Point A",
+        "b": "Point B",
+        "c": "Point C",
+        "d": "Point D",
+        "answer": "Point A"
+    },
+    {
+        "question": "fbq8_1010_1.gifThe frequency of the repetitive pulse waveform in the given circuit equals ___.\r\n\r\n",
+        "a": "500 Hz",
+        "b": "50 Hz",
+        "c": "100 Hz",
+        "d": "125 Hz",
+        "answer": "100 Hz"
+    },
+    {
+        "question": "fbq8_1009_1.gifThe peak voltage across R2 in the given circuit equals _____.\r\n\r\n",
+        "a": "7.2 V",
+        "b": "10.18 V",
+        "c": "8.8 V",
+        "d": "8 V",
+        "answer": "10.18 V"
+    },
+    {
+        "question": "fbq8_1003_1.gifThe frequency of the sine wave in the given circuit equals ___.\r\n\r\n",
+        "a": "4 kHz",
+        "b": "800 Hz",
+        "c": "20 kHz",
+        "d": "250 Hz",
+        "answer": "20 kHz"
+    },
+    {
+        "question": "fbq8_1008_1.gifThe phase angle between the two waveforms in the given circuit equals _____.\r\n\r\n",
+        "a": "75\u00b0",
+        "b": "15\u00b0",
+        "c": "105\u00b0",
+        "d": "45\u00b0",
+        "answer": "15\u00b0"
+    }
+]

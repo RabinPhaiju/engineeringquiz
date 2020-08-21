@@ -1,0 +1,290 @@
+[
+    {
+        "question": "Derived units are obtained from various combinations of\r\n\r\n",
+        "a": "electrical quantities",
+        "b": "fundamental units",
+        "c": "metric prefixes",
+        "d": "international standards",
+        "answer": "fundamental units"
+    },
+    {
+        "question": "Which of the following metric prefixes could replace 10^\u20139?\r\n\r\n",
+        "a": "Nano",
+        "b": "Mega",
+        "c": "Kilo",
+        "d": "Micro",
+        "answer": "Nano"
+    },
+    {
+        "question": "Scientific notation is a method\r\n\r\n",
+        "a": "of expressing a very large number",
+        "b": "of expressing a very small number",
+        "c": "used to make calculations with large and small numbers",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "If you drop a 5 when rounding a number, you are using the\r\n\r\n",
+        "a": "round-to-even rule",
+        "b": "significant digit rule",
+        "c": "round-off rule",
+        "d": "retained digit rule",
+        "answer": "round-to-even rule"
+    },
+    {
+        "question": "7200 mV is the same as\r\n\r\n",
+        "a": "7.2 uV",
+        "b": "7.2 V",
+        "c": "7,200,000 V",
+        "d": "0.0072 uV",
+        "answer": "7.2 V"
+    },
+    {
+        "question": "A measure of the repeatability of a measurement of some quantity is\r\n\r\n",
+        "a": "error",
+        "b": "precision",
+        "c": "accuracy",
+        "d": "significant",
+        "answer": "precision"
+    },
+    {
+        "question": "Another name for \"fundamental units\" is\r\n\r\n",
+        "a": "base units",
+        "b": "atoms",
+        "c": "the metric system",
+        "d": "letter symbols",
+        "answer": "base units"
+    },
+    {
+        "question": "Adding 27.5 \u00d7 10^3 to 8.9 \u00d7 10^4 equals\r\n\r\n",
+        "a": "36.4 \u00d7 10^7",
+        "b": "116.5 \u00d7 10^4",
+        "c": "28.39 \u00d7 10^3",
+        "d": "1.165 \u00d7 10^5",
+        "answer": "1.165 \u00d7 10^5"
+    },
+    {
+        "question": "When using the terms \"accuracy\" and \"precision\" for measurements\r\n\r\n",
+        "a": "\"precision\" implies less measurement error than \"accuracy\"",
+        "b": "\"accuracy\" implies less measurement error than \"precision\"",
+        "c": "\"precision\" measures the repeatability of a measurement",
+        "d": "both terms mean the same thing",
+        "answer": "\"precision\" measures the repeatability of a measurement"
+    },
+    {
+        "question": "The difference between scientific and engineering notation is\r\n\r\n",
+        "a": "powers of ten representation",
+        "b": "single vs. multiple digits before decimal point",
+        "c": "groupings of multiples of three digits",
+        "d": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "The number 14.8 can also be expressed as\r\n\r\n",
+        "a": "1.48 \u00d7 10^",
+        "b": "1.48 \u00d7 10^0",
+        "c": "1.48 \u00d7 10^1",
+        "d": "1.48 \u00d7 10^2",
+        "answer": "1.48 \u00d7 10^1"
+    },
+    {
+        "question": "The digits in a measured number that are known to be correct are called\r\n\r\n",
+        "a": "accuracy digits",
+        "b": "significant digits",
+        "c": "error digits",
+        "d": "precision digits",
+        "answer": "significant digits"
+    },
+    {
+        "question": "Which of the following is expressed in engineering notation?\r\n\r\n",
+        "a": "470 \u00d7 10^5",
+        "b": "82 \u00d7 10^\u20132",
+        "c": "9.1 \u00d7 10^\u20136",
+        "d": "14.7 \u00d7 10^8",
+        "answer": "9.1 \u00d7 10^\u20136"
+    },
+    {
+        "question": "The unit for frequency is the\r\n\r\n",
+        "a": "hertz",
+        "b": "ampere",
+        "c": "watt",
+        "d": "second",
+        "answer": "hertz"
+    },
+    {
+        "question": "Add 21 mA and 8000 uA and express the result in milliamperes.\r\n\r\n",
+        "a": "21.8 mA",
+        "b": "218 mA",
+        "c": "29 mA",
+        "d": "290 mA",
+        "answer": "29 mA"
+    },
+    {
+        "question": "Dividing 24 \u00d7 10^11 by 3 \u00d7 1064 equals\r\n\r\n",
+        "a": "8 \u00d7 10^4",
+        "b": "8 \u00d7 10^7",
+        "c": "8 \u00d7 10^11",
+        "d": "8 \u00d7 10^15",
+        "answer": "8 \u00d7 10^7"
+    },
+    {
+        "question": "Pico is what relation to micro?\r\n\r\n",
+        "a": "one-tenth",
+        "b": "one-hundredth",
+        "c": "one-thousandth",
+        "d": "one-millionth",
+        "answer": "one-millionth"
+    },
+    {
+        "question": "The number 560,000 is expressed in scientific notation.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Subtracting 18 \u00d7 10^2 from 480 \u00d7 101 results in 30 \u00d7 10^2.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The coulomb is the unit for charge.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Voltage, not current, determines the severity of an electrical shock.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Only electrical quantities have symbols associated with them.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "0.00015 V can be expressed in powers of ten as 1.5 \u00d7 10^\u20134 V.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Precision refers to the difference between the measured value and the accepted value.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "4200 W is the same as 4.2 kW.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Multiplying 5 \u00d7 10^6 by 4 \u00d7 10^3 results in 20 \u00d7 10^18.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The metric prefix giga is used to represent one billion.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The number 24.5, rounded to two significant digits, is 25.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "7450 \u00d7 10^\u20135 amperes equals 74.5 ___.\r\n\r\n",
+        "a": "A",
+        "b": "mA",
+        "c": "uA",
+        "d": "nA",
+        "answer": "mA"
+    },
+    {
+        "question": "The number 5200 \u00d710^\u20132 equals ___ \u00d7 10^1.\r\n\r\n",
+        "a": "0.52",
+        "b": "5.2",
+        "c": "52",
+        "d": "520",
+        "answer": "5.2"
+    },
+    {
+        "question": "The ___ is the unit for resistance, reactance, and impedance.\r\n\r\n",
+        "a": "farad",
+        "b": "henry",
+        "c": "ohm",
+        "d": "watt",
+        "answer": "ohm"
+    },
+    {
+        "question": "The joule is the unit for ___.\r\n\r\n",
+        "a": "energy",
+        "b": "charge",
+        "c": "time",
+        "d": "frequency",
+        "answer": "energy"
+    },
+    {
+        "question": "(12.6 \u00d7 10^6)(10.5 \u00d7 10^3) = ________.\r\n\r\n",
+        "a": "13.2 \u00d7 10^12",
+        "b": "1.32 \u00d7 10^12",
+        "c": "1.32 \u00d7 10^11",
+        "d": "13.2 \u00d7 10^11",
+        "answer": "1.32 \u00d7 10^11"
+    },
+    {
+        "question": "106,100,000 Hz is the same as ___ MHz.\r\n\r\n",
+        "a": "106.1",
+        "b": "1,061",
+        "c": "10,610",
+        "d": "106,100",
+        "answer": "106.1"
+    },
+    {
+        "question": "1300 \u00d7 10^\u201312 F is the same as 1300 ___.\r\n\r\n",
+        "a": "mF",
+        "b": "uF",
+        "c": "nF",
+        "d": "pF",
+        "answer": "pF"
+    },
+    {
+        "question": "The number 0.0136 equals 13.6 \u00d7 ___.\r\n\r\n",
+        "a": "10^\u20131",
+        "b": "10^\u20132",
+        "c": "10^\u20133",
+        "d": "10^\u20134",
+        "answer": "10^\u20133"
+    }
+]

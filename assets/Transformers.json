@@ -1,0 +1,282 @@
+[
+    {
+        "question": "When does maximum power transfer happen from the source to the load?\r\n\r\n",
+        "a": "When the source resistance is greater than the load resistance",
+        "b": "When the source resistance is less than the load resistance",
+        "c": "When there is negligible source resistance",
+        "d": "When the source resistance equals the load resistance",
+        "answer": "When the source resistance equals the load resistance"
+    },
+    {
+        "question": "A transformer is plugged into a 120 V rms source and has a primary current of 300 mA rms. The secondary is providing 18 V across a 10 omega.gif load. What is the efficiency of the transformer?\r\n\r\n",
+        "a": "88%",
+        "b": "90%",
+        "c": "92%",
+        "d": "95%",
+        "answer": "90%"
+    },
+    {
+        "question": "The coefficient of coupling between two coils is 0.45. The first coil has an inductance of 75 mH and the second coil has an inductance of 105 mH. What is the mutual inductance between the coils?\r\n\r\n",
+        "a": "3.54 mH",
+        "b": "7.88 mH",
+        "c": "39.9 mH",
+        "d": "189.3 mH",
+        "answer": "39.9 mH"
+    },
+    {
+        "question": "Increasing the number of turns of wire on the secondary of a transformer will\r\n\r\n",
+        "a": "increase the secondary current",
+        "b": "decrease the secondary current",
+        "c": "have no effect on the secondary current",
+        "d": "increase the primary current",
+        "answer": "decrease the secondary current"
+    },
+    {
+        "question": "What is the turns ratio of the transformer needed to match a 1 k \u03a9 source resistance to a 160 \u03a9 load?\r\n\r\n",
+        "a": "2.5:1",
+        "b": "0.4:1",
+        "c": "6.25:1",
+        "d": "16:1",
+        "answer": "0.4:1"
+    },
+    {
+        "question": "mcq14_1003.gifWhat is the secondary voltage in the given circuit?\r\n\r\n",
+        "a": "13.3 V rms in phase with the primary",
+        "b": "120 V rms in phase with the primary",
+        "c": "13.3 V rms out of phase with the primary",
+        "d": "120 V rms out of phase with the primary",
+        "answer": "13.3 V rms out of phase with the primary"
+    },
+    {
+        "question": "The transformer turns ratio determines\r\n\r\n",
+        "a": "the ratio of primary and secondary voltages",
+        "b": "the ratio of primary and secondary currents",
+        "c": "the reflected impedance",
+        "d": "all of the above",
+        "answer": "all of the above"
+    },
+    {
+        "question": "Mutual induction is dependent on\r\n\r\n",
+        "a": "winding ratios",
+        "b": "output polarities",
+        "c": "dc voltage levels",
+        "d": "current changes",
+        "answer": "current changes"
+    },
+    {
+        "question": "mcq14_1004.gifWhat is the current through the load in the given circuit?\r\n\r\n",
+        "a": "500 \u00b5A",
+        "b": "10 mA",
+        "c": "250 mA",
+        "d": "1.25 A",
+        "answer": "250 mA"
+    },
+    {
+        "question": "mcq14_1004.gifWhat is the power dissipated in the primary of the transformer in the given circuit?\r\n\r\n",
+        "a": "25 mW",
+        "b": "500 mW",
+        "c": "12.5 W",
+        "d": "62.5 W",
+        "answer": "62.5 W"
+    },
+    {
+        "question": "A special transformer used to convert unbalanced signals to balanced signals is the\r\n\r\n",
+        "a": "balun",
+        "b": "autotransformer",
+        "c": "center-tapped transformer",
+        "d": "step-across transformer",
+        "answer": "balun"
+    },
+    {
+        "question": "mcq14_1004.gifIf the load doubled in value in the given circuit, what reflected resistance would the source see?\r\n\r\n",
+        "a": "80 \u03a9",
+        "b": "400 \u03a9",
+        "c": "2 k\u03a9",
+        "d": "10 k\u03a9",
+        "answer": "80 \u03a9"
+    },
+    {
+        "question": "If the primary power of an ideal transformer having a 2:1 voltage ratio is 100 W, the secondary power is\r\n\r\n",
+        "a": "100 W",
+        "b": "50 W",
+        "c": "75 W",
+        "d": "200 W",
+        "answer": "100 W"
+    },
+    {
+        "question": "A transformer has\r\n\r\n",
+        "a": "primary and secondary windings, both of which are considered inputs",
+        "b": "primary and secondary windings, both of which are considered outputs",
+        "c": "a primary winding used as an output and a secondary winding used as an input",
+        "d": "a primary winding used as an input and a secondary winding used as an output",
+        "answer": "a primary winding used as an input and a secondary winding used as an output"
+    },
+    {
+        "question": "If voltage is stepped-up to the secondary, current will be stepped-down by the same amount.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq14_1002.gifIn the given circuit, the secondary voltage is in phase with the primary voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The reflected load value that the source sees will always be larger than the load value itself.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "An open secondary winding of a transformer will cause the primary current to be nearly zero.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The secondary voltages produced by a center-tapped transformer are equal in amplitude but 180\u00b0 out of phase with respect to the center tap.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A transformer that has 700 turns in the primary and 35 turns in the secondary has a turns ratio of 20:1.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Regardless of whether the transformer is step-up or step-down, power in the primary equals the power in the secondary if there is 100% efficiency.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "tfq14_1006.gifIn the given circuit, Maximum power is being transferred to the load.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "For mutual inductance to occur, the two coils must be at right angles to each other.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "If the current drawn in the secondary of a transformer increases, the power in the primary should remain the same.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "To ensure a high coefficient of coupling, all fixed transformers are usually wound on a(n) _____________.\r\n\r\n",
+        "a": "EI core",
+        "b": "iron core",
+        "c": "common core",
+        "d": "CI core",
+        "answer": "common core"
+    },
+    {
+        "question": "fbq14_1004.gifThe reflected resistance is ___ as seen by the source in the given circu.\r\n\r\n",
+        "a": "150 \u03a9",
+        "b": "300 \u03a9",
+        "c": "600 \u03a9",
+        "d": "2.4 k\u03a9",
+        "answer": "2.4 k\u03a9"
+    },
+    {
+        "question": "fbq14_1004.gifThe secondary current is _____ in the given circuit.\r\n\r\n",
+        "a": "1.9 mA",
+        "b": "7.5 mA",
+        "c": "30 mA",
+        "d": "60 mA",
+        "answer": "30 mA"
+    },
+    {
+        "question": "Making the load resistance appear the same as the source's internal resistance is called _____.\r\n\r\n",
+        "a": "maximum power transfer",
+        "b": "reflected resistance",
+        "c": "impedance matching",
+        "d": "reflected load",
+        "answer": "impedance matching"
+    },
+    {
+        "question": "A transformer turns ratio of ________ will be needed to match an output impedance of 5 k\u03a9 to an 8 \u03a9 speaker.\r\n\r\n",
+        "a": "5:1",
+        "b": "8:1",
+        "c": "25:1",
+        "d": "625:1",
+        "answer": "25:1"
+    },
+    {
+        "question": "___ occurs in a transformer when some of the primary flux lines pass through the air instead of the core.\r\n\r\n",
+        "a": "Hysteresis loss",
+        "b": "Magnetic flux leakage",
+        "c": "Winding resistance",
+        "d": "Winding capacitance",
+        "answer": "Magnetic flux leakage"
+    },
+    {
+        "question": "A step-up transformer will ___ to the secondary.\r\n\r\n",
+        "a": "increase the current",
+        "b": "increase the voltage",
+        "c": "increase the power",
+        "d": "decrease the voltage",
+        "answer": "increase the voltage"
+    },
+    {
+        "question": "fbq14_1010.gifThe voltage V2 is _____ in the given circuit.\r\n\r\n",
+        "a": "36.7 V",
+        "b": "73.3 V",
+        "c": "110 V",
+        "d": "220 V",
+        "answer": "36.7 V"
+    },
+    {
+        "question": "___ is the concept of one coil inducing a voltage into another coil.\r\n\r\n",
+        "a": "Electrical isolation",
+        "b": "Self-inductance",
+        "c": "Mutual inductance",
+        "d": "Coefficient of coupling",
+        "answer": "Mutual inductance"
+    },
+    {
+        "question": "A(n) _____ transformer is usually used for audio or power applications.\r\n\r\n",
+        "a": "iron-core",
+        "b": "air-core",
+        "c": "ferrite-core",
+        "d": "All of the above",
+        "answer": "iron-core"
+    },
+    {
+        "question": "A(n) ___ is sometimes constructed as a variable transformer.\r\n\r\n",
+        "a": "autotransformer",
+        "b": "center-tapped transformer",
+        "c": "multiple-tap transformer",
+        "d": "multiple-winding transformer",
+        "answer": "autotransformer"
+    }
+]

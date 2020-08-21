@@ -1,0 +1,266 @@
+[
+    {
+        "question": "A computerized self-diagnostic for a ROM test uses:\r\n\r\n",
+        "a": "the check-sum method",
+        "b": "a ROM listing",
+        "c": "ROM comparisons",
+        "d": "a checkerboard test",
+        "answer": "the check-sum method"
+    },
+    {
+        "question": "How many storage locations are available when a memory device has twelve address lines?\r\n\r\n",
+        "a": "144",
+        "b": "512",
+        "c": "2048",
+        "d": "4096",
+        "answer": "4096"
+    },
+    {
+        "question": "Which of the following memories uses a MOSFET and a capacitor as its memory cell?\r\n\r\n",
+        "a": "SRAM",
+        "b": "DRAM",
+        "c": "ROM",
+        "d": "DROM",
+        "answer": "DRAM"
+    },
+    {
+        "question": "Which of the following best describes nonvolatile memory?\r\n\r\n",
+        "a": "memory that retains stored information when electrical power is removed",
+        "b": "memory that loses stored information when electrical power is removed",
+        "c": "magnetic memory",
+        "d": "nonmagnetic memory",
+        "answer": "memory that retains stored information when electrical power is removed"
+    },
+    {
+        "question": "The access time (tacc) of a memory IC is governed by the IC's:\r\n\r\n",
+        "a": "internal address buffer",
+        "b": "internal address decoder",
+        "c": "volatility",
+        "d": "internal address decoder and volatility",
+        "answer": "internal address decoder"
+    },
+    {
+        "question": "Select the best description of read-only memory (ROM).\r\n\r\n",
+        "a": "nonvolatile, used to store information that changes during system operation",
+        "b": "nonvolatile, used to store information that does not change during system operation",
+        "c": "volatile, used to store information that changes during system operation",
+        "d": "volatile, used to store information that does not change during system operation",
+        "answer": "nonvolatile, used to store information that does not change during system operation"
+    },
+    {
+        "question": "Advantage(s) of an EEPROM over an EPROM is (are):\r\n\r\n",
+        "a": "the EPROM can be erased with ultraviolet light in much less time than an EEPROM",
+        "b": "the EEPROM can be erased and reprogrammed without removal from the circuit",
+        "c": "the EEPROM has the ability to erase and reprogram individual words",
+        "d": "the EEPROM can erase and reprogram individual words without removal from the circuit",
+        "answer": "the EEPROM can erase and reprogram individual words without removal from the circuit"
+    },
+    {
+        "question": "Which of the following RAM timing parameters determine(s) its operating speed?\r\n\r\n",
+        "a": "tacc",
+        "b": "taa and tacs",
+        "c": "t1 and t3",
+        "d": "trc and twc",
+        "answer": "t1 and t3"
+    },
+    {
+        "question": "Memory that loses its contents when power is lost is:\r\n\r\n",
+        "a": "nonvolatile",
+        "b": "volatile",
+        "c": "random",
+        "d": "static",
+        "answer": "volatile"
+    },
+    {
+        "question": "Select the best description of the fusible-link PROM.\r\n\r\n",
+        "a": "user programmable, one-time programmable",
+        "b": "manufacturer programmable, one-time programmable",
+        "c": "user programmable, reprogrammable",
+        "d": "manufacturer programmable, reprogrammable",
+        "answer": "user programmable, one-time programmable"
+    },
+    {
+        "question": "A nonvolatile type of memory that can be programmed and erased in sectors, rather than one byte at a time is:\r\n\r\n",
+        "a": "flash memory",
+        "b": "EPROM",
+        "c": "EEPROM",
+        "d": "MPROM",
+        "answer": "flash memory"
+    },
+    {
+        "question": "Which of the following best describes static memory devices?\r\n\r\n",
+        "a": "memory devices that are magnetic in nature and do not require constant refreshing",
+        "b": "semiconductor memory devices in which stored data is retained as long as power is applied",
+        "c": "memory devices that are magnetic in nature and require constant refreshing",
+        "d": "semiconductor memory devices in which stored data will not be retained with the power applied unless constantly refreshed",
+        "answer": "semiconductor memory devices in which stored data is retained as long as power is applied"
+    },
+    {
+        "question": "What is the principal advantage of using address multiplexing with DRAM memory?\r\n\r\n",
+        "a": "reduced memory access time",
+        "b": "reduced requirement for constant refreshing of the memory contents",
+        "c": "reduced pin count and decrease in package size",
+        "d": "no requirement for a chip-select input line, thereby reducing the pin count",
+        "answer": "reduced pin count and decrease in package size"
+    },
+    {
+        "question": "An SRAM storage cell is less complex than a DRAM storage cell.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The key advantage of the EPROM is its ability to erase only a single byte of stored data.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Memory configuration refers to the organization of storage bits within a memory.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "ROM stands for read-only memory.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "To avoid data loss, SRAM must be refreshed every few milliseconds.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When a binary word is stored in a memory location of a ROM, the process is called burning in.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Storage density is a term used to compare the memory storage ability of one device to that of another.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A memory map is an address-listing diagram that shows the boundaries of the address space.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The number that is a unique representation of the location of data is its address.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "PROMs are volatile.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The binary data stored in an EEPROM is___________.\r\n\r\n",
+        "a": "volatile",
+        "b": "permanent",
+        "c": "refreshed",
+        "d": "erasable",
+        "answer": "erasable"
+    },
+    {
+        "question": "The data stored in a Mask ROM (MROM) is ___________.\r\n\r\n",
+        "a": "permanent",
+        "b": "volatile",
+        "c": "erasable",
+        "d": "temporary",
+        "answer": "permanent"
+    },
+    {
+        "question": "A technique of addressing storage cells on a dynamic RAM that sequentially uses the same inputs for the row and column addresses of the cell is called________.\r\n\r\n",
+        "a": "flash conversion",
+        "b": "dynamic refresh",
+        "c": "address multiplexing",
+        "d": "address strobe",
+        "answer": "address multiplexing"
+    },
+    {
+        "question": "Refreshing DRAM typically must occur every ________.\r\n\r\n",
+        "a": "2 us",
+        "b": "2 ms",
+        "c": "8 us",
+        "d": "8 ms",
+        "answer": "2 ms"
+    },
+    {
+        "question": "The time interval between the memory receiving a new address input and the data being available is called _________.\r\n\r\n",
+        "a": "access time",
+        "b": "bus speed",
+        "c": "read\/write speed",
+        "d": "write\/data speed",
+        "answer": "access time"
+    },
+    {
+        "question": "In general, _________ are used when a small amount of read\/write is required.\r\n\r\n",
+        "a": "EEPROMs",
+        "b": "PROMs",
+        "c": "SRAMs",
+        "d": "DRAMs",
+        "answer": "SRAMs"
+    },
+    {
+        "question": "The process of entering data into the ROM is called ___________.\r\n\r\n",
+        "a": "burning in",
+        "b": "configuration",
+        "c": "internal decoding",
+        "d": "addressing",
+        "answer": "burning in"
+    },
+    {
+        "question": "To reduce the number of pins on the IC package, manufacturers often use ___________.\r\n\r\n",
+        "a": "MOSFET architecture",
+        "b": "address multiplexing",
+        "c": "address decoding",
+        "d": "address demultiplexing",
+        "answer": "address multiplexing"
+    },
+    {
+        "question": "The periodic recharging of DRAM memory cells is called ___________.\r\n\r\n",
+        "a": "multiplexing",
+        "b": "bootstrapping",
+        "c": "refreshing",
+        "d": "flashing",
+        "answer": "refreshing"
+    },
+    {
+        "question": "________ is an example of read\/write memory.\r\n\r\n",
+        "a": "PROM",
+        "b": "EEPROM",
+        "c": "RAM",
+        "d": "MROM",
+        "answer": "RAM"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is (void*)0?\r\n\r\n",
+        "a": "Representation of NULL pointer",
+        "b": "Representation of void pointer",
+        "c": "Error",
+        "d": "None of above",
+        "answer": "Representation of NULL pointer"
+    },
+    {
+        "question": "Can you combine the following two statements into one?\r\nchar *p;\r\np = (char*) malloc(100);",
+        "a": "char p = *malloc(100);",
+        "b": "char *p = (char) malloc(100);",
+        "c": "char *p = (char*)malloc(100);",
+        "d": "char *p = (char *)(malloc*)(100);",
+        "answer": "char *p = (char*)malloc(100);"
+    },
+    {
+        "question": "In which header file is the NULL macro defined?\r\n\r\n",
+        "a": "stdio.h",
+        "b": "stddef.h",
+        "c": "stdio.h and stddef.h",
+        "d": "math.h",
+        "answer": "stdio.h and stddef.h"
+    },
+    {
+        "question": "How many bytes are occupied by near, far and huge pointers (DOS)?\r\n\r\n",
+        "a": "near=2 far=4 huge=4",
+        "b": "near=4 far=8 huge=8",
+        "c": "near=2 far=4 huge=8",
+        "d": "near=4 far=4 huge=8",
+        "answer": "near=2 far=4 huge=4"
+    },
+    {
+        "question": "If a variable is a pointer to a structure, then which of the following operator is used to access data members of the structure through the pointer variable?\r\n\r\n",
+        "a": ".",
+        "b": "&",
+        "c": "*",
+        "d": "->",
+        "answer": "->"
+    },
+    {
+        "question": "What would be the equivalent pointer expression for referring the array element a[i][j][k][l]",
+        "a": "((((a+i)+j)+k)+l)",
+        "b": "*(*(*(*(a+i)+j)+k)+l)",
+        "c": "(((a+i)+j)+k+l)",
+        "d": "((a+i)+j+k+l)",
+        "answer": "*(*(*(*(a+i)+j)+k)+l)"
+    },
+    {
+        "question": "A pointer is\r\n\r\n",
+        "a": "A keyword used to create variables",
+        "b": "A variable that stores address of an instruction",
+        "c": "A variable that stores address of other variable",
+        "d": "All of the above",
+        "answer": "A variable that stores address of other variable"
+    },
+    {
+        "question": "The operator used to get value at address stored in a pointer variable is\r\n\r\n",
+        "a": "*",
+        "b": "&",
+        "c": "&&",
+        "d": "||",
+        "answer": "*"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    static char *s[] = {\"black\", \"white\", \"pink\", \"violet\"};\r\n    char **ptr[] = {s+3, s+2, s+1, s}, ***p;\r\n    p = ptr;\r\n    ++p;\r\n    printf(\"%s\", **p+1);\r\n    return 0;\r\n}",
+        "a": "ink",
+        "b": "ack",
+        "c": "ite",
+        "d": "let",
+        "answer": "ink"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=3, *j, k;\r\n    j = &i;\r\n    printf(\"%d\\n\", i**j*i+*j);\r\n    return 0;\r\n}",
+        "a": "30",
+        "b": "27",
+        "c": "9",
+        "d": "3",
+        "answer": "30"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int x=30, *y, *z;\r\n    y=&x; \/* Assume address of x is 500 and integer is 4 byte size *\/\r\n    z=y;\r\n    *y++=*z++;\r\n    x++;\r\n    printf(\"x=%d, y=%d, z=%d\\n\", x, y, z);\r\n    return 0;\r\n}",
+        "a": "x=31, y=502, z=502",
+        "b": "x=31, y=500, z=500",
+        "c": "x=31, y=498, z=498",
+        "d": "x=31, y=504, z=504",
+        "answer": "x=31, y=504, z=504"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[20] = \"Hello\";\r\n    char *const p=str;\r\n    *p='M';\r\n    printf(\"%s\\n\", str);\r\n    return 0;\r\n}",
+        "a": "Mello",
+        "b": "Hello",
+        "c": "HMello",
+        "d": "MHello",
+        "answer": "Mello"
+    },
+    {
+        "question": "What will be the output of the program If the integer is 4bytes long?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int ***r, **q, *p, i=8;\r\n    p = &i;\r\n    q = &p;\r\n    r = &q;\r\n    printf(\"%d, %d, %d\\n\", *p, **q, ***r);\r\n    return 0;\r\n}",
+        "a": "8, 8, 8",
+        "b": "4000, 4002, 4004",
+        "c": "4000, 4004, 4008",
+        "d": "4000, 4008, 4016",
+        "answer": "8, 8, 8"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nvoid fun(void *p);\r\nint i;\r\nint main()\r\n{\r\n    void *vptr;\r\n    vptr = &i;\r\n    fun(vptr);\r\n    return 0;\r\n}\r\nvoid fun(void *p)\r\n{\r\n    int **q;\r\n    q = (int**)&p;\r\n    printf(\"%d\\n\", **q);\r\n}",
+        "a": "Error: cannot convert from void** to int**",
+        "b": "Garbage value",
+        "c": "0",
+        "d": "No output",
+        "answer": "0"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char *str;\r\n    str = \"%s\";\r\n    printf(str, \"K\\n\");\r\n    return 0;\r\n}",
+        "a": "Error",
+        "b": "No output",
+        "c": "K",
+        "d": "%s",
+        "answer": "K"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint *check(static int, static int);\r\nint main()\r\n{\r\n    int *c;\r\n    c = check(10, 20);\r\n    printf(\"%d\\n\", c);\r\n    return 0;\r\n}\r\nint *check(static int i, static int j)\r\n{\r\n    int *p, *q;\r\n    p = &i;\r\n    q = &j;\r\n    if(i >= 45)\r\n        return (p);\r\n    else\r\n        return (q);\r\n}",
+        "a": "10",
+        "b": "20",
+        "c": "Error: Non portable pointer conversion",
+        "d": "Error: cannot use static for function parameters",
+        "answer": "Error: cannot use static for function parameters"
+    },
+    {
+        "question": "What will be the output of the program if the size of pointer is 4-bytes?\r\n\r\n#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    printf(\"%d, %d\\n\", sizeof(NULL), sizeof(\"\"));\r\n    return 0;\r\n}",
+        "a": "2, 1",
+        "b": "2, 2",
+        "c": "4, 1",
+        "d": "4, 2",
+        "answer": "4, 1"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    void *vp;\r\n    char ch=74, *cp=\"JACK\";\r\n    int j=65;\r\n    vp=&ch;\r\n    printf(\"%c\", *(char*)vp);\r\n    vp=&j;\r\n    printf(\"%c\", *(int*)vp);\r\n    vp=cp;\r\n    printf(\"%s\", (char*)vp+2);\r\n    return 0;\r\n}",
+        "a": "JCK",
+        "b": "J65K",
+        "c": "JAK",
+        "d": "JACK",
+        "answer": "JACK"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[2][2][2] = {10, 2, 3, 4, 5, 6, 7, 8};\r\n    int *p, *q;\r\n    p = &arr[1][1][1];\r\n    q = (int*) arr;\r\n    printf(\"%d, %d\\n\", *p, *q);\r\n    return 0;\r\n}",
+        "a": "8, 10",
+        "b": "10, 2",
+        "c": "8, 1",
+        "d": "Garbage values",
+        "answer": "8, 10"
+    },
+    {
+        "question": "What will be the output of the program assuming that the array begins at the location 1002 and size of an integer is 4 bytes?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a[3][4] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };\r\n    printf(\"%u, %u, %u\\n\", a[0]+1, *(a[0]+1), *(*(a+0)+1));\r\n    return 0;\r\n}",
+        "a": "448, 4, 4",
+        "b": "520, 2, 2",
+        "c": "1006, 2, 2",
+        "d": "Error",
+        "answer": "1006, 2, 2"
+    },
+    {
+        "question": "What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[3] = {2, 3, 4};\r\n    char *p;\r\n    p = arr;\r\n    p = (char*)((int*)(p));\r\n    printf(\"%d, \", *p);\r\n    p = (int*)(p+1);\r\n    printf(\"%d\", *p);\r\n    return 0;\r\n}",
+        "a": "2, 3",
+        "b": "2, 0",
+        "c": "2, Garbage value",
+        "d": "0, 0",
+        "answer": "2, 0"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char *str;\r\n    str = \"%d\\n\";\r\n    str++;\r\n    str++;\r\n    printf(str-2, 300);\r\n    return 0;\r\n}",
+        "a": "No output",
+        "b": "30",
+        "c": "3",
+        "d": "300",
+        "answer": "300"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    printf(\"%c\\n\", 7[\"Nepal\"]);\r\n    return 0;\r\n}",
+        "a": "Error: in printf",
+        "b": "Nothing will print",
+        "c": "print \"X\" of Nepal",
+        "d": "print \"7\"",
+        "answer": "print \"X\" of Nepal"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[] = \"peace\";\r\n    char *s = str;\r\n    printf(\"%s\\n\", s++ +3);\r\n    return 0;\r\n}",
+        "a": "peace",
+        "b": "eace",
+        "c": "ace",
+        "d": "ce",
+        "answer": "ce"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char *p;\r\n    p=\"hello\";\r\n    printf(\"%s\\n\", *&*&p);\r\n    return 0;\r\n}",
+        "a": "llo",
+        "b": "hello",
+        "c": "ello",
+        "d": "h",
+        "answer": "hello"
+    },
+    {
+        "question": "What will be the output of the program assuming that the array begins at location 1002?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a[2][3][4] = { {1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 1, 2}, \r\n                       {2, 1, 4, 7, 6, 7, 8, 9, 0, 0, 0, 0} };\r\n    printf(\"%u, %u, %u, %d\\n\", a, *a, **a, ***a);\r\n    return 0;\r\n}",
+        "a": "1002, 2004, 4008, 2",
+        "b": "2004, 4008, 8016, 1",
+        "c": "1002, 1002, 1002, 1",
+        "d": "Error",
+        "answer": "1002, 1002, 1002, 1"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\npower(int**);\r\nint main()\r\n{\r\n    int a=5, *aa; \/* Address of 'a' is 1000 *\/\r\n    aa = &a;\r\n    a = power(&aa);\r\n    printf(\"%d\\n\", a);\r\n    return 0;\r\n}\r\npower(int **ptr)\r\n{\r\n    int b;\r\n    b = **ptr***ptr;\r\n    return (b);\r\n}",
+        "a": "5",
+        "b": "25",
+        "c": "125",
+        "d": "Garbage value",
+        "answer": "25"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str1[] = \"Nepal\";\r\n    char str2[] = \"npl\";\r\n    char *s1 = str1, *s2=str2;\r\n    while(*s1++ = *s2++)\r\n        printf(\"%s\", str1);\r\n\r\n    printf(\"\\n\");\r\n    return 0;\r\n}",
+        "a": "Nepalnpl",
+        "b": "nepalnppalnepal",
+        "c": "Nepal",
+        "d": "(null)",
+        "answer": "nepalnppalnepal"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\n#include<string.h>\r\nint main()\r\n{\r\n    int i, n;\r\n    char *x=\"Alice\";\r\n    n = strlen(x);\r\n    *x = x[n];\r\n    for(i=0; i<=n; i++)\r\n    {\r\n        printf(\"%s \", x);\r\n        x++;\r\n    }\r\n    printf(\"\\n\", x);\r\n    return 0;\r\n}",
+        "a": "Alice",
+        "b": "ecilA",
+        "c": "Alice lice ice ce e",
+        "d": "lice ice ce e",
+        "answer": "lice ice ce e"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i, a[] = {2, 4, 6, 8, 10};\r\n    change(a, 5);\r\n    for(i=0; i<=4; i++)\r\n        printf(\"%d, \", a[i]);\r\n    return 0;\r\n}\r\nvoid change(int *b, int n)\r\n{\r\n    int i;\r\n    for(i=0; i<n; i++)\r\n        *(b+1) = *(b+i)+5;\r\n}",
+        "a": "7, 9, 11, 13, 15",
+        "b": "2, 15, 6, 8, 10",
+        "c": "2 4 6 8 10",
+        "d": "3, 1, -1, -3, -5",
+        "answer": "2, 15, 6, 8, 10"
+    },
+    {
+        "question": "If the size of integer is 4bytes, What will be the output of the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[] = {12, 13, 14, 15, 16};\r\n    printf(\"%d, %d, %d\\n\", sizeof(arr), sizeof(*arr), sizeof(arr[0]));\r\n    return 0;\r\n}",
+        "a": "10, 2, 4",
+        "b": "20, 4, 4",
+        "c": "16, 2, 2",
+        "d": "20, 2, 2",
+        "answer": "20, 4, 4"
+    },
+    {
+        "question": "Point out the compile time error in the program given below.\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int *x;\r\n    *x=100;\r\n    return 0;\r\n}",
+        "a": "Error: invalid assignment for x",
+        "b": "Error: suspicious pointer conversion",
+        "c": "No error",
+        "d": "None of above",
+        "answer": "No error"
+    },
+    {
+        "question": "Point out the error in the program\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a[] = {10, 20, 30, 40, 50};\r\n    int j;\r\n    for(j=0; j<5; j++)\r\n    {\r\n        printf(\"%d\\n\", a);\r\n        a++;\r\n    }\r\n    return 0;\r\n}",
+        "a": "Error: Declaration syntax",
+        "b": "Error: Expression syntax",
+        "c": "Error: LValue required",
+        "d": "Error: Rvalue required",
+        "answer": "Error: LValue required"
+    },
+    {
+        "question": "Which of the following statements correctly declare a function that receives a pointer to pointer to a pointer to a float and returns a pointer to a pointer to a pointer to a pointer to a float?",
+        "a": "float **fun(float***);",
+        "b": "float *fun(float**);",
+        "c": "float fun(float***);",
+        "d": "float ****fun(float***);",
+        "answer": "float ****fun(float***);"
+    },
+    {
+        "question": "Which of the statements is correct about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int i=10;\r\n    int *j=&i;\r\n    return 0;\r\n}",
+        "a": "j and i are pointers to an int",
+        "b": "i is a pointer to an int and stores address of j",
+        "c": "j is a pointer to an int and stores address of i",
+        "d": "j is a pointer to a pointer to an int and stores address of i",
+        "answer": "j is a pointer to an int and stores address of i"
+    },
+    {
+        "question": "Which of the statements is correct about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    float a=3.14;\r\n    char *j;\r\n    j = (char*)&a;\r\n    printf(\"%d\\n\", *j);\r\n    return 0;\r\n}",
+        "a": "It prints ASCII value of the binary number present in the first byte of a float variable a.",
+        "b": "It prints character equivalent of the binary number present in the first byte of a float variable a.",
+        "c": "It will print 3",
+        "d": "It will print a garbage value",
+        "answer": "It prints ASCII value of the binary number present in the first byte of a float variable a."
+    },
+    {
+        "question": "In the following program add a statement in the function fun() such that address of a gets stored in j?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int *j;\r\n    void fun(int**);\r\n    fun(&j);\r\n    return 0;\r\n}\r\nvoid fun(int **k)\r\n{\r\n    int a=10;\r\n    \/* Add a statement here *\/\r\n}",
+        "a": "**k=a;",
+        "b": "k=&a;",
+        "c": "*k=&a",
+        "d": "&k=*a",
+        "answer": "*k=&a"
+    },
+    {
+        "question": "Which of the following statements correct about k used in the below statement?\r\nchar ****k;",
+        "a": "k is a pointer to a pointer to a pointer to a char",
+        "b": "k is a pointer to a pointer to a pointer to a pointer to a char",
+        "c": "k is a pointer to a char pointer",
+        "d": "k is a pointer to a pointer to a char",
+        "answer": "k is a pointer to a pointer to a pointer to a pointer to a char"
+    },
+    {
+        "question": "Which of the statements is correct about the program?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[3][3] = {1, 2, 3, 4};\r\n    printf(\"%d\\n\", *(*(*(arr))));\r\n    return 0;\r\n}",
+        "a": "Output: Garbage value",
+        "b": "Output: 1",
+        "c": "Output: 3",
+        "d": "Error: Invalid indirection",
+        "answer": "Error: Invalid indirection"
+    },
+    {
+        "question": "Which statement will you add to the following program to ensure that the program outputs \"NepalBIX\" on execution?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char s[] = \"NepalBIX\";\r\n    char t[25];\r\n    char *ps, *pt;\r\n    ps = s;\r\n    pt = t;\r\n    while(*ps)\r\n        *pt++ = *ps++;\r\n    \/* Add a statement here *\/\r\n    printf(\"%s\\n\", t);\r\n    return 0;\r\n}",
+        "a": "*pt='';",
+        "b": "pt='\\0';",
+        "c": "pt='\\n';",
+        "d": "*pt='\\0';",
+        "answer": "*pt='\\0';"
+    },
+    {
+        "question": "In the following program add a statement in the function fact() such that the factorial gets stored in j.\r\n#include<stdio.h>\r\nvoid fact(int*);\r\nint main()\r\n{\r\n    int i=5;\r\n    fact(&i);\r\n    printf(\"%d\\n\", i);\r\n    return 0;\r\n}\r\nvoid fact(int *j)\r\n{\r\n    static int s=1;\r\n    if(*j!=0)\r\n    {\r\n        s = s**j;\r\n        *j = *j-1;\r\n        fact(j);\r\n        \/* Add a statement here *\/\r\n    }\r\n}",
+        "a": "j=s;",
+        "b": "*j=s;",
+        "c": "*j=&s;",
+        "d": "&j=s;",
+        "answer": "*j=s;"
+    },
+    {
+        "question": "Are the expression *ptr++ and ++*ptr are same?",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Will the program compile?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    char str[5] = \"NepalBIX\";\r\n    return 0;\r\n}",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The following program reports an error on compilation.\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    float i=10, *j;\r\n    void *k;\r\n    k=&i;\r\n    j=k;\r\n    printf(\"%f\\n\", *j);\r\n    return 0;\r\n}",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Are the three declarations char **apple, char *apple[], and char apple[][] same?\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Is there any difference between the following two statements?\r\nchar *p=0;\r\nchar *t=NULL;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Is this a correct way for NULL pointer assignment?\r\nint i=0;\r\nchar *q=(char*)i;",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Is the NULL pointer same as an uninitialised pointer?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the program compile in Turbo C?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a=10, *j;\r\n    void *k;\r\n    j=k=&a;\r\n    j++;\r\n    k++;\r\n    printf(\"%u %u\\n\", j, k);\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Will the following program give any warning on compilation in TurboC (under DOS)?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int *p1, i=25;\r\n    void *p2;\r\n    p1=&i;\r\n    p2=&i;\r\n    p1=p2;\r\n    p2=p1;\r\n    return 0;\r\n}",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

@@ -1,0 +1,682 @@
+[
+    {
+        "question": "The resistivity of copper is:\r\n\r\n",
+        "a": "9.9 ohm",
+        "b": "10.7 ohm",
+        "c": "16.7 ohm",
+        "d": "17.0 ohm",
+        "answer": "10.7 ohm"
+    },
+    {
+        "question": "How do fixed resistors usually fail?\r\n\r\n",
+        "a": "slowly over time",
+        "b": "by increasing their value",
+        "c": "by becoming an open circuit",
+        "d": "by increasing their value and becoming an open circuit",
+        "answer": "by becoming an open circuit"
+    },
+    {
+        "question": "With Ohm's law, if voltage increases and resistance stays the same:\r\n\r\n",
+        "a": "current remains the same",
+        "b": "power decreases",
+        "c": "current increases",
+        "d": "resistance decreases",
+        "answer": "current increases"
+    },
+    {
+        "question": "Which formula shows a direct proportionality between power and voltage?\r\n\r\n",
+        "a": "V = IR",
+        "b": "P = VI",
+        "c": "P = IR",
+        "d": "I = V\/R",
+        "answer": "P = VI"
+    },
+    {
+        "question": "With 1 mA of current, what wattage rating should a 470 ohm resistor have?\r\n\r\n",
+        "a": "1\/4 watt",
+        "b": "1\/2 watt",
+        "c": "1 watt",
+        "d": "2 watts",
+        "answer": "1\/4 watt"
+    },
+    {
+        "question": "How is a 3.9 k ohm resistor color-coded?\r\n\r\n",
+        "a": "red, white, red, gold",
+        "b": "red, green, orange, silver",
+        "c": "orange, white, red, gold",
+        "d": "orange, green, orange, silver",
+        "answer": "orange, white, red, gold"
+    },
+    {
+        "question": "What resistor type is found in SIPs and DIPs?\r\n\r\n",
+        "a": "metal film",
+        "b": "wirewound",
+        "c": "metal oxide",
+        "d": "thick film",
+        "answer": "thick film"
+    },
+    {
+        "question": "Ohm's law is not:\r\n\r\n",
+        "a": "V = IR",
+        "b": "I = V\/R",
+        "c": "R = IV",
+        "d": "R = V\/I",
+        "answer": "R = IV"
+    },
+    {
+        "question": "What are the two major categories for resistors?\r\n\r\n",
+        "a": "low and high ohmic value",
+        "b": "commercial and industrial",
+        "c": "low and high power value",
+        "d": "fixed and variable",
+        "answer": "fixed and variable"
+    },
+    {
+        "question": "How many connections does a potentiometer have?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "3"
+    },
+    {
+        "question": "mcq2_1006_1.jpgWhat current is flowing in the circuit?\r\n",
+        "a": "288 kA",
+        "b": "2 kA",
+        "c": "50 mA",
+        "d": "500 uA",
+        "answer": "500 uA"
+    },
+    {
+        "question": "The six basic forms of energy are:\r\n\r\n",
+        "a": "light, sun, magnetic, chemical, electrical, and mechanical",
+        "b": "electrical, mechanical, light, heat, magnetic, and chemical",
+        "c": "electrical, mechanical, sun, heat, chemical, and light",
+        "d": "potential, sun, light, chemical, electrical, and mechanical",
+        "answer": "electrical, mechanical, light, heat, magnetic, and chemical"
+    },
+    {
+        "question": "How much energy is stored if 6.24 x 10^18 electrons are stored in 4 volts?\r\n\r\n",
+        "a": "4 joules",
+        "b": "1.56 x 10^18 electrons",
+        "c": "1.56 coulombs",
+        "d": "2.496 x 10^19 electrons",
+        "answer": "4 joules"
+    },
+    {
+        "question": "With Ohm's law:\r\n\r\n",
+        "a": "current is inversely proportional to resistance",
+        "b": "resistance is directly proportional to voltage",
+        "c": "voltage is indirectly proportional to power",
+        "d": "current is directly proportional to resistance",
+        "answer": "current is inversely proportional to resistance"
+    },
+    {
+        "question": "Power is defined as:\r\n\r\n",
+        "a": "the rate at which energy is used",
+        "b": "watts",
+        "c": "energy",
+        "d": "the rate at which energy is generated",
+        "answer": "the rate at which energy is used"
+    },
+    {
+        "question": "What is the most commonly used conductor in electronics?\r\n\r\n",
+        "a": "aluminum",
+        "b": "aluminum",
+        "c": "gold",
+        "d": "silver",
+        "answer": "aluminum"
+    },
+    {
+        "question": "With Ohm's law, no change in resistance means that current and voltage will be:\r\n\r\n",
+        "a": "directly proportional",
+        "b": "unable to produce energy",
+        "c": "the same",
+        "d": "inversely proportional",
+        "answer": "directly proportional"
+    },
+    {
+        "question": "A potentiometer has how many leads?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "3"
+    },
+    {
+        "question": "What is the ratio of 13 to 47 expressed in percent?\r\n\r\n",
+        "a": "2.76%",
+        "b": "27.7%",
+        "c": "3.60%",
+        "d": "36.1%",
+        "answer": "27.7%"
+    },
+    {
+        "question": "What happens to current and resistance if the voltage doubles?\r\n\r\n",
+        "a": "Current doubles and resistance doubles.",
+        "b": "Current doubles and resistance is halved.",
+        "c": "Current remains the same and resistance doubles.",
+        "d": "Current doubles and resistance remains the same.",
+        "answer": "Current doubles and resistance remains the same."
+    },
+    {
+        "question": "One problem with mechanically variable resistors is noticeable in audio circuits as:\r\n\r\n",
+        "a": "scratchy noise",
+        "b": "lack of bass response",
+        "c": "variable volume",
+        "d": "too much treble response",
+        "answer": "scratchy noise"
+    },
+    {
+        "question": "A color code of orange, orange, orange is for what ohmic value?\r\n\r\n",
+        "a": "22 kilohms",
+        "b": "3300 ohms",
+        "c": "44000 ohms",
+        "d": "33 kilohms",
+        "answer": "33 kilohms"
+    },
+    {
+        "question": "A conductor's cross-sectional area in circular mils for 1\/2 inch is:\r\n\r\n",
+        "a": "500 cmils",
+        "b": "100,000 cmils",
+        "c": "1,000,000 cmils",
+        "d": "500,000,000 cmils",
+        "answer": "1,000,000 cmils"
+    },
+    {
+        "question": "If a variable resistor's resistance varies in a nonuniform manner as the shaft is moved, it is considered to be:\r\n\r\n",
+        "a": "linear",
+        "b": "defective",
+        "c": "not wirewound",
+        "d": "tapered",
+        "answer": "tapered"
+    },
+    {
+        "question": "Power is measured in units of:\r\n\r\n",
+        "a": "joules x charge",
+        "b": "joules\/work",
+        "c": "joules x voltage",
+        "d": "joules\/time",
+        "answer": "joules\/time"
+    },
+    {
+        "question": "How many basic types of resistors exist?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "2"
+    },
+    {
+        "question": "With a complex circuit, a supply source senses:\r\n\r\n",
+        "a": "open circuit components",
+        "b": "when voltages need to be increased",
+        "c": "only a single resistive connection",
+        "d": "when complex currents are needed",
+        "answer": "only a single resistive connection"
+    },
+    {
+        "question": "How many ohms of resistance allows a current of 720 uA to flow when 3.6 kV is applied?\r\n\r\n",
+        "a": "200 n ohm",
+        "b": "5 k ohm",
+        "c": "200 k ohm",
+        "d": "5 M ohm",
+        "answer": "5 M ohm"
+    },
+    {
+        "question": "Which is the most important step utilized when measuring resistors?\r\n\r\n",
+        "a": "use the highest possible scale",
+        "b": "keep test leads short",
+        "c": "zero the meter before using",
+        "d": "remove power from the circuit",
+        "answer": "remove power from the circuit"
+    },
+    {
+        "question": "Components designed to oppose the flow of current are called:\r\n\r\n",
+        "a": "insulators",
+        "b": "conductors",
+        "c": "resistors",
+        "d": "heat exchangers",
+        "answer": "resistors"
+    },
+    {
+        "question": "How many amps are used by a 100 watt, 120 volt light bulb?\r\n\r\n",
+        "a": "1.2 amps",
+        "b": "12000 amps",
+        "c": "830 mA",
+        "d": "12 amps",
+        "answer": "830 mA"
+    },
+    {
+        "question": "The source is 24 volts and the load resistance is 100 ohm. What is the load current?\r\n\r\n",
+        "a": "2.4 A",
+        "b": "240 mA",
+        "c": "24 mA",
+        "d": "2.4 mA",
+        "answer": "240 mA"
+    },
+    {
+        "question": "Resistors are identified as to wattage by:\r\n\r\n",
+        "a": "size",
+        "b": "color code",
+        "c": "types of materials",
+        "d": "internal construction",
+        "answer": "size"
+    },
+    {
+        "question": "What type of resistors have a tolerance rating of 5% or greater?\r\n\r\n",
+        "a": "precision",
+        "b": "SIP",
+        "c": "general-purpose",
+        "d": "wirewound",
+        "answer": "general-purpose"
+    },
+    {
+        "question": "Resistor tolerance is either printed on the component, or is provided by:\r\n\r\n",
+        "a": "keyed containers",
+        "b": "size",
+        "c": "color code",
+        "d": "ohmmeter reading",
+        "answer": "color code"
+    },
+    {
+        "question": "How many connections does a rheostat have?\r\n\r\n",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "2"
+    },
+    {
+        "question": "What are the parts of a rheostat?\r\n\r\n",
+        "a": "wiper and resistor track",
+        "b": "solenoid and armature",
+        "c": "contact and wire wound",
+        "d": "center tape and wiper",
+        "answer": "wiper and resistor track"
+    },
+    {
+        "question": "The load resistance increases. How will the load current change?\r\n\r\n",
+        "a": "vary",
+        "b": "remain constant",
+        "c": "increase",
+        "d": "decrease",
+        "answer": "decrease"
+    },
+    {
+        "question": "What is the power dissipated by a 1.2 k ohm.gif resistor with 12 volts across it?\r\n\r\n",
+        "a": "12 W",
+        "b": "1.2 W",
+        "c": ".12 W",
+        "d": "12 mW",
+        "answer": ".12 W"
+    },
+    {
+        "question": "How many joules of energy will a 10 W lamp dissipate in one minute?\r\n\r\n",
+        "a": "10 joules",
+        "b": "60 joules",
+        "c": "600 joules",
+        "d": "3600 joules",
+        "answer": "600 joules"
+    },
+    {
+        "question": "Which type of test equipment is used to measure resistors?\r\n\r\n",
+        "a": "ohmmeter",
+        "b": "ammeter",
+        "c": "voltmeter",
+        "d": "watt meter",
+        "answer": "ohmmeter"
+    },
+    {
+        "question": "Resistance is:\r\n\r\n",
+        "a": "the opposition to current flow accompanied by the dissipation of heat",
+        "b": "symbolized by R, measured in ohms, and directly proportional to conductance",
+        "c": "directly proportional to current and voltage",
+        "d": "represented by the flow of fluid in the fluid circuit",
+        "answer": "the opposition to current flow accompanied by the dissipation of heat"
+    },
+    {
+        "question": "Electrical equipment is protected against excessive current by a(n):\r\n\r\n",
+        "a": "fusible wire link",
+        "b": "insulated glass container",
+        "c": "metal ended coil",
+        "d": "circuit opener",
+        "answer": "fusible wire link"
+    },
+    {
+        "question": "If resistance decreases, then current will:\r\n\r\n",
+        "a": "decrease",
+        "b": "increase",
+        "c": "remain the same",
+        "d": "double",
+        "answer": "increase"
+    },
+    {
+        "question": "A wire with a smaller cross-sectional area will produce:\r\n\r\n",
+        "a": "less heat",
+        "b": "more conductance",
+        "c": "less resistance",
+        "d": "more heat",
+        "answer": "more heat"
+    },
+    {
+        "question": "A 22-gauge wire will have a diameter in mils of:\r\n\r\n",
+        "a": "10.03",
+        "b": "22.35",
+        "c": "45.26",
+        "d": "71.96",
+        "answer": "22.35"
+    },
+    {
+        "question": "The word work means that:\r\n\r\n",
+        "a": "energy has been transferred",
+        "b": "it is inversely related to energy",
+        "c": "no energy has been transferred",
+        "d": "work and energy are not related",
+        "answer": "energy has been transferred"
+    },
+    {
+        "question": "A good fuse will have:\r\n\r\n",
+        "a": "zero ohms resistance",
+        "b": "a medium resistance",
+        "c": "a high resistance",
+        "d": "an infinite resistance",
+        "answer": "zero ohms resistance"
+    },
+    {
+        "question": "What property does an incandescent lamp possess?\r\n\r\n",
+        "a": "cold resistance",
+        "b": "hot resistance",
+        "c": "ballast resistance",
+        "d": "both cold and hot resistance",
+        "answer": "both cold and hot resistance"
+    },
+    {
+        "question": "One advantage of a carbon film resistor over a carbon composition resistor is:\r\n\r\n",
+        "a": "less circuit noise",
+        "b": "smaller size",
+        "c": "higher wattage",
+        "d": "poor tolerance",
+        "answer": "less circuit noise"
+    },
+    {
+        "question": "If a metallic conductor has a positive temperature coefficient of resistance, then:\r\n\r\n",
+        "a": "as temperature increases, resistance decreases",
+        "b": "as current increases, resistance decreases",
+        "c": "as voltage increases, current increases",
+        "d": "as temperature increases, resistance increases",
+        "answer": "as temperature increases, resistance increases"
+    },
+    {
+        "question": "What value of a  5% 1.3 k ohm resistor as measured by a digital voltmeter would be considered within tolerance?\r\n\r\n",
+        "a": "1234 ohm",
+        "b": "1235 ohm",
+        "c": "1366 ohm",
+        "d": "1367 ohm",
+        "answer": "1235 ohm"
+    },
+    {
+        "question": "If a calculator display was \"0.00263,\" what would this answer be in percent?\r\n\r\n",
+        "a": "0.026%",
+        "b": "0.026%",
+        "c": "0.26%",
+        "d": "2.63%",
+        "answer": "0.026%"
+    },
+    {
+        "question": "A 33 k ohm resistor with a 20% tolerance checks out as ok with which of the following ohmmeter readings?\r\n\r\n",
+        "a": "26400 ohms",
+        "b": "24183 ohms",
+        "c": "6600 ohms",
+        "d": "39970 ohms",
+        "answer": "26400 ohms"
+    },
+    {
+        "question": "For P = V^2\/R, a decrease in resistance should produce:\r\n\r\n",
+        "a": "a decrease in power",
+        "b": "an increase in ohms",
+        "c": "an increase in power",
+        "d": "a decrease in current",
+        "answer": "an increase in power"
+    },
+    {
+        "question": "After a lamp is turned on, its filament resistance will change to become:\r\n\r\n",
+        "a": "less resistive",
+        "b": "cooler",
+        "c": "brighter",
+        "d": "more resistive",
+        "answer": "more resistive"
+    },
+    {
+        "question": "Wirewound resistors are usually used in circuits that have:\r\n\r\n",
+        "a": "high current",
+        "b": "negative temperature coefficients",
+        "c": "low power",
+        "d": "high voltage",
+        "answer": "high current"
+    },
+    {
+        "question": "How is power dissipated in a resistor?\r\n\r\n",
+        "a": "by resistance",
+        "b": "by voltage",
+        "c": "by current",
+        "d": "by heat",
+        "answer": "by heat"
+    },
+    {
+        "question": "Resistance in a circuit is:\r\n\r\n",
+        "a": "opposition to current",
+        "b": "opposition to voltage",
+        "c": "the same as current",
+        "d": "the same as voltage",
+        "answer": "opposition to current"
+    },
+    {
+        "question": "The unit designator for resistance value is the:\r\n\r\n",
+        "a": "ampere",
+        "b": "ohm",
+        "c": "volt",
+        "d": "watt",
+        "answer": "ohm"
+    },
+    {
+        "question": "One ampere of current flowing through one ohm of resistance is equal to:\r\n\r\n",
+        "a": "1 horsepower",
+        "b": "1 Btu",
+        "c": "1 watt",
+        "d": "1 joule",
+        "answer": "1 watt"
+    },
+    {
+        "question": "Good insulators:\r\n\r\n",
+        "a": "have few electrons in their outer shells",
+        "b": "have a large dielectric strength",
+        "c": "have a small breakdown voltage",
+        "d": "have many electrons in the nucleus",
+        "answer": "have a large dielectric strength"
+    },
+    {
+        "question": "A 12-volt battery is delivering 3 amperes to a resistor. The power dissipated by the resistor is 4 watts.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Resistance limits the flow of current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "If 500 mA is flowing through a 10 ohm resistor, the wattage rating of the resistor should be 2 watts.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A digital voltmeter can be used to measure resistance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Carbon composition resistors are the most common and the least expensive type of fixed-value resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "In a resistive circuit, if the voltage increases, the current will increase.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A 2% 55 k ohm resistor would have a color coding of green, green, black, red, red.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The resistive track of a rheostat or potentiometer can be classified as having either a linear or tapered resistance.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Resistance is inversely proportional to current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A rheostat is not a type of variable resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "Resistivity is measured in cmil.\u03a9\/ft.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A load resistance is the resistance of the load.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Variable resistors have problems with the wiper making contact.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The maximum potential a material can withstand without rupture is called breakdown voltage.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The cross-sectional area of a conductor is one factor that determines the conductor's resistance to current.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "An ohmmeter uses an internal battery to measure the resistance of a resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A protoboard is used to make experimental circuits.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "One horsepower is 746 watts.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Fixed-value resistors can internally short-circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A resistor with a value of 9.9 k \u03a9 10% could have a value between 8.91 k \u03a9 and 10.89 k \u03a9.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "4 amperes will flow through a 10 omega.gif resistor if 20 volts are placed across the resistor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A rheostat is ___.\r\n\r\n",
+        "a": "a two-terminal device that controls current",
+        "b": "a three-terminal device that controls current",
+        "c": "a two-terminal device that divides voltage",
+        "d": "a three-terminal device that divides voltage",
+        "answer": "a two-terminal device that controls current"
+    },
+    {
+        "question": "The power rating of a resistor is __________ related to __________.\r\n\r\n",
+        "a": "directly, the type of cooling used",
+        "b": "indirectly, the type of material used",
+        "c": "directly, its surface area",
+        "d": "indirectly, the color coding",
+        "answer": "directly, its surface area"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "question": "What will happen if in a C program you assign a value to an array element whose subscript exceeds the size of array?\r\n\r\n",
+        "a": "The element will be set to 0.",
+        "b": "The compiler would report an error.",
+        "c": "The program may crash if some important data gets overwritten.",
+        "d": "The array size would appropriately grow.",
+        "answer": "The program may crash if some important data gets overwritten."
+    },
+    {
+        "question": "What does the following declaration mean?\r\nint (*ptr)[10];",
+        "a": "ptr is array of pointers to 10 integers",
+        "b": "ptr is a pointer to an array of 10 integers",
+        "c": "ptr is an array of 10 integers",
+        "d": "ptr is an pointer to array",
+        "answer": "ptr is a pointer to an array of 10 integers"
+    },
+    {
+        "question": "In C, if you pass an array as an argument to a function, what actually gets passed?\r\n\r\n",
+        "a": "Value of elements in array",
+        "b": "First element of the array",
+        "c": "Base address of the array",
+        "d": "Address of the last element of array",
+        "answer": "Base address of the array"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a[5] = {5, 1, 15, 20, 25};\r\n    int i, j, m;\r\n    i = ++a[1];\r\n    j = a[1]++;\r\n    m = a[i++];\r\n    printf(\"%d, %d, %d\", i, j, m);\r\n    return 0;\r\n}",
+        "a": "2, 1, 15",
+        "b": "1, 2, 5",
+        "c": "3, 2, 15",
+        "d": "2, 3, 20",
+        "answer": "3, 2, 15"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    void fun(int, int[]);\r\n    int arr[] = {1, 2, 3, 4};\r\n    int i;\r\n    fun(4, arr);\r\n    for(i=0; i<4; i++)\r\n        printf(\"%d,\", arr[i]);\r\n    return 0;\r\n}\r\nvoid fun(int n, int arr[])\r\n{\r\n    int *p=0;\r\n    int i=0;\r\n    while(i++ < n)\r\n        p = &arr[i];\r\n    *p=0;\r\n}",
+        "a": "2, 3, 4, 5",
+        "b": "1, 2, 3, 4",
+        "c": "0, 1, 2, 3",
+        "d": "3, 2, 1 0",
+        "answer": "1, 2, 3, 4"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nvoid fun(int **p);\r\nint main()\r\n{\r\n    int a[3][4] = {1, 2, 3, 4, 4, 3, 2, 8, 7, 8, 9, 0};\r\n    int *ptr;\r\n    ptr = &a[0][0];\r\n    fun(&ptr);\r\n    return 0;\r\n}\r\nvoid fun(int **p)\r\n{\r\n    printf(\"%d\\n\", **p);\r\n}",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "1"
+    },
+    {
+        "question": "What will be the output of the program if the array begins at 65472 and each integer occupies 2 bytes?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int a[3][4] = {1, 2, 3, 4, 4, 3, 2, 1, 7, 8, 9, 0};\r\n    printf(\"%u, %u\\n\", a+1, &a+1);\r\n    return 0;\r\n}",
+        "a": "65474, 65476",
+        "b": "65480, 65496",
+        "c": "65480, 65488",
+        "d": "65474, 65488",
+        "answer": "65480, 65496"
+    },
+    {
+        "question": "What will be the output of the program in Turb C (under DOS)?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[5], i=0;\r\n    while(i<5)\r\n        arr[i]=++i;\r\n    for(i=0; i<5; i++)\r\n        printf(\"%d, \", arr[i]);\r\n    return 0;\r\n}",
+        "a": "1, 2, 3, 4, 5,",
+        "b": "Garbage value, 1, 2, 3, 4,",
+        "c": "0, 1, 2, 3, 4,",
+        "d": "2, 3, 4, 5, 6,",
+        "answer": "Garbage value, 1, 2, 3, 4,"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[1]={10};\r\n    printf(\"%d\\n\", 0[arr]);\r\n    return 0;\r\n}",
+        "a": "1",
+        "b": "10",
+        "c": "0",
+        "d": "6",
+        "answer": "10"
+    },
+    {
+        "question": "What will be the output of the program if the array begins at address 65486?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[] = {12, 14, 15, 23, 45};\r\n    printf(\"%u, %u\\n\", arr, &arr);\r\n    return 0;\r\n}",
+        "a": "65486, 65488",
+        "b": "65486, 65486",
+        "c": "65486, 65490",
+        "d": "65486, 65487",
+        "answer": "65486, 65486"
+    },
+    {
+        "question": "What will be the output of the program ?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    float arr[] = {12.4, 2.3, 4.5, 6.7};\r\n    printf(\"%d\\n\", sizeof(arr)\/sizeof(arr[0]));\r\n    return 0;\r\n}",
+        "a": "5",
+        "b": "4",
+        "c": "6",
+        "d": "7",
+        "answer": "4"
+    },
+    {
+        "question": "What will be the output of the program if the array begins 1200 in memory?\r\n#include<stdio.h>\r\nint main()\r\n{\r\n    int arr[]={2, 3, 4, 1, 6};\r\n    printf(\"%u, %u, %u\\n\", arr, &arr[0], &arr);\r\n    return 0;\r\n}",
+        "a": "1200, 1202, 1204",
+        "b": "1200, 1200, 1200",
+        "c": "1200, 1204, 1208",
+        "d": "1200, 1202, 1200",
+        "answer": "1200, 1200, 1200"
+    },
+    {
+        "question": "Which of the following statements mentioning the name of the array begins DOES NOT yield the base address?\r\n1:\tWhen array name is used with the sizeof operator.\r\n2:\tWhen array name is operand of the & operator.\r\n3:\tWhen array name is passed to scanf() function.\r\n4:\tWhen array name is passed to printf() function.",
+        "a": "A",
+        "b": "A, B",
+        "c": "B",
+        "d": "B, D",
+        "answer": "A, B"
+    },
+    {
+        "question": "Which of the following statements are correct about an array?\r\n1:\tThe array int num[26]; can store 26 elements.\r\n2:\tThe expression num[1] designates the very first element in the array.\r\n3:\tIt is necessary to initialize the array at the time of declaration.\r\n4:\tThe declaration num[SIZE] is allowed if SIZE is a macro.",
+        "a": "1",
+        "b": "1,4",
+        "c": "2,3",
+        "d": "2,4",
+        "answer": "1,4"
+    },
+    {
+        "question": "A pointer to a block of memory is effectively same as an array\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "Does this mentioning array name gives the base address in all the contexts?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Is there any difference int the following declarations?\r\nint fun(int arr[]);\r\nint fun(int arr[2]);",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    },
+    {
+        "question": "Are the expressions arr and &arr same for an array of 10 integers?\r\n\r\n",
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": "",
+        "answer": "No"
+    }
+]

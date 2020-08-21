@@ -1,0 +1,282 @@
+[
+    {
+        "question": "The center frequency of a band-pass filter is always equal to the\r\n\r\n",
+        "a": "bandwidth",
+        "b": "\u20133 dB frequency",
+        "c": "bandwidth divided by Q",
+        "d": "geometric average of the critical frequencies",
+        "answer": "geometric average of the critical frequencies"
+    },
+    {
+        "question": "The formula Ic=(Vc\/t)C shows that for a given capacitor, if the voltage changes at a constant rate with respect to time, the current will",
+        "a": "increase",
+        "b": "decrease",
+        "c": "be constant",
+        "d": "decrease logarithmically",
+        "answer": "be constant"
+    },
+    {
+        "question": "A zero-level detector is a\r\n\r\n",
+        "a": "comparator with a sine-wave output",
+        "b": "comparator with a trip point referenced to zero",
+        "c": "peak detector",
+        "d": "limiter",
+        "answer": "comparator with a trip point referenced to zero"
+    },
+    {
+        "question": "A digital-to-analog converter is an application of the\r\n\r\n",
+        "a": "scaling adder",
+        "b": "voltage-to-current converter",
+        "c": "noninverting amplifier",
+        "d": "adjustable bandwidth circuit",
+        "answer": "scaling adder"
+    },
+    {
+        "question": "If the value of resistor Rf in an averaging amplifier circuit is equal to the value of one input resistor divided by the number of inputs, the output will be equal to\r\n\r\n",
+        "a": "the average of the individual inputs",
+        "b": "the inverted sum of the individual inputs",
+        "c": "the sum of the individual inputs",
+        "d": "the inverted average of the individual inputs",
+        "answer": "the inverted average of the individual inputs"
+    },
+    {
+        "question": "If the input to a comparator is a sine wave, the output is a\r\n\r\n",
+        "a": "ramp voltage",
+        "b": "sine wave",
+        "c": "rectangular wave",
+        "d": "sawtooth wave",
+        "answer": "rectangular wave"
+    },
+    {
+        "question": "A basic series regulator has\r\n\r\n",
+        "a": "an error detector",
+        "b": "a load",
+        "c": "a reference voltage",
+        "d": "both an error detector and a reference voltage",
+        "answer": "both an error detector and a reference voltage"
+    },
+    {
+        "question": "A comparator is an example of a(n)\r\n\r\n",
+        "a": "active filter",
+        "b": "current source",
+        "c": "linear circuit",
+        "d": "nonlinear circuit",
+        "answer": "nonlinear circuit"
+    },
+    {
+        "question": "Initially, the closed-loop gain (Acl) of a Wien-bridge oscillator should be\r\n\r\n",
+        "a": "Acl < 3",
+        "b": "Acl > 3",
+        "c": "0",
+        "d": "1",
+        "answer": "Acl > 3"
+    },
+    {
+        "question": "In an averaging amplifier, the input resistances are\r\n\r\n",
+        "a": "equal to the feedback resistance",
+        "b": "less than the feedback resistance",
+        "c": "greater than the feedback resistance",
+        "d": "unequal",
+        "answer": "greater than the feedback resistance"
+    },
+    {
+        "question": "A triangular-wave oscillator can consist of an op-amp comparator, followed by a(n)\r\n\r\n",
+        "a": "differentiator",
+        "b": "amplifier",
+        "c": "integrator",
+        "d": "multivibrator",
+        "answer": "integrator"
+    },
+    {
+        "question": "The ramp voltage at the output of an op-amp integrator\r\n\r\n",
+        "a": "increases or decreases at a linear rate",
+        "b": "increases or decreases exponentially",
+        "c": "is always increasing and never decreasing",
+        "d": "is constant",
+        "answer": "increases or decreases at a linear rate"
+    },
+    {
+        "question": "A two-pole high-pass active filter would have a roll-off rate of\r\n\r\n",
+        "a": "40 dB\/decade",
+        "b": "\u201340 dB\/decade",
+        "c": "20 dB\/decade",
+        "d": "\u201320 dB\/decade",
+        "answer": "\u201340 dB\/decade"
+    },
+    {
+        "question": "The feedback component in an op-amp integrator is a capacitor.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "When the capacitance in an active high-pass filter increases, the critical frequency decreases.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "The control element in a basic shunt voltage regulator is a zener diode.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The output voltage of a summing amplifier is proportional to the product of the input voltages.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "When used as a comparator, an op-amp is wired in a closed-loop configuration.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "To operate properly, an oscillator requires an external ac input signal.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "For a Wien-bridge oscillator to produce a sustained sine-wave output, the phase shift around the positive feedback loop must be greater than 0\u00b0.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "The effectiveness of a filter in rejecting signals beyond cutoff frequency is a function of the filter roll-off rating.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "A two-pole active filter produces a roll-off rate of \u201320 dB\/decade.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "False"
+    },
+    {
+        "question": "A zero-level detector is a type of comparator circuit.\r\n\r\n",
+        "a": "True",
+        "b": "False",
+        "c": "",
+        "d": "",
+        "answer": "True"
+    },
+    {
+        "question": "fbq19_1008.gifIn the given circuit, VIN1 equals ______.\r\n\r\n",
+        "a": "+4 V",
+        "b": "+20 V",
+        "c": "\u20134 V",
+        "d": "\u201320 V",
+        "answer": "\u20134 V"
+    },
+    {
+        "question": "fbq19_1010.gifThe rate of change of the output voltage in the given circuit equals ______.\r\n\r\n",
+        "a": "40 mV\/ us",
+        "b": "5 V\/ us",
+        "c": "0 V\/ us",
+        "d": "40 V\/ us",
+        "answer": "40 V\/ us"
+    },
+    {
+        "question": "A mathematical operation for finding the area under the curve of a graph is called __________.\r\n\r\n",
+        "a": "differentiation",
+        "b": "integration",
+        "c": "curve averaging",
+        "d": "linear regression",
+        "answer": "integration"
+    },
+    {
+        "question": "fbq19_1008.gifIn the given circuit, if Rf is reduced to 8 k, the circuit becomes the ______.\r\n\r\n",
+        "a": "digital-to-analog converter",
+        "b": "averaging amplifier",
+        "c": "scaling adder",
+        "d": "summing amplifier with gain greater than unity",
+        "answer": "averaging amplifier"
+    },
+    {
+        "question": "fbq19_1007.gifThe reference voltage for the comparator in the given circuit equals ______.\r\n\r\n",
+        "a": "0 V",
+        "b": "+8.8 V",
+        "c": "+16 V",
+        "d": "+7.2 V",
+        "answer": "+8.8 V"
+    },
+    {
+        "question": "Above the critical frequency (fc) of a low-pass filter, the output voltage gain _______.\r\n\r\n",
+        "a": "does not change",
+        "b": "doubles for every 1 kHz increase in frequency",
+        "c": "increases",
+        "d": "decreases",
+        "answer": "decreases"
+    },
+    {
+        "question": "In order to sustain oscillations in a feedback oscillator, the gain should be _________ so the Acl _______.\r\n\r\n",
+        "a": "reduced, equals one",
+        "b": "reduced, is less than one",
+        "c": "increased, is more than one",
+        "d": "increased, is much greater than one",
+        "answer": "reduced, equals one"
+    },
+    {
+        "question": "fbq19_1011.gifThe given circuit is a two-pole, active ______ filter.\r\n\r\n",
+        "a": "high-pass",
+        "b": "low-pass",
+        "c": "band-pass",
+        "d": "band-stop",
+        "answer": "low-pass"
+    },
+    {
+        "question": "The ______________ input makes the summing amplifier circuit possible.\r\n\r\n",
+        "a": "virtual ground at the noninverting",
+        "b": "virtual ground at the inverting",
+        "c": "low-voltage",
+        "d": "high-voltage",
+        "answer": "virtual ground at the inverting"
+    },
+    {
+        "question": "fbq19_1011.gifThe critical frequency for the active filter in the given circuit is approximately _______.\r\n\r\n",
+        "a": "20.1 kHz",
+        "b": "89.3 kHz",
+        "c": "14.2 kHz",
+        "d": "179 kHz",
+        "answer": "20.1 kHz"
+    },
+    {
+        "question": "A mathematical operation that determines the rate of change of a curve is called __________.\r\n\r\n",
+        "a": "differentiation",
+        "b": "integration",
+        "c": "curve averaging",
+        "d": "linear regression",
+        "answer": "differentiation"
+    },
+    {
+        "question": "A Wien-bridge oscillator uses _________.\r\n\r\n",
+        "a": "positive feedback",
+        "b": "negative feedback",
+        "c": "both types of feedback",
+        "d": "an LC tank circuit",
+        "answer": "both types of feedback"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "question": "What is the unit for measuring the amplitude of a sound?",
+        "a": "Decibel",
+        "b": "Coulomb",
+        "c": "Hum",
+        "d": "Cycles",
+        "answer": "Decibel"
+    },
+    {
+        "question": "Reading of a barometer going down is an indication of",
+        "a": "snow",
+        "b": "storm",
+        "c": "intense heat",
+        "d": "rainfall",
+        "answer": "rainfall"
+    },
+    {
+        "question": "Decibel is the unit for",
+        "a": "speed of light",
+        "b": "radio wave frequency",
+        "c": "intensity of sound",
+        "d": "intensity of heat",
+        "answer": "intensity of sound"
+    },
+    {
+        "question": "One fathom is equal to",
+        "a": "6 feet",
+        "b": "6 meters",
+        "c": "60 feet",
+        "d": "100 cm",
+        "answer": "6 feet"
+    },
+    {
+        "question": "Fathom is the unit of",
+        "a": "sound",
+        "b": "depth",
+        "c": "frequency",
+        "d": "distance",
+        "answer": "depth"
+    },
+    {
+        "question": "Light year is a measurement of",
+        "a": "speed of aeroplanes",
+        "b": "speed of light",
+        "c": "Stellar distances",
+        "d": "speed of rockets",
+        "answer": "Stellar distances"
+    },
+    {
+        "question": "Very small time intervals are accurately measure by",
+        "a": "White dwarfs",
+        "b": "Quartz clocks",
+        "c": "Atomic clocks",
+        "d": "Pulsars",
+        "answer": "Atomic clocks"
+    },
+    {
+        "question": "One kilometre is equal to how many miles?",
+        "a": "0.84",
+        "b": "0.5",
+        "c": "1.6",
+        "d": "0.62",
+        "answer": "0.62"
+    },
+    {
+        "question": "kilohertz is a unit which measures",
+        "a": "power used by a current of one ampere",
+        "b": "electromagnetic radio wave frequencies",
+        "c": "voltage",
+        "d": "electric resistance",
+        "answer": "electromagnetic radio wave frequencies"
+    },
+    {
+        "question": "One horse power is equal to",
+        "a": "746 watts",
+        "b": "748 watts",
+        "c": "756 watts",
+        "d": "736 watts",
+        "answer": "746 watts"
+    },
+    {
+        "question": "'Bar' is the unit of",
+        "a": "temperature",
+        "b": "heat",
+        "c": "atmospheric pressure",
+        "d": "current",
+        "answer": "atmospheric pressure"
+    },
+    {
+        "question": "One Joule is equal to",
+        "a": "105 ergs",
+        "b": "103 ergs",
+        "c": "107 ergs",
+        "d": "1011 ergs",
+        "answer": "107 ergs"
+    },
+    {
+        "question": "Kilowatt is a unit to measure",
+        "a": "work",
+        "b": "power",
+        "c": "electricity",
+        "d": "current",
+        "answer": "power"
+    },
+    {
+        "question": "Electric current is measure by",
+        "a": "commutator",
+        "b": "anemometer",
+        "c": "ammeter",
+        "d": "voltmeter",
+        "answer": "ammeter"
+    },
+    {
+        "question": "A chronometer measures",
+        "a": "colour contrast",
+        "b": "sound waves",
+        "c": "time",
+        "d": "water waves",
+        "answer": "time"
+    },
+    {
+        "question": "Nautical mile is a unit of distance used in",
+        "a": "navigation",
+        "b": "road mile",
+        "c": "astronomy",
+        "d": "measuring the boundaries of a nation",
+        "answer": "navigation"
+    },
+    {
+        "question": "Knot is a unit of speed of which of the following?",
+        "a": "Aeroplane",
+        "b": "Light waves",
+        "c": "Ship",
+        "d": "Sound waves",
+        "answer": "Ship"
+    }
+]
