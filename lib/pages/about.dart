@@ -22,7 +22,7 @@ class About extends StatelessWidget {
                   margin: EdgeInsets.symmetric(vertical: 20,horizontal: 100),
                   child: Image.network('https://pbs.twimg.com/profile_images/1201698553149550592/2-Q2Du8O_400x400.jpg',width: 150),
                 ),
-                Text('Rabin Phaiju',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),),
+                Text('Rabin Phaiju',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 19),),
                 SizedBox(height: 10,),
                 GestureDetector(
                   onTap: (){
